@@ -10,7 +10,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/plotly/tools.py" timestamp="1529591319236" />
-      <file name="/Python Console" timestamp="1529583758047">
+      <file name="/Python Console" timestamp="1529592472100">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -45,11 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529586948100">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529592887345">
         <mark key="'" line="247" column="49" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
+        <mark key="[" line="53" column="39" />
+        <mark key="]" line="53" column="39" />
+        <mark key="." line="342" column="6" />
+        <mark key="^" line="342" column="6" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -64,7 +65,14 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1529499013083" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529591375931">
+      <file name="/media/jdilly/Storage/Projects/1806_madx_precision_limit_test/10_Code/run.precision_limit_test.py" timestamp="1528292675645">
+        <mark key="'" line="56" column="27" />
+        <mark key="[" line="49" column="39" />
+        <mark key="]" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+        <mark key="^" line="70" column="85" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529592477519">
         <mark key="[" line="171" column="83" />
         <mark key="]" line="169" column="8" />
         <mark key="." line="169" column="8" />
@@ -193,8 +201,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -259,12 +267,7 @@
         <text>arc</text>
       </register>
       <register name="0" type="4">
-        <text>os.path.join(opt.data_path, &quot;F{rdt:}_{status:}_b{beam:d}_{error_type:}_errors&quot;.format(
-        rdt=rdt,
-        status=machine_state,
-        beam=beam,
-        error_type=error_type,
-    ))</text>
+        <text>f</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
