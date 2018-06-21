@@ -10,7 +10,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/plotly/tools.py" timestamp="1529591319236" />
-      <file name="/Python Console" timestamp="1529592472100">
+      <file name="/Python Console" timestamp="1529593463424">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -45,12 +45,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529592887345">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529593773107">
         <mark key="'" line="247" column="49" />
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="39" />
-        <mark key="." line="342" column="6" />
-        <mark key="^" line="342" column="6" />
+        <mark key="[" line="307" column="0" />
+        <mark key="]" line="307" column="0" />
+        <mark key="." line="307" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -65,17 +64,10 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1529499013083" />
-      <file name="/media/jdilly/Storage/Projects/1806_madx_precision_limit_test/10_Code/run.precision_limit_test.py" timestamp="1528292675645">
-        <mark key="'" line="56" column="27" />
-        <mark key="[" line="49" column="39" />
-        <mark key="]" line="49" column="39" />
-        <mark key="." line="49" column="39" />
-        <mark key="^" line="70" column="85" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529592477519">
-        <mark key="[" line="171" column="83" />
-        <mark key="]" line="169" column="8" />
-        <mark key="." line="169" column="8" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529593623600">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1529396237106">
         <mark key="a" line="30" column="10" />
@@ -201,8 +193,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -261,40 +253,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fig[&quot;layout&quot;][&quot;title&quot;] for fig in figs</text>
+        <text>axis</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
       </register>
       <register name="0" type="4">
-        <text>f</text>
+        <text>idx_fig + 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICBheGlzID0gc3RyKCkgaWYgaWR4X2ZpZyBlbHNlICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBuZmlncyAlIDI6Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsZGRvdGx5X3dyYXBwZXIocGxvdF9kaWN0WyJkYXRhIl0sIHBsb3RfZGljdFsibGF5b3V0Il0sICJQbG90X3t9Ii5mb3JtYXQob3V0ZmlsZSkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBuZmlncyAlIDI6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBsZGRvdGx5X3dyYXBwZXIocGxvdF9kaWN0WyJkYXRhIl0sIHBsb3RfZGljdFsibGF5b3V0Il0sICJQbG90X3t9Ii5mb3JtYXQob3V0ZmlsZSkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
