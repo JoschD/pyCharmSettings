@@ -9,7 +9,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1529580916601">
+      <file name="/Python Console" timestamp="1529583676017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -44,11 +44,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529514584510">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529583753943">
         <mark key="'" line="247" column="49" />
-        <mark key="[" line="258" column="31" />
-        <mark key="]" line="258" column="31" />
-        <mark key="." line="258" column="31" />
+        <mark key="[" line="266" column="4" />
+        <mark key="]" line="266" column="4" />
+        <mark key="." line="266" column="4" />
         <mark key="^" line="258" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
@@ -71,7 +71,7 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="70" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529582614345">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529583640913">
         <mark key="[" line="162" column="4" />
         <mark key="]" line="162" column="4" />
         <mark key="." line="162" column="4" />
@@ -201,7 +201,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>q</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -260,7 +260,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
