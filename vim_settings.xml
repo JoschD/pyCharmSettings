@@ -45,11 +45,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529593773107">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529594907105">
         <mark key="'" line="247" column="49" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
+        <mark key="[" line="305" column="31" />
+        <mark key="]" line="305" column="27" />
+        <mark key="." line="305" column="27" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -64,10 +64,11 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1529499013083" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529593623600">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529594365402">
+        <mark key="[" line="187" column="114" />
+        <mark key="]" line="187" column="114" />
+        <mark key="." line="187" column="114" />
+        <mark key="^" line="187" column="13" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1529396237106">
         <mark key="a" line="30" column="10" />
@@ -193,8 +194,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -253,40 +254,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>axis</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
       </register>
       <register name="0" type="4">
-        <text>idx_fig + 1</text>
+        <text>fig_multi[&quot;layout&quot;][new_axis][&quot;titlefont&quot;].</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWdfbXVsdGlbImxheW91dCJdWyJ5YXhpc3t9Ii5mb3JtYXQoaWR4X2ZpZyArIDEpXS51cGRhdGUoZmlnWydsYXlvdXQnXVsneWF4aXMnXSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBheGlzID0gc3RyKCkgaWYgaWR4X2ZpZyBlbHNlICIiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBheGlzID0gc3RyKCkgaWYgaWR4X2ZpZyBlbHNlICIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVzLmFwcGVuZChOb25lKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBuZmlncyAlIDI6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsZGRvdGx5X3dyYXBwZXIocGxvdF9kaWN0WyJkYXRhIl0sIHBsb3RfZGljdFsibGF5b3V0Il0sICJQbG90X3t9Ii5mb3JtYXQob3V0ZmlsZSkpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBuZmlncyAlIDI6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo=</text>
+        <text encoding="base64">ICAgIHBsZGRvdGx5X3dyYXBwZXIocGxvdF9kaWN0WyJkYXRhIl0sIHBsb3RfZGljdFsibGF5b3V0Il0sICJQbG90X3t9Ii5mb3JtYXQob3V0ZmlsZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
