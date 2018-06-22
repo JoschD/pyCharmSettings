@@ -58,6 +58,11 @@
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1529654841072">
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/test_corrections_all_comparisons.py" timestamp="1528272411080">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="92" />
@@ -134,6 +139,11 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1529654978107">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1528968833629">
         <mark key="[" line="921" column="44" />
         <mark key="]" line="921" column="44" />
@@ -203,7 +213,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHlsaW5lID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -262,40 +272,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHlsaW0gPSBbeWxpbVswXSAtIGRfeWxpbSAqIC4wNSwgeWxpbVsxXSArIGRfeWxpbSAqIC4wNV0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIGdldF9hbGxfcmR0cyhuKToKICAgICIiIiBSZXR1cm5zIGxpc3Qgb2YgYWxsIHZhbGlkIFJEVHMgb2Ygb3JkZXIgMiB0byBuICIiIgogICAgYXNzZXJ0aW9uKG4gPiAxLCBWYWx1ZUVycm9yKCInbicgbXVzdCBiZSBncmVhdGVyIDEgZm9yIHJlc29uYW5jZSBkcml2aW5nIHRlcm1zLiIpKQogICAgcGVybXV0ID0gW3ggZm9yIHggaW4gaXRlcnRvb2xzLnByb2R1Y3QocmFuZ2UobiArIDEpLCByZXBlYXQ9NCkKICAgICAgICAgICBpZiAxIDwgc3VtKHgpIDw9IG4gYW5kIG5vdCAoeFswXSA9PSB4WzFdIGFuZCB4WzJdID09IHhbM10pXQogICAgcmV0dXJuIFsnRns6ZH17OmR9ezpkfXs6ZH0nLmZvcm1hdChqLCBrLCBsLCBtKSBmb3IgaiwgaywgbCwgbSBpbiBzb3J0ZWQocGVybXV0LCBrZXk9c3VtKV0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHlsaW5lID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmIHkgaXMgTm9uZToKICAgICAgICB5PQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZm9yIGlkeF9maWcsIGZpZyBpbiBlbnVtZXJhdGUoZmlncyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGFzc2VydGlvbihjb25kaXRpb24sIGV4Y2VwdGlvbik6CiAgICAiIiIgUmFpc2UgRXhjZXB0aW9uIGlmIGNvbmRpdGlvbiBpcyBub3QgZnVsZmlsbGVkICIiIgogICAgaWYgbm90IGNvbmRpdGlvbjoKICAgICAgICByYWlzZSBleGNlcHRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIHJlZ2V4X2luKHJlZ2V4LCBsc3QpOgogICAgIiIiIFJldHVybiBib29sZWFuIGFycmF5IG9mIGxlbmd0aCBsc3QsIGRldGVybWluaW5nIGlmIHRoYXQgZWxlbWVudCBzdGFydHMgd2l0aCByZWdleCAiIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHlfbGltID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBjb25kaXRpb246Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWdfbXVsdGlbImxheW91dCJdWyJ5YXhpc3t9Ii5mb3JtYXQoaWR4X2ZpZyArIDEpXS51cGRhdGUoZmlnWydsYXlvdXQnXVsneWF4aXMnXSkK</text>
+        <text encoding="base64">ICAgICIiIiBSYWlzZSBFeGNlcHRpb24gaWYgY29uZGl0aW9uIGlzIG5vdCBmdWxmaWxsZWQgIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
