@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1528983021715">
@@ -10,7 +10,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/plotly/tools.py" timestamp="1529591319236" />
-      <file name="/Python Console" timestamp="1529596514657">
+      <file name="/Python Console" timestamp="1529657679848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -139,10 +139,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1529654978107">
-        <mark key="[" line="15" column="33" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1529657934065">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="58" column="11" />
+        <mark key="]" line="58" column="66" />
+        <mark key="^" line="58" column="64" />
+        <mark key="." line="58" column="64" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1528968833629">
         <mark key="[" line="921" column="44" />
@@ -198,6 +200,7 @@
       <jump line="404" column="12" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" />
       <jump line="803" column="12" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" />
       <jump line="33" column="85" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/regex_test.py" />
+      <jump line="56" column="34" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -212,8 +215,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sum(x) in orders and not (x[0] == x[1] and x[2] == x[3])</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -272,13 +275,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>['F{:d}{:d}{:d}{:d}'.format(j, k, l, m) for j, k, l, m in sorted(permut, key=sum)]</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGdldF9hbGxfcmR0cyhuKToKICAgICIiIiBSZXR1cm5zIGxpc3Qgb2YgYWxsIHZhbGlkIFJEVHMgb2Ygb3JkZXIgMiB0byBuICIiIgogICAgYXNzZXJ0aW9uKG4gPiAxLCBWYWx1ZUVycm9yKCInbicgbXVzdCBiZSBncmVhdGVyIDEgZm9yIHJlc29uYW5jZSBkcml2aW5nIHRlcm1zLiIpKQogICAgcGVybXV0ID0gW3ggZm9yIHggaW4gaXRlcnRvb2xzLnByb2R1Y3QocmFuZ2UobiArIDEpLCByZXBlYXQ9NCkKICAgICAgICAgICBpZiAxIDwgc3VtKHgpIDw9IG4gYW5kIG5vdCAoeFswXSA9PSB4WzFdIGFuZCB4WzJdID09IHhbM10pXQogICAgcmV0dXJuIFsnRns6ZH17OmR9ezpkfXs6ZH0nLmZvcm1hdChqLCBrLCBsLCBtKSBmb3IgaiwgaywgbCwgbSBpbiBzb3J0ZWQocGVybXV0LCBrZXk9c3VtKV0=</text>
+        <text>sum(x) in orders and not (x[0] == x[1] and x[2] == x[3])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
