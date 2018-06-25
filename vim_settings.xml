@@ -45,12 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529939155043">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="135" column="13" />
-        <mark key="]" line="135" column="14" />
-        <mark key="^" line="133" column="14" />
-        <mark key="." line="135" column="14" />
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529941891915">
+        <mark key="'" line="59" column="29" />
+        <mark key="[" line="337" column="40" />
+        <mark key="]" line="384" column="40" />
+        <mark key="^" line="384" column="40" />
+        <mark key="." line="384" column="40" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -210,6 +210,7 @@
       <jump line="145" column="65" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="147" column="34" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="58" column="4" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="59" column="29" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -225,7 +226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sextupole</text>
+        <text>opt.title_map[state]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -284,49 +285,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sextupole</text>
+        <text>opt.title_map[state]</text>
       </register>
       <register name="/" type="4">
-        <text>opt.templates</text>
+        <text>title_map</text>
       </register>
-      <register name="0" type="4">
-        <text>octupole</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSBvcHQudGl0bGVfbWFwW3N0YXRlXS5mb3JtYXQoYmVhbSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZW1wbGF0ZS4yMDE3LklSTkwuc2V4dHVwb2xlX3JkdHNfMzBjbV9jb3JyZWN0aW9ucy5tYWR4IiksCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIjMwY20iOiAgb3MucGF0aC5qb2luKG9wdC50ZW1wbGF0ZV9mb2xkZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ0ZW1wbGF0ZS4yMDE3LklSTkwuc2V4dHVwb2xlX3JkdHNfMzBjbV9jb3JyZWN0aW9ucy5tYWR4IiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGVtcGxhdGUuMjAxNy5JUk5MLnNleHR1cG9sZV9yZHRzLm1hZHgiKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIjMwY20iOiAgb3MucGF0aC5qb2luKG9wdC50ZW1wbGF0ZV9mb2xkZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5vcm1hbCI6IG9zLnBhdGguam9pbihvcHQudGVtcGxhdGVfZm9sZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAidGVtcGxhdGUuMjAxNy5JUk5MLnNleHR1cG9sZV9yZHRzLm1hZHgiKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAic2V4dHVwb2xlIjogewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5vcm1hbCI6IG9zLnBhdGguam9pbihvcHQudGVtcGxhdGVfZm9sZGVyLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAib2N0dXBvbGUiOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAic2V4dHVwb2xlIjogewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsb3Rfd3JhcHBlcigxLCAiYWxsIiwgIm9jdHVwb2xlIiwgcmR0cz1vY3R1cG9sZV9ub3JtYWxfcmR0cykK</text>
+        <text encoding="base64">ICAgICAgICAib2N0dXBvbGUiOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>opt.templates</last-search>
+      <last-search>title_map</last-search>
       <last-offset />
-      <last-pattern>opt.templates</last-pattern>
+      <last-pattern>title_map</last-pattern>
       <last-replace>get_options</last-replace>
       <last-substitute>get_rdt_options</last-substitute>
       <last-dir>1</last-dir>
@@ -348,6 +349,7 @@
         <entry>opt.data_path</entry>
         <entry>opt.cwd</entry>
         <entry>opt.templates</entry>
+        <entry>title_map</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8kLywvZw==</entry>
