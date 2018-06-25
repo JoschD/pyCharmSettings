@@ -45,11 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529668633392">
-        <mark key="'" line="249" column="49" />
-        <mark key="[" line="335" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529911656064">
+        <mark key="'" line="140" column="95" />
+        <mark key="[" line="118" column="78" />
+        <mark key="]" line="121" column="24" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="121" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -159,12 +160,8 @@
       <jump line="78" column="47" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="79" column="91" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="106" column="34" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="115" column="23" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="118" column="66" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="123" column="74" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="133" column="70" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="153" column="49" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="155" column="76" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="163" column="24" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="178" column="23" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="179" column="62" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -172,7 +169,6 @@
       <jump line="183" column="75" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="224" column="8" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="225" column="25" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="232" column="29" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="246" column="20" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="264" column="88" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="247" column="49" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -181,6 +177,34 @@
       <jump line="803" column="12" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" />
       <jump line="33" column="85" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/regex_test.py" />
       <jump line="56" column="34" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" />
+      <jump line="134" column="29" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="115" column="0" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="138" column="48" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="152" column="52" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="154" column="21" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="58" column="4" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="99" column="48" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="123" column="63" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="128" column="60" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="133" column="61" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="149" column="61" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="169" column="22" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="176" column="42" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="181" column="72" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="231" column="4" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="232" column="8" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="255" column="63" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="292" column="39" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="311" column="43" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="38" column="4" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="119" column="24" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="120" column="24" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="158" column="24" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="45" column="4" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="155" column="47" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="146" column="33" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="141" column="29" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
+      <jump line="139" column="95" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -195,8 +219,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>opt.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -255,49 +279,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/link_gui_out/2018-06-22/LHCB1/Measurements/Beam1@Turn@2018_06_16@19_45_25_282/Beam1@Turn@2018_06_16@19_45_25_282.sdds.clean_linx,/home/jdilly/link_gui_out/2018-06-22/LHCB1/Measurements/Beam1@Turn@2018_06_16@19_45_25_282/Beam1@Turn@2018_06_16@19_45_25_282.sdds.clean_liny,/home/jdilly/link_gui_out/2018-06-22/LHCB1/Measurements/Beam1@Turn@2018_06_16@19_46_58_642/Beam1@Turn@2018_06_16@19_46_58_642.sdds.clean_linx,/home/jdilly/link_gui_out/2018-06-22/LHCB1/Measurements/Beam1@Turn@2018_06_16@19_46_58_642/Beam1@Turn@2018_06_16@19_46_58_642.sdds.clean_liny</text>
+        <text>opt.</text>
       </register>
       <register name="/" type="4">
-        <text>arc</text>
+        <text>opt.cwd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJTb3J0aW5nIGRhdGEgZm9yIGJlYW17OmR9LCB7fSBlcnJvcnMsIHJkdHM9e30iLmZvcm1hdChiZWFtLCBlcnJvcl90eXBlLCBzdHIocmR0cykpKQo=</text>
+      <register name="0" type="4">
+        <text>[error_type]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHQudGVtcGxhdGVzID0gewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHl0aG9uIC9ob21lL2pkaWxseS9saW5rX2JldGFiZWF0L2lmb3Jlc3RfZm9yX2JwbXMucHkgLS1maWxlcz0gLS1yZW1vdmVfYnBtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcGxvdGx5X3dyYXBwZXIobGluZXMsIGxheW91dCwgIlBsb3Rfe30iLmZvcm1hdChvdXRmaWxlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgb3B0Lm9wdGljX3R5cGVzID0gWyIxNTE1IiwgIjYwMTUiXSAgIyBzdGFydCB3aXRoIDMwMzAgYXMgY29ycmVjdGlvbiBmaWxlIGlzIG5lZWRlZAo=</text>
+        <text encoding="base64">cHl0aG9uIC9ob21lL2pkaWxseS9saW5rX2JldGFiZWF0L2lmb3Jlc3RfZm9yX2JwbXMucHkgLS1maWxlcz0gLS1yZW1vdmVfYnBtcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDIsICJpcDUiKQo=</text>
+        <text encoding="base64">ICAgICMgcGxvdGx5X3dyYXBwZXIobGluZXMsIGxheW91dCwgIlBsb3Rfe30iLmZvcm1hdChvdXRmaWxlKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDEsICJpcDUiKQo=</text>
+        <text encoding="base64">ICAgICMgb3B0Lm9wdGljX3R5cGVzID0gWyIxNTE1IiwgIjYwMTUiXSAgIyBzdGFydCB3aXRoIDMwMzAgYXMgY29ycmVjdGlvbiBmaWxlIGlzIG5lZWRlZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgRXJyb3JzIGFwcGxpZWQgaW4gaXA1Cg==</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDIsICJpcDUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDIsICJpcDEiKQo=</text>
+        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDEsICJpcDUiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>arc</last-search>
+      <last-search>opt.cwd</last-search>
       <last-offset />
-      <last-pattern>arc</last-pattern>
+      <last-pattern>opt.cwd</last-pattern>
       <last-replace>get_options</last-replace>
       <last-substitute>get_rdt_options</last-substitute>
       <last-dir>1</last-dir>
@@ -316,6 +340,9 @@
         <entry>get_rdt_options</entry>
         <entry>amp</entry>
         <entry>arc</entry>
+        <entry>opt.templates</entry>
+        <entry>opt.data_path</entry>
+        <entry>opt.cwd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8kLywvZw==</entry>
