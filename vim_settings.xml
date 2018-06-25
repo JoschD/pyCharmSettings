@@ -45,12 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529937286180">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529938410458">
         <mark key="'" line="60" column="4" />
-        <mark key="[" line="192" column="32" />
-        <mark key="]" line="192" column="32" />
-        <mark key="^" line="192" column="31" />
-        <mark key="." line="192" column="32" />
+        <mark key="[" line="364" column="31" />
+        <mark key="]" line="364" column="31" />
+        <mark key="^" line="363" column="40" />
+        <mark key="." line="364" column="31" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -225,7 +225,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>octupole</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -284,13 +284,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>octupole</text>
       </register>
       <register name="/" type="4">
         <text>opt.templates</text>
       </register>
-      <register name="0" type="4">
-        <text>this_file</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV9yZHRfZGF0YSgxLCAiYWxsIiwgIm9jdHVwb2xlIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
