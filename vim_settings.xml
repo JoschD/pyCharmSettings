@@ -9,7 +9,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1529672794679">
+      <file name="/Python Console" timestamp="1529921051526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
@@ -45,12 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529917705918">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529921542608">
         <mark key="'" line="140" column="95" />
-        <mark key="[" line="306" column="62" />
-        <mark key="]" line="306" column="63" />
-        <mark key="^" line="306" column="64" />
-        <mark key="." line="306" column="50" />
+        <mark key="[" line="367" column="51" />
+        <mark key="]" line="367" column="51" />
+        <mark key="^" line="366" column="67" />
+        <mark key="." line="367" column="42" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -220,7 +220,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, &quot;corrected&quot;</text>
+        <text>octupole</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -279,40 +279,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, &quot;corrected&quot;</text>
+        <text>octupole</text>
       </register>
       <register name="/" type="4">
         <text>opt.cwd</text>
       </register>
       <register name="0" type="4">
-        <text>[error_type]</text>
+        <text>sextupole</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHQudGVtcGxhdGVzID0gewo=</text>
+        <text encoding="base64">ICAgIHBsb3Rfd3JhcHBlcigxLCAiYWxsIiwgIm9jdHVwb2xlIiwgcmR0cz1vY3R1cG9sZV9ub3JtYWxfcmR0cykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBsb3Rfd3JhcHBlcigxLCAiYWxsIiwgIm9jdHVwb2xlIiwgcmR0cz1vY3R1cG9sZV9ub3JtYWxfcmR0cykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHQudGVtcGxhdGVzID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHl0aG9uIC9ob21lL2pkaWxseS9saW5rX2JldGFiZWF0L2lmb3Jlc3RfZm9yX2JwbXMucHkgLS1maWxlcz0gLS1yZW1vdmVfYnBtcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcGxvdGx5X3dyYXBwZXIobGluZXMsIGxheW91dCwgIlBsb3Rfe30iLmZvcm1hdChvdXRmaWxlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgb3B0Lm9wdGljX3R5cGVzID0gWyIxNTE1IiwgIjYwMTUiXSAgIyBzdGFydCB3aXRoIDMwMzAgYXMgY29ycmVjdGlvbiBmaWxlIGlzIG5lZWRlZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDIsICJpcDUiKQo=</text>
+        <text encoding="base64">cHl0aG9uIC9ob21lL2pkaWxseS9saW5rX2JldGFiZWF0L2lmb3Jlc3RfZm9yX2JwbXMucHkgLS1maWxlcz0gLS1yZW1vdmVfYnBtcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX2FtcGRldF9kYXRhKDEsICJpcDUiKQo=</text>
+        <text encoding="base64">ICAgICMgcGxvdGx5X3dyYXBwZXIobGluZXMsIGxheW91dCwgIlBsb3Rfe30iLmZvcm1hdChvdXRmaWxlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
