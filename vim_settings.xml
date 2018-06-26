@@ -32,7 +32,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530016522811">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530023604131">
         <mark key="'" line="59" column="29" />
         <mark key="[" line="194" column="93" />
         <mark key="]" line="193" column="0" />
@@ -62,6 +62,11 @@
         <mark key="]" line="54" column="15" />
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_madx.py" timestamp="1530023924249">
+        <mark key="[" line="213" column="48" />
+        <mark key="]" line="213" column="48" />
+        <mark key="." line="213" column="48" />
       </file>
       <file name="/media/jdilly/Storage/Projects/1806_madx_precision_limit_test/10_Code/run.precision_limit_test.py" timestamp="1528292675645">
         <mark key="'" line="56" column="27" />
@@ -98,6 +103,12 @@
         <mark key="." line="174" column="52" />
         <mark key="^" line="174" column="53" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1529575415693">
+        <mark key="'" line="800" column="12" />
+        <mark key="[" line="407" column="31" />
+        <mark key="]" line="407" column="31" />
+        <mark key="." line="407" column="31" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main_window.py" timestamp="1526487758676">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -121,7 +132,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530021215604">
+      <file name="/Python Console" timestamp="1530023585410">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
@@ -293,7 +304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>, keep_all_elem=True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -352,7 +363,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>, keep_all_elem=True</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
