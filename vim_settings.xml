@@ -32,12 +32,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530024578795">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530025964671">
         <mark key="'" line="59" column="29" />
-        <mark key="[" line="393" column="47" />
-        <mark key="]" line="393" column="88" />
-        <mark key="." line="393" column="47" />
-        <mark key="^" line="390" column="42" />
+        <mark key="[" line="341" column="12" />
+        <mark key="]" line="345" column="12" />
+        <mark key="." line="345" column="12" />
+        <mark key="^" line="345" column="36" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -76,11 +76,11 @@
         <mark key="." line="49" column="39" />
         <mark key="^" line="70" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1529596896470">
-        <mark key="[" line="196" column="44" />
-        <mark key="]" line="196" column="45" />
-        <mark key="^" line="186" column="72" />
-        <mark key="." line="196" column="45" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1530026180133">
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="207" column="20" />
+        <mark key="^" line="207" column="20" />
+        <mark key="." line="207" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1529596565350">
         <mark key="a" line="30" column="10" />
@@ -299,7 +299,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sextupole_skew_rdts</text>
+        <text>8</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -358,13 +358,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sextupole_skew_rdts</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
       <register name="0" type="4">
-        <text>sextupole_normal_rdts+sextupole_skew_rdts</text>
+        <text>beam % 2 + 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
