@@ -45,12 +45,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529941891915">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1529998225775">
         <mark key="'" line="59" column="29" />
-        <mark key="[" line="337" column="40" />
-        <mark key="]" line="384" column="40" />
+        <mark key="[" line="67" column="74" />
+        <mark key="]" line="67" column="74" />
         <mark key="^" line="384" column="40" />
-        <mark key="." line="384" column="40" />
+        <mark key="." line="67" column="74" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -226,7 +226,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>opt.title_map[state]</text>
+        <text>]]]jjjjjjkkjj</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -285,7 +285,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>opt.title_map[state]</text>
+        <text>]]]jjjjjjkkjj</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
