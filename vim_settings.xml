@@ -20,17 +20,17 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1530023585410">
+      <file name="/Python Console" timestamp="1530102707464">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="53" />
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530100640501">
-        <mark key="[" line="191" column="28" />
-        <mark key="]" line="191" column="29" />
-        <mark key="." line="191" column="29" />
-        <mark key="^" line="184" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530105300193">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="59" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="151" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530007908065">
         <mark key="'" line="81" column="26" />
@@ -61,6 +61,11 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
+        <mark key="[" line="22" column="49" />
+        <mark key="]" line="22" column="85" />
+        <mark key="." line="22" column="85" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
@@ -153,11 +158,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530100684170">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530105283746">
         <mark key="'" line="800" column="12" />
-        <mark key="[" line="442" column="0" />
-        <mark key="]" line="471" column="39" />
-        <mark key="." line="407" column="31" />
+        <mark key="[" line="800" column="0" />
+        <mark key="]" line="800" column="59" />
+        <mark key="." line="800" column="52" />
+        <mark key="^" line="800" column="52" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1527067601975">
         <mark key="[" line="1" column="0" />
@@ -287,8 +293,8 @@
       <register name="a" type="4">
         <text>02t&quot;va&quot;&quot;0p</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>model with multiple dp/p values (in W-Analysis)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiYW1wX2JwbSIgYXJlIHRoZSBvbmVzIHVzZWQgZm9yIGJldGEgZnJvbSBhbXBsaXR1ZGUK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -347,40 +353,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>model with multiple dp/p values (in W-Analysis)</text>
+        <text>any(ty not in re_dict for ty in types)</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zIHRlbXBsYXRlIGZvciBtb2RlbCB3aXRoIG11bHRpcGxlIGRwL3AgdmFsdWVzIChpbiBXLUFuYWx5c2lzKQogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgICAgICAiYW1wX2JwbSIgYXJlIHRoZSBvbmVzIHVzZWQgZm9yIGJldGEgZnJvbSBhbXBsaXR1ZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgTEhDIG9ubHkgc28gZmFyOgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgTEhDIG9ubHkgc28gZmFyOgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZ2V0X2NvdXBsaW5nX3RtcGwoY2xzKToKICAgICAgICBBY2NlbGVyYXRvci5fX3JhaXNlX2RlZmluaXRpb25fZXJyb3IoKQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5pdGVyYXRlLm1hZHgiKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZT1GYWxzZSkudmFsdWVzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgciJCUE0uKlwuMCooMVs1LTldfFsyLTldXGR8WzEtOV1cZHsyLH0pW1JMXS5cLi4qIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGQuU2VyaWVzKGxpc3Rfb2ZfZWxlbWVudHMpLnN0ci5tYXRjaCgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiIiIgUmV0dXJucyBhIGJvb2xlYW4gYXJyYXkgZm9yIGFsbCBicG1zID4xNCBMIG9yIFIgb2YgSVBzIGluIGJwbV9uYW1lcy4gIiIiCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5iYXNpY19zZXEubWFkeCIpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfYXJjX2JwbXNfbWFzayhjbHMsIGxpc3Rfb2ZfZWxlbWVudHMpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5pdGVyYXRlLm1hZHgiKQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJzZWdtZW50Lm1hZHgiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJiZXN0X2tub3dsZWRnZS5tYWR4IikK</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
