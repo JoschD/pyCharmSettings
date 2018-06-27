@@ -26,10 +26,11 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530095136714">
-        <mark key="[" line="131" column="32" />
-        <mark key="]" line="131" column="32" />
-        <mark key="." line="131" column="32" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530100640501">
+        <mark key="[" line="191" column="28" />
+        <mark key="]" line="191" column="29" />
+        <mark key="." line="191" column="29" />
+        <mark key="^" line="184" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530007908065">
         <mark key="'" line="81" column="26" />
@@ -66,7 +67,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530091092822">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530100864795">
         <mark key="'" line="345" column="51" />
         <mark key="[" line="313" column="80" />
         <mark key="]" line="313" column="80" />
@@ -152,10 +153,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530094959772">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530100684170">
         <mark key="'" line="800" column="12" />
-        <mark key="[" line="407" column="31" />
-        <mark key="]" line="407" column="31" />
+        <mark key="[" line="442" column="0" />
+        <mark key="]" line="471" column="39" />
         <mark key="." line="407" column="31" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1527067601975">
@@ -287,7 +288,7 @@
         <text>02t&quot;va&quot;&quot;0p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>the first BPM in turn by turn acquisition.</text>
+        <text>model with multiple dp/p values (in W-Analysis)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -346,40 +347,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>the first BPM in turn by turn acquisition.</text>
+        <text>model with multiple dp/p values (in W-Analysis)</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc19maXJzdF9CUE0oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJucyB0aGUgcG9zaXRpb24gb2YgdGhlIGZpcnN0IEJQTSBpbiB0dXJuIGJ5IHR1cm4gYWNxdWlzaXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgQWNjZWxlcmF0b3IuX19yYWlzZV9kZWZpbml0aW9uX2Vycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBSZXR1cm5zIHRlbXBsYXRlIGZvciBtb2RlbCB3aXRoIG11bHRpcGxlIGRwL3AgdmFsdWVzIChpbiBXLUFuYWx5c2lzKQogICAgICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgcmR0IGluIHJkdHNdCg==</text>
+        <text encoding="base64">ICAgICMgTEhDIG9ubHkgc28gZmFyOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICMgTEhDIG9ubHkgc28gZmFyOgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgZ2V0X2NvdXBsaW5nX3RtcGwoY2xzKToKICAgICAgICBBY2NlbGVyYXRvci5fX3JhaXNlX2RlZmluaXRpb25fZXJyb3IoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JfdHlwZT1lcnJvcnMsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVhbT1iZWFtLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5pdGVyYXRlLm1hZHgiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzPW1hY2hpbmVfc3RhdGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmR0PXJkdCwK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5iYXNpY19zZXEubWFkeCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcHQuZGF0YV9wYXRoW2Vycm9yX3R5cGVdLCAiRntyZHQ6fV97c3RhdHVzOn1fYntiZWFtOmR9X3tlcnJvcl90eXBlOn1fZXJyb3JzIi5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJ0ZW1wbGF0ZS5pdGVyYXRlLm1hZHgiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dGZpbGUgPSBvcy5wYXRoLmpvaW4oCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJzZWdtZW50Lm1hZHgiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2xzLmdldF9maWxlKCJiZXN0X2tub3dsZWRnZS5tYWR4IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
