@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1528983021715">
-        <mark key="[" line="486" column="15" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="136" column="16" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -20,46 +14,16 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="/Python Console" timestamp="1530102707464">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="53" />
-        <mark key="^" line="0" column="53" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="51" />
-        <mark key="." line="49" column="51" />
-        <mark key="^" line="151" column="7" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530007908065">
-        <mark key="'" line="81" column="26" />
-        <mark key="[" line="96" column="25" />
-        <mark key="]" line="96" column="25" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="31" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/index.rst" timestamp="1530000101345">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
-        <mark key="[" line="14" column="62" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/regression.py" timestamp="1527068947489">
         <mark key="[" line="79" column="23" />
         <mark key="]" line="80" column="26" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/hole_in_one/index.rst" timestamp="1530000005973">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="1" column="25" />
-        <mark key="^" line="1" column="25" />
-        <mark key="." line="1" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
@@ -90,11 +54,6 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1529660051779">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/test_simple_response_creation.py" timestamp="1527240257841">
         <mark key="'" line="137" column="4" />
         <mark key="[" line="40" column="7" />
@@ -108,10 +67,7 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
-        <mark key="[" line="174" column="58" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530105625341">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_madx.py" timestamp="1530023924249">
@@ -131,17 +87,11 @@
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/optics_class_test.py" timestamp="1530020058609">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/optics_class_test.py" timestamp="1530109597897">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="27" />
         <mark key="." line="23" column="24" />
         <mark key="^" line="24" column="23" />
-      </file>
-      <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/plot_tfs_with_pgf.py" timestamp="1528199997231">
-        <mark key="[" line="469" column="86" />
-        <mark key="]" line="469" column="87" />
-        <mark key="." line="469" column="87" />
-        <mark key="^" line="469" column="87" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest_for_bpms.py" timestamp="1530105522371">
         <mark key="[" line="113" column="52" />
@@ -149,13 +99,17 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1530018544040">
-        <mark key="[" line="75" column="56" />
-        <mark key="]" line="723" column="0" />
-        <mark key="." line="723" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1530112114760">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="194" column="0" />
+        <mark key="." line="194" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527169187821">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/testcase_hole_in_one.py" timestamp="1530110105245">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
       </file>
       <file name="/media/jdilly/Storage/PhD/2018_04_prelim_flatoptics_correction/10_Code/data_creation.py" timestamp="1526561133749">
         <mark key="'" line="174" column="52" />
@@ -164,17 +118,110 @@
         <mark key="." line="174" column="52" />
         <mark key="^" line="174" column="53" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530110263957">
+        <mark key="'" line="800" column="12" />
+        <mark key="[" line="823" column="33" />
+        <mark key="]" line="823" column="33" />
+        <mark key="." line="823" column="33" />
+        <mark key="^" line="800" column="52" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/psbooster.py" timestamp="1530110273549">
+        <mark key="[" line="223" column="33" />
+        <mark key="]" line="223" column="33" />
+        <mark key="." line="223" column="33" />
+        <mark key="^" line="205" column="15" />
+      </file>
+      <file name="/" timestamp="1530110945029">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/ps.py" timestamp="1530110298016">
+        <mark key="[" line="221" column="22" />
+        <mark key="]" line="221" column="22" />
+        <mark key="." line="221" column="22" />
+      </file>
+      <file name="/'bpms'" timestamp="1530110939060">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main_window.py" timestamp="1526487758676">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/chroma.py" timestamp="1530105695649">
+        <mark key="[" line="79" column="65" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/entrypoints/index.rst" timestamp="1529999983135">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="4" />
+        <mark key="." line="51" column="4" />
+        <mark key="^" line="47" column="14" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/check_calculated_corrections_hacked.py" timestamp="1528199556463">
+        <mark key="[" line="302" column="30" />
+        <mark key="]" line="302" column="33" />
+        <mark key="." line="302" column="33" />
+        <mark key="^" line="302" column="33" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1528983021715">
+        <mark key="[" line="486" column="15" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="136" column="16" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1530110115643">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="53" />
+        <mark key="^" line="0" column="53" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
+        <mark key="[" line="49" column="51" />
+        <mark key="]" line="49" column="51" />
+        <mark key="." line="49" column="51" />
+        <mark key="^" line="151" column="7" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530109554763">
+        <mark key="'" line="81" column="26" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="41" />
+        <mark key="." line="96" column="25" />
+        <mark key="^" line="31" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
+        <mark key="[" line="14" column="62" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/hole_in_one/index.rst" timestamp="1530000005973">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1529660051779">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
+        <mark key="[" line="174" column="58" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/plot_tfs_with_pgf.py" timestamp="1528199997231">
+        <mark key="[" line="469" column="86" />
+        <mark key="]" line="469" column="87" />
+        <mark key="." line="469" column="87" />
+        <mark key="^" line="469" column="87" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1530111802999">
+        <mark key="[" line="46" column="52" />
+        <mark key="]" line="46" column="52" />
+        <mark key="." line="46" column="52" />
+        <mark key="^" line="337" column="51" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/error_handling.py" timestamp="1529660110600">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530108133508">
-        <mark key="'" line="800" column="12" />
-        <mark key="[" line="800" column="0" />
-        <mark key="]" line="800" column="0" />
-        <mark key="." line="800" column="0" />
-        <mark key="^" line="800" column="52" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1527067601975">
         <mark key="[" line="1" column="0" />
@@ -185,33 +232,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/requirements.txt" timestamp="1529671654224">
         <mark key="[" line="6" column="17" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/psbooster.py" timestamp="1530108144309">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-        <mark key="^" line="205" column="15" />
-      </file>
-      <file name="/" timestamp="1530090681022">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/ps.py" timestamp="1530108149005">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/regex_test.py" timestamp="1529581284051">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="65" column="25" />
         <mark key="." line="59" column="12" />
         <mark key="^" line="59" column="12" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main_window.py" timestamp="1526487758676">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/chroma.py" timestamp="1530105695649">
-        <mark key="[" line="79" column="65" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1527242078277">
         <mark key="[" line="7" column="97" />
@@ -219,24 +244,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/entrypoints/index.rst" timestamp="1529999983135">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="4" />
-        <mark key="." line="51" column="4" />
-        <mark key="^" line="47" column="14" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1529660174020">
-        <mark key="'" line="68" column="34" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1530111881641">
+        <mark key="'" line="63" column="34" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="34" column="0" />
         <mark key="^" line="14" column="29" />
-        <mark key="." line="120" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/check_calculated_corrections_hacked.py" timestamp="1528199556463">
-        <mark key="[" line="302" column="30" />
-        <mark key="]" line="302" column="33" />
-        <mark key="." line="302" column="33" />
-        <mark key="^" line="302" column="33" />
+        <mark key="." line="34" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -319,7 +332,7 @@
         <text>02t&quot;va&quot;&quot;0p</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1hZ25ldCI6IHIiTSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IG1vZGVsLmNvcHkoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -378,40 +391,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, &quot;amp_bpm&quot;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgciJCUE1cLihcZCpbMDI0NjhdXC5bMS01XXxcZCpbMTM1NzldXC5bMy03XSkiLAo=</text>
+      <register name="0" type="4">
+        <text>r'(S|F\d{4})$'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1hZ25ldCI6IHIiTSIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IG1vZGVsLmNvcHkoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCJhcmNfYnBtcyBhbmQgYnBtcyBhcmUgaGVyZSwgbWFnbmV0cyBhcmUgbWlzc2luZyEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1ha2UgYSBjb3B5IHRvIHN1cHByZXNzICJTZXR0aW5nV2l0aENvcHlXYXJuaW5nIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiYW1wX2JwbSIgYXJlIHRoZSBvbmVzIHVzZWQgZm9yIGJldGEgZnJvbSBhbXBsaXR1ZGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFtcF9icG0iOiByIkJQTSIsCg==</text>
+        <text encoding="base64">ZGVmIHJlZ2V4X2luKHJlZ2V4LCBsc3QpOgogICAgIiIiIFJldHVybiBib29sZWFuIGFycmF5IG9mIGxlbmd0aCBsc3QsIGRldGVybWluaW5nIGlmIHRoYXQgZWxlbWVudCBzdGFydHMgd2l0aCByZWdleCAiIiIKICAgIHJldHVybiBucC5hcnJheShbcmUuc2VhcmNoKHJlZ2V4LCBlbGVtZW50KSBpcyBub3QgTm9uZSBmb3IgZWxlbWVudCBpbiBsc3RdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFtcF9icG0iOiByIi4qIiwK</text>
+        <text encoding="base64">ICAgICAgICAiIiIgTG9hZCBtb2RlbCwgYnV0IGtlZXAgb25seSBCUE1zIGFuZCBNYWduZXRzICIiIgogICAgICAgICMgUmVtb3ZlIG5vdCBuZWVkZWQgZW50cmllcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFtcF9icG0iOiByIi4qIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmRlYnVnKCJMb2FkZWQgTW9kZWwgZnJvbSBmaWxlICd7OnN9JyIuZm9ybWF0KG1vZGVsKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
