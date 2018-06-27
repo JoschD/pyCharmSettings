@@ -26,10 +26,10 @@
         <mark key="." line="0" column="53" />
         <mark key="^" line="0" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1529581558866">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530095136714">
+        <mark key="[" line="131" column="32" />
+        <mark key="]" line="131" column="32" />
+        <mark key="." line="131" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530007908065">
         <mark key="'" line="81" column="26" />
@@ -151,6 +151,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530094959772">
+        <mark key="'" line="800" column="12" />
+        <mark key="[" line="407" column="31" />
+        <mark key="]" line="407" column="31" />
+        <mark key="." line="407" column="31" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1527067601975">
         <mark key="[" line="1" column="0" />
@@ -281,7 +287,7 @@
         <text>02t&quot;va&quot;&quot;0p</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;other_beam&quot;, &quot;other_beam_corrected_by30cm&quot;]</text>
+        <text>the first BPM in turn by turn acquisition.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -340,13 +346,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;other_beam&quot;, &quot;other_beam_corrected_by30cm&quot;]</text>
+        <text>the first BPM in turn by turn acquisition.</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;GNFA_{}_{}_{}_{}_0_0&quot;.format(rdt[0], rdt[1], rdt[2], rdt[3])</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfc19maXJzdF9CUE0oc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJucyB0aGUgcG9zaXRpb24gb2YgdGhlIGZpcnN0IEJQTSBpbiB0dXJuIGJ5IHR1cm4gYWNxdWlzaXRpb24uCiAgICAgICAgIiIiCiAgICAgICAgQWNjZWxlcmF0b3IuX19yYWlzZV9kZWZpbml0aW9uX2Vycm9yKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgcmR0IGluIHJkdHNdCg==</text>
