@@ -99,11 +99,11 @@
         <mark key="^" line="113" column="52" />
         <mark key="." line="113" column="52" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1530112114760">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1530112931041">
+        <mark key="[" line="908" column="54" />
+        <mark key="]" line="908" column="54" />
         <mark key="^" line="194" column="0" />
-        <mark key="." line="194" column="0" />
+        <mark key="." line="908" column="54" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/testcase_hole_in_one.py" timestamp="1530110105245">
         <mark key="[" line="33" column="4" />
@@ -331,8 +331,8 @@
       <register name="a" type="4">
         <text>02t&quot;va&quot;&quot;0p</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IG1vZGVsLmNvcHkoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>vars_list</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -391,7 +391,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>vars_list</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
