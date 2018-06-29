@@ -103,13 +103,7 @@
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530110263957">
-        <mark key="'" line="800" column="12" />
-        <mark key="[" line="823" column="33" />
-        <mark key="]" line="823" column="33" />
-        <mark key="." line="823" column="33" />
-        <mark key="^" line="800" column="52" />
-      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1530110263957" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/psbooster.py" timestamp="1530110273549">
         <mark key="[" line="223" column="33" />
         <mark key="]" line="223" column="33" />
@@ -169,11 +163,8 @@
         <mark key="^" line="151" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530109554763">
-        <mark key="'" line="81" column="26" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="41" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="31" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
@@ -201,8 +192,6 @@
         <mark key="^" line="469" column="87" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1530193074689">
-        <mark key="[" line="251" column="18" />
-        <mark key="]" line="251" column="53" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
@@ -231,13 +220,6 @@
         <mark key="]" line="7" column="53" />
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1530196872421">
-        <mark key="'" line="54" column="34" />
-        <mark key="[" line="95" column="97" />
-        <mark key="]" line="74" column="8" />
-        <mark key="^" line="74" column="11" />
-        <mark key="." line="74" column="8" />
       </file>
     </filemarks>
     <jumps>
