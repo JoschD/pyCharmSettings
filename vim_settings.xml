@@ -33,10 +33,6 @@
         <mark key="^" line="151" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_style.py" timestamp="1530698286859" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1530109554763">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="41" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_clean.py" timestamp="1530631486600" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/index.rst" timestamp="1530000101345">
         <mark key="[" line="17" column="14" />
@@ -70,6 +66,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/get_tune.py" timestamp="1530806657344" />
       <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530261979998">
         <mark key="'" line="321" column="39" />
         <mark key="i" line="276" column="38" />
