@@ -39,12 +39,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530898677445">
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530899422586">
         <mark key="'" line="373" column="39" />
         <mark key="i" line="328" column="38" />
-        <mark key="[" line="453" column="19" />
-        <mark key="]" line="454" column="51" />
-        <mark key="." line="453" column="0" />
+        <mark key="[" line="122" column="44" />
+        <mark key="]" line="122" column="44" />
+        <mark key="." line="122" column="44" />
         <mark key="^" line="451" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
@@ -169,7 +169,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1530883669436">
+      <file name="/Python Console" timestamp="1530899294599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="53" />
@@ -324,8 +324,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX3JkdF9kYXRhKGJlYW0sIGVycm9yX3NyYywgIm9jdHVwb2xlIikKICAgICMgY3JlYXRlX3JkdF9kYXRhKGJlYW0sIGVycm9yX3NyYywgInNleHR1cG9sZSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>_from_other_beam</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -384,7 +384,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;nominal&quot;, &quot;wMQX&quot;, &quot;wAll&quot;, &quot;corrected&quot;, &quot;other_beam&quot;, &quot;corrected_by30cm&quot;, &quot;other_beam_corrected_by30cm&quot;</text>
+        <text>_from_other_beam</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
