@@ -130,10 +130,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/chroma.py" timestamp="1530105695649">
         <mark key="[" line="79" column="65" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/bbq_utils/timberextract.py" timestamp="1530885000550">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="57" column="31" />
-        <mark key="." line="57" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/bbq_utils/timberextract.py" timestamp="1530885666419">
+        <mark key="[" line="22" column="63" />
+        <mark key="]" line="22" column="64" />
+        <mark key="." line="22" column="64" />
+        <mark key="^" line="22" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/nl_gui/python_IRNLscancode.py" timestamp="1530884825542">
         <mark key="[" line="1449" column="0" />
@@ -314,8 +315,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG91dF9kZiA9IHRmcy5UZnNEYXRhRnJhbWUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'',search_result[e]):</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -374,7 +375,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>extract_BBQ</text>
+        <text>'',search_result[e]):</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
