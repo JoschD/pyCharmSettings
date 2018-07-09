@@ -243,10 +243,10 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1531143468888">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1531151092176">
+        <mark key="[" line="196" column="28" />
+        <mark key="]" line="196" column="52" />
+        <mark key="." line="196" column="0" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/pytimber/pytimber.py" timestamp="1530866492238" />
     </filemarks>
@@ -331,7 +331,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnc1stMV1bImxheW91dCJdWyJ5YXhpcyJdWyJyYW5nZSJdID0gbGltX3kK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -395,8 +395,8 @@
       <register name="/" type="4">
         <text>title_map</text>
       </register>
-      <register name="0" type="4">
-        <text>get_plotly_ampdet(data, parameter, category)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlnc1stMV1bImxheW91dCJdWyJ5YXhpcyJdWyJyYW5nZSJdID0gbGltX3kK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29sb3I9Cg==</text>
