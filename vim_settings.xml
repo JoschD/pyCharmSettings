@@ -29,6 +29,7 @@
         <mark key="]" line="80" column="26" />
         <mark key="." line="80" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/data_analysis.py" timestamp="1531128217232" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="22" column="85" />
@@ -39,13 +40,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1530905776884">
-        <mark key="'" line="373" column="39" />
-        <mark key="i" line="328" column="38" />
-        <mark key="[" line="122" column="44" />
-        <mark key="]" line="122" column="44" />
-        <mark key="." line="122" column="44" />
-        <mark key="^" line="451" column="18" />
+      <file name="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1531131345794">
+        <mark key="'" line="374" column="39" />
+        <mark key="i" line="329" column="38" />
+        <mark key="[" line="376" column="30" />
+        <mark key="]" line="376" column="28" />
+        <mark key="." line="376" column="28" />
+        <mark key="^" line="376" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -73,10 +74,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1530893670938">
-        <mark key="[" line="222" column="36" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/predefined.py" timestamp="1531131263137">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/helpers.py" timestamp="1530195946696">
         <mark key="[" line="44" column="35" />
@@ -152,6 +153,11 @@
         <mark key="]" line="51" column="4" />
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/check_calculated_corrections_hacked.py" timestamp="1528199556463">
         <mark key="[" line="302" column="30" />
@@ -324,8 +330,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_from_other_beam</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -384,43 +390,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_from_other_beam</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgY3JlYXRlX3JkdF9kYXRhKGJlYW0sIGVycm9yX3NyYywgIm9jdHVwb2xlIikKICAgICMgY3JlYXRlX3JkdF9kYXRhKGJlYW0sIGVycm9yX3NyYywgInNleHR1cG9sZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJhY2VbInkiXSA9IGxpbVsneSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja19maWxlX2V4aXN0KG9zLnBhdGguam9pbihvdXRwdXRfZGlyLCAicHRjX3R3aXNzLnR3aXNzLi5kYXQiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f d2f)jF'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBvcHQuY3dkICsgIl9iezpkfV97OnN9X3s6c30iLmZvcm1hdChiZWFtLCBlcnJvcl9zcmMsIGVycm9yX3R5cGUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjd2QgPSBvcy5wYXRoLmpvaW4ob3B0LmRhdGFfcGF0aFtlcnJvcl90eXBlXSwK</text>
+        <text encoding="base64">ICAgICAgICBhcmcgPSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZCAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tfZmlsZV9leGlzdChvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgInB0Y190d2lzcy50d2lzcy5jb3JyZWN0ZWRfYnkzMGNtLmRhdCIpKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBsb2dfeToKICAgICAgICAgICAgICAgICAgICAgICAgdHJhY2VbInkiXSA9IFswLCBucC5sb2cxMChsaW1bJ3knXVsxXSldCiAgICAgICAgICAgICAgICAgICAgZWxzZTo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcmVwbGFjZV9kaWN0LCBvdXRwdXRfZGlyLCBjd2QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuX21hZHgob3B0LnRlbXBsYXRlc1siMzBjbSJdLCBvcHQubWFkeF9wYXRoLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB5X3JhbmdlIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZV9kaWN0LnVwZGF0ZSh7IkNPUlJFQ1RJT05TIjogY29ycmVjdF8zMDMwfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB4X3JhbmdlIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIiAgUnVubmluZyBNQURYIGZvciB7fSIuZm9ybWF0KG9wdC50ZW1wbGF0ZXNbIjMwY20iXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmcgPSBbZF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
