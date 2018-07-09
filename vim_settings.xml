@@ -243,10 +243,10 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1531151092176">
-        <mark key="[" line="196" column="28" />
-        <mark key="]" line="196" column="52" />
-        <mark key="." line="196" column="0" />
+      <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1531152099595">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/pytimber/pytimber.py" timestamp="1530866492238" />
     </filemarks>
@@ -330,8 +330,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnc1stMV1bImxheW91dCJdWyJ5YXhpcyJdWyJyYW5nZSJdID0gbGltX3kK</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -390,7 +390,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
