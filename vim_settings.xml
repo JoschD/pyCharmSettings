@@ -180,11 +180,11 @@
         <mark key="^" line="151" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_clean.py" timestamp="1530631486600" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531304185647">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="43" column="20" />
-        <mark key="." line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531318581901">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
@@ -248,11 +248,10 @@
         <mark key="." line="37" column="21" />
       </file>
       <file name="/usr/local/lib/python2.7/dist-packages/pytimber/pytimber.py" timestamp="1530866492238" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531315925287">
-        <mark key="[" line="119" column="62" />
-        <mark key="]" line="119" column="96" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="118" column="94" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531319997081">
+        <mark key="[" line="70" column="23" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -338,7 +337,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGtpY2thY19kZiA9IGJicV90b29scy5hZGRfdG9fa2lja2FjX2RmKGtpY2thY19kZiwgYmJxX21hdl94LCAiezpzfV9NQVYiLmZvcm1hdChCQlFfQ09MU1swXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -397,43 +396,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bbq_cols</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGtpY2thY19kZiA9IGJicV90b29scy5hZGRfdG9fa2lja2FjX2RmKGtpY2thY19kZiwgYmJxX21hdl94LCAiezpzfV9NQVYiLmZvcm1hdChCQlFfQ09MU1swXSkpCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWRlYnVnIiwKICAgICAgICBoZWxwPSJBY3RpdmF0ZXMgRGVidWcgbW9kZSIsCiAgICAgICAgbmFtZT0iZGVidWciLAogICAgICAgIGFjdGlvbj0ic3RvcmVfdHJ1ZSIsCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYnFfY29scyA9IFtjLmZvcm1hdChiZWFtKSBmb3IgYyBpbiBCQlFfQ09MU10K</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PUZhbHNlLGRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfYXBwcm94X2ludGVydmFsKCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGlkeF9zdGFydCBpcyBub3QgTm9uZToKICAgICAgICBkYXRhX3NlcmllcyA9IGRhdGFfc2VyaWVzLmxvY1tpZHhfc3RhcnQ6XQogICAgaWYgaWR4X2VuZCBpcyBub3QgTm9uZToKICAgICAgICBkYXRhX3NlcmllcyA9IGRhdGFfc2VyaWVzLmxvY1s6aWR4X2VuZF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZHhfZW5kOiBlbmQgYXQgdGhpcyBpbmRleCAoaW50ZXJwcmV0ZWQgYXMgaW5kZXgtbGFiZWwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJicV9jb2xzID0gW2MuZm9ybWF0KG9wdC5iZWFtKSBmb3IgYyBpbiBCQlFfQ09MU10K</text>
+        <text encoding="base64">ICAgICAgICBpZHhfc3RhcnQ6IHN0YXJ0IGF0IHRoaXMgaW5kZXggKGludGVycHJldGVkIGFzIGluZGV4LWxhYmVsKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29ycmVjdGVkX2tpY2thYyhraWNrYWNfcGF0aCwgYmVhbSwgYmJxX2RmLCBhdl9sZW5ndGgpOgo=</text>
+        <text encoding="base64">ICAgICAgICBiYnFfY29scyA9IFtjLmZvcm1hdChiZWFtKSBmb3IgYyBpbiBCQlFfQ09MU10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
