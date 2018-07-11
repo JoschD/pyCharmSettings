@@ -113,11 +113,11 @@
         <mark key="]" line="169" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_clean.py" timestamp="1530631486600" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531303419089">
-        <mark key="[" line="66" column="77" />
-        <mark key="]" line="66" column="78" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531304085829">
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="44" />
         <mark key="^" line="61" column="20" />
-        <mark key="." line="66" column="78" />
+        <mark key="." line="61" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
@@ -240,7 +240,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">YmJxX3Nlcmllcywg</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -299,13 +299,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">YmJxX3Nlcmllcywg</text>
       </register>
       <register name="/" type="4">
         <text>title_map</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRtcF9sYXlvdXQucG9wKCJoZWlnaHQiKQo=</text>
+      <register name="0" type="4">
+        <text>bbq_series</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bm9kZXNlcD0xOwo=</text>
