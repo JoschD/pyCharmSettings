@@ -28,11 +28,10 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1531742193778">
-        <mark key="[" line="403" column="40" />
-        <mark key="]" line="403" column="39" />
-        <mark key="." line="403" column="39" />
-        <mark key="^" line="223" column="50" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1531745946456">
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="24" />
+        <mark key="." line="70" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -51,11 +50,11 @@
         <mark key="^" line="32" column="80" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1531168446386">
-        <mark key="[" line="328" column="0" />
-        <mark key="]" line="328" column="0" />
-        <mark key="^" line="54" column="15" />
-        <mark key="." line="328" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1531745562595">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="329" column="0" />
+        <mark key="^" line="55" column="15" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/graph.py" timestamp="1531159236780">
         <mark key="'" line="12" column="29" />
@@ -141,7 +140,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531736531748">
+      <file name="/Python Console" timestamp="1531745909786">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,7 +317,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGZvcm1hdA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -377,7 +376,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGZvcm1hdA==</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
@@ -386,34 +385,34 @@
         <text encoding="base64">IF9UZnNEYXRhVHlwZS5nZXRfdHlwZV9mcm9tX3N0cmluZygKICAgICAgICAgICAgICAgIGN0eXBlCiAgICAgICAgICAgICkuZ2V0X3R5cGVfYXNfcHl0aG9uX2Zvcm1hdCgpIGlmIHdpdGhfdHlwZSBlbHNlICIiIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIj57OmR9Ii5mb3JtYXQoc2VsZi5fX2NvbHVtbl93aWR0aCkgKyAgIyBhbGlnbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaSwgY3R5cGUgaW4gZW51bWVyYXRlKGxpc3RfY29sdW1uX3R5cGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAifSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaSwgY3R5cGUgaW4gZW51bWVyYXRlKGxpc3RfY29sdW1uX3R5cGVzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfVGZzRGF0YVR5cGUuZ2V0X3R5cGVfZnJvbV9zdHJpbmcoY3R5cGUpLmdldF90eXBlX2FzX3B5dGhvbl9mb3JtYXQoKSArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAifSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPns6ZH0iLmZvcm1hdChzZWxmLl9fY29sdW1uX3dpZHRoKSArICAjIGFsaWduCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBfVGZzRGF0YVR5cGUuZ2V0X3R5cGVfZnJvbV9zdHJpbmcoY3R5cGUpLmdldF90eXBlX2FzX3B5dGhvbl9mb3JtYXQoKSArCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiezpkfToiLmZvcm1hdChpKSArICAgICAgICAgICAgICAgICAgICAjIGNvbHVtbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPns6ZH0iLmZvcm1hdChzZWxmLl9fY29sdW1uX3dpZHRoKSArICAjIGFsaWduCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtYXRfZm9yX2RhdGEgPSAiICIuam9pbigieyIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiezpkfToiLmZvcm1hdChpKSArICAgICAgICAgICAgICAgICAgICAjIGNvbHVtbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -513,6 +512,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
