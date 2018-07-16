@@ -28,10 +28,11 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1531745946456">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="70" column="24" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1531747660445">
+        <mark key="[" line="404" column="91" />
+        <mark key="]" line="404" column="91" />
+        <mark key="." line="404" column="91" />
+        <mark key="^" line="402" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -140,7 +141,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1531745909786">
+      <file name="/Python Console" timestamp="1531748452200">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -217,12 +218,12 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531731120758">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531748702809">
         <mark key="'" line="270" column="32" />
-        <mark key="[" line="278" column="31" />
-        <mark key="]" line="278" column="31" />
-        <mark key="." line="278" column="31" />
-        <mark key="^" line="278" column="34" />
+        <mark key="[" line="201" column="33" />
+        <mark key="]" line="201" column="58" />
+        <mark key="." line="201" column="33" />
+        <mark key="^" line="189" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -317,7 +318,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGZvcm1hdA==</text>
+        <text>(yyyy-mm-dd HH:mm:ss.mmm)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -376,13 +377,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAjIGZvcm1hdA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IF9UZnNEYXRhVHlwZS5nZXRfdHlwZV9mcm9tX3N0cmluZygKICAgICAgICAgICAgICAgIGN0eXBlCiAgICAgICAgICAgICkuZ2V0X3R5cGVfYXNfcHl0aG9uX2Zvcm1hdCgpIGlmIHdpdGhfdHlwZSBlbHNlICIiIA==</text>
+        <text>(yyyy-mm-dd HH:mm:ss.mmm)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIj57OmR9Ii5mb3JtYXQoc2VsZi5fX2NvbHVtbl93aWR0aCkgKyAgIyBhbGlnbgo=</text>
