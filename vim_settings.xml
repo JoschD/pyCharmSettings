@@ -177,12 +177,12 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="151" column="7" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1531832004670">
-        <mark key="'" line="85" column="4" />
-        <mark key="[" line="47" column="40" />
-        <mark key="]" line="47" column="58" />
-        <mark key="^" line="39" column="46" />
-        <mark key="." line="47" column="40" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1531834772657">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="88" column="33" />
+        <mark key="]" line="88" column="32" />
+        <mark key="^" line="54" column="27" />
+        <mark key="." line="88" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531830709333">
         <mark key="'" line="155" column="4" />
@@ -251,22 +251,22 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/analysis.cfg" timestamp="1531830465389">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/analysis.cfg" timestamp="1531835103774">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1531152099595">
         <mark key="[" line="37" column="21" />
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531830812898">
-        <mark key="[" line="320" column="48" />
-        <mark key="]" line="320" column="48" />
-        <mark key="." line="320" column="48" />
-        <mark key="^" line="320" column="48" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1531835669074">
+        <mark key="[" line="329" column="75" />
+        <mark key="]" line="329" column="16" />
+        <mark key="^" line="327" column="18" />
+        <mark key="." line="329" column="16" />
       </file>
     </filemarks>
     <jumps>
@@ -365,7 +365,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.replace(&quot;\n&quot;, &quot;&quot;)</text>
+        <text>opt.ampdet_plot_out,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -424,13 +424,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lambda p, x: p[1] + p[0] * x</text>
+        <text>opt.ampdet_plot_out,</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
       </register>
-      <register name="0" type="4">
-        <text>.replace(&quot;\n&quot;, &quot;&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWFtcGRldHBsb3RtaW4iLAogICAgICAgIGhlbHA9Ik1pbmltdW0gdHVuZSAoeS1heGlzKSBpbiBhbXBsaXR1ZGUgZGV0dW5pbmcgcGxvdC4iLAogICAgICAgIG5hbWU9ImFtcGRldF9wbG90X21pbiIsCiAgICAgICAgdHlwZT1mbG9hdCwKICAgICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IGQgb2RyX2ZpdC4K</text>
