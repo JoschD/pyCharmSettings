@@ -7,10 +7,10 @@
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="36" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/parameter_config.py" timestamp="1531905906922">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/parameter_config.py" timestamp="1531907403773">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="97" column="83" />
+        <mark key="." line="93" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
       <file name="/a.dummy" timestamp="1531821812894">
@@ -21,6 +21,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/regression.py" timestamp="1531909789836">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="4" />
+        <mark key="." line="94" column="4" />
+        <mark key="^" line="85" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1531747660445">
         <mark key="[" line="404" column="91" />
@@ -99,19 +105,19 @@
       <file name="/Python Console" timestamp="1531899714708">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1531900421605">
-        <mark key="'" line="109" column="4" />
-        <mark key="[" line="56" column="78" />
-        <mark key="]" line="56" column="78" />
-        <mark key="." line="56" column="78" />
-        <mark key="^" line="59" column="23" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1531907630479">
+        <mark key="'" line="114" column="4" />
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="115" column="48" />
+        <mark key="." line="115" column="48" />
+        <mark key="^" line="127" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531906080478">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531907384662">
         <mark key="'" line="204" column="4" />
-        <mark key="[" line="167" column="38" />
-        <mark key="]" line="167" column="38" />
-        <mark key="^" line="138" column="20" />
-        <mark key="." line="167" column="38" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="204" column="82" />
+        <mark key="^" line="200" column="2" />
+        <mark key="." line="200" column="2" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/get_tune.py" timestamp="1531822670873">
         <mark key="[" line="129" column="0" />
@@ -153,6 +159,12 @@
         <mark key="]" line="464" column="17" />
         <mark key="." line="464" column="17" />
         <mark key="^" line="464" column="17" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531908231821">
+        <mark key="[" line="7" column="77" />
+        <mark key="]" line="7" column="77" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="77" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/analysis.cfg" timestamp="1531847652072">
         <mark key="[" line="9" column="14" />
@@ -265,8 +277,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;b1 vertical IP5xing Qshift&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgiXHIiICsgIiAiICogMjAwLCBlbmQ9IiIpICAjIGNsZWFyIGxpbmUKICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -325,43 +337,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;b1 vertical IP5xing Qshift&quot;</text>
+        <text>tag_regexp=&quot;^BBGUI_.*$&quot;</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlY3Rpb249ImIyIHZlcnRpY2FsIiwKICAgICAgICAjIHNlY3Rpb249ImIyIGhvcml6b250YWwiLAogICAgICAgICMgc2VjdGlvbj0iYjIgdmVydGljYWwgSVA1eGluZyIsCiAgICAgICAgIyBzZWN0aW9uPSJiMiBob3Jpem9udGFsIElQNXhpbmciLAogICAgICAgICMgc2VjdGlvbj0iYjEgdmVydGljYWwiLAogICAgICAgICMgc2VjdGlvbj0iYjEgaG9yaXpvbnRhbCIsCiAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBJUDV4aW5nIiwKICAgICAgICAjIHNlY3Rpb249ImIxIGhvcml6b250YWwgSVA1eGluZyIsCiAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBRc2hpZnQiLAogICAgICAgIHNlY3Rpb249ImIxIHZlcnRpY2FsIElQNXhpbmcgUXNoaWZ0IiwK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiXHIiICsgIiAiICogMjAwLCBlbmQ9IiIpICAjIGNsZWFyIGxpbmUKICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBRc2hpZnQiLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiICIgKiAyMDAsIGVuZD0iIikKICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
       </register>
       <register name="q" type="4">
         <text>Jldt&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSBob3Jpem9udGFsIElQNXhpbmciLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBJUDV4aW5nIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBRc2hpZnQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSBob3Jpem9udGFsIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSBob3Jpem9udGFsIElQNXhpbmciLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCBJUDV4aW5nIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiBob3Jpem9udGFsIElQNXhpbmciLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSBob3Jpem9udGFsIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiB2ZXJ0aWNhbCBJUDV4aW5nIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMSB2ZXJ0aWNhbCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiBob3Jpem9udGFsIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiBob3Jpem9udGFsIElQNXhpbmciLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiB2ZXJ0aWNhbCIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWN0aW9uPSJiMiB2ZXJ0aWNhbCBJUDV4aW5nIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
