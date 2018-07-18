@@ -18,7 +18,7 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1531821812894">
+      <file name="/a.dummy" timestamp="1531929612567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/run_test.py" timestamp="1531906459968">
@@ -153,6 +153,12 @@
         <mark key="." line="115" column="48" />
         <mark key="^" line="127" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1531929585980">
+        <mark key="[" line="140" column="25" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="181" column="44" />
+        <mark key="." line="182" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1531907384662">
         <mark key="'" line="204" column="4" />
         <mark key="[" line="200" column="0" />
@@ -220,11 +226,11 @@
         <mark key="." line="464" column="17" />
         <mark key="^" line="464" column="17" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531908231821">
-        <mark key="[" line="7" column="77" />
-        <mark key="]" line="7" column="77" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="77" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531929642971">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="12" column="43" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/analysis.cfg" timestamp="1531847652072">
         <mark key="[" line="9" column="14" />
@@ -338,7 +344,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdChURVNUX0NBU0VTX1JFU1BPTlNFX0NSRUFUSU9OX1ZJQV9UV0lTUykgKwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -397,43 +403,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,ST_CASES_RESPONSE_CREATION_VIA_TWISS = (</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
+      <register name="0" type="4">
+        <text>cases_to_run</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdChURVNUX0NBU0VTX1JFU1BPTlNFX0NSRUFUSU9OX1ZJQV9UV0lTUykgKwo=</text>
       </register>
       <register name="q" type="4">
-        <text>Jldt&quot;</text>
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIF9jbGVhcl9jdXJyZW50X2xpbmUoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIF9jbGVhcl9jdXJyZW50X2xpbmUoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="w" type="4">
+        <text>w</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcciIgKyAiICIgKiAyMDAsIGVuZD0iIikK</text>
+        <text encoding="base64">ICAgIHN5cy5zdGRvdXQuZmx1c2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9jbGVhcl9jdXJyZW50X2xpbmUobGVuZ3RoPTEyMCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJcciIgKyAiICIgKiAyMDAsIGVuZD0iIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
