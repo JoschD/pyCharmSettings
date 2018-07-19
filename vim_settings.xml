@@ -229,6 +229,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1531987342025">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="16" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/python_getBBQfromAVG.py" timestamp="1530887574886" />
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1531142301713">
         <mark key="[" line="191" column="51" />
@@ -369,7 +374,7 @@
         <text>d2f(</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>079cacaf45e8aa94ba79c36aab989f464c197619</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -428,7 +433,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>079cacaf45e8aa94ba79c36aab989f464c197619</text>
       </register>
       <register name="/" type="4">
         <text>PLANES</text>
