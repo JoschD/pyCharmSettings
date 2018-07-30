@@ -6,11 +6,11 @@
       <file name="/Python Console" timestamp="1532976722283">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532977838935">
-        <mark key="[" line="243" column="41" />
-        <mark key="]" line="243" column="41" />
-        <mark key="." line="243" column="41" />
-        <mark key="^" line="122" column="33" />
+      <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532979382804">
+        <mark key="[" line="226" column="35" />
+        <mark key="]" line="222" column="19" />
+        <mark key="." line="222" column="19" />
+        <mark key="^" line="222" column="19" />
       </file>
       <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_artists.py" timestamp="1532976807879" />
       <file name="$USER_HOME$/PycharmProjects/testproject/test.py" timestamp="1514663745922">
@@ -25,32 +25,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>outils.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>&quot;_nolegend_&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByaWJ1dGVFcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBvcHRpb25zX3V0aWxzIGltcG9ydCBpc19lcnJvcmJhciwgZ2V0X2xpbmVzdHlsZXMsIGdldF9kcmF3c3R5bGVzLCBnZXRfbWFya2VycywgcHJlcGFyZV9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGJhciBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbGRfbGVnZW5kID0gYXhlcy5nZXRfbGVnZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhciBpbiBbaGJhciwgdmJhcl06Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJhZ2dhYmxlID0gTm9uZQogICAgICAgICAgICBuY29sID0gMQogICAgICAgICAgICBpZiBheGVzLmxlZ2VuZF8gaXMgbm90IE5vbmU6CiAgICAgICAgICAgICAgICBvbGRfbGVnZW5kID0gYXhlcy5nZXRfbGVnZW5kKCkKICAgICAgICAgICAgICAgIGRyYWdnYWJsZSA9IG9sZF9sZWdlbmQuX2RyYWdnYWJsZSBpcyBub3QgTm9uZQogICAgICAgICAgICAgICAgbmNvbCA9IG9sZF9sZWdlbmQuX25jb2wKICAgICAgICAgICAgbmV3X2xlZ2VuZCA9IGF4ZXMubGVnZW5kKG5jb2w9bmNvbCkKICAgICAgICAgICAgaWYgbmV3X2xlZ2VuZDoKICAgICAgICAgICAgICAgIG5ld19sZWdlbmQuZHJhZ2dhYmxlKGRyYWdnYWJsZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmJhci5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZWJhcjoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>&quot;_nolegend_&quot;</text>
       </register>
     </registers>
     <search>
