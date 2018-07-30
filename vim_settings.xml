@@ -51,10 +51,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1532957863762">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1532962914965">
+        <mark key="[" line="441" column="0" />
+        <mark key="]" line="441" column="0" />
+        <mark key="." line="441" column="0" />
+        <mark key="^" line="437" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/plot_tfs.py" timestamp="1528979531950">
         <mark key="[" line="27" column="0" />
@@ -206,7 +207,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1532957574885">
+      <file name="/Python Console" timestamp="1532962223310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options.py" timestamp="1532695835392">
@@ -230,6 +231,7 @@
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1532963349006" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="32" column="0" />
@@ -274,9 +276,9 @@
         <mark key="^" line="5" column="138" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532956526004">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="270" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532961482934">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="72" />
         <mark key="." line="270" column="0" />
         <mark key="^" line="79" column="20" />
       </file>
@@ -305,10 +307,12 @@
         <mark key="^" line="197" column="61" />
         <mark key="." line="191" column="51" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_artists.py" timestamp="1532959273147">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_artists.py" timestamp="1532964446467">
+        <mark key="'" line="143" column="26" />
+        <mark key="[" line="108" column="21" />
+        <mark key="]" line="141" column="24" />
+        <mark key="^" line="141" column="16" />
+        <mark key="." line="141" column="17" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/logging_tools.py" timestamp="1531836608180">
         <mark key="[" line="15" column="23" />
@@ -366,12 +370,12 @@
         <mark key="." line="409" column="8" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_utils.py" timestamp="1532956731473">
-        <mark key="p" line="22" column="20" />
-        <mark key="[" line="31" column="91" />
-        <mark key="]" line="34" column="3" />
-        <mark key="." line="34" column="3" />
-        <mark key="^" line="34" column="3" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_utils.py" timestamp="1532963952309">
+        <mark key="p" line="30" column="20" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="11" />
+        <mark key="^" line="26" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -464,13 +468,14 @@
       <jump line="141" column="4" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" />
       <jump line="24" column="4" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" />
       <jump line="54" column="4" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" />
+      <jump line="132" column="26" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_artists.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYXhpcywgbXBsLmF4aXMuWEF4aXMpOgogICAgICAgIHBvc19jaG9pY2VzID0gWyJib3R0b20iLCAidG9wIl0KICAgIGVsc2U6CiAgICAgICAgcG9zX2Nob2ljZXMgPSBbImxlZnQiLCAicmlnaHQiXQo=</text>
+      <register name="&quot;" type="4">
+        <text>outils.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -529,55 +534,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>['linear', 'log', 'symlog', 'logit']</text>
       </register>
       <register name="/" type="4">
-        <text>PLANES</text>
+        <text>_set_ma</text>
       </register>
       <register name="0" type="4">
-        <text>**{p: x for p in pos_choices}</text>
+        <text>outils.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYXhpcywgbXBsLmF4aXMuWEF4aXMpOgogICAgICAgIHBvc19jaG9pY2VzID0gWyJib3R0b20iLCAidG9wIl0KICAgIGVsc2U6CiAgICAgICAgcG9zX2Nob2ljZXMgPSBbImxlZnQiLCAicmlnaHQiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYXhpcywgbXBsLmF4aXMuWEF4aXMpOgogICAgICAgIHBvc19jaG9pY2VzID0gWyJib3R0b20iLCAidG9wIl0KICAgICAgICBwbGFuZSA9ICd4JwogICAgZWxzZToKICAgICAgICBwb3NfY2hvaWNlcyA9IFsibGVmdCIsICJyaWdodCJdCiAgICAgICAgcGxhbmUgPSAieSIK</text>
+        <text encoding="base64">ICAgICAgICB0aWNrLl9sYWJlbGNvbG9yID0gY29sb3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF4aXMuc2V0X3RpY2tfcGFyYW1zKGRvX3RpY2tzLCBjb2xvcnM9Y29sb3IpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IFRleHQ6Cg==</text>
+        <text encoding="base64">ICAgIGRvX3RpY2tzID0gYm9vbChheGlzLmdldF9taW5vcl90aWNrcygpKSBvciBib29sKGF4aXMuZ2V0X21ham9yX3RpY2tzKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoJ1NjYWxlJywgW2F4ZXMuZ2V0X3hzY2FsZSgpLCBdKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IC0gQWRkIGNvbG9ycwo=</text>
+        <text encoding="base64">ICAgICMgYXhpcy5zZXRfdGlja19wYXJhbXMod2hpY2g9Im1ham9yIiwgKip7cDogc3RhdGUgZm9yIHAgaW4gcG9zX2Nob2ljZXN9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IC0gRmluZCBvdXQgd2h5IG51bWJlcnMgbGVhZCB0byBjb2xvciBoZXJlIGJ1dCBub3QgaW4gb3B0aW9uc19maWd1cmUK</text>
+        <text encoding="base64">ICAgICMgXywgcG9zX2Nob2ljZXMgPSBfZ2V0X3BsYW5lX2Zyb21fYXhpcyhheGlzKQo=</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGFkZF9jb3VwbGluZyhkYXRhX2ZyYW1lKToKICAgICIiIgogICAgQ29tcHV0ZXMgdGhlIGNvdXBsaW5nIGZvciBkYXRhX2ZyYW1lIGFkZGluZyAzIGNvbHVtbnMgdG8gaXQ6CiAgICAtIGYxMDAxCiAgICAtIGYxMDEwCiAgICAtIGdhbW1hCiAgICAiIiIKICAgIGRmID0gZGF0YV9mcmFtZQogICAgaiA9IG5wLmFycmF5KFtbMC4sIDEuXSwKICAgICAgICAgICAgICAgICAgWy0xLiwgMC5dXSkKICAgIHJzID0gbnAucmVzaGFwZShkZi5hc19tYXRyaXgoY29sdW1ucz1bIlIxMSIsICJSMTIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiUjIxIiwgIlIyMiJdKSwKICAgICAgICAgICAgICAgICAgICAobGVuKGRmKSwgMiwgMikpCiAgICBjcyA9IG5wLmVpbnN1bSgiaWosa2puLG5vLT5raW8iLAogICAgICAgICAgICAgICAgICAgLWosIG5wLnRyYW5zcG9zZShycywgYXhlcz0oMCwgMiwgMSkpLCBqKQogICAgY3MgPSBucC5laW5zdW0oImssa2lqLT5raWoiLCAoMSAvIG5wLnNxcnQoMSArIG5wLmxpbmFsZy5kZXQocnMpKSksIGNzKQoKICAgIGcxMWEgPSAxIC8gbnAuc3FydChkZi5sb2NbOiwgIkJFVFgiXSkKICAgIGcxMmEgPSBucC56ZXJvcyhsZW4oZGYpKQogICAgZzIxYSA9IGRmLmxvY1s6LCAiQUxGWCJdIC8gbnAuc3FydChkZi5sb2NbOiwgIkJFVFgiXSkKICAgIGcyMmEgPSBucC5zcXJ0KGRmLmxvY1s6LCAiQkVUWCJdKQogICAgZ2FzID0gbnAucmVzaGFwZShucC5hcnJheShbZzExYSwgZzEyYSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGcyMWEsIGcyMmFdKS5ULAogICAgICAgICAgICAgICAgICAgICAobGVuKGRmKSwgMiwgMikpCgogICAgaWcxMWIgPSBucC5zcXJ0KGRmLmxvY1s6LCAiQkVUWSJdKQogICAgaWcxMmIgPSBucC56ZXJvcyhsZW4oZGYpKQogICAgaWcyMWIgPSAtZGYubG9jWzosICJBTEZZIl0gLyBucC5zcXJ0KGRmLmxvY1s6LCAiQkVUWSJdKQogICAgaWcyMmIgPSAxLiAvIG5wLnNxcnQoZGYubG9jWzosICJCRVRZIl0pCiAgICBpZ2JzID0gbnAucmVzaGFwZShucC5hcnJheShbaWcxMWIsIGlnMTJiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlnMjFiLCBpZzIyYl0pLlQsCiAgICAgICAgICAgICAgICAgICAgICAobGVuKGRmKSwgMiwgMikpCiAgICBjcyA9IG5wLmVpbnN1bSgia2lqLGtqbCxrbG4tPmtpbiIsIGdhcywgY3MsIGlnYnMpCiAgICBnYW1tYXMgPSBucC5zcXJ0KDEgLSBucC5saW5hbGcuZGV0KGNzKSkKICAgIGRhdGFfZnJhbWUubG9jWzosICJnYW1tYSJdID0gZ2FtbWFzCiAgICBkYXRhX2ZyYW1lLmxvY1s6LCAiZjEwMDEiXSA9ICgoY3NbOiwgMCwgMF0gKyBjc1s6LCAxLCAxXSkgKiAxaiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoY3NbOiwgMCwgMV0gLSBjc1s6LCAxLCAwXSkpIC8gNCAvIGdhbW1hcwogICAgZGF0YV9mcmFtZS5sb2NbOiwgImYxMDEwIl0gPSAoKGNzWzosIDAsIDBdIC0gY3NbOiwgMSwgMV0pICogMWogKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKC1jc1s6LCAwLCAxXSkgLSBjc1s6LCAxLCAwXSkgLyA0IC8gZ2FtbWFzCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICB0ZnNfd3JpdGVyLmFkZF9mbG9hdF9kZXNjcmlwdG9yKGhlYWRfbmFtZSwgaGVhZGVyc19kaWN0W2hlYWRfbmFtZV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PLANES</last-search>
+      <last-search>_set_ma</last-search>
       <last-offset />
-      <last-pattern>PLANES</last-pattern>
+      <last-pattern>_set_ma</last-pattern>
       <last-replace>get_options</last-replace>
       <last-substitute>get_rdt_options</last-substitute>
       <last-dir>1</last-dir>
@@ -601,6 +606,7 @@
         <entry>opt.templates</entry>
         <entry>title_map</entry>
         <entry>PLANES</entry>
+        <entry>_set_ma</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy8kLywvZw==</entry>
