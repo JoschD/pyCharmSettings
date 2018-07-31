@@ -231,7 +231,6 @@
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1532963349006" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="32" column="0" />
@@ -276,11 +275,11 @@
         <mark key="^" line="5" column="138" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532961482934">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="72" />
-        <mark key="." line="270" column="0" />
-        <mark key="^" line="79" column="20" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1533042423836">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1531930959343">
         <mark key="[" line="0" column="0" />
@@ -370,7 +369,7 @@
         <mark key="^" line="15" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_utils.py" timestamp="1532963952309">
-        <mark key="p" line="30" column="20" />
+        <mark key="p" line="46" column="20" />
         <mark key="[" line="21" column="13" />
         <mark key="]" line="26" column="47" />
         <mark key="." line="26" column="11" />
@@ -473,8 +472,8 @@
       <register name="a" type="4">
         <text>d2f(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IExpbmVzOgogLSBFdmVyeXRoaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFNob3VsZCBiZSByZXdyaXR0ZW4gZnJvbSBzY3JhdGNoLg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -533,7 +532,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>['linear', 'log', 'symlog', 'logit']</text>
+        <text encoding="base64">IFNob3VsZCBiZSByZXdyaXR0ZW4gZnJvbSBzY3JhdGNoLg==</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
