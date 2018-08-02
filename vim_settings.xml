@@ -351,11 +351,11 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/requirements.txt" timestamp="1531991864706">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="5" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="5" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/requirements.txt" timestamp="1533228925451">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="14" column="5" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1531759848239">
         <mark key="[" line="464" column="15" />
@@ -381,10 +381,10 @@
         <mark key="^" line="69" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533224770160">
-        <mark key="[" line="35" column="23" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="4" />
+        <mark key="[" line="41" column="23" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="41" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531931995393">
         <mark key="[" line="8" column="8" />
