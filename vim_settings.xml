@@ -230,7 +230,7 @@
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533216334270">
+      <file name="/Python Console" timestamp="1533235471916">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options.py" timestamp="1532695835392">
@@ -380,11 +380,10 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533231855093">
-        <mark key="[" line="2" column="89" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="2" column="23" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533235799710">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="76" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531931995393">
         <mark key="[" line="8" column="8" />
@@ -532,7 +531,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1YmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBTVUJGSUxFKQogICAgbWFkYmFzaGZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBCQVNIRklMRV9NQVNLLmZvcm1hdCgiJChQcm9jSWQpIikpCiAgICBvdXRmaWxlID0gb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiaHRjLiQoQ2x1c3RlcklEKS4kKFByb2NJZCkub3V0IikKICAgIGVycmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCAidGVtcCIsICJodGMuJChDbHVzdGVySUQpLiQoUHJvY0lkKS5lcnIiKQogICAgbG9nZmlsZSA9IG9zLnBhdGguam9pbihmb2xkZXIsICJ0ZW1wIiwgImh0Yy4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLmxvZyIpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -645,32 +644,32 @@
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
-      <register name="0" type="4">
-        <text>.$(ClusterID).$(ProcId).</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHN1YmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBTVUJGSUxFKQogICAgbWFkYmFzaGZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBCQVNIRklMRV9NQVNLLmZvcm1hdCgiJChQcm9jSWQpIikpCiAgICBvdXRmaWxlID0gb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiaHRjLiQoQ2x1c3RlcklEKS4kKFByb2NJZCkub3V0IikKICAgIGVycmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCAidGVtcCIsICJodGMuJChDbHVzdGVySUQpLiQoUHJvY0lkKS5lcnIiKQogICAgbG9nZmlsZSA9IG9zLnBhdGguam9pbihmb2xkZXIsICJ0ZW1wIiwgImh0Yy4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLmxvZyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdodHN1Yi5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdodHN1Yi5jbG9zZSgpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdodHNkZHViPW9wZW4ocGF0aHRvc3ViZmlsZSwndycpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHdodHNkZHViPW9wZW4ocGF0aHRvc3ViZmlsZSwndycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
