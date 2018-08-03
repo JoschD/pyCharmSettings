@@ -380,11 +380,11 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533291840361">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="85" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="34" column="54" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533296672418">
+        <mark key="[" line="35" column="78" />
+        <mark key="]" line="35" column="78" />
+        <mark key="." line="35" column="78" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531931995393">
         <mark key="[" line="8" column="8" />
@@ -531,8 +531,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0cHV0Ijogb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiJChNeUlkKS4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLm91dCIpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>out</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -640,7 +640,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>madbashfile</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
