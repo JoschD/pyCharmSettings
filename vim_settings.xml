@@ -149,11 +149,6 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1533053039839">
-        <mark key="]" line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,6 +207,12 @@
         <mark key="]" line="51" column="4" />
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533300878671">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="47" column="21" />
+        <mark key="^" line="47" column="21" />
+        <mark key="." line="47" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -287,6 +288,10 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533300054555">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="96" column="92" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
@@ -380,11 +385,10 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533297777918">
-        <mark key="[" line="37" column="68" />
-        <mark key="]" line="37" column="68" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="39" column="38" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531931995393">
         <mark key="[" line="8" column="8" />
@@ -531,8 +535,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyBlc3ByZXNzbyAyMG1pbiwgbWljcm9jZW50dXJ5IDFoLCBsb25nbHVuY2ggMmgsIHdvcmtkYXkgOGgg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -640,16 +644,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IyBlc3ByZXNzbyAyMG1pbiwgbWljcm9jZW50dXJ5IDFoLCBsb25nbHVuY2ggMmgsIHdvcmtkYXkgOGgg</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0cHV0Ijogb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiJChNeUlkKS4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLm91dCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihbbWFkeF9wYXRoLCBtYWR4X2pvYmZpbGVdLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsIGN3ZD1jd2QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -658,19 +662,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdodHN1Yi5jbG9zZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdodHNkZHViPW9wZW4ocGF0aHRvc3ViZmlsZSwndycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
