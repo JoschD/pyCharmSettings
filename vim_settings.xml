@@ -380,10 +380,11 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533235799710">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="24" column="76" />
-        <mark key="." line="20" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533291840361">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="85" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="54" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1531931995393">
         <mark key="[" line="8" column="8" />
@@ -531,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN1YmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBTVUJGSUxFKQogICAgbWFkYmFzaGZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBCQVNIRklMRV9NQVNLLmZvcm1hdCgiJChQcm9jSWQpIikpCiAgICBvdXRmaWxlID0gb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiaHRjLiQoQ2x1c3RlcklEKS4kKFByb2NJZCkub3V0IikKICAgIGVycmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCAidGVtcCIsICJodGMuJChDbHVzdGVySUQpLiQoUHJvY0lkKS5lcnIiKQogICAgbG9nZmlsZSA9IG9zLnBhdGguam9pbihmb2xkZXIsICJ0ZW1wIiwgImh0Yy4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLmxvZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAib3V0cHV0Ijogb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiJChNeUlkKS4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLm91dCIpLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -639,13 +640,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'+tempdir+'/ihatecondor.$(ClusterID).log</text>
+        <text>madbashfile</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN1YmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBTVUJGSUxFKQogICAgbWFkYmFzaGZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCBCQVNIRklMRV9NQVNLLmZvcm1hdCgiJChQcm9jSWQpIikpCiAgICBvdXRmaWxlID0gb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiaHRjLiQoQ2x1c3RlcklEKS4kKFByb2NJZCkub3V0IikKICAgIGVycmZpbGUgPSBvcy5wYXRoLmpvaW4oZm9sZGVyLCAidGVtcCIsICJodGMuJChDbHVzdGVySUQpLiQoUHJvY0lkKS5lcnIiKQogICAgbG9nZmlsZSA9IG9zLnBhdGguam9pbihmb2xkZXIsICJ0ZW1wIiwgImh0Yy4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLmxvZyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAib3V0cHV0Ijogb3MucGF0aC5qb2luKGZvbGRlciwgInRlbXAiLCAiJChNeUlkKS4kKENsdXN0ZXJJRCkuJChQcm9jSWQpLm91dCIpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4Cg==</text>
