@@ -208,10 +208,10 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533303057371">
-        <mark key="[" line="57" column="64" />
-        <mark key="]" line="57" column="29" />
-        <mark key="." line="57" column="29" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533307369428">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -531,8 +531,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>htcondor.DaemonTypes.Schedd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -640,34 +640,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>htcondor.DaemonTypes.Schedd</text>
+        <text>, BASHFILE_MASK.format(&quot;$(ProcId)&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihbbWFkeF9wYXRoLCBtYWR4X2pvYmZpbGVdLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsIGN3ZD1jd2QpCiAgICAgICAgd2l0aCBfbG9nZmlsZV93cmFwcGVyKGxvZ19maWxlKSBhcyBsb2dfaGFuZGxlciwgcHJvY2Vzcy5zdGRvdXQ6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6CiAgICAgICAgICAgICAgICBsb2dfaGFuZGxlcihsaW5lKQogICAgICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
+      <register name="0" type="4">
+        <text>os.path.splitext(os.path.basename(filename))[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbGwgPSBodGNvbmRvci5Db2xsZWN0b3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgo=</text>
+        <text encoding="base64">bXlfc2NoZWR1bGVyID0gImJpZ2JpcmQxNi5jZXJuLmNoIiAgIyBTY2hlZHVsZXIgZm9yIHRoZSBqZGlsbHkgYWNjb3VudCEhIFRPRE86IEF1dG9tYXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggc3VibWl0X2pvYigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNvIGZhciB0aGUgQVBJIHNlZW1zIG5vdCB0byBiZSB0b28gbmljZSBmb3IgcHl0aG9uLCBzbyBmb3IgbGF0ZXIgdXNlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -676,10 +676,10 @@
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpvYi5zZXRRQXJncygiezpkfSIuZm9ybWF0KG5fZmlsZXMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
+        <text encoding="base64">ICAgICAgICAiTXlGb2xkZXIiOiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
