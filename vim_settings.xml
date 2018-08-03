@@ -208,11 +208,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533300878671">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="47" column="21" />
-        <mark key="^" line="47" column="21" />
-        <mark key="." line="47" column="21" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533302375977">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="48" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -289,9 +289,9 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533300054555">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533302155693">
         <mark key="[" line="95" column="0" />
-        <mark key="]" line="96" column="92" />
+        <mark key="]" line="100" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
@@ -535,8 +535,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sub</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -644,31 +644,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>sub</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihbbWFkeF9wYXRoLCBtYWR4X2pvYmZpbGVdLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsIGN3ZD1jd2QpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihbbWFkeF9wYXRoLCBtYWR4X2pvYmZpbGVdLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsIGN3ZD1jd2QpCiAgICAgICAgd2l0aCBfbG9nZmlsZV93cmFwcGVyKGxvZ19maWxlKSBhcyBsb2dfaGFuZGxlciwgcHJvY2Vzcy5zdGRvdXQ6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6CiAgICAgICAgICAgICAgICBsb2dfaGFuZGxlcihsaW5lKQogICAgICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -680,7 +680,7 @@
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
