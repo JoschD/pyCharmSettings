@@ -208,11 +208,10 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533302375977">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533303057371">
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="29" />
+        <mark key="." line="57" column="29" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -230,9 +229,6 @@
         <mark key="]" line="352" column="54" />
         <mark key="^" line="136" column="16" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1533235471916">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options.py" timestamp="1532695835392">
         <mark key="[" line="14" column="0" />
@@ -536,7 +532,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>sub</text>
+        <text>htcondor.DaemonTypes.Schedd</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -644,7 +640,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sub</text>
+        <text>htcondor.DaemonTypes.Schedd</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -653,19 +649,19 @@
         <text encoding="base64">ICAgICAgICBwcm9jZXNzID0gc3VicHJvY2Vzcy5Qb3BlbihbbWFkeF9wYXRoLCBtYWR4X2pvYmZpbGVdLCBzaGVsbD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGRvdXQ9c3VicHJvY2Vzcy5QSVBFLCBzdGRlcnI9c3VicHJvY2Vzcy5TVERPVVQsIGN3ZD1jd2QpCiAgICAgICAgd2l0aCBfbG9nZmlsZV93cmFwcGVyKGxvZ19maWxlKSBhcyBsb2dfaGFuZGxlciwgcHJvY2Vzcy5zdGRvdXQ6CiAgICAgICAgICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6CiAgICAgICAgICAgICAgICBsb2dfaGFuZGxlcihsaW5lKQogICAgICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
+        <text encoding="base64">ICAgIGNvbGwgPSBodGNvbmRvci5Db2xsZWN0b3IoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggX2xvZ2ZpbGVfd3JhcHBlcihsb2dfZmlsZSkgYXMgbG9nX2hhbmRsZXIsIHByb2Nlc3Muc3Rkb3V0Ogo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -680,10 +676,10 @@
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKCJTZW5kaW5nIHs6c30gdG8gaHRjb25kb3IuIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
