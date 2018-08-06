@@ -208,11 +208,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533565419918">
-        <mark key="[" line="62" column="73" />
-        <mark key="]" line="61" column="8" />
-        <mark key="." line="61" column="8" />
-        <mark key="^" line="71" column="30" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533566908856">
+        <mark key="[" line="146" column="50" />
+        <mark key="]" line="161" column="18" />
+        <mark key="^" line="161" column="18" />
+        <mark key="." line="161" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -537,8 +537,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -646,46 +646,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/afs/cern.ch/work/j/jdilly/public/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwpCiAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgogICAgICAgIExPRy5pbmZvKGxpbmUpCiAgICBzdGF0dXMgPSBwcm9jZXNzLndhaXQoKQo=</text>
+      <register name="0" type="4">
+        <text>[CMD_SUBMIT, jobfile]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAiTXlJZCI6ICJodGNvbmRvciIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQgPSAiezpzfSB7OnN9Ii5mb3JtYXQoQ01EX1NVQk1JVCwgam9iZmlsZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF9qb2luKCphcmdzKToK</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbyhsaW5lLnN0cmlwKCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIvIi5qb2luKCphcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MgPSBzdWJwcm9jZXNzLlBvcGVuKFtDTURfU1VCTUlULCBqb2JmaWxlXSwgc2hlbGw9RmFsc2UsCg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfZHVyYXRpb24oZHVyYXRpb24pOgo=</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGVzcHJlc3NvIDIwbWluLCBtaWNyb2NlbnR1cnkgMWgsIGxvbmdsdW5jaCAyaCwgd29ya2RheSA4aCwKICAgICAgICAjIHRvbW9ycm93IDFkLCB0ZXN0bWF0Y2ggM2QsIG5leHR3ZWVrIDF3CiAgICAgICAgIitKb2JGbGF2b3VyIjogJyJsb25nbHVuY2giJywKICAgICAgICAjICIrTWF4UnVudGltZSI6IHN0cigyKjM2MDApLCAgIyBydW50aW1lIGluIHNlY29uZHMK</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbyhsaW5lLnN0cmlwKCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
