@@ -208,11 +208,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533560615409">
-        <mark key="[" line="137" column="76" />
-        <mark key="]" line="137" column="75" />
-        <mark key="." line="137" column="35" />
-        <mark key="^" line="137" column="34" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533565419918">
+        <mark key="[" line="62" column="73" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
+        <mark key="^" line="71" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -236,7 +236,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533560136261">
+      <file name="/Python Console" timestamp="1533565026251">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
@@ -289,9 +289,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533302155693">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="100" column="30" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533562740401">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="26" column="3" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
@@ -339,7 +341,7 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533217322966">
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533561951328">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="^" line="22" column="0" />
@@ -536,7 +538,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -644,46 +646,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, BASHFILE_MASK.format(&quot;$(ProcId)&quot;))</text>
+        <text>/afs/cern.ch/work/j/jdilly/public/</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
-      <register name="0" type="4">
-        <text>os.path.splitext(os.path.basename(filename))[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwpCiAgICBmb3IgbGluZSBpbiBpdGVyKHByb2Nlc3Muc3Rkb3V0LnJlYWRsaW5lLCBiJycpOgogICAgICAgIExPRy5pbmZvKGxpbmUpCiAgICBzdGF0dXMgPSBwcm9jZXNzLndhaXQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQgPSAiezpzfSB7OnN9Ii5mb3JtYXQoQ01EX1NVQk1JVCwgam9iZmlsZSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bXlfc2NoZWR1bGVyID0gImJpZ2JpcmQxNi5jZXJuLmNoIiAgIyBTY2hlZHVsZXIgZm9yIHRoZSBqZGlsbHkgYWNjb3VudCEhIFRPRE86IEF1dG9tYXRlCg==</text>
+        <text encoding="base64">ZGVmIF9qb2luKCphcmdzKToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpdGggc3VibWl0X2pvYigpCg==</text>
+        <text encoding="base64">ICAgICIvIi5qb2luKCphcmdzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNvIGZhciB0aGUgQVBJIHNlZW1zIG5vdCB0byBiZSB0b28gbmljZSBmb3IgcHl0aG9uLCBzbyBmb3IgbGF0ZXIgdXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>w</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF9nZXRfZHVyYXRpb24oZHVyYXRpb24pOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGpvYi5zZXRRQXJncygiezpkfSIuZm9ybWF0KG5fZmlsZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGVzcHJlc3NvIDIwbWluLCBtaWNyb2NlbnR1cnkgMWgsIGxvbmdsdW5jaCAyaCwgd29ya2RheSA4aCwKICAgICAgICAjIHRvbW9ycm93IDFkLCB0ZXN0bWF0Y2ggM2QsIG5leHR3ZWVrIDF3CiAgICAgICAgIitKb2JGbGF2b3VyIjogJyJsb25nbHVuY2giJywKICAgICAgICAjICIrTWF4UnVudGltZSI6IHN0cigyKjM2MDApLCAgIyBydW50aW1lIGluIHNlY29uZHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
