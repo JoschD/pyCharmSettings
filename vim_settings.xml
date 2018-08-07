@@ -127,6 +127,12 @@
         <mark key="." line="174" column="27" />
         <mark key="^" line="174" column="28" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_for_rdts.py" timestamp="1533648680160">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="41" column="79" />
+        <mark key="^" line="41" column="79" />
+        <mark key="." line="41" column="79" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1531399225101">
         <mark key="[" line="917" column="0" />
         <mark key="]" line="917" column="82" />
@@ -272,6 +278,12 @@
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_three_optics.py" timestamp="1533649413221">
+        <mark key="[" line="161" column="16" />
+        <mark key="]" line="161" column="113" />
+        <mark key="." line="161" column="15" />
+        <mark key="^" line="161" column="14" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/hole_in_one/index.rst" timestamp="1530000005973">
         <mark key="[" line="4" column="18" />
@@ -555,8 +567,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wdCA9IGdldF9vcHRpb25zKCkK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;b{:d}&quot;.format(beam) if not is_other_beam else &quot;b{:d}.by_b{:d}&quot;.format(beam, get_other_beam(beam))</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -664,7 +676,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>three_optics_setup</text>
+        <text>&quot;b{:d}&quot;.format(beam) if not is_other_beam else &quot;b{:d}.by_b{:d}&quot;.format(beam, get_other_beam(beam))</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -673,25 +685,25 @@
         <text encoding="base64">IyBCZXRhLUJlYXQgUmVwbyBpbXBvcnRzCmJldGFfYmV0YV9wYXRoID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCBvcy5wYXJkaXIsIG9zLnBhcmRpcikpCnN5cy5wYXRoLmFwcGVuZChiZXRhX2JldGFfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdCA9IGdldF9vcHRpb25zKCkK</text>
+        <text encoding="base64">ZGVmIGdldF9vdXRwdXRfZGlyKHdvcmtpbmdfZGlyLCBvcHRpY3MsIGJlYW0sIGVycm9yX3R5cGUpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbih3b3JraW5nX2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgIm91dHB1dF97OnN9X2J7OmR9X3s6c31fZXJyb3JzIi5mb3JtYXQob3B0aWNzLCBiZWFtLCBlcnJvcl90eXBlKSkKCgpkZWYgY2hlY2tfZmlsZV9leGlzdCh0aGlzX2ZpbGUpOgogICAgaWYgbm90IG9zLnBhdGguaXNmaWxlKHRoaXNfZmlsZSk6CiAgICAgICAgcmFpc2UgSU9FcnJvcigiRmlsZSAne30nIG5vdCBmb3VuZC4gTUFEWCB3YXMgbm90IHN1Y2NlZnVsbC4iLmZvcm1hdCh0aGlzX2ZpbGUpKQoKCmRlZiBjb3B5X2NvcnJlY3Rpb25fZmlsZShjd2QsIG91dHB1dF9kaXIsIG5ld19maWxlbmFtZSk6CiAgICBvbGRfbWFkID0gb3MucGF0aC5qb2luKGN3ZCwgInRlbXAiLCAiTUNYX3NldHRpbmcubWFkIikKICAgIG5ld19tYWQgPSBvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgbmV3X2ZpbGVuYW1lKQogICAgc2h1dGlsLmNvcHkob2xkX21hZCwgbmV3X21hZCkKCgpkZWYgcmV2ZXJzZV9jb3B5X2NvcnJlY3Rpb25fZmlsZShjd2QsIG91dHB1dF9kaXIsIG5ld19maWxlbmFtZSk6CiAgICBvbGRfbWFkID0gb3MucGF0aC5qb2luKGN3ZCwgIk1DWF9zZXR0aW5nLm1hZCIpCiAgICBuZXdfbWFkID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXIsIG5ld19maWxlbmFtZSkKICAgIHNodXRpbC5jb3B5KG5ld19tYWQsIG9sZF9tYWQpCgoKZGVmIGdldF90ZnNfbmFtZShmb2xkZXIsIHJkdCwgc3RhdGUsIGJlYW0sIGVycm9yX3NyYyk6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKGZvbGRlciwgImNvbGxlY3RlZF9yZXN1bHRzLntpZDpzfS50ZnMiLmZvcm1hdCgKICAgICAgICBpZD1nZXRfaWQocmR0LCBzdGF0ZSwgYmVhbSwgZXJyb3Jfc3JjKSkpCgoKZGVmIGdldF9wbG90X2ZpbGUoZm9sZGVyLCByZHQsIHN0YXRlLCBiZWFtLCBlcnJvcl9zcmMsIGV4dGVuc2lvbik6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKGZvbGRlciwgIntpZDpzfV9lcnJvcnN7ZXh0ZW5zaW9uOnN9Ii5mb3JtYXQoCiAgICAgICAgaWQ9Z2V0X2lkKHJkdCwgc3RhdGUsIGJlYW0sIGVycm9yX3NyYyksCiAgICAgICAgZXh0ZW5zaW9uPWV4dGVuc2lvbikpCgoKIyBOYW1pbmcgSGVscGVyICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgpkZWYgZ2V0X2lkKHJkdCwgc3RhdGUsIGJlYW0sIGVycm9yX3NyYyk6CiAgICByZXR1cm4gIkJ7YmVhbTpkfS5Ge3JkdDpzfS57c3RhdGU6c30ue2Vycm9yX3NyYzpzfSIuZm9ybWF0KAogICAgICAgIHJkdD1yZHQsCiAgICAgICAgc3RhdGU9Z2V0X3Byb3Blcl9zdGF0ZShzdGF0ZSwgYmVhbSksCiAgICAgICAgYmVhbT1nZXRfcHJvcGVyX2JlYW0oc3RhdGUsIGJlYW0pLAogICAgICAgIGVycm9yX3NyYz1lcnJvcl9zcmMsCiAgICApCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscy5kaWN0X3Rvb2xzIGltcG9ydCBEb3REaWN0Cg==</text>
+        <text encoding="base64">ICAgIG9wdCA9IGdldF9vcHRpb25zKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB1dGlscwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZnJvbSB1dGlscy5kaWN0X3Rvb2xzIGltcG9ydCBEb3REaWN0Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB1dGlscwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtYWluIGxvb3AgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCmRlZiBnZXRfb3B0aW9ucygpOgogICAgb3B0ID0gRG90RGljdCgpCiAgICBvcHQuYmVhbXMgPSBbMSwgMl0KICAgIG9wdC54aW5nID0gW0ZhbHNlLCAiSVAxIiwgIklQNSIsIFRydWVdCiAgICBvcHQudHlwZXMgPSBbIjMwMzAiLCAiMTUxNSIsICI2MDE1Il0KCgoKCmRlZiBtYWluX2xvb3AoKToKICAgIG9wdCA9IGdldF9vcHRpb25zKCkKICAgIGZvciBiZWFtIGluIG9wdC5iZWFtczoKICAgICAgICBmb3IgeGluZyBpbiBvcHQueGluZzoKICAgICAgICAgICAgZm9yIGVycm9yX3R5cGVzIGluIG9wdC5lcnJvcl90eXBlczoKICAgICAgICAgICAgICAgIGZvciBlcnJvcl9sb2MgaW4gb3B0LmVycm9yX2xvYzoKICAgICAgICAgICAgICAgICAgICBmb3Igc2VlZCBpbiBvcHQuc2VlZHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBvcHRpY190eXBlIGluIG9wdC5vcHRpY190eXBlczoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MKCgo=</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5kaWN0X3Rvb2xzIGltcG9ydCBEb3REaWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtYWluIGxvb3AgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCmRlZiBnZXRfb3B0aW9ucygpOgogICAgb3B0ID0gRG90RGljdCgpCiAgICBvcHQuYmVhbXMgPSBbMSwgMl0KICAgIG9wdC54aW5nID0gW0ZhbHNlLCAiSVAxIiwgIklQNSIsIFRydWVdCiAgICBvcHQudHlwZXMgPSBbIjMwMzAiLCAiMTUxNSIsICI2MDE1Il0KCgoKCmRlZiBtYWluX2xvb3AoKToKICAgIG9wdCA9IGdldF9vcHRpb25zKCkKICAgIGZvciBiZWFtIGluIG9wdC5iZWFtczoKICAgICAgICBmb3IgeGluZyBpbiBvcHQueGluZzoKICAgICAgICAgICAgZm9yIGVycm9yX3R5cGVzIGluIG9wdC5lcnJvcl90eXBlczoKICAgICAgICAgICAgICAgIGZvciBlcnJvcl9sb2MgaW4gb3B0LmVycm9yX2xvYzoKICAgICAgICAgICAgICAgICAgICBmb3Igc2VlZCBpbiBvcHQuc2VlZHM6CiAgICAgICAgICAgICAgICAgICAgICAgIGZvciBvcHRpY190eXBlIGluIG9wdC5vcHRpY190eXBlczoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBhc3MKCgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -710,10 +722,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiY29ycmVjdGVkX2J5Qns6ZH0iLmZvcm1hdChiZWFtKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
