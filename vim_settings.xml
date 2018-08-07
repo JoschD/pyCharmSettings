@@ -236,9 +236,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533568686298">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
         <mark key="[" line="49" column="51" />
         <mark key="]" line="49" column="51" />
@@ -345,8 +342,10 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533633581753">
-        <mark key="[" line="47" column="27" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533637197677">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1531142301713">
         <mark key="[" line="191" column="51" />
@@ -539,7 +538,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb3B0aWNfdHlwZSBpbiBvcHQub3B0aWNfdHlwZXM6Cg==</text>
+        <text encoding="base64">ZnJvbSBtYWR4IGltcG9ydCBtYWR4X3NuaXBwZXRzCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -647,7 +646,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>def get_params():</text>
+        <text encoding="base64">cm91bmRfaXA1ID0g</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -656,34 +655,28 @@
         <text encoding="base64">ICAgIGpvYl9hZFtkdXJhX2tleV0gPSBkdXJhX3ZhbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igb3B0aWNfdHlwZSBpbiBvcHQub3B0aWNfdHlwZXM6Cg==</text>
+        <text encoding="base64">ZnJvbSBtYWR4IGltcG9ydCBtYWR4X3NuaXBwZXRzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoeGluZ19wYXJhbXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiRVJST1JERUYiOiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiTXlJZCI6ICJodGNvbmRvciIsCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtc1siQkVBTSJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
+        <text encoding="base64">ICAgIHJvdW5kX2lwNSA9IHsiWElORzUiOiAiMTUwIiwgIlBISTUiOiAiMCJ9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -699,10 +692,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbyhsaW5lLnN0cmlwKCkpCg==</text>
+        <text encoding="base64">ICAgICB7IlhJTkcxIjogIjE1MCIsICJQSEkxIjogIjkwIn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
