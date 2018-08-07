@@ -345,11 +345,8 @@
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533570035628">
-        <mark key="[" line="26" column="79" />
-        <mark key="]" line="26" column="79" />
-        <mark key="^" line="26" column="79" />
-        <mark key="." line="26" column="79" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creator.py" timestamp="1533633581753">
+        <mark key="[" line="47" column="27" />
       </file>
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1531142301713">
         <mark key="[" line="191" column="51" />
@@ -541,8 +538,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>def get_params():</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igb3B0aWNfdHlwZSBpbiBvcHQub3B0aWNfdHlwZXM6Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -658,7 +655,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGpvYl9hZFtkdXJhX2tleV0gPSBkdXJhX3ZhbAo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmb3Igb3B0aWNfdHlwZSBpbiBvcHQub3B0aWNfdHlwZXM6Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -667,26 +670,20 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiTXlJZCI6ICJodGNvbmRvciIsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXMK</text>
+        <text encoding="base64">ICAgICAgICAiTXlJZCI6ICJodGNvbmRvciIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGF0dXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbyhsaW5lLnN0cmlwKCkpCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1cyA9IHByb2Nlc3Mud2FpdCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -702,10 +699,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbyhsaW5lLnN0cmlwKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlNURE9VVCwpCg==</text>
+        <text encoding="base64">ICAgIGZvciBsaW5lIGluIGl0ZXIocHJvY2Vzcy5zdGRvdXQucmVhZGxpbmUsIGInJyk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
