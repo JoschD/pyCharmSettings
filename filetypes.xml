@@ -27,6 +27,7 @@
       <mapping pattern="twiss_fullresponse" type="Python" />
       <mapping pattern="cleanup_logs" type="Python" />
       <mapping pattern="matplotlib_plotly_wrapper" type="Python" />
+      <mapping pattern="2018_irnl_three_optics" type="Python" />
       <mapping pattern="artist_options" type="Python" />
     </extensionMap>
   </component>
