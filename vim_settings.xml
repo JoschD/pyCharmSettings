@@ -91,10 +91,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/template.2018.IRNL.mqx_rdt_study.madx" timestamp="1533143922041">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="261" column="7" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/psbooster.py" timestamp="1530110273549">
         <mark key="[" line="223" column="33" />
         <mark key="]" line="223" column="33" />
@@ -120,15 +116,15 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533717576134">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533733932722">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="172" column="82" />
         <mark key="." line="171" column="12" />
         <mark key="^" line="171" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_utils.py" timestamp="1533732859129">
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_utils.py" timestamp="1533734224440">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="83" />
         <mark key="." line="54" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
@@ -190,9 +186,8 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1533568118346">
-        <mark key="[" line="777" column="0" />
-        <mark key="]" line="777" column="83" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533734632031">
+        <mark key="[" line="11" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1533042423836">
         <mark key="[" line="8" column="0" />
@@ -219,12 +214,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/wise_tools.py" timestamp="1533723348192">
-        <mark key="[" line="74" column="90" />
-        <mark key="]" line="74" column="90" />
-        <mark key="^" line="74" column="16" />
-        <mark key="." line="74" column="17" />
-      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/wise_tools.py" timestamp="1533734278088" />
       <file name="/media/jdilly/Storage/PhD/1804_prelim_amplitude_detuning_on_flatoptics/10_Code/data_creation.py" timestamp="1531142301713">
         <mark key="[" line="191" column="51" />
         <mark key="]" line="191" column="51" />
@@ -487,10 +477,6 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1533213888628">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="108" column="47" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/getsuper.py" timestamp="1533725465637" />
     </filemarks>
     <jumps>
@@ -717,7 +703,7 @@
         <text>_set_ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJBY2Nlc3NpbmcgZGlyZWN0b3J5ICd7OnN9JyIuZm9ybWF0KHBhdGhfdG9fZGlyKSkK</text>
+        <text encoding="base64">IyBTY3JpcHQgTW9kZSAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmFpc2UgRW52aXJvbm1lbnRFcnJvcigiezpzfSBpcyBub3Qgc3VwcG9zZWQgdG8gcnVuIGFzIG1haW4uIi5mb3JtYXQoX19maWxlX18pKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -726,22 +712,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZV9oZWFkZXJfY29tbWVudHNfZnJvbV9maWxlcyhbb3MucGF0aC5qb2luKGRpciwgZikgZm9yIGYgaW4gb3MubGlzdGRpcihkaXIpIGlmIGYuZW5kc3dpdGgoIi50ZnMiKV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpciA9ICIvbWVkaWEvamRpbGx5L1N0b3JhZ2UvV0lTRS0yMDE1LUxIQ3NxdWVlemUtMC40XzEwLjBfMC40XzMuMC02LjVUZVYtZW1mcWNzIgo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKGJldGFfYmV0YV9wYXRoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
+        <text encoding="base64">YmV0YV9iZXRhX3BhdGggPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksIG9zLnBhcmRpciwgb3MucGFyZGlyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBCZXRhLUJlYXQgUmVwbyBpbXBvcnRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICMgcmVuYW1lIG15IHdpc2UgZmlsZXMKICAgICMgbmV3X2ZvbGRlciA9IHJlbmFtZV93aXNlX3RvX2JldHRlcl9mb3JtYXQoIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS8yMDE1X3dpc2VfNDBjbV9zZWVkcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJXSVNFLTIwMTUtIikKCiAgICBuZXdfZm9sZGVyID0gIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MiCiAgICAjIEdldCBvbmx5IHNpbmdsZSBpcHMKICAgIGZpbHRlcl9hbGxfaW5fZm9sZGVyX2J5X2lwcyhuZXdfZm9sZGVyLCBbMSwgNV0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -760,10 +746,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmaW4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oJ212ICcrZmluKycgJytmb3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
