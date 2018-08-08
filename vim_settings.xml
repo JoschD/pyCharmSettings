@@ -75,6 +75,11 @@
         <mark key="^" line="133" column="11" />
         <mark key="." line="133" column="11" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533735615382">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/testcase_hole_in_one.py" timestamp="1530110105245">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="7" />
@@ -90,6 +95,9 @@
         <mark key="[" line="57" column="12" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/plot_export.py" timestamp="1533735711033">
+        <mark key="[" line="3" column="42" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/psbooster.py" timestamp="1530110273549">
         <mark key="[" line="223" column="33" />
@@ -148,11 +156,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1533652782725">
-        <mark key="]" line="343" column="11" />
-        <mark key="^" line="343" column="11" />
-        <mark key="." line="343" column="11" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
         <mark key="]" line="32" column="0" />
@@ -187,7 +190,7 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533734632031">
-        <mark key="[" line="11" column="12" />
+        <mark key="[" line="12" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1533042423836">
         <mark key="[" line="8" column="0" />
@@ -250,6 +253,9 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/correct_coupleDy.py" timestamp="1533735499480">
+        <mark key="[" line="63" column="29" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/figureoptions_with_errorbars.py" timestamp="1532697274263">
         <mark key="[" line="316" column="0" />
         <mark key="]" line="316" column="19" />
@@ -289,6 +295,9 @@
         <mark key="]" line="163" column="95" />
         <mark key="." line="163" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_ballistic_calibration.py" timestamp="1533735593220">
+        <mark key="[" line="2" column="42" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/1803_iterative_correction_implementation_and_compare/10_Code/test_corrections_all_comparisons.py" timestamp="1528272411080">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="92" />
@@ -319,7 +328,7 @@
         <mark key="." line="23" column="24" />
         <mark key="^" line="24" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest_for_bpms.py" timestamp="1530105522371">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest_for_bpms.py" timestamp="1533735417693">
         <mark key="[" line="113" column="52" />
         <mark key="]" line="113" column="52" />
         <mark key="^" line="113" column="52" />
@@ -330,11 +339,6 @@
         <mark key="]" line="174" column="27" />
         <mark key="." line="174" column="27" />
         <mark key="^" line="174" column="28" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_for_rdts.py" timestamp="1533658513475">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/amplitude_detuning" timestamp="1531821773420">
         <mark key="[" line="3" column="0" />
@@ -372,6 +376,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="47" column="14" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/measure_optics.py" timestamp="1533735399556">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="14" column="0" />
@@ -393,6 +402,12 @@
         <mark key="[" line="73" column="119" />
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533735571353">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+        <mark key="^" line="31" column="8" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1533054221987">
         <mark key="[" line="27" column="10" />
@@ -477,7 +492,11 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/getsuper.py" timestamp="1533725465637" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/getsuper.py" timestamp="1533735668424">
+        <mark key="[" line="64" column="29" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="178" column="46" filename="/media/jdilly/Storage/PhD/2018_04_prelim_flatoptics_correction/10_Code/data_creation.py" />
@@ -589,7 +608,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5hY2NlbGVyYXRvcnMuYWNjZWxlcmF0b3IgaW1wb3J0IEFjY0V4Y2l0YXRpb25Nb2RlCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -697,7 +716,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isdir, exists, split</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -706,28 +725,28 @@
         <text encoding="base64">IyBTY3JpcHQgTW9kZSAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmFpc2UgRW52aXJvbm1lbnRFcnJvcigiezpzfSBpcyBub3Qgc3VwcG9zZWQgdG8gcnVuIGFzIG1haW4uIi5mb3JtYXQoX19maWxlX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5hY2NlbGVyYXRvcnMuYWNjZWxlcmF0b3IgaW1wb3J0IEFjY0V4Y2l0YXRpb25Nb2RlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKGJldGFfYmV0YV9wYXRoKQo=</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YmV0YV9iZXRhX3BhdGggPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKG9zLnBhdGguZGlybmFtZShfX2ZpbGVfXyksIG9zLnBhcmRpciwgb3MucGFyZGlyKSkK</text>
+        <text encoding="base64">TE9HX0ZJTEUgPSAibWVhc3VyZV9vcHRpY3MubG9nIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBCZXRhLUJlYXQgUmVwbyBpbXBvcnRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgICMgcmVuYW1lIG15IHdpc2UgZmlsZXMKICAgICMgbmV3X2ZvbGRlciA9IHJlbmFtZV93aXNlX3RvX2JldHRlcl9mb3JtYXQoIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS8yMDE1X3dpc2VfNDBjbV9zZWVkcyIsCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJXSVNFLTIwMTUtIikKCiAgICBuZXdfZm9sZGVyID0gIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MiCiAgICAjIEdldCBvbmx5IHNpbmdsZSBpcHMKICAgIGZpbHRlcl9hbGxfaW5fZm9sZGVyX2J5X2lwcyhuZXdfZm9sZGVyLCBbMSwgNV0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,7 +768,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKGJldGFfYmV0YV9wYXRoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
