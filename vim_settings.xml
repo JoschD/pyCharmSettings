@@ -126,8 +126,10 @@
         <mark key="." line="171" column="12" />
         <mark key="^" line="171" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_utils.py" timestamp="1533725482802">
-        <mark key="[" line="17" column="39" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_utils.py" timestamp="1533732859129">
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="4" />
+        <mark key="." line="54" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
         <mark key="[" line="23" column="0" />
@@ -173,11 +175,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533657592033">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="30" column="34" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1533733302542">
+        <mark key="[" line="23" column="86" />
+        <mark key="]" line="34" column="0" />
         <mark key="^" line="26" column="3" />
-        <mark key="." line="30" column="34" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
@@ -601,7 +603,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJBY2Nlc3NpbmcgZGlyZWN0b3J5ICd7OnN9JyIuZm9ybWF0KHBhdGhfdG9fZGlyKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -709,7 +711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -727,19 +729,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBmaW4KCg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZV9oZWFkZXJfY29tbWVudHNfZnJvbV9maWxlcyhbb3MucGF0aC5qb2luKGRpciwgZikgZm9yIGYgaW4gb3MubGlzdGRpcihkaXIpIGlmIGYuZW5kc3dpdGgoIi50ZnMiKV0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oJ212ICcrZmluKycgJytmb3V0KQo=</text>
+        <text encoding="base64">ICAgIGRpciA9ICIvbWVkaWEvamRpbGx5L1N0b3JhZ2UvV0lTRS0yMDE1LUxIQ3NxdWVlemUtMC40XzEwLjBfMC40XzMuMC02LjVUZVYtZW1mcWNzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnICAgICAgICAgICcrZm91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3V0PSdMSENzcXVlZXplLTAuNF8xMC4wXzAuNF8zLjAtNi41VGVWLWVtZnFjcy0nK3N0cihpKSsnLnRmcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -758,10 +760,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAnbW92aW5nIHRvOicK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBmaW4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLmV4aXQoJ0ZhaWxlZCB0byBmaW5kIGZpbGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5zeXN0ZW0oJ212ICcrZmluKycgJytmb3V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
