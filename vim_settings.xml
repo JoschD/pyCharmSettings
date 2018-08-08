@@ -20,7 +20,7 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1533725405286">
+      <file name="/a.dummy" timestamp="1533737479137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/run_test.py" timestamp="1531906459968">
@@ -69,6 +69,7 @@
         <mark key="^" line="318" column="21" />
         <mark key="." line="318" column="22" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/tfs_collection.py" timestamp="1533737468809" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1531399225101">
         <mark key="[" line="917" column="0" />
         <mark key="]" line="917" column="82" />
@@ -124,6 +125,9 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/segment_by_segment.py" timestamp="1533737500585">
+        <mark key="[" line="12" column="42" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533733932722">
         <mark key="[" line="166" column="0" />
         <mark key="]" line="172" column="82" />
@@ -165,6 +169,12 @@
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_collection.py" timestamp="1533737629898">
+        <mark key="[" line="211" column="57" />
+        <mark key="]" line="209" column="3" />
+        <mark key="." line="209" column="3" />
+        <mark key="^" line="209" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/gui_utils.py" timestamp="1532950888117">
         <mark key="[" line="29" column="0" />
@@ -608,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5hY2NlbGVyYXRvcnMuYWNjZWxlcmF0b3IgaW1wb3J0IEFjY0V4Y2l0YXRpb25Nb2RlCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -725,28 +735,28 @@
         <text encoding="base64">IyBTY3JpcHQgTW9kZSAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgcmFpc2UgRW52aXJvbm1lbnRFcnJvcigiezpzfSBpcyBub3Qgc3VwcG9zZWQgdG8gcnVuIGFzIG1haW4uIi5mb3JtYXQoX19maWxlX18pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBtb2RlbC5hY2NlbGVyYXRvcnMuYWNjZWxlcmF0b3IgaW1wb3J0IEFjY0V4Y2l0YXRpb25Nb2RlCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydAo=</text>
+        <text encoding="base64">ICAgIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgIi4uIikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TE9HX0ZJTEUgPSAibWVhc3VyZV9vcHRpY3MubG9nIgo=</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBtb2RlbC5hY2NlbGVyYXRvcnMuYWNjZWxlcmF0b3IgaW1wb3J0IEFjY0V4Y2l0YXRpb25Nb2RlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -768,7 +778,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKGJldGFfYmV0YV9wYXRoKQo=</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
