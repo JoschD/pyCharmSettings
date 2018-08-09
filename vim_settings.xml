@@ -208,6 +208,12 @@
         <mark key="]" line="1224" column="0" />
         <mark key="." line="1224" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/test_tester.py" timestamp="1533805921928">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="9" column="24" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
@@ -308,7 +314,7 @@
         <mark key="]" line="27" column="11" />
         <mark key="." line="27" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1533745743983">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" timestamp="1533805905563">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -490,8 +496,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhY2NlbGVyYXRvciBpbXBvcnQgQWNjZWxlcmF0b3IsIEFjY2VsZXJhdG9yRGVmaW5pdGlvbkVycm9yLCBBY2NFeGNpdGF0aW9uTW9kZQo=</text>
+      <register name="&quot;" type="4">
+        <text>TEST_CASES_GLOBAL_CORRECTION</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -599,7 +605,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TEST_CASES_GLOBAL_CORRECTION</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
