@@ -52,6 +52,7 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/tfs_collection.py" timestamp="1533737468809" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533804077540">
         <mark key="[" line="16" column="0" />
       </file>
@@ -72,6 +73,7 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1533807668458" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/bbq_utils/bbq_manipulation.py" timestamp="1530891593351">
         <mark key="[" line="57" column="12" />
         <mark key="]" line="20" column="0" />
@@ -112,6 +114,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/backwards_compatibility.py" timestamp="1533807402024">
+        <mark key="[" line="22" column="81" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1533733932722">
         <mark key="[" line="166" column="0" />
@@ -229,6 +234,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1533808096384" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -238,6 +244,9 @@
         <mark key="[" line="180" column="43" />
         <mark key="]" line="163" column="95" />
         <mark key="." line="163" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_file_writer.py" timestamp="1533807428025">
+        <mark key="[" line="10" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1532958077242">
         <mark key="[" line="210" column="0" />
@@ -341,6 +350,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1533054844675">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
+        <mark key="[" line="2560" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1531987342025">
         <mark key="[" line="17" column="16" />
