@@ -25,11 +25,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="125" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1533817417519">
-        <mark key="[" line="29" column="115" />
-        <mark key="]" line="29" column="115" />
-        <mark key="^" line="29" column="63" />
-        <mark key="." line="29" column="64" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1533819066036">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="16" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="27" column="16" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -139,10 +139,19 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1533819069215">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1532691973551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1533819181037">
+        <mark key="[" line="69" column="126" />
+        <mark key="]" line="69" column="127" />
+        <mark key="^" line="343" column="11" />
+        <mark key="." line="69" column="127" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1533738774881">
         <mark key="[" line="0" column="4" />
@@ -265,7 +274,7 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1533717625455">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1533819407463">
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="." line="224" column="0" />
@@ -677,7 +686,7 @@
         <text encoding="base64">ZnJvbSBhY2NlbGVyYXRvciBpbXBvcnQgQWNjZWxlcmF0b3IsIEFjY2VsZXJhdG9yRGVmaW5pdGlvbkVycm9yLCBBY2NFeGNpdGF0aW9uTW9kZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -725,8 +734,8 @@
         <entry encoding="base64">JzwsJz5ub3JtISBkMmYo</entry>
         <entry encoding="base64">JzwsJz5ub3JtIWQyZig=</entry>
         <entry encoding="base64">JzwsJz5ub3JtISBAYQ==</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
