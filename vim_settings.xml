@@ -45,10 +45,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1533829089273">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1533831616450">
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -84,8 +84,9 @@
         <mark key="." line="318" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/tfs_collection.py" timestamp="1533737468809" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533804077540">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="56" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1531399225101">
         <mark key="[" line="917" column="0" />
@@ -186,7 +187,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1533828460894">
+      <file name="/Python Console" timestamp="1533831631408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
@@ -369,10 +370,11 @@
         <mark key="^" line="90" column="13" />
         <mark key="." line="90" column="13" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint.py" timestamp="1531755620888">
-        <mark key="[" line="180" column="43" />
-        <mark key="]" line="163" column="95" />
-        <mark key="." line="163" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint.py" timestamp="1533831575459">
+        <mark key="[" line="357" column="21" />
+        <mark key="]" line="357" column="22" />
+        <mark key="." line="357" column="22" />
+        <mark key="^" line="357" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_file_writer.py" timestamp="1533807428025">
         <mark key="[" line="10" column="11" />
@@ -439,11 +441,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint_datatypes.py" timestamp="1533829275784">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="22" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint_datatypes.py" timestamp="1533830947943">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/b2_horizontal.cfg" timestamp="1531388725339">
         <mark key="[" line="1" column="0" />
@@ -556,7 +558,7 @@
         <mark key="^" line="5" column="138" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533054844675">
+      <file name="/Dummy.txt" timestamp="1533831170537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
@@ -719,7 +721,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text encoding="base64">IEFyZ3VtZW50RXJyb3IoIlR3byBvcHRpb24tc3RydWN0dXJlcyB3aWxsIGJlIHBhc3NlZC4i</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -827,37 +829,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IEFyZ3VtZW50RXJyb3IoIlR3byBvcHRpb24tc3RydWN0dXJlcyB3aWxsIGJlIHBhc3NlZC4i</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VzPVtGYWxzZSwgVHJ1ZSwgIklQMSIsICJJUDUiXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU3RyaW5nQm9vbCgpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGluc3QpOgogICAgICAgIHNlbGYuaW5zdCA9IGluc3QKICAgIGRlZiBkZWNvZGUoc2VsZik6CiAgICAgICAgCiAgICAgICAgCmNsYXNzIERpY3RGb3JQYXJzZXIoKToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBzdHJpbmcpOgogICAgICAgIHNlbGYuc3RyaW5nID0gc3RyaW5nCiAgICAgICAgCiAgICBkZWYgZGVjb2RlKHNlbGYpOgogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHNlbGYuc3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VzPVtGYWxzZSwgVHJ1ZSwgIklQMSIsICJJUDUiXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmFpc2UgRW52aXJvbm1lbnRFcnJvcigiezpzfSBpcyBub3Qgc3VwcG9zZWQgdG8gcnVuIGFzIG1haW4uIi5mb3JtYXQoX19maWxlX18pKQo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlPXN0ciwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1haW5fbG9vcChvcHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VzPVtGYWxzZSwgVHJ1ZSwgIklQMSIsICJJUDUiXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wdCA9IGdldF9vcHRpb25zKCkK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlPWxpc3QsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VlZHMgPSByYW5nZSgxLCA2MSkKY3dkID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvU1RVRFkuMTgucmR0c19mbGF0b3B0aWNzLyIKZXJyb3JkZWZfZGlyID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvd2lzZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MvIgptZWFzdXJlX29mX2ludGVyZXN0ID0gInB0Y3JkdCIK</text>
+        <text encoding="base64">ICAgICAgICBuYXJncz0iKiIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuX2xvY2FsID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlPVN0cmluZ0Jvb2wsCg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4KICAgIG9wdC4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -876,10 +878,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBjaG9pY2VzPVsxLDJdLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxwPSIiLAo=</text>
+        <text encoding="base64">ICAgICAgICBuYXJncz0iKiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
