@@ -354,10 +354,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
         <mark key="[" line="2560" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1531987342025">
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="16" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="56" />
+        <mark key="." line="19" column="16" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/2018_irnl_triplet_correction_for_rdts.py" timestamp="1533647176763">
         <mark key="[" line="32" column="0" />
@@ -509,7 +509,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>TEST_CASES_GLOBAL_CORRECTION</text>
+        <text>ceb509ed43333876682becaafb46295e61fbbc2f</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -617,7 +617,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TEST_CASES_GLOBAL_CORRECTION</text>
+        <text>ceb509ed43333876682becaafb46295e61fbbc2f</text>
       </register>
       <register name="/" type="4">
         <text>_set_ma</text>
@@ -672,7 +672,7 @@
         <text encoding="base64">ZnJvbSBtYXRoIGltcG9ydCBzcXJ0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -721,6 +721,7 @@
         <entry encoding="base64">JzwsJz5ub3JtIWQyZig=</entry>
         <entry encoding="base64">JzwsJz5ub3JtISBAYQ==</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
