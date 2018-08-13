@@ -17,6 +17,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="madx" type="PLAIN_TEXT" />
       <mapping ext="twisskick" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="offline_presentation" type="Python" />
       <mapping pattern="plot_spectrum" type="Python" />
       <mapping pattern="amplitude_detuning" type="Python" />
