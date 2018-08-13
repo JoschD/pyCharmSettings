@@ -45,10 +45,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534163958168">
-        <mark key="[" line="231" column="47" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534166870116">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -158,6 +158,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/rdt_study.ini" timestamp="1534166626698">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/segment_by_segment.py" timestamp="1533804554155">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="50" />
@@ -187,7 +192,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534163347926">
+      <file name="/Python Console" timestamp="1534166872267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1530108170043">
@@ -741,7 +746,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIlN1Ym1pdHRpbmcgam9iIHsiKQo=</text>
+        <text encoding="base64">CgpkZWYgZ2V0X29wdGlvbnMoKToKICAgIG9wdCA9IERvdERpY3QoKQogICAgb3B0LmJlYW1zID0gWzEsIDJdCiAgICBvcHQueGluZyA9IFtGYWxzZSwgIklQMSIsICJJUDUiLCBUcnVlXQogICAgb3B0Lm9wdGljX3R5cGVzID0gWyIzMDMwIiwgIjE1MTUiLCAiNjAxNSJdCiAgICBvcHQuZXJyb3JfdHlwZXMgPSBbWyJBNCJdLCBbIkI0Il0sIFsiQjUiXV0KICAgIG9wdC5lcnJvcl9sb2NhdGlvbnMgPSBbIkFMTCIsICJJUDEiLCAiSVA1Il0KICAgIG9wdC5zZWVkcyA9IHJhbmdlKDEsIDYxKQogICAgb3B0LmN3ZCA9ICIvYWZzL2Nlcm4uY2gvd29yay9qL2pkaWxseS9wcml2YXRlL1NUVURZLjE4LnJkdHNfZmxhdG9wdGljcy8iCiAgICBvcHQuZXJyb3JkZWZfZGlyID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvd2lzZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MvIgogICAgb3B0Lm1lYXN1cmVfb2ZfaW50ZXJlc3QgPSAicHRjcmR0IgogICAgb3B0LnJ1bl9sb2NhbCA9IEZhbHNlCiAgICByZXR1cm4gb3B0Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -849,7 +854,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
@@ -858,16 +863,16 @@
         <text encoding="base64">TE9HID0gbG9nZ2luZ190b29scy5nZXRfbG9nZ2VyKF9fbmFtZV9fLCBsZXZlbF9jb25zb2xlPWxvZ2dpbmdfdG9vbHMuREVCVUcsIGZtdD0iJShhc2N0aW1lKXMgfCAlKGxldmVsbmFtZSk3cyB8ICUobWVzc2FnZSlzIHwgJShuYW1lKXMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIlN1Ym1pdHRpbmcgam9iIHsiKQo=</text>
+        <text encoding="base64">CgpkZWYgZ2V0X29wdGlvbnMoKToKICAgIG9wdCA9IERvdERpY3QoKQogICAgb3B0LmJlYW1zID0gWzEsIDJdCiAgICBvcHQueGluZyA9IFtGYWxzZSwgIklQMSIsICJJUDUiLCBUcnVlXQogICAgb3B0Lm9wdGljX3R5cGVzID0gWyIzMDMwIiwgIjE1MTUiLCAiNjAxNSJdCiAgICBvcHQuZXJyb3JfdHlwZXMgPSBbWyJBNCJdLCBbIkI0Il0sIFsiQjUiXV0KICAgIG9wdC5lcnJvcl9sb2NhdGlvbnMgPSBbIkFMTCIsICJJUDEiLCAiSVA1Il0KICAgIG9wdC5zZWVkcyA9IHJhbmdlKDEsIDYxKQogICAgb3B0LmN3ZCA9ICIvYWZzL2Nlcm4uY2gvd29yay9qL2pkaWxseS9wcml2YXRlL1NUVURZLjE4LnJkdHNfZmxhdG9wdGljcy8iCiAgICBvcHQuZXJyb3JkZWZfZGlyID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvd2lzZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MvIgogICAgb3B0Lm1lYXN1cmVfb2ZfaW50ZXJlc3QgPSAicHRjcmR0IgogICAgb3B0LnJ1bl9sb2NhbCA9IEZhbHNlCiAgICByZXR1cm4gb3B0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIlN1Ym1pdHRpbmcgam9iIHsiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIiIpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -876,10 +881,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhjb3JyZWN0XzMwMzApOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dWRpbGx5dGllcy9tYWR4X3J1bm5lcnMvaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL3JkdF9zdHVkeS5jZmcK</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cyhjb3JyZWN0XzMwMzApOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -898,10 +903,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igc2VlZCBpbiBvcHQuc2VlZHM6Cg==</text>
+        <text encoding="base64">dWRpbGx5dGllcy9tYWR4X3J1bm5lcnMvaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL3JkdF9zdHVkeS5jZmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBlcnJvcl9sb2MgaW4gb3B0LmVycm9yX2xvY2F0aW9uczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igc2VlZCBpbiBvcHQuc2VlZHM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
