@@ -45,7 +45,7 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534166870116">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534167790434">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -238,11 +238,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1534154138083">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="40" column="22" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1534167804055">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
@@ -745,8 +745,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgpkZWYgZ2V0X29wdGlvbnMoKToKICAgIG9wdCA9IERvdERpY3QoKQogICAgb3B0LmJlYW1zID0gWzEsIDJdCiAgICBvcHQueGluZyA9IFtGYWxzZSwgIklQMSIsICJJUDUiLCBUcnVlXQogICAgb3B0Lm9wdGljX3R5cGVzID0gWyIzMDMwIiwgIjE1MTUiLCAiNjAxNSJdCiAgICBvcHQuZXJyb3JfdHlwZXMgPSBbWyJBNCJdLCBbIkI0Il0sIFsiQjUiXV0KICAgIG9wdC5lcnJvcl9sb2NhdGlvbnMgPSBbIkFMTCIsICJJUDEiLCAiSVA1Il0KICAgIG9wdC5zZWVkcyA9IHJhbmdlKDEsIDYxKQogICAgb3B0LmN3ZCA9ICIvYWZzL2Nlcm4uY2gvd29yay9qL2pkaWxseS9wcml2YXRlL1NUVURZLjE4LnJkdHNfZmxhdG9wdGljcy8iCiAgICBvcHQuZXJyb3JkZWZfZGlyID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvd2lzZS9XSVNFLTIwMTUtTEhDc3F1ZWV6ZS0wLjRfMTAuMF8wLjRfMy4wLTYuNVRlVi1lbWZxY3MvIgogICAgb3B0Lm1lYXN1cmVfb2ZfaW50ZXJlc3QgPSAicHRjcmR0IgogICAgb3B0LnJ1bl9sb2NhbCA9IEZhbHNlCiAgICByZXR1cm4gb3B0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
