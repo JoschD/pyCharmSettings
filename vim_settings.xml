@@ -21,11 +21,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534251848508">
-        <mark key="[" line="297" column="83" />
-        <mark key="]" line="297" column="94" />
-        <mark key="." line="297" column="94" />
-        <mark key="^" line="297" column="83" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534260947452">
+        <mark key="[" line="290" column="25" />
+        <mark key="]" line="293" column="80" />
+        <mark key="." line="296" column="12" />
+        <mark key="^" line="296" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -48,10 +48,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534258927416">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534262597222">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
@@ -202,6 +202,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/madx_snippets.py" timestamp="1534260512223">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="47" column="82" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -315,11 +320,6 @@
         <mark key="]" line="174" column="27" />
         <mark key="." line="174" column="27" />
         <mark key="^" line="174" column="28" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_for_rdts.py" timestamp="1533658513475">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_beta_beating_writer.py" timestamp="1533804398551">
         <mark key="[" line="7" column="0" />
@@ -570,7 +570,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -678,37 +678,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>output</text>
+        <text encoding="base64">c3RkID0g</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJBTkhYMTAwMCI6IHRmcy5UZnNEYXRhRnJhbWUoKSwK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3X2RhdGFbInt9X0FWRyIuZm9ybWF0KGNvbCldID0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm9UeXBlOiB7fSwgIi5mb3JtYXQob3B0aWNzX3R5cGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlNlZWQ6IHt9LCAiLmZvcm1hdChzZWVkKSArCg==</text>
+        <text encoding="base64">ICAgICAgICBleHRlbnNpb249ZXh0ZW5zaW9uKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImVMb2M6IHt9LCAiLmZvcm1hdChlcnJvcl9sb2MpICsK</text>
+        <text encoding="base64">ICAgICAgICBpZD1nZXRfaWQocmR0LCBzdGF0ZSwgYmVhbSwgZXJyb3Jfc3JjKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImVUeXBlczoge30sICIuZm9ybWF0KCIsIi5qb2luKGVycm9yX3R5cGVzKSkgKwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4oZm9sZGVyLCAie2lkOnN9X2Vycm9yc3tleHRlbnNpb246c30iLmZvcm1hdCgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIlhpbmc6IHt9LCAiLmZvcm1hdCh4aW5nKSArCg==</text>
+        <text encoding="base64">ZGVmIGdldF9wbG90X2ZpbGUoZm9sZGVyLCByZHQsIHN0YXRlLCBiZWFtLCBlcnJvcl9zcmMsIGV4dGVuc2lvbik6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIkJlYW06IHt9LCAiLmZvcm1hdChiZWFtKSArCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -727,10 +727,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0cuaW5mbygK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciBvdXRwdXRfaWQgaW4gX2dldF9hbGxfb3V0cHV0X2lkcyhiZWFtLCBvcHRpY3NfdHlwZSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
