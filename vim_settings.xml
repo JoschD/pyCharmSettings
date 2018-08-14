@@ -21,11 +21,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534250586537">
-        <mark key="[" line="297" column="88" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534251848508">
+        <mark key="[" line="297" column="83" />
+        <mark key="]" line="297" column="94" />
+        <mark key="." line="297" column="94" />
+        <mark key="^" line="297" column="83" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -180,7 +180,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1534250532818">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1534251833479">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="62" column="23" />
         <mark key="^" line="23" column="2" />
@@ -565,8 +565,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W0JlYW0xX3dYaW5nXQpiZWFtcyA9IDEKeGluZyA9IEZhbHNlLCBUcnVlCmVycm9yX3R5cGVzID0gWyJCNCJdLCBbIkI1Il0KZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1IgoKCltCZWFtMV9YaW5nSVAxXQpiZWFtcyA9IDEKeGluZyA9ICJJUDEiCmVycm9yX3R5cGVzID0gWyJCNCJdLCBbIkI1Il0KZXJyb3JfbG9jYXRpb25zID0gIklQMSIKCgpbQmVhbTFfWGluZ0lQNV0KYmVhbXMgPSAxCnhpbmcgPSAiSVA1IgplcnJvcl90eXBlcyA9IFsiQjQiXSwgWyJCNSJdCmVycm9yX2xvY2F0aW9ucyA9ICJJUDUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -674,7 +674,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(root, regex.sub(file, replace))</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
