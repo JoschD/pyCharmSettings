@@ -21,11 +21,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534260947452">
-        <mark key="[" line="290" column="25" />
-        <mark key="]" line="293" column="80" />
-        <mark key="." line="296" column="12" />
-        <mark key="^" line="296" column="12" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534323082355">
+        <mark key="[" line="134" column="34" />
+        <mark key="]" line="134" column="27" />
+        <mark key="." line="134" column="27" />
+        <mark key="^" line="134" column="27" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
         <mark key="[" line="441" column="0" />
@@ -48,10 +48,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534262597222">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534323602840">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
@@ -569,8 +570,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -678,13 +679,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RkID0g</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bmV3X2RhdGFbInt9X0FWRyIuZm9ybWF0KGNvbCldID0g</text>
+        <text>get_avg_and_error(seed_data)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -693,22 +694,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5fcGxvdHMgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleHRlbnNpb249ZXh0ZW5zaW9uKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZD1nZXRfaWQocmR0LCBzdGF0ZSwgYmVhbSwgZXJyb3Jfc3JjKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvcy5wYXRoLmpvaW4oZm9sZGVyLCAie2lkOnN9X2Vycm9yc3tleHRlbnNpb246c30iLmZvcm1hdCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICMjIyBiZWxvdyBpcyBvbmUgcGxvdCAjIyMgIwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9wbG90X2ZpbGUoZm9sZGVyLCByZHQsIHN0YXRlLCBiZWFtLCBlcnJvcl9zcmMsIGV4dGVuc2lvbik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3Igb3B0aWNfdHlwZSBpbiBvcHQub3B0aWNfdHlwZXM6CiAgICAgICAgICAgICAgICAgICAgICAgIGlkcyA9IF9nZXRfYWxsX291dHB1dF9pZHMoYmVhbSwgb3B0aWNfdHlwZSkKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YSA9IHBhbmRhcy5EYXRhRnJhbWUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleD1pZHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2x1bW5zPVsie31fe30iLmZvcm1hdChuLCBpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG4gaW4gQU1QREVUX05BTUVTIGZvciBpIGluIFsiQVZHIiwgIk1JTiIsICJNQVgiXV0KICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBmb3Igb3V0cHV0X2lkIGluIGlkczoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlZWRfZGF0YSA9IHBhbmRhcy5EYXRhRnJhbWUoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9b3B0LnNlZWRzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbnM9QU1QREVUX05BTUVTLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHNlZWQgaW4gb3B0LnNlZWRzOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgZGVmaW5lIHNlZWQgZm9sZGVyIGFuZCBlcnJvciBkZWZpbml0aW9uIHBhdGhzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VlZF9kYXRhLmxvY1tzZWVkLCA6XSA9IGdldF92YWx1ZXNfZnJvbV90ZnMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdldF90ZnNfbmFtZShvcHQuY3dkLCBzZWVkLCB4aW5nLCBlcnJvcl90eXBlcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVycm9yX2xvYywgb3B0aWNfdHlwZSwgb3V0cHV0X2lkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5sb2Nbb3V0cHV0X2lkLCA6XSA9IGdldF9hdmdfYW5kX2Vycm9yKHNlZWRfZGF0YSkudG9fZnJhbWUoKS5UCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF2Z19kYXRhID0gZ2V0X2F2Z19hbmRfZXJyb3Ioc2VlZF9kYXRhKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -729,8 +730,10 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>data = pandas.DataFrame(
+                        index=opt.
+                    )</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
