@@ -48,11 +48,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534337660188">
-        <mark key="[" line="96" column="79" />
-        <mark key="]" line="96" column="79" />
-        <mark key="." line="96" column="79" />
-        <mark key="^" line="96" column="79" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534340251788">
+        <mark key="[" line="48" column="16" />
+        <mark key="]" line="48" column="25" />
+        <mark key="." line="48" column="16" />
+        <mark key="^" line="44" column="33" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
@@ -570,8 +570,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZGF0YVsie31fQVZHIi5mb3JtYXQoY29sKV0gPSBucC5tZWFuKGRhdGEubG9jWzosIGNvbF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>el</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -679,13 +679,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>el</text>
       </register>
       <register name="/" type="4">
         <text>range</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZGF0YVsie31fQVZHIi5mb3JtYXQoY29sKV0gPSBucC5tZWFuKGRhdGEubG9jWzosIGNvbF0pCg==</text>
+      <register name="0" type="4">
+        <text>error_loc</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
