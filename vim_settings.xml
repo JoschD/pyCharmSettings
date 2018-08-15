@@ -24,9 +24,9 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534323082355">
-        <mark key="[" line="134" column="34" />
-        <mark key="]" line="134" column="27" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534346726846">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="243" column="86" />
         <mark key="." line="134" column="27" />
         <mark key="^" line="134" column="27" />
       </file>
@@ -56,11 +56,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534345360908">
-        <mark key="[" line="34" column="3" />
-        <mark key="]" line="48" column="25" />
-        <mark key="." line="48" column="16" />
-        <mark key="^" line="44" column="33" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534351009725">
+        <mark key="[" line="215" column="26" />
+        <mark key="]" line="216" column="40" />
+        <mark key="." line="216" column="4" />
+        <mark key="^" line="216" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
@@ -155,7 +155,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1534240597241">
+      <file name="/Python Console" timestamp="1534349668938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
@@ -169,9 +169,9 @@
         <mark key="^" line="343" column="11" />
         <mark key="." line="69" column="127" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1534247097983">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="152" column="78" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.amplitude_detuning_on_flatoptics/10_Code/data_creation_ampdet.py" timestamp="1534348178148">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="59" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
@@ -615,8 +615,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgcmF3X2lucHV0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>os.path.join(opt.cwd, &quot;plot_output&quot;)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -724,37 +724,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>iotools</text>
+        <text>os.path.join(opt.cwd, &quot;plot_output&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="4">
-        <text>SegmentBySegment.</text>
+        <text>tripcor_tmplt.STAGE_ORDER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBfX2J1aWx0aW5fXyBpbXBvcnQgcmF3X2lucHV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBTZWdtZW50QnlTZWdtZW50LnNic193cml0ZXJzLnNic19waGFzZV93cml0ZXIgaW1wb3J0IEZJUlNUX0JQTV9CMQo=</text>
+        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBTZWdtZW50QnlTZWdtZW50LlNlZ21lbnRCeVNlZ21lbnRNYWluIGltcG9ydCBnZXRfZ29vZF9icG1zCg==</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKCJHYXRoZXJpbmcgZGF0YSBmb3IgIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIHN0YWdlcyA9IGxpc3QodHJpcGNvcl90bXBsdC5TVEFHRV9PUkRFUikgICMgY29weQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkNyZWF0ZWQgZGlyZWN0b3J5IHN0cnVjdHVyZTogJ3t9JyIuZm9ybWF0KHBhdGhfdG9fZGlyKSkK</text>
+        <text encoding="base64">ICAgIHN0YWdlcy5yZW1vdmUoVU5VU0VEX1NUQUdFUykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBJT0Vycm9yOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZXJyb3IoIkNvdWxkIG5vdCBjb3B5IGl0ZW0gYmVjYXVzZSBvZiBJT0Vycm9yLiBJdGVtOiAne30nIi5mb3JtYXQoc3JjX2l0ZW0pKQo=</text>
+        <text encoding="base64">ICAgICMgc2V0dXAgcHJvZ3Jlc3MgYmFyOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +773,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICMgc2V0dXAgcHJvZ3Jlc3MgYmFyOgogICAgcHJvZ19tYW4gPSBlbmxpZ2h0ZW4uZ2V0X21hbmFnZXIoKQogICAgcHJvZ19iYXIgPSBwcm9nX21hbi5jb3VudGVyKAogICAgICAgIHRvdGFsPXRyaXBjb3IuZ2V0X251bWJlcl9vZl9qb2JzKG9wdClbMF0vbGVuKG9wdC5zZWVkcyksCiAgICAgICAgZGVzYz0iUGxvdHM6ICIsCiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbXBhcmVfdXRpbHMKaW1wb3J0IHJlZ3Jlc3Npb24K</text>
+        <text encoding="base64">ZGQgICAgICAgICAgICAjICAgICAgICAgdHlwZT0nbG9nJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
