@@ -247,11 +247,11 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_artists.py" timestamp="1534422518248">
-        <mark key="[" line="196" column="24" />
-        <mark key="]" line="199" column="21" />
-        <mark key="." line="199" column="21" />
-        <mark key="^" line="199" column="21" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_artists.py" timestamp="1534423975500">
+        <mark key="[" line="220" column="33" />
+        <mark key="]" line="219" column="39" />
+        <mark key="." line="219" column="39" />
+        <mark key="^" line="219" column="39" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -569,7 +569,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Style</text>
+        <text>_set_line_visible</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -677,59 +677,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Style</text>
+        <text>_set_line_visible</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiU3R5bGUiKSwK</text>
+      <register name="0" type="4">
+        <text>_apply_line_visibility</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTGluZSIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBsaW5lLnNldF92aXNpYmxlKFRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTGluZSIpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBsaW5lLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTGFiZWwiLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBsaW5lLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTGFiZWwiLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="84" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="51" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI0Il0K</text>
+        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3B0aWNfdHlwZXMgPSAiMzAzMCIsICI2MDE1Igo=</text>
+        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI0Il0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
