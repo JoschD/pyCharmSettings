@@ -247,11 +247,11 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_artists.py" timestamp="1534414816763">
-        <mark key="[" line="183" column="16" />
-        <mark key="]" line="180" column="16" />
-        <mark key="." line="180" column="34" />
-        <mark key="^" line="180" column="16" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_artists.py" timestamp="1534419588917">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="179" column="7" />
+        <mark key="." line="179" column="7" />
+        <mark key="^" line="179" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -569,7 +569,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;Line Edit Content coming up.&quot;</text>
+        <text>Width</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -677,13 +677,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;Line Edit Content coming up.&quot;</text>
+        <text>Width</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWN3ZCIsCiAgICAgICAgbmFtZT0iY3dkIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9IlBhdGggdG8gdGhlIGN1cnJlbnQgd29ya2luZyBkaXJlY3RvcnkuIiwKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiV2lkdGgiLAogICAgICAgICAgICAKICAgICAgICApLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICApCg==</text>
