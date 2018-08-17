@@ -387,6 +387,11 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="164" column="4" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1534495616803">
+        <mark key="[" line="434" column="48" />
+        <mark key="]" line="434" column="48" />
+        <mark key="." line="434" column="48" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/chi_terms.py" timestamp="1531933542938">
         <mark key="[" line="73" column="119" />
         <mark key="]" line="73" column="119" />
@@ -611,8 +616,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubGVnZW5kLl9zZXRfbG9jKHNlbGYuX2xlZ2VuZF9sb2NhdGlvbnNbMF0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>bbox_to_anchor=(0.5, 1.25)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -720,7 +725,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>bbox_to_anchor=(0.5, 1.25)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
