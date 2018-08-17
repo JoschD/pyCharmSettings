@@ -58,16 +58,17 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534510800403">
-        <mark key="[" line="99" column="28" />
-        <mark key="]" line="99" column="28" />
-        <mark key="." line="99" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534512179971">
+        <mark key="[" line="172" column="24" />
+        <mark key="]" line="237" column="3" />
+        <mark key="." line="237" column="3" />
+        <mark key="^" line="237" column="3" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1534510125305">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1534511910325">
         <mark key="[" line="107" column="24" />
-        <mark key="]" line="134" column="138" />
-        <mark key="." line="134" column="20" />
-        <mark key="^" line="133" column="166" />
+        <mark key="]" line="104" column="5" />
+        <mark key="." line="104" column="5" />
+        <mark key="^" line="104" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/harmonic_analysis/get_optics_3D.py" timestamp="1533830784589">
         <mark key="[" line="16" column="0" />
@@ -376,9 +377,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/iotools.py" timestamp="1534342837434">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="83" column="87" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/iotools.py" timestamp="1534511153890">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="80" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -611,8 +612,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -720,37 +721,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBTY3JpcHQgTW9kZSAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCg==</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLmdldF9heGVzKCkueGF4aXMuc2V0X3RpY2tsYWJlbHMgPSBmaWcuZ2V0X2F4ZXMoKS54YXhpcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkID0gaWQucmVwbGFjZSgiXyIsICIgIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2xkIGxhYmxlcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGlkX3RvX3RpY2soaWQpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmaWxlczoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlLnN1YihyIiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -768,10 +769,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlkID0gaWQucmVwbGFjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4X25hbWVzID0gW10K</text>
+        <text encoding="base64">ICAgIHJldHVybiBpZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
