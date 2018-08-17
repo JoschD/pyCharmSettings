@@ -25,11 +25,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534507277810">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1534513188286">
         <mark key="'" line="299" column="20" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="329" column="0" />
+        <mark key="[" line="335" column="88" />
+        <mark key="]" line="336" column="95" />
+        <mark key="." line="336" column="0" />
         <mark key="^" line="329" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_file_writer.py" timestamp="1533743617657">
@@ -58,14 +58,13 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534512179971">
-        <mark key="[" line="172" column="24" />
-        <mark key="]" line="237" column="3" />
-        <mark key="." line="237" column="3" />
-        <mark key="^" line="237" column="3" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534513074797">
+        <mark key="[" line="180" column="48" />
+        <mark key="]" line="180" column="54" />
+        <mark key="." line="180" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1534511910325">
-        <mark key="[" line="107" column="24" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1534512844561">
+        <mark key="[" line="127" column="69" />
         <mark key="]" line="104" column="5" />
         <mark key="." line="104" column="5" />
         <mark key="^" line="104" column="5" />
@@ -613,7 +612,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -730,25 +729,25 @@
         <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsIGZpZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xkZAo=</text>
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLmdldF9heGVzKCkueGF4aXMuc2V0X3RpY2tsYWJlbHMgPSBmaWcuZ2V0X2F4ZXMoKS54YXhpcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2xkIGxhYmxlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLmdldF9heGVzKCkueGF4aXMuc2V0X3RpY2tsYWJlbHMgPSBmaWcuZ2V0X2F4ZXMoKS54YXhpcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmaWxlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2xkIGxhYmxlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmlsZSBpbiBmaWxlczoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -772,7 +771,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
