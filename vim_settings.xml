@@ -8,10 +8,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/main_window_widgets.py" timestamp="1534433123505">
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="." line="221" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/main_window_widgets.py" timestamp="1534496971027">
+        <mark key="[" line="185" column="64" />
+        <mark key="]" line="231" column="37" />
+        <mark key="." line="231" column="37" />
+        <mark key="^" line="231" column="34" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/regression.py" timestamp="1534342415524">
         <mark key="[" line="0" column="37" />
@@ -387,10 +388,10 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="164" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1534495616803">
-        <mark key="[" line="434" column="48" />
-        <mark key="]" line="434" column="48" />
-        <mark key="." line="434" column="48" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/plot_tfs.py" timestamp="1534497374518">
+        <mark key="]" line="428" column="29" />
+        <mark key="^" line="428" column="29" />
+        <mark key="." line="428" column="29" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/chi_terms.py" timestamp="1531933542938">
         <mark key="[" line="73" column="119" />
@@ -617,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>bbox_to_anchor=(0.5, 1.25)</text>
+        <text>\</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -725,37 +726,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bbox_to_anchor=(0.5, 1.25)</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>NavigationToolbar.LEGEND_LOCATIONS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9sZWdlbmRfbG9jYXRpb25faW5kZXggPSAwCiAgICAgICAgc2VsZi5fbGVnZW5kX2xvY2F0aW9ucyA9IGxpc3QoTmF2aWdhdGlvblRvb2xiYXIuTEVHRU5EX0xPQ0FUSU9OUykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubGVnZW5kLl9zZXRfbG9jKHNlbGYuX2xlZ2VuZF9sb2NhdGlvbnNbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZ2VuZDoKICAgICAgICAgICAgc2VsZi5fbGVnZW5kX2xvY2F0aW9uX2luZGV4ID0gMAogICAgICAgICAgICBzZWxmLl9sZWdlbmRfbG9jYXRpb25zID0gKFtzZWxmLmxlZ2VuZC5fZ2V0X2xvYygpXSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGlzdChOYXZpZ2F0aW9uVG9vbGJhci5MRUdFTkRfTE9DQVRJT05TKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xlZ2VuZF9sb2NhdGlvbl9pbmRleCA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeF9wb3MgPSBtYXgoLjUgLSAobGVuKHhfY29scykgKiAuMiksIDAuMSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubGVnZW5kLl9zZXRfbG9jKHNlbGYuX2xlZ2VuZF9sb2NhdGlvbnNbMF0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX2N1cnJlbnRfbGVnZW5kX2xvYygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX2xlZ2VuZF9sb2NhdGlvbl9pbmRleCA9IDAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbGVnZW5kX2xvY2F0aW9ucy5pbnNlcnQoMCwgc2VsZi5sZWdlbmQuX2dldF9sb2MoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX2N1cnJlbnRfbGVnZW5kX2xvYygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZ2VuZCBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +774,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfc2F2ZV9jdXJyZW50X2xlZ2VuZF9sb2Moc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbGVnZW5kX2xvY2F0aW9ucy5pbnNlcnQoMCwgc2VsZi5sZWdlbmQuX2dldF9sb2MoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zYXZlX2N1cnJlbnRfbGVnZW5kX2xvYygpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLmxlZ2VuZCBpcyBub3QgTm9uZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
