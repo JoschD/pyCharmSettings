@@ -58,10 +58,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534513074797">
-        <mark key="[" line="180" column="48" />
-        <mark key="]" line="180" column="54" />
-        <mark key="." line="180" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1534753992163">
+        <mark key="[" line="247" column="114" />
+        <mark key="]" line="247" column="114" />
+        <mark key="." line="246" column="0" />
+        <mark key="^" line="245" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1534512844561">
         <mark key="[" line="127" column="69" />
@@ -612,7 +613,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikKICAgIGxvYWRfYW5kX3Bsb3RfYWxsX3NhdmVkKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IlhpbmdPbk9mZiIpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -726,7 +727,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikKICAgIGxvYWRfYW5kX3Bsb3RfYWxsX3NhdmVkKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IlhpbmdPbk9mZiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVsIGZpZwo=</text>
