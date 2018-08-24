@@ -20,6 +20,7 @@
       <mapping pattern="plot_spectrum" type="Python" />
       <mapping pattern="amplitude_detuning" type="Python" />
       <mapping pattern="entrypoint" type="Python" />
+      <mapping pattern="draggabletext" type="Python" />
       <mapping pattern="range_test" type="Python" />
       <mapping pattern="matplotlib_gui" type="Python" />
       <mapping pattern="test_optics_class" type="Python" />
