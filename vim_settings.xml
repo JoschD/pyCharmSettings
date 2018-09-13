@@ -164,7 +164,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1535128437790">
+      <file name="/Python Console" timestamp="1536851853823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
@@ -242,6 +242,11 @@
         <mark key="." line="79" column="16" />
         <mark key="^" line="74" column="11" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/timber_extract.py" timestamp="1536851876536">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/error_handling.py" timestamp="1529660110600">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -288,7 +293,12 @@
         <mark key="]" line="4" column="69" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1536834114654">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/analyse_detuning.py" timestamp="1536850296414">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1536851238764">
         <mark key="[" line="146" column="14" />
         <mark key="]" line="146" column="14" />
         <mark key="." line="146" column="14" />
@@ -307,6 +317,9 @@
         <mark key="[" line="137" column="10" />
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1536851394276">
+        <mark key="[" line="207" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
@@ -428,7 +441,7 @@
         <mark key="^" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533831170537">
+      <file name="/Dummy.txt" timestamp="1536850511127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
@@ -618,8 +631,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Length of the moving average window. (# data points)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -727,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Length of the moving average window. (# data points)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -736,28 +749,28 @@
         <text>B1XingOnOff</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdmlld19oaXN0b3J5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgc3VibWl0X2pvYihqb2IpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgc3VibWl0X2pvYmZpbGUoc3ViKQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgc3ViID0gY3JlYXRlX3N1YmZpbGVfZnJvbV9qb2IoYWZzX2ZvbGRlciwgam9iKQo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRfZGYgPSBvdXRfZGYuZHJvcChUSU1FX0NPTCwgImNvbHVtbnMiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgam9iID0gY3JlYXRlX2pvYl9mb3JfYmFzaGZpbGUoYWZzX2ZvbGRlciArICJqb2Iuc2giKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgYWZzX2ZvbGRlciA9ICIvYWZzL2Nlcm4uY2gvd29yay9qL2pkaWxseS9wdWJsaWMvIgo=</text>
+        <text encoding="base64">ICAgICMgcmVtb3ZlIFRJTUUgaWYgc3RpbGwgaW4gZGF0YWZyYW1lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -775,10 +788,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbHMgPSBsc1swXVswXQo=</text>
+        <text encoding="base64">ICAgIGlmIFRJTUVfQ09MIGluIG91dF9kZi5jb2x1bW5zOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShscywgc2l4LnN0cmluZ190eXBlcykgb3Igbm90IGxzIGlzIE5vbmU6Cg==</text>
+        <text encoding="base64">ICAgIHBsb3QgPSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
