@@ -288,6 +288,11 @@
         <mark key="]" line="4" column="69" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1536834114654">
+        <mark key="[" line="146" column="14" />
+        <mark key="]" line="146" column="14" />
+        <mark key="." line="146" column="14" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -613,7 +618,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>Length of the moving average window. (# data points)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -721,7 +726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Length of the moving average window. (# data points)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
