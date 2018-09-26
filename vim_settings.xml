@@ -3,7 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1532976722283">
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1537883298587">
+        <mark key="^" line="12" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1537880760010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1537882547214">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532979382804">
@@ -12,7 +18,6 @@
         <mark key="." line="222" column="19" />
         <mark key="^" line="222" column="19" />
       </file>
-      <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_artists.py" timestamp="1532976807879" />
       <file name="$USER_HOME$/PycharmProjects/testproject/test.py" timestamp="1514663745922">
         <mark key="[" line="0" column="0" />
       </file>
@@ -22,44 +27,58 @@
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
       </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/main.py" timestamp="1537880921897">
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/options_artists.py" timestamp="1537882606242">
+        <mark key="[" line="253" column="13" />
+        <mark key="]" line="253" column="13" />
+        <mark key="." line="253" column="13" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>LINESTYLE_DASH_MAP = {
+    &quot;&quot;
+    &quot;-&quot;
+}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;_nolegend_&quot;</text>
+        <text>LINESTYLE_DASH_MAP = {
+    &quot;&quot;
+    &quot;-&quot;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGJhciBpcyBub3QgTm9uZToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhciBpbiBbaGJhciwgdmJhcl06Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmJhci5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZWJhcjoK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGJhciBpcyBub3QgTm9uZToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhciBpbiBbaGJhciwgdmJhcl06Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmJhci5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZWJhcjoK</text>
+      </register>
       <register name="-" type="4">
-        <text>&quot;_nolegend_&quot;</text>
+        <text encoding="base64">ICAgIG1hcCA9IHt9</text>
       </register>
     </registers>
     <search>
@@ -78,6 +97,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
