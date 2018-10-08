@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1537883298587">
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1539016549097">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="48" />
         <mark key="^" line="12" column="5" />
       </file>
       <file name="/Dummy.txt" timestamp="1537880760010">
@@ -38,8 +40,8 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+      <register name="0" type="4">
+        <text>https://plot.ly/python/reference/#scatter</text>
       </register>
       <register name="1" type="4">
         <text>LINESTYLE_DASH_MAP = {
@@ -48,10 +50,7 @@
 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LINESTYLE_DASH_MAP = {
-    &quot;&quot;
-    &quot;-&quot;
-}</text>
+        <text>https://plot.ly/python/reference/#scatter</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
