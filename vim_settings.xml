@@ -3,15 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1539016549097">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="48" />
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1539018364167">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="29" />
         <mark key="^" line="12" column="5" />
+        <mark key="." line="15" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1537880760010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1537882547214">
+      <file name="/Python Console" timestamp="1539018054087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532979382804">
@@ -50,7 +51,7 @@
 }</text>
       </register>
       <register name="&quot;" type="4">
-        <text>https://plot.ly/python/reference/#scatter</text>
+        <text># lines, markers, lines+markers</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -77,7 +78,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgZWJhcjoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIG1hcCA9IHt9</text>
+        <text># lines, markers, lines+markers</text>
       </register>
     </registers>
     <search>
