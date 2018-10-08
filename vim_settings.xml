@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1539018364167">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/serialization.py" timestamp="1539018941064">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1537880760010">
         <mark key="[" line="0" column="0" />
@@ -44,38 +43,38 @@
       <register name="0" type="4">
         <text>https://plot.ly/python/reference/#scatter</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">InNvbGlkIiwgImRvdCIsICJkYXNoIiwgImxvbmdkYXNoIiwgImRhc2hkb3QiLCBvciAibG9uZ2Rhc2hkb3QK</text>
+      </register>
+      <register name="3" type="4">
         <text>LINESTYLE_DASH_MAP = {
     &quot;&quot;
     &quot;-&quot;
 }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text># lines, markers, lines+markers</text>
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGJhciBpcyBub3QgTm9uZToK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhciBpbiBbaGJhciwgdmJhcl06Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmJhci5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgZWJhcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
       <register name="-" type="4">
         <text># lines, markers, lines+markers</text>
