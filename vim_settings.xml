@@ -225,8 +225,11 @@
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/plot_manipulation.py" timestamp="1539004615244">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/plot_manipulation.py" timestamp="1539005465538">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_test.py" timestamp="1533744030220">
         <mark key="[" line="5" column="41" />
@@ -736,8 +739,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAidGltYmVyX291dCI6ICIuL2ZpbGw3MTYyLnRmcyIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -845,7 +848,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ly/Storage/Repositories/Gui_Output/2018-09-13/LHCB1/Results/15-00-52_import_b1_inj_for_md2485_exclude_sideband/getkickac.out</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
