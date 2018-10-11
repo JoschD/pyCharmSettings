@@ -19,6 +19,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/usr/local/lib/python2.7/dist-packages/matplotlib/colors.py" timestamp="1539272397403" />
       <file name="/a.dummy" timestamp="1539087633018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -188,7 +189,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539257888567">
+      <file name="/Python Console" timestamp="1539272372432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
@@ -368,9 +369,14 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539259796555" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539259163968">
-        <mark key="[" line="51" column="65" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539271794764">
+        <mark key="[" line="574" column="16" />
+        <mark key="]" line="574" column="16" />
+        <mark key="^" line="573" column="44" />
+        <mark key="." line="574" column="16" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539272071228">
+        <mark key="[" line="56" column="29" />
         <mark key="]" line="58" column="8" />
         <mark key="." line="58" column="8" />
         <mark key="^" line="51" column="17" />
@@ -479,7 +485,6 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="/usr/local/lib/python2.7/dist-packages/matplotlib/backends/qt_editor/formlayout.py" timestamp="1539176021878" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -825,7 +830,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>X</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -933,13 +938,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>X</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG5ld19maWcgPSBwb3N0X3Byb2Nlc3NpbmcubWVyZ2VfdHdvX3Bsb3RzKFtmaWdzX2NvbVsiSlhfUVgiXS5nY2EoKSwgZmlnc19uZXdbIkpYX1FYIl0uZ2NhKCldKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IG1heChraWNrYWNfZGYuaW5kZXgudmFsdWVzKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG5ld19maWdYWSA9IHBvc3RfcHJvY2Vzc2luZy5tZXJnZV90d29fcGxvdHMoW2ZpZ3NfY29tWyJKWF9RWSJdLmdjYSgpLCBmaWdzX25ld1siSlhfUVkiXS5nY2EoKV0pCg==</text>
