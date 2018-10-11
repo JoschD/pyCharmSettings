@@ -188,7 +188,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539247893959">
+      <file name="/Python Console" timestamp="1539257888567">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
@@ -369,11 +369,10 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539247321966" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539250527031">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="28" column="152" />
-        <mark key="." line="28" column="80" />
-        <mark key="^" line="28" column="80" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539257886996">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -539,8 +538,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533804143439">
         <mark key="[" line="31" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539250007988">
-        <mark key="[" line="41" column="47" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539258187376">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="43" column="45" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1534428298638">
         <mark key="[" line="6" column="10" />
@@ -822,7 +824,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBSZWFsRGF0YSh4LCB5LCBzeD14X2Vyciwgc3k9eV9lcnIpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -930,34 +932,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>np.sqrt(</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IHBsdC5maWd1cmUoZmlnc2l6ZT0oNyw0KSkKICAgIGZpZy5wYXRjaC5zZXRfZmFjZWNvbG9yKCd3aGl0ZScpCiAgICBheHQgPSBmaWcuYWRkX3N1YnBsb3QoMTExKQoKICAgIG9kcl9vdXRwdXQgPSBkb19vZHIoZGF0YV90dXBsZSkKICAgIHhpID0gbnAubGluc3BhY2UoMCwwLjAxOCwzKQo=</text>
+        <text encoding="base64">ICAgIGRhdGEgPSBSZWFsRGF0YSh4LCB5LCBzeD14X2Vyciwgc3k9eV9lcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9kcl9vdXRwdXQgPSBkb19vZHIoZGF0YV90dXBsZSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9kcl9vdXRwdXQgPSBkb19vZHIoZGF0YV90dXBsZSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlYW0gPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR1bmV4LCB0dW5leSA9IDAuMzEgLCAwLjMyCg==</text>
+        <text encoding="base64">ICAgIGJlYW0gPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihERVRVTklOR19QQUlSU19IKSk6CiAgICAgICAgZGF0YV90dXBsZSA9IGdldF9kYXRhKGFjZCwgREVUVU5JTkdfUEFJUlNfSFtpXSkKICAgICAgICBkb19wbG90KGRhdGFfdHVwbGUsIGFjZCwgTEFCRUxTX0hbaV0sICdiJykKICAgIAogICAgcGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgIHR1bmV4LCB0dW5leSA9IDAuMzEgLCAwLjMyCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihERVRVTklOR19QQUlSU19IKSk6CiAgICAgICAgZGF0YV90dXBsZSA9IGdldF9kYXRhKGFjZCwgREVUVU5JTkdfUEFJUlNfSFtpXSkKICAgICAgICBkb19wbG90KGRhdGFfdHVwbGUsIGFjZCwgTEFCRUxTX0hbaV0sICdiJykKICAgIAogICAgcGx0LnNob3coKQo=</text>
@@ -978,10 +980,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdHNfcGF0aCA9ICcvYWZzL2Nlcm4uY2gvd29yay9mL2ZjYXJsaWVyL3B1YmxpYy9kYXRhL01EMTgvTUQxX2FtcF9kZXQvUmVzdWx0cy9iZWFtMS9CMV9mbGF0b3JiaXRfSVA1eGluZ19ILycKICAgIGtpY2tfZmlsZSA9ICdnZXRraWNrYWMub3V0JwogICAgZmluYWxfZmlsZSA9ICcuL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0hfYW1wX2RldC5kYXQnCiAgICAKICAgIGFjZF9maWxlID0gb3MucGF0aC5qb2luKHJlc3VsdHNfcGF0aCwga2lja19maWxlKQogICAgYWNkID0gdGZzX3BhbmRhcy5yZWFkX3RmcyhhY2RfZmlsZSkKICAgIHN0YXJ0X3NjYW4gPSBhY2RbJ1RJTUUnXS5pbG9jWzBdIC0gMgogICAgZW5kX3NjYW4gICA9IGFjZFsnVElNRSddLmlsb2NbLTFdICsgMgogICAgCiAgICBkZl9iYnFfeCwgZGZfYmJxX3ksIGFjZCA9IGdldF9CQlFfbW92aW5nX2F2ZXJhZ2UoYmVhbSwgbGRiLCBhY2QsIHR1bmV4LCB0dW5leSwgc3RhcnRfc2NhbiwgZW5kX3NjYW4pCiAgICB0ZnNfcGFuZGFzLndyaXRlX3RmcyhmaW5hbF9maWxlLCBhY2QpCiAgICAK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxlbihERVRVTklOR19QQUlSU19IKSk6CiAgICAgICAgZGF0YV90dXBsZSA9IGdldF9kYXRhKGFjZCwgREVUVU5JTkdfUEFJUlNfSFtpXSkKICAgICAgICBkb19wbG90KGRhdGFfdHVwbGUsIGFjZCwgTEFCRUxTX0hbaV0sICdiJykKICAgIAogICAgcGx0LnNob3coKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdHNfcGF0aCA9ICcvYWZzL2Nlcm4uY2gvd29yay9mL2ZjYXJsaWVyL3B1YmxpYy9kYXRhL01EMTgvTUQxX2FtcF9kZXQvUmVzdWx0cy9iZWFtMS9CMV9mbGF0b3JiaXRfSVA1eGluZ19ILycKICAgIGtpY2tfZmlsZSA9ICdnZXRraWNrYWMub3V0JwogICAgZmluYWxfZmlsZSA9ICcuL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0hfYW1wX2RldC5kYXQnCiAgICAKICAgIGFjZF9maWxlID0gb3MucGF0aC5qb2luKHJlc3VsdHNfcGF0aCwga2lja19maWxlKQogICAgYWNkID0gdGZzX3BhbmRhcy5yZWFkX3RmcyhhY2RfZmlsZSkKICAgIHN0YXJ0X3NjYW4gPSBhY2RbJ1RJTUUnXS5pbG9jWzBdIC0gMgogICAgZW5kX3NjYW4gICA9IGFjZFsnVElNRSddLmlsb2NbLTFdICsgMgogICAgCiAgICBkZl9iYnFfeCwgZGZfYmJxX3ksIGFjZCA9IGdldF9CQlFfbW92aW5nX2F2ZXJhZ2UoYmVhbSwgbGRiLCBhY2QsIHR1bmV4LCB0dW5leSwgc3RhcnRfc2NhbiwgZW5kX3NjYW4pCiAgICB0ZnNfcGFuZGFzLndyaXRlX3RmcyhmaW5hbF9maWxlLCBhY2QpCiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
