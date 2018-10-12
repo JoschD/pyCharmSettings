@@ -377,11 +377,11 @@
         <mark key="." line="629" column="54" />
         <mark key="^" line="629" column="54" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539346606240">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="155" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="29" column="64" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539348466585">
+        <mark key="[" line="20" column="120" />
+        <mark key="]" line="20" column="122" />
+        <mark key="." line="20" column="122" />
+        <mark key="^" line="20" column="122" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -836,8 +836,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAia2lja2FjX3BhdGgiOiAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1Byb2plY3RzL05PVEUuMTguTUQxX0FtcGxpdHVkZV9EZXR1bmluZy9vdmVybGVhZi9yZXN1bHRzLzIwMThfY29tbWlzc2lvbmluZy9CMV9jcm9zc2luZ19IX2FtcF9kZXQuZGF0X2NsZWFuIiwK</text>
+      <register name="&quot;" type="4">
+        <text>/media/jdilly/Storage/Projects/NOTE.18.MD1_Amplitude_Detuning/overleaf/results/beam1/B1_flatorbit_H/getkickac_ampdet.out</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -945,13 +945,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#ff7f0e</text>
+        <text>Fdiwalse</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAia2lja2FjX3BhdGgiOiAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1Byb2plY3RzL05PVEUuMTguTUQxX0FtcGxpdHVkZV9EZXR1bmluZy9vdmVybGVhZi9yZXN1bHRzLzIwMThfY29tbWlzc2lvbmluZy9CMV9jcm9zc2luZ19IX2FtcF9kZXQuZGF0X2NsZWFuIiwK</text>
+      <register name="0" type="4">
+        <text>/media/jdilly/Storage/Projects/NOTE.18.MD1_Amplitude_Detuning/overleaf/results/beam1/B1_flatorbit_H/getkickac_ampdet.out</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiBvcHQuYmJxX3Bsb3Rfb3V0IG9yIG9wdC5iYnFfcGxvdF9zaG93OgogICAgICAgICAgICBpZiBvcHQuYmJxX3Bsb3RfZnVsbDoKICAgICAgICAgICAgICAgIGZpZ3NbImJicSJdID0gYmJxX3Rvb2xzLnBsb3RfYmJxX2RhdGEoCiAgICAgICAgICAgICAgICAgICAgYmJxX2RmLAogICAgICAgICAgICAgICAgICAgIG91dHB1dD1vcHQuYmJxX3Bsb3Rfb3V0LAogICAgICAgICAgICAgICAgICAgIHNob3c9b3B0LmJicV9wbG90X3Nob3csCiAgICAgICAgICAgICAgICAgICAgdHdvX3Bsb3RzPW9wdC5iYnFfcGxvdF90d28sCiAgICAgICAgICAgICAgICAgICAgaW50ZXJ2YWw9W3N0cihkYXRldGltZS5kYXRldGltZS5mcm9tdGltZXN0YW1wKHhpbnQsIHR6PVRJTUVaT05FKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIHhpbnQgaW4geF9pbnRlcnZhbF0sCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBmaWdzWyJiYnEiXSA9IGJicV90b29scy5wbG90X2JicV9kYXRhKAogICAgICAgICAgICAgICAgICAgIGJicV9kZi5sb2NbeF9pbnRlcnZhbFswXTp4X2ludGVydmFsWzFdXSwKICAgICAgICAgICAgICAgICAgICBvdXRwdXQ9b3B0LmJicV9wbG90X291dCwKICAgICAgICAgICAgICAgICAgICBzaG93PW9wdC5iYnFfcGxvdF9zaG93LAogICAgICAgICAgICAgICAgICAgIHR3b19wbG90cz1vcHQuYmJxX3Bsb3RfdHdvLAogICAgICAgICAgICAgICAgKQoK</text>
