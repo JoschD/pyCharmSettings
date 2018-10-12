@@ -372,10 +372,10 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539346549115">
-        <mark key="[" line="629" column="95" />
-        <mark key="]" line="629" column="54" />
-        <mark key="." line="629" column="54" />
-        <mark key="^" line="629" column="54" />
+        <mark key="[" line="410" column="95" />
+        <mark key="]" line="410" column="54" />
+        <mark key="." line="410" column="54" />
+        <mark key="^" line="410" column="54" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539348466585">
         <mark key="[" line="20" column="120" />
@@ -550,11 +550,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533804143439">
         <mark key="[" line="31" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539344421650">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1534428298638">
         <mark key="[" line="6" column="10" />
         <mark key="]" line="103" column="44" />
@@ -691,12 +686,6 @@
         <mark key="]" line="7" column="31" />
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="31" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/constants.py" timestamp="1539346389739">
-        <mark key="[" line="98" column="32" />
-        <mark key="]" line="98" column="64" />
-        <mark key="^" line="93" column="31" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/test/analysis.cfg" timestamp="1531847652072">
         <mark key="[" line="9" column="14" />
