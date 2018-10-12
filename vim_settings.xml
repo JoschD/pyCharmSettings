@@ -92,8 +92,10 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1539173326066">
-        <mark key="[" line="0" column="2" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1539336504954">
+        <mark key="[" line="350" column="9" />
+        <mark key="]" line="350" column="15" />
+        <mark key="." line="350" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -834,8 +836,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTi1Db2x1bW5zIiwKICAgICAgICAgICAgICAgICBsYW1iZGEgbjogbGVnLl9fc2V0YXR0cl9fKCJfbmNvbCIsIG4pLCBsZWcuX25jb2wsCiAgICAgICAgICAgICAgICAgTm9uZSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>#ff7f0e</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -943,13 +945,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Label</text>
+        <text>#ff7f0e</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiWi1PcmRlciIsCiAgICAgICAgICAgICAgICAgbGVnLnNldF96b3JkZXIsIGxlZy5nZXRfem9yZGVyKCksCiAgICAgICAgICAgICAgICAgTm9uZSksCg==</text>
+      <register name="0" type="4">
+        <text>#ff7f0e</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBQcm9wZXJ0eSgiTi1Db2x1bW5zIiwKICAgICAgICAgICAgICAgICBsYW1iZGEgbjogbGVnLl9fc2V0YXR0cl9fKCJfbmNvbCIsIG4pLCBsZWcuX25jb2wsCiAgICAgICAgICAgICAgICAgTm9uZSksCg==</text>
