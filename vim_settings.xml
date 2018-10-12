@@ -549,10 +549,8 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533804143439">
         <mark key="[" line="31" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539338767041">
-        <mark key="[" line="39" column="28" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539339830494">
+        <mark key="[" line="1" column="51" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1534428298638">
         <mark key="[" line="6" column="10" />
@@ -835,7 +833,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic2xvcGVfc3RkIjogb2RyX2ZpdC5zZF9iZXRhWzFdLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -949,7 +947,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHhfbWluPW9wdC5hbXBkZXRfcGxvdF94bWluLAogICAgICAgICAgICAgICAgeF9tYXg9b3B0LmFtcGRldF9wbG90X3htYXgsCg==</text>
+        <text encoding="base64">ICAgICAgICAic2xvcGVfc3RkIjogb2RyX2ZpdC5zZF9iZXRhWzFdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
