@@ -373,8 +373,8 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539338716754">
         <mark key="[" line="444" column="22" />
-        <mark key="]" line="610" column="0" />
-        <mark key="." line="610" column="0" />
+        <mark key="]" line="611" column="0" />
+        <mark key="." line="611" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539272071228">
         <mark key="[" line="56" column="29" />
@@ -549,8 +549,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533804143439">
         <mark key="[" line="31" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539339830494">
-        <mark key="[" line="1" column="51" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539344421650">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1534428298638">
         <mark key="[" line="6" column="10" />
@@ -833,7 +835,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAic2xvcGVfc3RkIjogb2RyX2ZpdC5zZF9iZXRhWzFdLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvZHJfcGxvdCBpcyBOb25lOgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -950,28 +952,28 @@
         <text encoding="base64">ICAgICAgICAic2xvcGVfc3RkIjogb2RyX2ZpdC5zZF9iZXRhWzFdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvZHJfcGxvdCBpcyBOb25lOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfb2RyX2ZpdCh4LCB5LCB4X2VyciwgeV9lcnIpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgSU9FcnJvcigiWW91IHByb3ZpZGVkIE9EUiBkYXRhLCBidXQgbm8gbWVhbnMgdG8gcGxvdCBpdC4gIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICIiIiBDYWxjdWxhdGUgdGhlIGxpbmVhciBPRFIgZml0LiAiIiIK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFJldHVybnM6IExpbmVhciBvZmZzZXQuCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9kcl9maXQgPSBkZXR1bmluZ190b29scy5kb19saW5lYXJfb2RyKHgseSx4X2VycikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHhfbWF4ID0gbWF4KHggKyB4X2VycikqMS4wMSBpZiB4X21heCBpcyBOb25lIGVsc2UgeF9tYXgK</text>
+        <text encoding="base64">ICAgIG9mZnNldCA9IDAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHhfbWluID0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -989,10 +991,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHhfbWluID0gMCBpZiB4X21pbiBpcyBOb25lIGVsc2UgeF9taW4KICAgIHhfbWF4ID0gbWF4KHggKyB4X2VycikqMS4wMSBpZiB4X21heCBpcyBOb25lIGVsc2UgeF9tYXgKICAgICAgICAgICAgb2RyX2ZpdCA9IGRldHVuaW5nX3Rvb2xzLmRvX2xpbmVhcl9vZHIoKipkYXRhKQo=</text>
+        <text encoding="base64">ZGVmIF9nZXRfb2RyX2ZpdCh4LCB5LCB4X2VyciwgeV9lcnIpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHhfbWluID0gMCBpZiB4X21pbiBpcyBOb25lIGVsc2UgeF9taW4KICAgIHhfbWF4ID0gbWF4KHggKyB4X2VycikqMS4wMSBpZiB4X21heCBpcyBOb25lIGVsc2UgeF9tYXgK</text>
+        <text encoding="base64">ICAgICIiIiBDYWxjdWxhdGUgdGhlIGxpbmVhciBPRFIgZml0LiAiIiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
