@@ -377,7 +377,7 @@
         <mark key="." line="410" column="54" />
         <mark key="^" line="410" column="54" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539351077556">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539353207998">
         <mark key="[" line="72" column="34" />
         <mark key="]" line="42" column="29" />
         <mark key="." line="42" column="29" />
@@ -566,6 +566,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/pot_detuning_data.py" timestamp="1539353198274">
+        <mark key="[" line="7" column="163" />
+        <mark key="]" line="7" column="163" />
+        <mark key="^" line="3" column="162" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -825,8 +831,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ff7f0e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiQjEgSC1LaWNrcyBGdWxsIFgnaW5nIjogIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9Qcm9qZWN0cy9OT1RFLjE4Lk1EMV9BbXBsaXR1ZGVfRGV0dW5pbmcvb3ZlcmxlYWYvcmVzdWx0cy8yMDE4X2NvbW1pc3Npb25pbmcvQjFfY3Jvc3NpbmdfSF9hbXBfZGV0X291dC5kYXQiLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -934,13 +940,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>&quot;/media/jdilly/Storage/Projects/NOTE.18.MD1_Amplitude_Detuning/overleaf/results/beam1/B1_flatorbit_H/getkickac_ampdet.out&quot;</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiYmJxX3Bsb3Rfc2hvdyI6IEZhbHNlLAogICAgICAgICJhbXBkZXRfcGxvdF9zaG93IjogRmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAiQjEgSC1LaWNrcyBGdWxsIFgnaW5nIjogIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9Qcm9qZWN0cy9OT1RFLjE4Lk1EMV9BbXBsaXR1ZGVfRGV0dW5pbmcvb3ZlcmxlYWYvcmVzdWx0cy8yMDE4X2NvbW1pc3Npb25pbmcvQjFfY3Jvc3NpbmdfSF9hbXBfZGV0X291dC5kYXQiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV4aXQoKQo=</text>
