@@ -11,7 +11,7 @@
       <file name="/Dummy.txt" timestamp="1537880760010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539018054087">
+      <file name="/Python Console" timestamp="1539361196492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532979382804">
@@ -28,6 +28,17 @@
         <mark key="]" line="31" column="6" />
         <mark key="." line="31" column="6" />
         <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/udillyties/plotpres/analyse_detuning.py" timestamp="1539361071211">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="35" column="23" />
+      </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/requirements.txt" timestamp="1539361182024">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/main.py" timestamp="1537880921897">
         <mark key="[" line="18" column="0" />
@@ -46,38 +57,38 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">InNvbGlkIiwgImRvdCIsICJkYXNoIiwgImxvbmdkYXNoIiwgImRhc2hkb3QiLCBvciAibG9uZ2Rhc2hkb3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>LINESTYLE_DASH_MAP = {
-    &quot;&quot;
-    &quot;-&quot;
-}</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGdldF9uZXdfcGxvdHNfYjFfWF9mbGF0KCk6CiAgICBzZXR1cCA9IHsKICAgICAgICAibGFiZWwiOiAiQjEgSC1LaWNrcyBGbGF0LU9yYml0IiwKICAgICAgICAiYmVhbSI6IDEsCiAgICAgICAgInBsYW5lIjogIlgiLAogICAgICAgICJraWNrYWNfcGF0aCI6ICIuL2dldGtpY2thYy5vdXQiLAogICAgICAgICJraWNrYWNfb3V0IjogIi4vZ2V0a2lja2FjX2FtcGRldC5vdXQiLAogICAgICAgICJ3aW5kb3dfbGVuZ3RoIjogMjAsCiAgICAgICAgInR1bmVfeCI6IDAuMzEsCiAgICAgICAgInR1bmVfeSI6IDAuMzIsCiAgICAgICAgInR1bmVfY3V0IjogMC4wMDUsCiAgICAgICAgImJicV9wbG90X291dCI6ICIuL2JicV9iMWhfZmxhdG9yYiIsCiAgICAgICAgImFtcGRldF9wbG90X291dCI6ICIuL2FtcGRldF9iMWhfZmxhdG9yYiIsCiAgICAgICAgIyAiYmJxX3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgIyAiYW1wZGV0X3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgImJicV9vdXQiOiAiQjFfZmxhdG9yYml0X0gvYmJxX2FtcGRldC5vdXQiLAogICAgICAgICJiYnFfcGxvdF9zaG93IjogRmFsc2UsCiAgICAgICAgImFtcGRldF9wbG90X3Nob3ciOiBGYWxzZSwKICAgIH0KICAgIHJldHVybiBhbXBkZXQuYW5hbHlzZV93aXRoX2JicV9jb3JyZWN0aW9ucygqKnNldHVwKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+        <text encoding="base64">InNvbGlkIiwgImRvdCIsICJkYXNoIiwgImxvbmdkYXNoIiwgImRhc2hkb3QiLCBvciAibG9uZ2Rhc2hkb3QK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
+      <register name="6" type="4">
+        <text>LINESTYLE_DASH_MAP = {
+    &quot;&quot;
+    &quot;-&quot;
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGJhciBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJhciBpbiBbaGJhciwgdmJhcl06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZS5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text># lines, markers, lines+markers</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
