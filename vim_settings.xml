@@ -380,11 +380,11 @@
         <mark key="]" line="438" column="0" />
         <mark key="." line="438" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539686663244">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="300" column="36" />
-        <mark key="^" line="34" column="28" />
-        <mark key="." line="297" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539691799410">
+        <mark key="[" line="287" column="74" />
+        <mark key="]" line="287" column="75" />
+        <mark key="^" line="287" column="48" />
+        <mark key="." line="287" column="45" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -857,8 +857,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xheW91dCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>getvkickac.out</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -966,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>getvkickac.out</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
