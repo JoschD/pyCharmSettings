@@ -214,8 +214,8 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1539611524602">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1539704775939">
+        <mark key="[" line="104" column="44" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/io_utils.py" timestamp="1539170969902">
@@ -375,13 +375,8 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1539616301150" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1539684699725">
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="438" column="0" />
-        <mark key="." line="438" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539696530141">
-        <mark key="[" line="290" column="74" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539704070934">
+        <mark key="[" line="321" column="45" />
         <mark key="]" line="1" column="29" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
@@ -563,12 +558,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1533804143439">
         <mark key="[" line="31" column="64" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1539700228057">
-        <mark key="[" line="142" column="48" />
-        <mark key="]" line="145" column="22" />
-        <mark key="." line="145" column="0" />
-        <mark key="^" line="143" column="33" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/options_figure.py" timestamp="1534428298638">
         <mark key="[" line="6" column="10" />
