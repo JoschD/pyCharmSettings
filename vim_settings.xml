@@ -248,6 +248,11 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1539966498608">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
@@ -610,7 +615,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBDb21wYXJlIENvcnJlY3Rpb25zCkNvbXBhcmVDb3JyZWN0aW9ucyA9IGNvcnJlY3Rpb24uY2hlY2tfY2FsY3VsYXRlZF9jb3JyZWN0aW9ucy5weQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -727,28 +732,28 @@
         <text>getattr(kickac_modifiers,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBDb21wYXJlIENvcnJlY3Rpb25zCkNvbXBhcmVDb3JyZWN0aW9ucyA9IGNvcnJlY3Rpb24uY2hlY2tfY2FsY3VsYXRlZF9jb3JyZWN0aW9ucy5weQo=</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKGFic3BhdGgoam9pbihfX2ZpbGVfXywgcGFyZGlyKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBvcy5wYXRoIGltcG9ydCBhYnNwYXRoLCBqb2luLCBwYXJkaXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">IyBDb21wYXJlIENvcnJlY3Rpb25zCkNvbXBhcmVDb3JyZWN0aW9ucyA9IGNvcnJlY3Rpb24uY2hlY2tfY2FsY3VsYXRlZF9jb3JyZWN0aW9ucy5weQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgncXQ1YWdnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -766,10 +771,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgncXQ1YWdnJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBSb290IG9mIEJldGEtQmVhdC5zcmMK</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
