@@ -13,7 +13,6 @@
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/usr/local/lib/python2.7/dist-packages/matplotlib/colors.py" timestamp="1539272405850" />
       <file name="/a.dummy" timestamp="1539793890913">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,6 +225,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/gui/ProgramVersions.properties" timestamp="1539965557245">
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/dickle.py" timestamp="1533064523664">
         <mark key="[" line="1224" column="26" />
         <mark key="]" line="1224" column="0" />
@@ -254,7 +258,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1539616301150" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1539783587725">
         <mark key="[" line="300" column="36" />
         <mark key="]" line="1" column="29" />
@@ -606,8 +609,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, sys</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDb21wYXJlIENvcnJlY3Rpb25zCkNvbXBhcmVDb3JyZWN0aW9ucyA9IGNvcnJlY3Rpb24uY2hlY2tfY2FsY3VsYXRlZF9jb3JyZWN0aW9ucy5weQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -724,7 +727,7 @@
         <text>getattr(kickac_modifiers,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDb21wYXJlIENvcnJlY3Rpb25zCkNvbXBhcmVDb3JyZWN0aW9ucyA9IGNvcnJlY3Rpb24uY2hlY2tfY2FsY3VsYXRlZF9jb3JyZWN0aW9ucy5weQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -733,16 +736,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgncXQ1YWdnJykK</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
+        <text encoding="base64">IyBtYXRwbG90bGliLnVzZSgncXQ1YWdnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -763,10 +766,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBSb290IG9mIEJldGEtQmVhdC5zcmMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN5cy5wYXRoLmFwcGVuZChuZXdfcGF0aCkK</text>
+        <text encoding="base64">IyBSb290IG9mIEJldGEtQmVhdC5zcmMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
