@@ -86,7 +86,7 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/constants.py" timestamp="1539088176247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1530110945029">
+      <file name="/" timestamp="1540195147000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_dispersion_writer.py" timestamp="1534343648985">
@@ -138,7 +138,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1539782920560">
+      <file name="/Python Console" timestamp="1540194560760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
@@ -248,10 +248,11 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1539966498608">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1540195198368">
+        <mark key="[" line="319" column="58" />
+        <mark key="]" line="205" column="4" />
+        <mark key="." line="205" column="4" />
+        <mark key="^" line="205" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -615,7 +616,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PVtdLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -728,8 +729,8 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>getattr(kickac_modifiers,</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PVtdLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN5cwo=</text>
