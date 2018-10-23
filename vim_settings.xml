@@ -141,17 +141,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540302328262">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
       <file name="/fragment.py" timestamp="1532691973551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1540307196411" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -462,11 +457,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/beta_star_from_model.py" timestamp="1540306101778">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/beta_star_from_model.py" timestamp="1540308729639">
+        <mark key="[" line="135" column="3" />
+        <mark key="]" line="131" column="3" />
+        <mark key="." line="131" column="3" />
+        <mark key="^" line="131" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/images/readme.txt" timestamp="1534428803002">
         <mark key="[" line="0" column="0" />
@@ -643,7 +638,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW1vZGVsX2RpciIsCiAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgbW9kZWwgdG8gdXNlLiIsCiAgICAgICAgbmFtZT0ibW9kZWxfZGlyIiwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIHR5cGU9c3RyLAogICAgKQo=</text>
+        <text encoding="base64">ICAgIGJwbV9tYXNrID0gZWxlbWVudHMuaW5kZXguc3RyLm1hdGNoKEJQTVMuZm9ybWF0KGlwPWlwKSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -751,13 +746,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>meas_dir</text>
+        <text>elem.index.str.match()</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW1vZGVsX2RpciIsCiAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgbW9kZWwgdG8gdXNlLiIsCiAgICAgICAgbmFtZT0ibW9kZWxfZGlyIiwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIHR5cGU9c3RyLAogICAgKQo=</text>
+        <text encoding="base64">ICAgIGJwbV9tYXNrID0gZWxlbWVudHMuaW5kZXguc3RyLm1hdGNoKEJQTVMuZm9ybWF0KGlwPWlwKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
