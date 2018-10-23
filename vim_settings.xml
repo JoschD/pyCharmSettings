@@ -258,11 +258,11 @@
         <mark key="]" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1540302446553">
-        <mark key="[" line="316" column="13" />
-        <mark key="]" line="306" column="13" />
-        <mark key="." line="306" column="13" />
-        <mark key="^" line="306" column="13" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1540306039119">
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="370" column="21" />
+        <mark key="." line="177" column="14" />
+        <mark key="^" line="177" column="14" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -462,6 +462,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/beta_star_from_model.py" timestamp="1540306101778">
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="44" column="5" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="77" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/images/readme.txt" timestamp="1534428803002">
         <mark key="[" line="0" column="0" />
       </file>
@@ -637,7 +643,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcy50aWdodF9sYXlvdXQoZmlnKQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW1vZGVsX2RpciIsCiAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgbW9kZWwgdG8gdXNlLiIsCiAgICAgICAgbmFtZT0ibW9kZWxfZGlyIiwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIHR5cGU9c3RyLAogICAgKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -745,37 +751,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>meas_dir</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIExvb3NlVmVyc2lvbihtYXRwbG90bGliLl9fdmVyc2lvbl9fKSA+PSBMb29zZVZlcnNpb24oIjIuMi4wIik6CiAgICAgICAgZmlnLnRpZ2h0X2xheW91dCgpCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW1vZGVsX2RpciIsCiAgICAgICAgaGVscD0iUGF0aCB0byB0aGUgbW9kZWwgdG8gdXNlLiIsCiAgICAgICAgbmFtZT0ibW9kZWxfZGlyIiwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIHR5cGU9c3RyLAogICAgKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcy50aWdodF9sYXlvdXQoZmlnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHMudGlnaHRfbGF5b3V0KGZpZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwcy50aWdodF9sYXlvdXQoZmlnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHMudGlnaHRfbGF5b3V0KGZpZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcy50aWdodF9sYXlvdXQoZmlnKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -793,10 +799,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIExvb3NlVmVyc2lvbihtYXRwbG90bGliLl9fdmVyc2lvbl9fKSA+PSBMb29zZVZlcnNpb24oIjIuMi4wIik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCdzIG9ubHkgZG8gaXQgd2hlbiB1c2luZyB0aGUgbmV3IG1hdHBsb3RsaWIiIiIK</text>
+        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
