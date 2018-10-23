@@ -62,11 +62,11 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540287128546">
-        <mark key="[" line="619" column="17" />
-        <mark key="]" line="619" column="62" />
-        <mark key="^" line="610" column="37" />
-        <mark key="." line="619" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540287726060">
+        <mark key="[" line="617" column="20" />
+        <mark key="]" line="617" column="20" />
+        <mark key="^" line="618" column="4" />
+        <mark key="." line="617" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -141,7 +141,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540287079842">
+      <file name="/Python Console" timestamp="1540287661998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -630,7 +630,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>(.45 - legend_width/2., 1.02)</text>
+        <text>leg.axes.figure.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -744,7 +744,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="4">
-        <text>loc='lower right', bbox_to_anchor=(1.0, 1.01)</text>
+        <text>leg.axes.figure.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xheW91dCgpCg==</text>
