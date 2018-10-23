@@ -62,11 +62,11 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540287726060">
-        <mark key="[" line="617" column="20" />
-        <mark key="]" line="617" column="20" />
-        <mark key="^" line="618" column="4" />
-        <mark key="." line="617" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540290130037">
+        <mark key="[" line="616" column="0" />
+        <mark key="]" line="617" column="8" />
+        <mark key="." line="617" column="8" />
+        <mark key="^" line="617" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -141,7 +141,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540287661998">
+      <file name="/Python Console" timestamp="1540289426702">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -629,8 +629,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>leg.axes.figure.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxlZyA9IGF4LmxlZ2VuZChsb2M9J2xvd2VyIHJpZ2h0JywgYmJveF90b19hbmNob3I9KDEuMCwgMS4wMSksCiAgICAgICAgICAgICAgICAgICAgZmFuY3lib3g9VHJ1ZSwgc2hhZG93PVRydWUsIG5jb2w9bmNvbCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -738,37 +738,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(.45 - legend_width/2., 1.02)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>leg.axes.figure.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxlZyA9IGF4LmxlZ2VuZChsb2M9J2xvd2VyIHJpZ2h0JywgYmJveF90b19hbmNob3I9KDEuMCwgMS4wMSksCiAgICAgICAgICAgICAgICAgICAgZmFuY3lib3g9VHJ1ZSwgc2hhZG93PVRydWUsIG5jb2w9bmNvbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xheW91dCgpCg==</text>
+        <text encoding="base64">ICAgIGxlZy5heGVzLmZpZ3VyZS5jYW52YXMuZHJhdygpCiAgICBwb3NfaW5fYXhfY29vcmRzID0gbGVnLmdldF93aW5kb3dfZXh0ZW50KCkuaW52ZXJzZV90cmFuc2Zvcm1lZChsZWcuYXhlcy50cmFuc0F4ZXMpLmJvdW5kcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">ICAgIHNldF9sZWdlbmRfdG9fZml4ZWRfY29ycmRpbmF0ZXMobGVnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxlZy5heGVzLmNhbnZhcy5kcmF3KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxlZy5heGVzLmZpZ3VyZS5jYW52YXMuZHJhdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IGF4LmdldF9maWd1cmUoKQo=</text>
+        <text encoding="base64">ICAgIGxlZy5fc2V0X2xvYyhwb3NfaW5fYXhfY29vcmRzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZy5jYW52YXMuZHJhdygpCiAgICBsZWdlbmRfd2lkdGggPSBsZWcuZ2V0X3dpbmRvd19leHRlbnQoKS5pbnZlcnNlX3RyYW5zZm9ybWVkKGF4LnRyYW5zQXhlcykud2lkdGgKICAgIGxlZy5fc2V0X2xvYygoLjQ4IC0gbGVnZW5kX3dpZHRoLzIuLCAxLjAyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLnRpZ2h0X2xheW91dCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdXNlIF9zZXRfbG9jLCBtYWtlcyBmaW5kaW5nIHRoZSBsb2NhdGlvbiBsYXRlciBvbiBlYXNpZXIK</text>
+        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -786,10 +786,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfbmNvbHMoc2VsZik6CiAgICAgICAgIiIiIFJldHVybnMgdGhlIG51bWJlciBvZiBjb2x1bW5zIGZvciB0aGUgbGVnZW5kLgoKICAgICAgICBEb25lIGhlcmUsIGFzIHRoaXMgY2xhc3MgZGl2aWRlcyBzaW5nbGUtcGxvdCBmcm9tIG11bHRpcGxvdCBhbnl3YXkKICAgICAgICAiIiIKICAgICAgICBuYW1lcyA9IHNlbGYubGFiZWxzIGlmIHNlbGYuc2luZ2xlX2ZpZyBlbHNlIHNlbGYuc291cmNlX25hbWVzCiAgICAgICAgcmV0dXJuIG1heChbaW50KG5wLmZsb29yKE1BWF9MRUdFTkRMRU5HVEgvbWF4KFtsZW4obCkgZm9yIGwgaW4gbmFtZXNdKSkpLCAxXSkKCg==</text>
+        <text encoding="base64">ICAgIGxlZy5heGVzLmNhbnZhcy5kcmF3KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlZy5heGVzLmZpZ3VyZS5jYW52YXMuZHJhdygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
