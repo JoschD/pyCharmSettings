@@ -293,6 +293,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1540396778412">
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="303" column="0" />
+        <mark key="." line="299" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -411,10 +416,12 @@
         <mark key="]" line="178" column="24" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/get_kmod_files.py" timestamp="1540393777995">
-        <mark key="[" line="32" column="40" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/get_kmod_files.py" timestamp="1540396029269">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="101" column="27" />
+        <mark key="." line="101" column="27" />
+        <mark key="^" line="101" column="27" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1535125030224">
         <mark key="[" line="82" column="0" />
@@ -470,6 +477,11 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/gui2kmod.py" timestamp="1540394873158">
+        <mark key="[" line="397" column="74" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="8" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -515,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" />
       <jump line="15" column="20" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" />
       <jump line="23" column="67" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="184" column="16" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -615,6 +626,7 @@
       <jump line="111" column="41" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" />
       <jump line="137" column="41" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/test_cases.py" />
       <jump line="298" column="20" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" />
+      <jump line="35" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/get_kmod_files.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -632,7 +644,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuc2V0X2luZGV4KCJOQU1FIikK</text>
+        <text encoding="base64">IyBUZW1wb3Jhcnkgd3JhcHBlcnMKcmVhZCA9IHJlYWRfdGZzCndyaXRlID0gd3JpdGVfdGZzCgoK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -740,37 +752,44 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tfs_file_writer</text>
+        <text>beta_filename</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cud2FybigiQ2Fubm90IGZpbmQga21vZCBkYXRhIGluICd7OnN9Jywgd29uJ3QgY29weSB0aG9zZSBmaWxlcy4iLmZvcm1hdChzcmMpKQo=</text>
+        <text encoding="base64">ICAgICIiIiBUZW1wb3Jhcnkgd3JhcHBlciB0byBtYWtlIHRyYW5zaXRpb24gZWFzaWVyICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuc2V0X2luZGV4KCJOQU1FIikK</text>
+        <text encoding="base64">IyBUZW1wb3Jhcnkgd3JhcHBlcnMKcmVhZCA9IHJlYWRfdGZzCndyaXRlID0gd3JpdGVfdGZzCgoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGRhdGEgPSB0ZnNfcGFuZGFzLnJlYWRfdGZzKHNyYywgaW5kZXg9Ik5BTUUiKQogICAgICAgIGV4Y2VwdCBJT0Vycm9yOgogICAgICAgICAgICBMT0cud2FybigiQ2Fubm90IGZpbmQga21vZCBkYXRhIGluICd7OnN9Jywgd29uJ3QgY29weSB0aG9zZSBmaWxlcy4iLmZvcm1hdChzcmMpKQogICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZGF0YS5hcHBlbmQoZGF0YS5sb2NbZGF0YS5pbmRleC5pc2luKG1vZGVsX3R3aXNzLmluZGV4KSwgOl0pCg==</text>
+      <register name="3" type="4">
+        <text>def read(*args, **kwargs):
+    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
+    return read_tfs(*args, **kwargs)
+
+
+def write(*args, **kwargs):
+    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
+    write_tfs(*args, **kwargs)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgZGF0YSA9IHRmc19wYW5kYXMucmVhZF90ZnMoc3JjLCBpbmRleD0iTkFNRSIpCiAgICAgICAgICAgIGV4Y2VwdCBJT0Vycm9yOgogICAgICAgICAgICAgICAgTE9HLndhcm4oIkNhbm5vdCBmaW5kIGttb2QgZGF0YSBpbiAnezpzfScsIHdvbid0IGNvcHkgdGhvc2UgZmlsZXMuIi5mb3JtYXQoc3JjKSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG5ld19kYXRhLmFwcGVuZChkYXRhLmxvY1tkYXRhLmluZGV4LmlzaW4obW9kZWxfdHdpc3MuaW5kZXgpLCA6XSkK</text>
+        <text encoding="base64">ICAgIGRlZiB3cmkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIGRhdGEK</text>
+        <text encoding="base64">ZGVmIHdyaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfZGF0YSA9IHRmc19wYW5kYXMuVGZzRGF0YUZyYW1lKCkK</text>
+        <text encoding="base64">ICAgICMgICAgIGRhdGFfZnJhbWUuZHJvcChpZHhfbmFtZSwgImNvbHVtbnMiLCBpbnBsYWNlPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBQeXRob25fQ2xhc3NlczRNQUQgaW1wb3J0IG1ldGFjbGFzcwo=</text>
+        <text encoding="base64">ICAgICMgaWYgc2F2ZV9pbmRleDoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -788,10 +807,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgcGF0dGVybiA9IHJlLmNvbXBpbGUoIi4qUlswLTldXC4iICsgYmVhbS51cHBlcigpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlYW0gPSBvcHRpb25zLmJlYW0KICAgIGttb2RfZGlyID0gb3B0aW9ucy5rbW9kX2RpcgogICAgcmVzX2RpciAgPSBvcHRpb25zLnJlc19kaXIKICAgIG1vZF9wYXRoID0gb3B0aW9ucy5tb2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
