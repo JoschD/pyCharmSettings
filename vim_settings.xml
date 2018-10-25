@@ -62,6 +62,9 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1540457741578">
+        <mark key="[" line="17" column="34" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540297040122">
         <mark key="[" line="627" column="0" />
         <mark key="]" line="627" column="0" />
@@ -141,10 +144,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540397362046">
+      <file name="/Python Console" timestamp="1540457064053">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
         <mark key="[" line="0" column="0" />
@@ -319,8 +322,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1540297131583">
-        <mark key="[" line="391" column="24" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1540457059558">
+        <mark key="[" line="253" column="22" />
         <mark key="]" line="389" column="0" />
         <mark key="." line="389" column="0" />
         <mark key="^" line="286" column="19" />
@@ -395,7 +398,11 @@
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1540389895285" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1540458314056">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
@@ -467,6 +474,7 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/gui2kmod.py" timestamp="1540457686693" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -629,7 +637,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBUZW1wb3Jhcnkgd3JhcHBlcnMKcmVhZCA9IHJlYWRfdGZzCndyaXRlID0gd3JpdGVfdGZzCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -737,7 +745,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>beta_filename</text>
+        <text>tfs_pandas.read()</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -746,35 +754,28 @@
         <text encoding="base64">ICAgICIiIiBUZW1wb3Jhcnkgd3JhcHBlciB0byBtYWtlIHRyYW5zaXRpb24gZWFzaWVyICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUZW1wb3Jhcnkgd3JhcHBlcnMKcmVhZCA9IHJlYWRfdGZzCndyaXRlID0gd3JpdGVfdGZzCgoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>def read(*args, **kwargs):
-    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
-    return read_tfs(*args, **kwargs)
-
-
-def write(*args, **kwargs):
-    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
-    write_tfs(*args, **kwargs)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgZGRnZXRfaXAobGFiZWwpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cmkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHdyaQo=</text>
+        <text encoding="base64">ICAgIFZpZiBiZXRhZmlsZSA9PSAiZ2V0YmV0YSI6CiAgICAgICAgbWVhc19iZXRhID0gbWVhcy5iZXRhW3BsYW5lXQogICAgZWxpZiBiZXRhZmlsZSA9PSAiZ2V0YW1wYmV0YSI6CiAgICAgICAgbWVhc19iZXRhID0gbWVhcy5hbXBfYmV0YVtwbGFuZV0KICAgIGVsaWYgYmV0YWZpbGUgPT0gImdldGttb2RiZXRhIjoKICAgICAgICBtZWFzX2JldGEgPSBtZWFzLmttb2RfYmV0YVtwbGFuZV0KICAgIGVsc2U6CiAgICAgICAgcmFpc2UgS2V5RXJyb3IoIlVua25vd24gYmV0YSBmaWxlIG5hbWUgJ3t9Jy4iLmZvcm1hdChiZXRhZmlsZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgIGRhdGFfZnJhbWUuZHJvcChpZHhfbmFtZSwgImNvbHVtbnMiLCBpbnBsYWNlPVRydWUpCg==</text>
+        <text encoding="base64">IyBUZW1wb3Jhcnkgd3JhcHBlcnMKcmVhZCA9IHJlYWRfdGZzCndyaXRlID0gd3JpdGVfdGZzCgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgaWYgc2F2ZV9pbmRleDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -791,11 +792,18 @@ def write(*args, **kwargs):
           <key char="112" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgcGF0dGVybiA9IHJlLmNvbXBpbGUoIi4qUlswLTldXC4iICsgYmVhbS51cHBlcigpKQo=</text>
+      <register name="8" type="4">
+        <text>def read(*args, **kwargs):
+    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
+    return read_tfs(*args, **kwargs)
+
+
+def write(*args, **kwargs):
+    &quot;&quot;&quot; Temporary wrapper to make transition easier &quot;&quot;&quot;
+    write_tfs(*args, **kwargs)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB3cmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
