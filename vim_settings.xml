@@ -461,12 +461,12 @@
         <mark key="]" line="178" column="24" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/get_kmod_files.py" timestamp="1540396029269">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/get_kmod_files.py" timestamp="1540565246108">
         <mark key="'" line="35" column="0" />
-        <mark key="[" line="35" column="7" />
-        <mark key="]" line="101" column="27" />
-        <mark key="." line="101" column="27" />
-        <mark key="^" line="101" column="27" />
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="95" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="94" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1535125030224">
         <mark key="[" line="82" column="0" />
@@ -522,7 +522,7 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/gui2kmod.py" timestamp="1540480206436">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/gui2kmod.py" timestamp="1540565058928">
         <mark key="[" line="632" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
@@ -687,7 +687,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfZGF0YVsiU1REQkVUe30iLmZvcm1hdChwbGFuZS51cHBlcigpKV0gPSBuZXdfZGF0YVsiQkVUe31TVEQiLmZvcm1hdChwbGFuZS51cHBlcigpKV0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -801,7 +801,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dHdpc3MsIGZpbGU9ICIlUEFUSC90d2lzc19uby5kYXQiCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXdfZGF0YVsiU1REQkVUe30iLmZvcm1hdChwbGFuZS51cHBlcigpKV0gPSBuZXdfZGF0YVsiQkVUe31TVEQiLmZvcm1hdChwbGFuZS51cHBlcigpKV0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
