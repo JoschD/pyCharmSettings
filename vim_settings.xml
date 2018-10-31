@@ -76,7 +76,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1540457741578">
         <mark key="[" line="17" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1540831775660" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="22" />
@@ -150,7 +149,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1540582354980">
+      <file name="/Python Console" timestamp="1540979028292">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,7 +165,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/accelerator.py" timestamp="1540307196411" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -302,7 +300,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1540396778412">
         <mark key="]" line="301" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/correct.py" timestamp="1540569027640" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -324,7 +321,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
-      <file name="/usr/local/lib/python2.7/dist-packages/numpy/lib/polynomial.py" timestamp="1540382325638" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1535549555537">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -404,7 +400,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/check_calculated_corrections.py" timestamp="1539170957320">
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1540570314054" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/model/index.rst" timestamp="1538491955519">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
