@@ -417,6 +417,7 @@
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1541084477844" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/options_artists.py" timestamp="1539335404094">
         <mark key="[" line="338" column="18" />
         <mark key="]" line="340" column="23" />
@@ -459,6 +460,12 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
         <mark key="[" line="2560" column="20" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541084805458">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
         <mark key="[" line="19" column="16" />
@@ -658,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>_MD2148</text>
+        <text>[col not in df for ]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -766,37 +773,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[col not in df for ]</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="4">
-        <text>_MD2148</text>
+        <text>merged[col + 'df1']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGZzX2Rmc1tpZHhdID0gdGZzX2RmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgVHlwZUVycm9yOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbG9yID0gZ2V0X2NvbG9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGZzX2Rmc1tpZHhdID0gdGZzX3BhbmRhcy5yZWFkX3Rmcyh0ZnNfZGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGxvdF9leHBvcnQucGRmX2V4cG9ydChiYmFyZ3Muc3BsaXQoKSkK</text>
+        <text encoding="base64">ICAgICAgIHRyeToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGdldF9uY29scyhsYWJlbHMsIG1heF9sZW5ndGgpOgogICAgcmV0dXJuIG1heChbbWF4X2xlbmd0aC9tYXgoW2xlbihsKSBmb3IgbCBpbiBsYWJlbHNdKSwgMV0pCg==</text>
+        <text encoding="base64">ICAgIGZvciBpZHgsIHRmc19kZiBpbiBlbnVtZXJhdGUoW3Rmc19kZjEsIHRmc19kZjJdKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1heF9sZWdlbmRsZW5ndGggPSA3OAo=</text>
+        <text encoding="base64">ICAgIHRmc19kZnMgPSBbTm9uZSwgTm9uZV0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -814,10 +821,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93X2xlZ2VuZChheF94LCBfZ2V0X25jb2xzKGxhYmVscykpCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlRoZSBudW1iZXIgb2YgZ2l2ZW4gdGZzIGZpbGVzIG5lZWQgdG8gYmUgMiwgaW5zdGVhZCB3YXMgezpkfSIuZm9ybWF0KGxlbih0ZnNfZGZzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
