@@ -461,11 +461,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
         <mark key="[" line="2560" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541084805458">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="21" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541149400493">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
         <mark key="[" line="19" column="16" />
@@ -665,7 +665,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[col not in df for ]</text>
+        <text>merged.loc[:, columns]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -773,7 +773,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[col not in df for ]</text>
+        <text>merged.loc[:, columns]</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
