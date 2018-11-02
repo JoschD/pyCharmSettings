@@ -70,10 +70,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_twiss.py" timestamp="1540462340958">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="96" column="35" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/resonant_driving_terms.py" timestamp="1532509823065">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="98" />
@@ -155,7 +151,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541068689481">
+      <file name="/Python Console" timestamp="1541157882002">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,6 +167,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1541156327133">
+        <mark key="[" line="155" column="13" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -180,10 +179,6 @@
         <mark key="[" line="45" column="39" />
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1540286775799">
-        <mark key="[" line="174" column="27" />
-        <mark key="]" line="174" column="71" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/esrf.py" timestamp="1530108502397">
         <mark key="[" line="14" column="62" />
@@ -369,6 +364,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541161959573">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint_datatypes.py" timestamp="1533901866949">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -388,7 +388,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/SegmentBySegmentMain.py" timestamp="1540997348369" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/math_tools.py" timestamp="1539792564957">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="0" column="0" />
@@ -402,10 +401,6 @@
         <mark key="[" line="16" column="4" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/beta_star_fit_from_model.py" timestamp="1540470895560">
-        <mark key="[" line="195" column="16" />
-        <mark key="]" line="28" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/utils/index.rst" timestamp="1539792579559">
         <mark key="[" line="88" column="0" />
@@ -423,7 +418,6 @@
         <mark key="]" line="73" column="119" />
         <mark key="." line="73" column="119" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1541084477844" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/options_artists.py" timestamp="1539335404094">
         <mark key="[" line="338" column="18" />
         <mark key="]" line="340" column="23" />
@@ -676,7 +670,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0LCBmbGFnPXR3aXNzLCBjbGVhcjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeQlBNLipcLkIlTlVNX0JFQU0kJywgY29sdW1uPU5BTUUsUyxCRVRYLEFMRlgsQkVUWSxBTEZZLERYLERZLERQWCxEUFksWCxZLEsxTCxNVVgsTVVZLFIxMSxSMTIsUjIxLFIyMjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeSVBbMS04XSQnLCBjb2x1bW49TkFNRSxTLEJFVFgsQUxGWCxCRVRZLEFMRlksRFgsRFksRFBYLERQWSxYLFksSzFMLE1VWCxNVVksUjExLFIxMixSMjEsUjIyOwoKISEhISEgbm9taW5hbAp0d2lzcywgZmlsZT0gIiVQQVRIL3R3aXNzX25vLmRhdCI7Cg==</text>
+        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -793,28 +787,28 @@
         <text encoding="base64">c2VsZWN0LCBmbGFnPXR3aXNzLCBjbGVhcjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeQlBNLipcLkIlTlVNX0JFQU0kJywgY29sdW1uPU5BTUUsUyxCRVRYLEFMRlgsQkVUWSxBTEZZLERYLERZLERQWCxEUFksWCxZLEsxTCxNVVgsTVVZLFIxMSxSMTIsUjIxLFIyMjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeSVBbMS04XSQnLCBjb2x1bW49TkFNRSxTLEJFVFgsQUxGWCxCRVRZLEFMRlksRFgsRFksRFBYLERQWSxYLFksSzFMLE1VWCxNVVksUjExLFIxMixSMjEsUjIyOwoKISEhISEgbm9taW5hbAp0d2lzcywgZmlsZT0gIiVQQVRIL3R3aXNzX25vLmRhdCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAidHdpc3Ntb25pdG9ycyI6IG1hZHhfc25pcHBldHMuZG9fbGhjX3R3aXNzX21vbml0b3JzLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjYW1wZGV0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX2FtcGxpdHVkZV9kZXR1bmluZywK</text>
+        <text encoding="base64">ICAgICAgICAidHdpc3Ntb25pdG9ycyI6IG1hZHhfc25pcHBldHMuZG9fbGhjX3R3aXNzX21vbml0b3JzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjcmR0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwK</text>
+        <text encoding="base64">ICAgICAgICAicHRjYW1wZGV0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX2FtcGxpdHVkZV9kZXR1bmluZywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNuaXBwZXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAicHRjcmR0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBTaG9ydCBGb3JtcyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKcHRjdHdpc3NyZHQgPSBnZXRfcHRjX3R3aXNzX3JkdApwdGN0d2lzc2FtcGRldCA9IGdldF9wdGNfYW1wbGl0dWRlX2RldHVuaW5nCmxoY3R3aXNzbW9uID0gZG9fdHdpc3NfbW9uaXRvcnNfbGhjCmxoY3R3aXNzbW9uaXAgPSBkb190d2lzc19tb25pdG9yc19hbmRfaXBzX2xoYwo=</text>
+        <text encoding="base64">ICAgIHNuaXBwZXQgPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoX2dldF9jb3JyZWN0aW9uc19wYXJhbXMob3V0cHV0X3BhdGgsIGJlYW0sIG9wdGljX3R5cGUsIGNvcnJlY3RfYnkpKQo=</text>
+        <text encoding="base64">IyBTaG9ydCBGb3JtcyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKcHRjdHdpc3NyZHQgPSBnZXRfcHRjX3R3aXNzX3JkdApwdGN0d2lzc2FtcGRldCA9IGdldF9wdGNfYW1wbGl0dWRlX2RldHVuaW5nCmxoY3R3aXNzbW9uID0gZG9fdHdpc3NfbW9uaXRvcnNfbGhjCmxoY3R3aXNzbW9uaXAgPSBkb190d2lzc19tb25pdG9yc19hbmRfaXBzX2xoYwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -832,10 +826,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoX2dldF9jb3JyZWN0aW9uc19wYXJhbXMob3V0cHV0X3BhdGgsIGJlYW0sIG9wdGljX3R5cGUsIGNvcnJlY3RfYnkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGdldF9jb3JyZWN0aW9uX2ZpbGUocGF0aCwgYmVhbSwgb3B0aWNfdHlwZSk6CiAgICAiIiIgUmV0dXJuIHRoZSBwYXRoIG9mIHRoZSBjb3JyZWN0aW9uIGZpbGUgd2l0aCB0aGUgbmFtaW5nIGNvbnZlbnRpb24uICIiIgogICAgcmV0dXJuIF9nZXRfY29ycmVjdGlvbl9maWxlKHBhdGgsIGJlYW0sIG9wdGljX3R5cGUpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
