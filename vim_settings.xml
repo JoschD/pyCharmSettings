@@ -249,6 +249,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/gui/ProgramVersions.properties" timestamp="1541165097603" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/dickle.py" timestamp="1533064523664">
         <mark key="[" line="1224" column="26" />
         <mark key="]" line="1224" column="0" />
@@ -364,10 +365,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541161959573">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541165188249">
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="41" column="10" />
+        <mark key="^" line="41" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint_datatypes.py" timestamp="1533901866949">
         <mark key="[" line="124" column="0" />
@@ -461,10 +463,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
         <mark key="[" line="2560" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541149400493">
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541165250592">
+        <mark key="[" line="4" column="95" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="4" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
@@ -669,8 +671,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -778,7 +780,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -786,29 +788,33 @@
       <register name="0" type="2">
         <text encoding="base64">c2VsZWN0LCBmbGFnPXR3aXNzLCBjbGVhcjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeQlBNLipcLkIlTlVNX0JFQU0kJywgY29sdW1uPU5BTUUsUyxCRVRYLEFMRlgsQkVUWSxBTEZZLERYLERZLERQWCxEUFksWCxZLEsxTCxNVVgsTVVZLFIxMSxSMTIsUjIxLFIyMjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeSVBbMS04XSQnLCBjb2x1bW49TkFNRSxTLEJFVFgsQUxGWCxCRVRZLEFMRlksRFgsRFksRFBYLERQWSxYLFksSzFMLE1VWCxNVVksUjExLFIxMixSMjEsUjIyOwoKISEhISEgbm9taW5hbAp0d2lzcywgZmlsZT0gIiVQQVRIL3R3aXNzX25vLmRhdCI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;job.b{beam:d}.{seed:04d}.sep{sep:s}.madx&quot;.format(
+        beam=beam,
+        seed=seed,
+        sep= &quot;on&quot; if separation else &quot;off&quot;,
+    )</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAidHdpc3Ntb25pdG9ycyI6IG1hZHhfc25pcHBldHMuZG9fbGhjX3R3aXNzX21vbml0b3JzLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjYW1wZGV0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX2FtcGxpdHVkZV9kZXR1bmluZywK</text>
+        <text encoding="base64">ICAgICAgICAidHdpc3Ntb25pdG9ycyI6IG1hZHhfc25pcHBldHMuZG9fbGhjX3R3aXNzX21vbml0b3JzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjcmR0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwK</text>
+        <text encoding="base64">ICAgICAgICAicHRjYW1wZGV0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX2FtcGxpdHVkZV9kZXR1bmluZywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNuaXBwZXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAicHRjcmR0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBTaG9ydCBGb3JtcyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKcHRjdHdpc3NyZHQgPSBnZXRfcHRjX3R3aXNzX3JkdApwdGN0d2lzc2FtcGRldCA9IGdldF9wdGNfYW1wbGl0dWRlX2RldHVuaW5nCmxoY3R3aXNzbW9uID0gZG9fdHdpc3NfbW9uaXRvcnNfbGhjCmxoY3R3aXNzbW9uaXAgPSBkb190d2lzc19tb25pdG9yc19hbmRfaXBzX2xoYwo=</text>
+        <text encoding="base64">ICAgIHNuaXBwZXQgPSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -826,10 +832,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoX2dldF9jb3JyZWN0aW9uc19wYXJhbXMob3V0cHV0X3BhdGgsIGJlYW0sIG9wdGljX3R5cGUsIGNvcnJlY3RfYnkpKQo=</text>
+        <text encoding="base64">IyBTaG9ydCBGb3JtcyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKcHRjdHdpc3NyZHQgPSBnZXRfcHRjX3R3aXNzX3JkdApwdGN0d2lzc2FtcGRldCA9IGdldF9wdGNfYW1wbGl0dWRlX2RldHVuaW5nCmxoY3R3aXNzbW9uID0gZG9fdHdpc3NfbW9uaXRvcnNfbGhjCmxoY3R3aXNzbW9uaXAgPSBkb190d2lzc19tb25pdG9yc19hbmRfaXBzX2xoYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoX2dldF9jb3JyZWN0aW9uc19wYXJhbXMob3V0cHV0X3BhdGgsIGJlYW0sIG9wdGljX3R5cGUsIGNvcnJlY3RfYnkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
