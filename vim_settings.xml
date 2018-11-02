@@ -170,6 +170,12 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1541156327133">
         <mark key="[" line="155" column="13" />
       </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/helper.py" timestamp="1541167218773">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="17" column="4" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -211,6 +217,12 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
       </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/template.separationcheck.madx" timestamp="1541166737993">
+        <mark key="[" line="145" column="45" />
+        <mark key="]" line="145" column="45" />
+        <mark key="^" line="220" column="35" />
+        <mark key="." line="145" column="36" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
       </file>
@@ -249,7 +261,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/gui/ProgramVersions.properties" timestamp="1541165097603" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/dickle.py" timestamp="1533064523664">
         <mark key="[" line="1224" column="26" />
         <mark key="]" line="1224" column="0" />
@@ -362,14 +373,17 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/analyser.py" timestamp="1541166343620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541165188249">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="45" column="5" />
-        <mark key="." line="41" column="10" />
-        <mark key="^" line="41" column="9" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541167166443">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="46" column="79" />
+        <mark key="." line="46" column="79" />
+        <mark key="^" line="46" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint_datatypes.py" timestamp="1533901866949">
         <mark key="[" line="124" column="0" />
@@ -463,11 +477,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
         <mark key="[" line="2560" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541165250592">
-        <mark key="[" line="4" column="95" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="4" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1541166118117">
+        <mark key="[" line="64" column="56" />
+        <mark key="]" line="64" column="58" />
+        <mark key="." line="64" column="58" />
+        <mark key="^" line="64" column="58" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
         <mark key="[" line="19" column="16" />
@@ -671,8 +685,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXA9ICJvbiIgaWYgc2VwYXJhdGlvbiBlbHNlICJvZmYiLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -780,41 +794,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>.{seed:04d}</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0LCBmbGFnPXR3aXNzLCBjbGVhcjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeQlBNLipcLkIlTlVNX0JFQU0kJywgY29sdW1uPU5BTUUsUyxCRVRYLEFMRlgsQkVUWSxBTEZZLERYLERZLERQWCxEUFksWCxZLEsxTCxNVVgsTVVZLFIxMSxSMTIsUjIxLFIyMjsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSdeSVBbMS04XSQnLCBjb2x1bW49TkFNRSxTLEJFVFgsQUxGWCxCRVRZLEFMRlksRFgsRFksRFBYLERQWSxYLFksSzFMLE1VWCxNVVksUjExLFIxMixSMjEsUjIyOwoKISEhISEgbm9taW5hbAp0d2lzcywgZmlsZT0gIiVQQVRIL3R3aXNzX25vLmRhdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXA9ICJvbiIgaWYgc2VwYXJhdGlvbiBlbHNlICJvZmYiLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;job.b{beam:d}.{seed:04d}.sep{sep:s}.madx&quot;.format(
-        beam=beam,
-        seed=seed,
-        sep= &quot;on&quot; if separation else &quot;off&quot;,
-    )</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9ydW5fbWFkeChqb2JfZmlsZSk6Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9qb2JmaWxlbmFtZShiZWFtLCBzZXBhcmF0aW9uLCBzZWVkKToKICAgcmV0dXJuICJqb2IuYntiZWFtOmR9LntzZWVkOjA0ZH0uc2Vwe3NlcDpzfS5tYWR4Ii5mb3JtYXQoCiAgICAgICAgYmVhbT1iZWFtLAogICAgICAgIHNlZWQ9c2VlZCwKICAgICAgICBzZXA9ICJvbiIgaWYgc2VwYXJhdGlvbiBlbHNlICJvZmYiLAogICAgKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG1pc3NpbmdfY29sdW1ucyA9IFtjb2wgbm90IGluIGRmLmNvbHVtbnMgZm9yIGNvbCBpbiBkaWZmX2NvbHVtbnMgZm9yIGRmIGluIFtkZjEsIGRmMl1dCiAgICBpZiBhbnkobWlzc2luZ19jb2x1bW5zKToKICAgICAgICByYWlzZSBLZXlFcnJvcigKICAgICAgICAgICAgIlRoZSBmb2xsb3dpbmcgY29sdW1ucyBjYW4gbm90IGJlIGZvdW5kIGluIGJvdGggZGF0YWZyYW1lczogezp9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICBzZXQobWlzc2luZ19jb2x1bW5zKSkKICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidHdpc3Ntb25pdG9ycyI6IG1hZHhfc25pcHBldHMuZG9fbGhjX3R3aXNzX21vbml0b3JzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjYW1wZGV0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX2FtcGxpdHVkZV9kZXR1bmluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lcmdlZFtjb2xdID0gbWVyZ2VkW2NvbCArICdfZDInXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAicHRjcmR0IjogbWFkeF9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNuaXBwZXQgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lcmdlZFtjb2xdID0gbWVyZ2VkW2NvbCArICdfZDEnXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -832,10 +842,14 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBTaG9ydCBGb3JtcyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKcHRjdHdpc3NyZHQgPSBnZXRfcHRjX3R3aXNzX3JkdApwdGN0d2lzc2FtcGRldCA9IGdldF9wdGNfYW1wbGl0dWRlX2RldHVuaW5nCmxoY3R3aXNzbW9uID0gZG9fdHdpc3NfbW9uaXRvcnNfbGhjCmxoY3R3aXNzbW9uaXAgPSBkb190d2lzc19tb25pdG9yc19hbmRfaXBzX2xoYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy51cGRhdGUoX2dldF9jb3JyZWN0aW9uc19wYXJhbXMob3V0cHV0X3BhdGgsIGJlYW0sIG9wdGljX3R5cGUsIGNvcnJlY3RfYnkpKQo=</text>
+      <register name="9" type="4">
+        <text>&quot;job.b{beam:d}.{seed:04d}.sep{sep:s}.madx&quot;.format(
+        beam=beam,
+        seed=seed,
+        sep= &quot;on&quot; if separation else &quot;off&quot;,
+    )</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
