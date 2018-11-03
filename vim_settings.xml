@@ -13,7 +13,7 @@
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1541154300770">
+      <file name="/a.dummy" timestamp="1541238223252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -216,6 +216,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
+      </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/orbit_check/get_orbit.py" timestamp="1541238080356">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/template.separationcheck.madx" timestamp="1541166737993">
         <mark key="[" line="145" column="45" />
@@ -688,7 +693,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgZmlnID0gZmlnW2ZpZy5rZXlzKClbMF1kZF0K</text>
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlID0gdGZzLnJlYWRfdGZzKCJ0d2lzcy5iMS5lcnJvcnNvbi5zZXBvbi5zZWVkMDAwMS5vdXQiKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -801,32 +806,32 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>os.path.join(_get_output_dir(), &quot;b{:d}.mean.{:s}XY.tfs&quot;.format(beam, column)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRmcy5yZWFkX3RmcygiZ2V0Q08iK3BsYW5lKyIub3V0IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgZmlnID0gZmlnW2ZpZy5rZXlzKClbMF1kZF0K</text>
+        <text encoding="base64">ICAgICAgICBtZWFzdXJlID0gdGZzLnJlYWRfdGZzKCJ0d2lzcy5iMS5lcnJvcnNvbi5zZXBvbi5zZWVkMDAwMS5vdXQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5X2xhYmVsICs9ICJYIiBpZiBpZHhfcGxvdCBlbHNlICJZIgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IHRmcy5yZWFkX3RmcygiZ2V0Q08iK3BsYW5lKyIub3V0IikKICAgICAgICBtZWFzdXJlID0gdGZzLnJlYWRfdGZzKCJ0d2lzcy5iMS5lcnJvcnNvbi5zZXBvbi5zZWVkMDAwMS5vdXQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYueHk6Cg==</text>
+        <text encoding="base64">ICAgICMgZmlnID0gZmlnW2ZpZy5rZXlzKClbMF1kZF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYubGFiZWxzKSA9PSAxOgogICAgICAgICAgICAgICAgeV9sYWJlbCA9IHNlbGYubGFiZWxzWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB5X2xhYmVsICs9ICJYIiBpZiBpZHhfcGxvdCBlbHNlICJZIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5sYWJlbHMpID09IDE6CiAgICAgICAgICAgIHlfbGFiZWwgPSBzZWxmLmxhYmVsc1swXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHNlbGYueHk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRmID0gX3JlYWRfbWVhbl90ZnMoYmVhbSwgY29sdW1uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHNlbGYubGFiZWxzKSA9PSAxOgogICAgICAgICAgICAgICAgeV9sYWJlbCA9IHNlbGYubGFiZWxzWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsb3RfdGZzLl9jcmVhdGVfcGxvdHMoWyJTIl0sIFsiTUVBTiIgKyBjb2x1bW5dLCBbIlNURCIgKyBjb2x1bW5dLCBbZGZdLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfbmFtZXM9WyJCZWFtIHs6ZH0iLmZvcm1hdChiZWFtKV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVscz1bIkJCIl0sIHh5PVRydWUsIGNoYW5nZV9tYXJrZXI9Q0hBTkdFTUFSS0VSLAogICAgICAgICAgICAgICAgICAgICAgICAgICBub19sZWdlbmQ9RmFsc2UsIGF1dG9fc2NhbGU9OTkpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5sYWJlbHMpID09IDE6CiAgICAgICAgICAgIHlfbGFiZWwgPSBzZWxmLmxhYmVsc1swXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -844,16 +849,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxfZGZzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgIGRmID0gX3JlYWRfbWVhbl90ZnMoYmVhbSwgY29sdW1uKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>(beam, separation, errors, seed):
-    filename = &quot;twiss.b{beam:d}.errors{errors:s}.sep{sep:s}.{seed:04d}.madx&quot;.format(
-        beam=beam,
-        seed=seed,
-        sep=&quot;on&quot; if separation else &quot;off&quot;,
-        errors=&quot;on&quot; if errors else &quot;off&quot;,
-    )</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBsb3RfdGZzLl9jcmVhdGVfcGxvdHMoWyJTIl0sIFsiTUVBTiIgKyBjb2x1bW5dLCBbIlNURCIgKyBjb2x1bW5dLCBbZGZdLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfbmFtZXM9WyJCZWFtIHs6ZH0iLmZvcm1hdChiZWFtKV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVscz1bIkJCIl0sIHh5PVRydWUsIGNoYW5nZV9tYXJrZXI9Q0hBTkdFTUFSS0VSLAogICAgICAgICAgICAgICAgICAgICAgICAgICBub19sZWdlbmQ9RmFsc2UsIGF1dG9fc2NhbGU9OTkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
