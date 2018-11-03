@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/__init__.py" timestamp="1533744920658">
@@ -222,7 +222,7 @@
         <mark key="]" line="5" column="66" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/template.separationcheck.madx" timestamp="1541238866191">
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/template.separationcheck.madx" timestamp="1541240005518">
         <mark key="[" line="145" column="45" />
         <mark key="]" line="145" column="45" />
         <mark key="^" line="220" column="35" />
