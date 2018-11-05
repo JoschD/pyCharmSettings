@@ -217,10 +217,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
         <mark key="[" line="174" column="58" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/orbit_check/get_orbit.py" timestamp="1541238080356">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="5" column="66" />
-        <mark key="." line="5" column="0" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/orbit_check/get_orbit.py" timestamp="1541416797152">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="10" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/template.separationcheck.madx" timestamp="1541409292480">
         <mark key="[" line="75" column="84" />
@@ -346,11 +347,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1541411158958">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1541415644600">
         <mark key="[" line="459" column="23" />
-        <mark key="]" line="459" column="52" />
-        <mark key="^" line="276" column="19" />
-        <mark key="." line="459" column="0" />
+        <mark key="]" line="206" column="21" />
+        <mark key="^" line="206" column="21" />
+        <mark key="." line="206" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/helpers.py" timestamp="1540294253159">
         <mark key="[" line="148" column="0" />
@@ -693,8 +694,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0VFRFMgPSByYW5nZSgxLCAyKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.xlabel(plane)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -802,37 +803,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fig.save_fig()</text>
+        <text>.xlabel(plane)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBJUl9QT1NfREVGQVVMVFtkYXRhLlNFUVVFTkNFXQo=</text>
+        <text encoding="base64">ICAgIG1lYXN1cmVbIlhfbW9kZWwiXSA9IG1lYXN1cmVbIlhfbW9kZWwiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VFRFMgPSByYW5nZSgxLCAyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICMgc291cmNlX25hbWVzPVsiTW9kZWwiLCAiTWVhc3VyZWQiXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VQUyA9IFtUcnVlLCBGYWxzZV0K</text>
+        <text encoding="base64">U0VFRFMgPSByYW5nZSgxLCAyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBCRUFNUyA9IHJhbmdlKDEsMikK</text>
+        <text encoding="base64">U0VQUyA9IFtUcnVlLCBGYWxzZV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBCRUFNUyA9IHJhbmdlKDEsMikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciBzZXBhcmF0aW9uIGluIFtUcnVlLCBGYWxzZV06Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmb3Igc2VlZCBpbiByYW5nZSgxLDYxKToK</text>
+        <text encoding="base64">ICAgICAgICAjIGZvciBzZXBhcmF0aW9uIGluIFtUcnVlLCBGYWxzZV06Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -850,10 +851,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZm9yIGJlYW0gaW4gWzEsMl06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmb3Igc2VlZCBpbiByYW5nZSgxLDYxKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAhIG90aGVkZHJ3aXNlIHVzZSBkZWZhdWx0IHZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICMgZm9yIGJlYW0gaW4gWzEsMl06Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
