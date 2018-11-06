@@ -78,9 +78,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1540457741578">
         <mark key="[" line="17" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1541069110277">
-        <mark key="." line="613" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="22" />
@@ -498,7 +495,7 @@
         <mark key="." line="80" column="66" />
         <mark key="^" line="80" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1533810048092">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.travis.yml" timestamp="1541520266276">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="56" />
         <mark key="." line="19" column="16" />
