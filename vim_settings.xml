@@ -148,7 +148,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541430294593">
+      <file name="/Python Console" timestamp="1541597021671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -286,6 +286,12 @@
         <mark key="[" line="112" column="0" />
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1541597240924">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="58" />
+        <mark key="^" line="19" column="57" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -698,7 +704,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">ICAgIGRmLmhlYWRlcnNbIktOT0IiXSA9IGxzW2xzLmluZGV4KFBSRV9LTk9CX1NUUklORykgKyAxXQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -812,7 +818,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">ICAgIGRmLmhlYWRlcnNbIktOT0IiXSA9IGxzW2xzLmluZGV4KFBSRV9LTk9CX1NUUklORykgKyAxXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0Cg==</text>
