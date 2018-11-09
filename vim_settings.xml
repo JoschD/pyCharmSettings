@@ -46,7 +46,7 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/constants.py" timestamp="1539088176247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1540195147000">
+      <file name="/" timestamp="1541751820864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/'bpms'" timestamp="1530110939060">
@@ -128,6 +128,11 @@
         <mark key="]" line="134" column="27" />
         <mark key="^" line="1" column="29" />
         <mark key="." line="133" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/getLLM_difference.py" timestamp="1541751841768">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_file_writer.py" timestamp="1541603641405">
         <mark key="[" line="107" column="64" />
@@ -344,7 +349,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;'{:s}'&quot;.format(</text>
+        <text>#</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -452,7 +457,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>const.get_om_extractor())</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -460,31 +465,29 @@
       <register name="0" type="4">
         <text>&quot;'{:s}'&quot;.format(</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;-time&quot;, dc.convert_utc_time_to_local(time),
-                                &quot;-Knames&quot;, knob_name,
-                                &quot;-Ktype&quot;, &quot;K&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQgPSBjb25zdC5nZXRfb21fZXh0cmFjdG9yKCkK</text>
+        <text encoding="base64">ZGVmIHdyaXRlX3RmcyhwYXRoLCBkZiwgaGVhZCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWUucmVwbGFjZSh0emluZm89bG9jYWwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRpbWUucmVwbGFjZSh0emluZm89dXRjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGN3ZCA9ICIiCg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIvYWZzL2Nlcm4uY2gvd29yay9sL2xtYWxpbmEvIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09MVU1OX09SREVSID0gWyJOQU1FIiwgIkNJUkNVSVQiLCAiVkFMVUUiLCAiREVMVEEiXQo=</text>
+        <text encoding="base64">IyBDT00yMDE1LTcsIFNMT1BTRElSLCBGSUxMREFUQSwgTE1BTElOQSAuLi4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,10 +505,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHV0YyA9IHB5dHoudGltZXpvbmUoIlVUQyIpCg==</text>
+        <text encoding="base64">IyBpbXBvcnRlZCBucCwgcGQsIHBsdCwgcmVhZF90ZnMsIHdyaXRlX3Rmcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgdGZzLndyaXRlX3RmcygiL2Fmcy9jZXJuLmNoL3VzZXIvai9qZGlsbHkvZXh0cmFjdG9yL2tub2JzLnRmcyIsIGRmKQo=</text>
+        <text encoding="base64">ZnJvbSBwbG90cyBpbXBvcnQgKgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
