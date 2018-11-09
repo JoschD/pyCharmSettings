@@ -137,6 +137,10 @@
         <mark key="]" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/correct.py" timestamp="1541781953966">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="28" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_file_writer.py" timestamp="1541603641405">
         <mark key="[" line="107" column="64" />
       </file>
@@ -352,7 +356,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">aWYgbmV3X3BhdGggbm90IGluIHN5cy5wYXRoOgogICAgc3lzLnBhdGguYXBwZW5kKG5ld19wYXRoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
