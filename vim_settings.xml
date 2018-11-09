@@ -191,10 +191,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/check_calculated_corrections.py" timestamp="1539170957320">
         <mark key="[" line="5" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1541773067424">
-        <mark key="[" line="1007" column="24" />
-        <mark key="]" line="1008" column="0" />
-        <mark key="." line="1008" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1541775673840">
+        <mark key="[" line="225" column="17" />
+        <mark key="]" line="230" column="5" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="218" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/options_artists.py" timestamp="1539335404094">
         <mark key="[" line="338" column="18" />
@@ -208,7 +209,7 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541773054802">
+      <file name="/Dummy.txt" timestamp="1541775667211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
@@ -357,7 +358,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW5fY29ycmVjdG9ycyIsCiAgICAgICAgaGVscD0oIk1hbXVtIG51bWJlciBvZiBjb3JyZWN0b3JzIHRvIHVzZS4gKE1ldGhvZDogJ29tcCcpIiksCiAgICAgICAgbmFtZT0ibl9jb3JyZWN0b3JzIiwKICAgICAgICB0eXBlPWludCwKICAgICkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -465,37 +466,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>resp_matrix.loc[:, delta.index]</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIG9wdC5uX2NvcnJlY3RvcnMgaXMgTm9uZToKICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJuX2NvcnJlY3RvcnMgc2V0dGluZyBuZWVkZWQgZm9yIG9ydGhvZ29uYWwgbWF0Y2hpbmcgcHVyc3VpdC4iKQo=</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW5fY29ycmVjdG9ycyIsCiAgICAgICAgaGVscD0oIk1hbXVtIG51bWJlciBvZiBjb3JyZWN0b3JzIHRvIHVzZS4gKE1ldGhvZDogJ29tcCcpIiksCiAgICAgICAgbmFtZT0ibl9jb3JyZWN0b3JzIiwKICAgICAgICB0eXBlPWludCwKICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9sZF9uYW1lcyA9IGRlbHRhLmluZGV4LnZhbHVlcy5jb3B5KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsdGEgPSBkZWx0YS5sb2NbZGVsdGFbIkRFTFRBIl0gIT0gMF0KICAgICAgICAgICAgdmFyc19saXN0ID0gZGVsdGEuaW5kZXgudmFsdWVzCiAgICAgICAgICAgIHJlc3BfbWF0cml4ID0gcmVzcF9tYXRyaXgubG9jWzosIGRlbHRhLmluZGV4XQo=</text>
+        <text encoding="base64">ICAgIExPRy5kZWJ1ZygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsdGEgPSBkZWx0YS5sb2NbdmFyc19saXN0LCA6XQo=</text>
+        <text encoding="base64">ICAgIHZhcnNfbGlzdCA9IGRlbHRhLmluZGV4LnZhbHVlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhcnNfbGlzdCA9IGRlbHRhLmluZGV4LnZhbHVlcwogICAgcmV0dXJuIGRlbHRhLCByZXNwX21hdHJpeC5sb2NbOiwgZGVsdGEuaW5kZXhdLCBkZWx0YS5pbmRleC52YWx1ZXMsIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsdGEgKz0gbmV3X2RlbHRhCg==</text>
+        <text encoding="base64">ICAgIHJlc3BfbWF0cml4ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB1cGRhdGUgZGVsdGEK</text>
+        <text encoding="base64">ICAgICMgcGx0LnNob3coKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -513,10 +514,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmVtb3ZlIHVudXNlZCBjb3JyZWN0b3JzIGZyb20gdmFyc19saXN0CiAgICBkZWx0YSA9IGRlbHRhLmxvY1tkZWx0YVsiREVMVEEiXSAhPSAwXQogICAgdmFyc19saXN0ID0gZGVsdGEuaW5kZXgudmFsdWVzCgo=</text>
+        <text encoding="base64">ICAgICMgcGx0LnBsb3QocmVzLnByZWRpY3QocmVzcG9uc2VfbWF0KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgb3J0aG9nb25hbF9tcAo=</text>
+        <text encoding="base64">ICAgICMgcGx0LnBsb3QoZGlmZl92ZWMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
