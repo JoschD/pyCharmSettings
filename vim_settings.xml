@@ -63,11 +63,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/bbeat_compare/get_bbeat.py" timestamp="1542060612446">
-        <mark key="[" line="8" column="108" />
-        <mark key="]" line="88" column="86" />
-        <mark key="^" line="52" column="12" />
-        <mark key="." line="52" column="12" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/bbeat_compare/get_bbeat.py" timestamp="1542063053137">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/resonant_driving_terms.py" timestamp="1532509823065">
         <mark key="[" line="23" column="0" />
@@ -161,7 +161,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542057881195">
+      <file name="/Python Console" timestamp="1542063056618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -337,7 +337,7 @@
         <mark key="." line="142" column="20" />
         <mark key="^" line="142" column="54" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/getLLM_difference.py" timestamp="1542052813592">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/getLLM_difference.py" timestamp="1542063293769">
         <mark key="[" line="111" column="75" />
         <mark key="]" line="111" column="75" />
         <mark key="^" line="111" column="82" />
@@ -709,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;./b{:d}.bbeat_from_currents.pdf&quot;di.format(beam)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -817,13 +817,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;./b{:d}.bbeat_from_currents.pdf&quot;di.format(beam)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfY29tcGFyaXNvbl9wbG90X2ZpbGVuYW1lKGJlYW0pOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihnZXRfYmJlYXQuUFJFU0VOVEFUSU9OX1BBVEgsCiAgICAgICAgICAgICAgICAgICAgICAgICJiezpkfS5kYmJlYXQuY3Vycm1lYXMucGRmIi5mb3JtYXQoYmVhbSkpCg==</text>
+        <text encoding="base64">QkVBTVMgPSBbMSwgMl0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIHBsb3RfYmJlYXQoYXgsIGJhc2VfYmV0YSwgcGxhbmUsIGNvcnJlY3RvciwgaWR4X2NvcnIpOgogICAgZGZfZGlmZiA9IGdldF90d2lzc190ZnMoY29ycmVjdG9yKQogICAgZGZfZGlmZlsiQkJFQVQiXSA9IChkZl9kaWZmLmxvY1s6LCAiQkVUIiArIHBsYW5lXSAtIGJhc2VfYmV0YSkgLyBiYXNlX2JldGEKICAgIGF4LnBsb3QoZGZfZGlmZlsiUyJdLCBkZl9kaWZmWyJCQkVBVCJdLCBsYWJlbD1jb3JyZWN0b3IsICBtYXJrZXI9cHMuTWFya2VyTGlzdC5nZXRfbWFya2VyKGlkeF9jb3JyICUgOSkpCgo=</text>
