@@ -161,7 +161,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542104576297">
+      <file name="/Python Console" timestamp="1542108154004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -244,10 +244,10 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1542105033051">
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1542108054558">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="68" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
@@ -300,7 +300,7 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1542105510968">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1542108131550">
         <mark key="[" line="54" column="4" />
         <mark key="." line="54" column="0" />
       </file>
@@ -707,7 +707,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCgo=</text>
+        <text encoding="base64">ICAgIGtub2JfZmlsZSA9IG9zLnBhdGguam9pbihjd2QsIGNvbnN0LmdldF9kZWZhdWx0X2tub2JfZmlsZW5hbWUoKSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -824,28 +824,28 @@
         <text encoding="base64">ICAgIF9ydW5fcHJvY2Vzcyhrbm9iX25hbWUsIHRpbWUsIGN3ZCwgc2VydmVyLCAidHJpbSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCgo=</text>
+        <text encoding="base64">ICAgIGtub2JfZmlsZSA9IG9zLnBhdGguam9pbihjd2QsIGNvbnN0LmdldF9kZWZhdWx0X2tub2JfZmlsZW5hbWUoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZlsiQkVGT1JFX1ZBTFVFIl0gPSBkZlsiVkFMVUUiXSAtIGRmWyJERUxUQSJdICogZGYuaGVhZGVyc1siVFJJTSJdCg==</text>
+        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCiAgICAgICAgZGZbIkJFRk9SRV9WQUxVRSJdID0gZGZbIlZBTFVFIl0gLSBkZlsiREVMVEEiXSAqIGRmLmhlYWRlcnNbIlRSSU0iXQoK</text>
+        <text encoding="base64">ICAgICAgICBkZlsiQkVGT1JFX1ZBTFVFIl0gPSBkZlsiVkFMVUUiXSAtIGRmWyJERUxUQSJdICogZGYuaGVhZGVyc1siVFJJTSJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCiAgICAgICAgZGZbIkJFRk9SRV9WQUxVRSJdID0gZGZbIlZBTFVFIl0gLSBkZlsiREVMVEEiXSAqIGRmLmhlYWRlcnNbIlRSSU0iXQoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICJUUklNIiBpbiBkZi5oZWFkZXJzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCiAgICAgICAgZGZbIkJFRk9SRV9WQUxVRSJdID0gZGZbIlZBTFVFIl0gLSBkZlsiREVMVEEiXSAqIGRmLmhlYWRlcnNbIlRSSU0iXQo=</text>
+        <text encoding="base64">ICAgIGlmICJUUklNIiBpbiBkZi5oZWFkZXJzOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -863,10 +863,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZlsiQkVGT1JFX1ZBTFVFIl0gPSBkZlsiVkFMVUUiXSAtIGRmWyJERUxUQSJdICogZGYuaGVhZGVyc1siVFJJTSJdCg==</text>
+        <text encoding="base64">ICAgIGlmIHRyaW0gaXMgbm90IE5vbmU6CiAgICAgICAgZGYuaGVhZGVyc1siVFJJTSJdID0gdHJpbQogICAgICAgIGRmLmhlYWRlcnNbIlRSSU1ISU5UIl0gPSAiVkFMVUUgPSBCRUZPUkVfVkFMVUUgKyBERUxUQSAqIFRSSU0iCiAgICAgICAgZGZbIkJFRk9SRV9WQUxVRSJdID0gZGZbIlZBTFVFIl0gLSBkZlsiREVMVEEiXSAqIGRmLmhlYWRlcnNbIlRSSU0iXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmUubWF0Y2gociJccyooP1A8dHJpbW5hbWU+YmJtZXh0XC5rbm9iXGQpXHMqPVxzKig/UDx0cmltdmFsdWU+W147XSspXHMqOyIsICJiYm1leHQua25vYjEgPSA4LjAwMDAwMEUtMDE7ICEgVmFsdWUgb2Yga25vYiBMSENCRUFNLzIwMThfZ2xvYmFsX2F0c19mbGF0X2IxX2Zvcl9pcDVfd2Fpc3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZlsiQkVGT1JFX1ZBTFVFIl0gPSBkZlsiVkFMVUUiXSAtIGRmWyJERUxUQSJdICogZGYuaGVhZGVyc1siVFJJTSJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
