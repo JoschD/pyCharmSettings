@@ -18,6 +18,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/get_online_model_data.py" timestamp="1542208441971">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="24" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/index.rst" timestamp="1542120015660">
         <mark key="[" line="17" column="14" />
       </file>
@@ -77,10 +83,6 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1540457741578">
         <mark key="[" line="17" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1542054707110">
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="517" column="51" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="22" />
@@ -90,10 +92,6 @@
         <mark key="[" line="57" column="12" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/plot_export.py" timestamp="1541608778987">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="50" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/__init__.py" timestamp="1533742041772">
         <mark key="[" line="0" column="0" />
@@ -234,10 +232,6 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="52" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx_wrapper.py" timestamp="1541604900297">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="103" column="92" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
         <mark key="[" line="1" column="0" />
       </file>
@@ -358,10 +352,6 @@
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/correct.py" timestamp="1541781953966">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
@@ -589,10 +579,6 @@
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/constants.py" timestamp="1541605766830">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="40" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/quick_optics_check/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1541152137744">
         <mark key="[" line="38" column="37" />
         <mark key="]" line="38" column="38" />
@@ -736,8 +722,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIDEK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -845,7 +831,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>int(ip_map[label][-1])</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
