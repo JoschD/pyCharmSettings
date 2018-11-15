@@ -159,11 +159,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" timestamp="1542215816221">
-        <mark key="[" line="93" column="38" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" timestamp="1542286261606">
+        <mark key="[" line="76" column="44" />
+        <mark key="]" line="76" column="43" />
+        <mark key="." line="76" column="43" />
+        <mark key="^" line="76" column="43" />
       </file>
       <file name="/fragment.py" timestamp="1532691973551">
         <mark key="[" line="0" column="0" />
@@ -464,11 +464,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1542036959596">
         <mark key="[" line="120" column="29" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1542135727140">
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
-        <mark key="^" line="314" column="54" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1542285976098">
+        <mark key="[" line="273" column="0" />
+        <mark key="]" line="273" column="0" />
+        <mark key="." line="273" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
@@ -723,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/2018_ions_IRb3corr</text>
+        <text>=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -831,7 +830,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/2018_ions_IRb3corr</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -840,28 +839,28 @@
         <text>/2018_ion_arcbyarc_coupling_beam1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExIQ0JFQU0vMjAxOF9JUDJfY291cGxpbmRkZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxwaGFfc3RhciA9IHRmc19kZi5sb2NbbG9jLCBBTFBIQV9DT0xVTU4uZm9ybWF0KHBsYW5lPXBsYW5lKV0KICAgICAgICAgICAgPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcmV0dXJuIDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXN0X3NpZ24gPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9MSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9IlgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZWFtPTEsCg==</text>
+        <text encoding="base64">ICAgIExIQ0JFQU0vMjAxOF9JUDJfY291cGxpbmRkZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmV0dXJuIDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVhc1siQUxQSEFTVEFSIl0gPSBtZWFzWyJXQUlTVCJdIC8gbWVhc1siQkVUQVdBSVNUIl0gKiBic2Z0LmdldF93YWlzdF9zaWduKCkKICAgICAgICAgICAgbWVhc1siQUxQSEFTVEFSX0VSUiJdID0gKG1lYXNbIldBSVNUX0VSUiJdIC8gbWVhc1siV0FJU1QiXSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZWFzWyJCRVRBV0FJU1RfRVJSIl0gLyBtZWFzWyJCRVRBV0FJU1QiXSkgKiBtZWFzWyJBTFBIQVNUQVIiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9MSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9IlgiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiZWFtPTEsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVhc1siQUxQSEFTVEFSIl0gPSBtZWFzWyJXQUlTVCJdIC8gbWVhc1siQkVUQVdBSVNUIl0gKiBic2Z0LmdldF93YWlzdF9zaWduKCkKICAgICAgICAgICAgbWVhc1siQUxQSEFTVEFSX0VSUiJdID0gKG1lYXNbIldBSVNUX0VSUiJdIC8gbWVhc1siV0FJU1QiXSArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtZWFzWyJCRVRBV0FJU1RfRVJSIl0gLyBtZWFzWyJCRVRBV0FJU1QiXSkgKiBtZWFzWyJBTFBIQVNUQVIiXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -879,10 +878,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxwaGFzdGFyID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
