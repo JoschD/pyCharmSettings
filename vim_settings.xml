@@ -161,6 +161,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1542383910301">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" timestamp="1542287393079">
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -321,11 +324,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps/compare_output.py" timestamp="1542382626993">
-        <mark key="[" line="17" column="86" />
-        <mark key="]" line="17" column="86" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="17" column="86" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps/compare_output.py" timestamp="1542383780486">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="4" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -388,11 +391,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1542050958364">
-        <mark key="[" line="228" column="8" />
-        <mark key="]" line="228" column="47" />
-        <mark key="^" line="227" column="15" />
-        <mark key="." line="228" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1542384200337">
+        <mark key="[" line="425" column="30" />
+        <mark key="]" line="425" column="0" />
+        <mark key="." line="425" column="0" />
+        <mark key="^" line="423" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/helpers.py" timestamp="1540294253159">
         <mark key="[" line="148" column="0" />
@@ -728,9 +731,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,
-                                           out_file=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -838,38 +840,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'D'</text>
+        <text>&quot;plot.lhcb{:d}.{:s}&quot;.format(beam, other)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3AgPSBUZnMoImdldEQiKQo=</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigiVGhlIG51bWJlciBvZiBsYWJlbHMgYW5kIG51bWJlciBvZiB5IGNvbHVtbnMgZGlmZmVyISIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-                                           out_file=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhbT1iZWFtLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZpZ3MgPSB7IiIsIGZpZ30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9cGxhbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4X2NvbHM9WyJTIiBmb3IgcGxhbmUgaW4gIlhZIl0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9aW50KGlwX21hcFtsYWJlbF1bLTFdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IGlwLCBwbGFuZSwgYmVhbSwgaXBfc2lnbiwgcGxhbmVfc2lnbiwgYmVhbV9zaWduCg==</text>
+      <register name="5" type="4">
+        <text>,
+                                           out_file=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNpZ24gPSAxLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhbT1iZWFtLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc2lnbiA9IGdldF93YWlzdF9zaWduKGlwLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9cGxhbmUsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -887,10 +889,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxwaGFfc3RhciA9IHRmc19kZi5sb2NbbG9jLCBBTFBIQV9DT0xVTU4uZm9ybWF0KHBsYW5lPXBsYW5lKV0KICAgICAgICAgICAgPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9aW50KGlwX21hcFtsYWJlbF1bLTFdKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXN0X3NpZ24gPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgIHByaW50IGlwLCBwbGFuZSwgYmVhbSwgaXBfc2lnbiwgcGxhbmVfc2lnbiwgYmVhbV9zaWduCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
