@@ -321,6 +321,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps/compare_output.py" timestamp="1542377361474">
+        <mark key="[" line="15" column="86" />
+        <mark key="]" line="15" column="86" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="15" column="86" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -723,7 +729,8 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'D'</text>
+        <text>,
+                                           out_file=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -839,29 +846,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3AgPSBUZnMoImdldEQiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhbT1iZWFtLAo=</text>
+      <register name="1" type="4">
+        <text>,
+                                           out_file=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9cGxhbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmVhbT1iZWFtLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9aW50KGlwX21hcFtsYWJlbF1bLTFdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhbmU9cGxhbmUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IGlwLCBwbGFuZSwgYmVhbSwgaXBfc2lnbiwgcGxhbmVfc2lnbiwgYmVhbV9zaWduCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXA9aW50KGlwX21hcFtsYWJlbF1bLTFdKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNpZ24gPSAxLgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGlwLCBwbGFuZSwgYmVhbSwgaXBfc2lnbiwgcGxhbmVfc2lnbiwgYmVhbV9zaWduCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgc2lnbiA9IGdldF93YWlzdF9zaWduKGlwLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgIHNpZ24gPSAxLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxwaGFfc3RhciA9IHRmc19kZi5sb2NbbG9jLCBBTFBIQV9DT0xVTU4uZm9ybWF0KHBsYW5lPXBsYW5lKV0KICAgICAgICAgICAgPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgICMgc2lnbiA9IGdldF93YWlzdF9zaWduKGlwLCBwbGFuZSwgYmVhbSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -879,10 +887,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXN0X3NpZ24gPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxwaGFfc3RhciA9IHRmc19kZi5sb2NbbG9jLCBBTFBIQV9DT0xVTU4uZm9ybWF0KHBsYW5lPXBsYW5lKV0KICAgICAgICAgICAgPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExIQ0JFQU0vMjAxOF9JUDJfY291cGxpbmRkZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXN0X3NpZ24gPSBic2Z0LmdldF93YWlzdF9zaWduKGlwX21hcFtsYWJlbF1bLTFdLCBwbGFuZSwgYmVhbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
