@@ -160,9 +160,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542632985306">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" timestamp="1542287393079">
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -329,11 +326,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542641638133">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542645446855">
+        <mark key="[" line="80" column="34" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="211" column="53" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
@@ -708,8 +705,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_get_all_dfs()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlvdG9vbHMuY3JlYXRlX2RpcnMoZ2V0X3NlZWRfZGlyKCkpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -817,37 +814,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_get_all_dfs()</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3Bsb3RfYXZlcmFnZXMoYmVhbSwgYnVtcCwgYWxsX2RmcywgIkRCQiIpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kaWZmX2JidGZzX2ZpbGVuYW1lKGJlYW0sIGJ1bXAsIHNlZWQpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihfZ2V0X291dHB1dF9kaXIoKSwgImJ7OmR9LmRpZmZfYmJlYXQuYnVtcHN7OmR9LnNlZWR7OjA0ZH0udGZzIi5mb3JtYXQoYmVhbSwgYnVtcCwgc2VlZCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmID0gX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWCIpCg==</text>
+        <text encoding="base64">ICAgIGlvdG9vbHMuY3JlYXRlX2RpcnMoZ2V0X3NlZWRfZGlyKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IF9nZXRfbWVhbl9hbmRfc3RkX2RhdGEoZGZfbGlzdCwgY29sdW1uICsgIlgiKQo=</text>
+        <text encoding="base64">ZGVmIGdldF9vdXRwdXRfZGlyKCk6CiAgICBwYXRoID0gb3MucGF0aC5qb2luKGdldF9yZXN1bHRzX2RpcigpLCAiYW5hbHlzZWQiKQogICAgaW90b29scy5jcmVhdGVfZGlycyhwYXRoKQogICAgcmV0dXJuIHBhdGgK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgaWQpOgogICAgdGZzLndyaXRlX3RmcyhnZXRfbWVhbl90ZnNfZmlsZW5hbWUoYmVhbSwgYnVtcCwgaWQpLCBkZiwgc2F2ZV9pbmRleD0iTkFNRSIpCgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">X2dldF9vdXRwdXRfZGlyKCksCiAgICAgICAgICAgICAgICAgICAgICAgICJwZXJfc2VlZCIsIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgY29sdW1uKQo=</text>
+      <register name="4" type="4">
+        <text>os.path.join(_get_output_dir(), &quot;b{:d}.bbeat.bumps{:d}.seed{:04}.tfs&quot;.format(
+       beam, bumps, seed
+   )</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRmcy53cml0ZV90ZnMoZ2V0X21lYW5fdGZzX2ZpbGVuYW1lKGJlYW0sIGJ1bXAsIGNvbHVtbiksIGRmLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
+        <text encoding="base64">ICAgICAgICBkZl9saXN0ID0gX2dldF9hbGxfZGZzKGJlYW0sIGJ1bXAsIGVycm9ycykKICAgICAgICBkZl9saXN0ID0gX2NhbGNfYmV0YXN0YXJfYW5kX3dhaXN0KGRmX2xpc3QpCiAgICAgICAgZGYgPSBfZ2V0X21lcmdlZF9tZWFuX2RmKGRmX2xpc3QsIFsiQkVUQVNUQVIiLCAiV0FJU1QiXSkKICAgICAgICBfd3JpdGVfbWVhbl90ZnMoZGYsIGJlYW0sIGJ1bXAsICJCRVRBU1RBUl9FUlJPUiIgKyAiT04iIGlmIGVycm9ycyBlbHNlICJPRkYiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfd3JpdGVfbWVhbl90ZnMoZGZfbGlzdCwgYmVhbSwgYnVtcCwgY29sdW1uKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX2RmcyA9IF9nZXRfYWxsX2RmcyhiZWFtLCBidW1wKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF93cml0ZV9tZWFuX3RmcyhkZl9saXN0LCBiZWFtLCBidW1wLCBjb2x1bW4pOgogICAgZGYgPSBfZ2V0X21lYW5fYW5kX3N0ZF9kYXRhKGRmX2xpc3QsIGNvbHVtbiArICJYIikKICAgIGRmID0gZGYubWVyZ2UoX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWSIpLmRyb3AoIlMiLCBheGlzPSJjb2x1bW5zIiksCiAgICAgICAgICAgICAgICAgIGxlZnRfaW5kZXg9VHJ1ZSwgcmlnaHRfaW5kZXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgKQogICAgX3dyaXRlX21lYW5fdGZzKGRmLCBiZWFtLCBidW1wLCBjb2x1bW4pCiAgICB0ZnMud3JpdGVfdGZzKGdldF9tZWFuX3Rmc19maWxlbmFtZShiZWFtLCBidW1wLCBjb2x1bW4pLCBkZiwgc2F2ZV9pbmRleD0iTkFNRSIpCgo=</text>
+        <text encoding="base64">IyBTRUVEUyA9IHJhbmdlKDEsIDIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -865,10 +864,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmID0gX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWCIpCiAgICBkZiA9IGRmLm1lcmdlKF9nZXRfbWVhbl9hbmRfc3RkX2RhdGEoZGZfbGlzdCwgY29sdW1uICsgIlkiKS5kcm9wKCJTIiwgYXhpcz0iY29sdW1ucyIpLAogICAgICAgICAgICAgICAgICBsZWZ0X2luZGV4PVRydWUsIHJpZ2h0X2luZGV4PVRydWUsCiAgICAgICAgICAgICAgICAgICkKICAgIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgY29sdW1uKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBhbGxfZGZzID0gX2dldF9hbGxfZGZzKGJlYW0sIGJ1bXApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
+        <text encoding="base64">ICAgIGRmID0gX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
