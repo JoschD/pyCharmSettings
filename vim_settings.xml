@@ -35,6 +35,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1542647931228">
+        <mark key="[" line="122" column="17" />
+        <mark key="]" line="122" column="23" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -69,10 +73,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542630241082">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542648428818">
+        <mark key="[" line="34" column="88" />
+        <mark key="]" line="34" column="87" />
+        <mark key="." line="34" column="87" />
+        <mark key="^" line="34" column="87" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/resonant_driving_terms.py" timestamp="1532509823065">
         <mark key="[" line="23" column="0" />
@@ -149,11 +154,11 @@
         <mark key="]" line="24" column="72" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/helper.py" timestamp="1542631083748">
-        <mark key="[" line="29" column="68" />
-        <mark key="]" line="29" column="68" />
-        <mark key="." line="29" column="68" />
-        <mark key="^" line="29" column="71" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/helper.py" timestamp="1542647673384">
+        <mark key="[" line="36" column="77" />
+        <mark key="]" line="36" column="116" />
+        <mark key="^" line="36" column="89" />
+        <mark key="." line="36" column="90" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options.py" timestamp="1532695835392">
         <mark key="[" line="14" column="0" />
@@ -705,8 +710,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlvdG9vbHMuY3JlYXRlX2RpcnMoZ2V0X3NlZWRfZGlyKCkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>max_dudiwration</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -814,13 +819,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>max_dudiwration</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9kaWZmX2JidGZzX2ZpbGVuYW1lKGJlYW0sIGJ1bXAsIHNlZWQpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihfZ2V0X291dHB1dF9kaXIoKSwgImJ7OmR9LmRpZmZfYmJlYXQuYnVtcHN7OmR9LnNlZWR7OjA0ZH0udGZzIi5mb3JtYXQoYmVhbSwgYnVtcCwgc2VlZCkpCg==</text>
+      <register name="0" type="4">
+        <text>workday</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlvdG9vbHMuY3JlYXRlX2RpcnMoZ2V0X3NlZWRfZGlyKCkpCg==</text>
