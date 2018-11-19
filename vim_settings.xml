@@ -69,10 +69,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542626211776">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542630241082">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/resonant_driving_terms.py" timestamp="1532509823065">
         <mark key="[" line="23" column="0" />
@@ -703,7 +703,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VlZD1zZWVkLAo=</text>
+        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -811,7 +811,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SEPS = [True, False]</text>
+        <text>separationcheck</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -820,7 +820,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYmVhbT1iZWFtLAogICAgICAgICAgICBzZWVkPXNlZWQsCiAgICAgICAgICAgIGJ1bXBzPWJ1bXBzLAogICAgICAgICAgICBlcnJvcnM9Im9uIiwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VlZD1zZWVkLAo=</text>
+        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -829,19 +829,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXA9Im9uIiBpZiBzZXBhcmF0aW9uIGVsc2UgIm9mZiIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXA9Im9uIiBpZiBzZXBhcmF0aW9uIGVsc2UgIm9mZiIsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4KGZpbGVuYW1lLCBsb2dfZmlsZT1maWxlbmFtZS5yZXBsYWNlKCIubWFkeCIsICIubG9nIiksIGN3ZD0iLi9jd2QiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxfcm93LmFkZFdpZGdldCh0eHQpCg==</text>
+        <text encoding="base64">ZGVmIHJ1bl9pcHMoKToKICAgIG91dHB1dCA9IGdldF9yZXN1bHRzX2RpcigpCiAgICBmb3IgYmVhbSBpbiBCRUFNUzoKICAgICAgICBqb2Jjb250ZW50ID0gX2dldF9pcGpvYl9jb250ZW50KGJlYW0sIG91dHB1dCkKICAgICAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihvdXRwdXQsICJqb2IuYns6ZH0uSVBzLm1hZHgiLmZvcm1hdChiZWFtKSkKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJ3IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShqb2Jjb250ZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHh0ID0gUXRXaWRnZXRzLlFMYWJlbCgiWS1MYWJlbCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -859,10 +859,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IE5vbmUK</text>
+        <text encoding="base64">ZGVmIF9nZXRfaXBqb2JfY29udGVudChiZWFtLCBvdXRwdXQpOgogICAgd2l0aCBvcGVuKCJ0ZW1wbGF0ZS5zZXBhcmF0aW9uY2hlY2tfaXBzLm1hZHgiLCAiciIpIGFzIGY6CiAgICAgICAgb3JpZ2luYWwgPSBmLnJlYWQoKQogICAgcmV0dXJuIG9yaWdpbmFsICUgewogICAgICAgICJCRUFNIjogIns6ZH0iLmZvcm1hdChiZWFtKSwKICAgICAgICAiT1VUUFVUUEFUSCI6IG91dHB1dCwKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmlnc1swXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VlZD1zZWVkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
