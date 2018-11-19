@@ -331,11 +331,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542645446855">
-        <mark key="[" line="80" column="34" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="211" column="53" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542651119677">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
@@ -710,8 +710,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>max_dudiwration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QkVBTVMgPSByYW5nZSgxLCAzKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -824,8 +824,8 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>workday</text>
+      <register name="0" type="2">
+        <text encoding="base64">QkVBTVMgPSByYW5nZSgxLCAzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlvdG9vbHMuY3JlYXRlX2RpcnMoZ2V0X3NlZWRfZGlyKCkpCg==</text>
