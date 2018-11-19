@@ -149,18 +149,18 @@
         <mark key="]" line="24" column="72" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/helper.py" timestamp="1542626410881">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="24" column="22" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/helper.py" timestamp="1542631083748">
+        <mark key="[" line="29" column="68" />
+        <mark key="]" line="29" column="68" />
+        <mark key="." line="29" column="68" />
+        <mark key="^" line="29" column="71" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options.py" timestamp="1532695835392">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542386393354">
+      <file name="/Python Console" timestamp="1542632985306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" timestamp="1542287393079">
@@ -329,6 +329,12 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542633035276">
+        <mark key="[" line="107" column="31" />
+        <mark key="]" line="145" column="9" />
+        <mark key="." line="145" column="9" />
+        <mark key="^" line="145" column="9" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
@@ -363,10 +369,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1542618172738">
-        <mark key="[" line="303" column="36" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1542632826765">
+        <mark key="[" line="378" column="50" />
+        <mark key="]" line="531" column="26" />
+        <mark key="." line="531" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/helpers.py" timestamp="1540294253159">
         <mark key="[" line="148" column="0" />
@@ -703,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -811,7 +817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>separationcheck</text>
+        <text>+ plane_map[idx_plot]</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -820,25 +826,25 @@
         <text encoding="base64">ICAgICAgICAgICAgYmVhbT1iZWFtLAogICAgICAgICAgICBzZWVkPXNlZWQsCiAgICAgICAgICAgIGJ1bXBzPWJ1bXBzLAogICAgICAgICAgICBlcnJvcnM9Im9uIiwKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfcGxvdF9oaXN0b2dyYW0oYWxsX2RmcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4KGZpbGVuYW1lLCBsb2dfZmlsZT1maWxlbmFtZS5yZXBsYWNlKCIubWFkeCIsICIubG9nIiksIGN3ZD0iLi9jd2QiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHJ1bl9pcHMoKToKICAgIG91dHB1dCA9IGdldF9yZXN1bHRzX2RpcigpCiAgICBmb3IgYmVhbSBpbiBCRUFNUzoKICAgICAgICBqb2Jjb250ZW50ID0gX2dldF9pcGpvYl9jb250ZW50KGJlYW0sIG91dHB1dCkKICAgICAgICBmaWxlbmFtZSA9IG9zLnBhdGguam9pbihvdXRwdXQsICJqb2IuYns6ZH0uSVBzLm1hZHgiLmZvcm1hdChiZWFtKSkKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICJ3IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShqb2Jjb250ZW50KQo=</text>
+        <text encoding="base64">IyBCRUFNUyA9IHJhbmdlKDEsIDIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -859,10 +865,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfaXBqb2JfY29udGVudChiZWFtLCBvdXRwdXQpOgogICAgd2l0aCBvcGVuKCJ0ZW1wbGF0ZS5zZXBhcmF0aW9uY2hlY2tfaXBzLm1hZHgiLCAiciIpIGFzIGY6CiAgICAgICAgb3JpZ2luYWwgPSBmLnJlYWQoKQogICAgcmV0dXJuIG9yaWdpbmFsICUgewogICAgICAgICJCRUFNIjogIns6ZH0iLmZvcm1hdChiZWFtKSwKICAgICAgICAiT1VUUFVUUEFUSCI6IG91dHB1dCwKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VlZD1zZWVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBtYWR4KGZpbGVuYW1lLCBsb2dfZmlsZT1maWxlbmFtZS5yZXBsYWNlKCIubWFkeCIsICIubG9nIiksIGN3ZD0iLi9jd2QiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
