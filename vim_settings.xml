@@ -329,11 +329,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542633035276">
-        <mark key="[" line="107" column="31" />
-        <mark key="]" line="145" column="9" />
-        <mark key="." line="145" column="9" />
-        <mark key="^" line="145" column="9" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542636192478">
+        <mark key="[" line="124" column="85" />
+        <mark key="]" line="124" column="86" />
+        <mark key="." line="124" column="22" />
+        <mark key="^" line="127" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
@@ -708,8 +708,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
+      <register name="&quot;" type="4">
+        <text>r&quot;$\Delta \Delta \beta_{p:s} / \beta_{p:s}$&quot;.format(p=&quot;XY&quot;[idx])</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -817,13 +817,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+ plane_map[idx_plot]</text>
+        <text>r&quot;$\Delta \Delta \beta_{p:s} / \beta_{p:s}$&quot;.format(p=&quot;XY&quot;[idx])</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVhbT1iZWFtLAogICAgICAgICAgICBzZWVkPXNlZWQsCiAgICAgICAgICAgIGJ1bXBzPWJ1bXBzLAogICAgICAgICAgICBlcnJvcnM9Im9uIiwKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bsb3RfYXZlcmFnZXMoYmVhbSwgYnVtcCwgYWxsX2RmcywgIkRCQiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
