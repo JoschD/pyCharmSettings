@@ -329,11 +329,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542636192478">
-        <mark key="[" line="124" column="85" />
-        <mark key="]" line="124" column="86" />
-        <mark key="." line="124" column="22" />
-        <mark key="^" line="127" column="22" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542640281461">
+        <mark key="[" line="86" column="40" />
+        <mark key="]" line="68" column="4" />
+        <mark key="." line="68" column="4" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
@@ -709,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r&quot;$\Delta \Delta \beta_{p:s} / \beta_{p:s}$&quot;.format(p=&quot;XY&quot;[idx])</text>
+        <text>lter_i</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -817,7 +817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r&quot;$\Delta \Delta \beta_{p:s} / \beta_{p:s}$&quot;.format(p=&quot;XY&quot;[idx])</text>
+        <text>lter_i</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -826,28 +826,28 @@
         <text encoding="base64">ICAgICAgICAgICAgX3Bsb3RfYXZlcmFnZXMoYmVhbSwgYnVtcCwgYWxsX2RmcywgIkRCQiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
+        <text encoding="base64">ICAgIGRmID0gX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWCIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IF9nZXRfbWVhbl9hbmRfc3RkX2RhdGEoZGZfbGlzdCwgY29sdW1uICsgIlgiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBfcGxvdF9oaXN0b2dyYW0oYWxsX2RmcykK</text>
+        <text encoding="base64">ZGVmIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgaWQpOgogICAgdGZzLndyaXRlX3RmcyhnZXRfbWVhbl90ZnNfZmlsZW5hbWUoYmVhbSwgYnVtcCwgaWQpLCBkZiwgc2F2ZV9pbmRleD0iTkFNRSIpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgY29sdW1uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCRUFNUyA9IHJhbmdlKDEsIDIpCg==</text>
+        <text encoding="base64">ICAgIHRmcy53cml0ZV90ZnMoZ2V0X21lYW5fdGZzX2ZpbGVuYW1lKGJlYW0sIGJ1bXAsIGNvbHVtbiksIGRmLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJ1bl9pcHMoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfd3JpdGVfbWVhbl90ZnMoZGZfbGlzdCwgYmVhbSwgYnVtcCwgY29sdW1uKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF93cml0ZV9tZWFuX3RmcyhkZl9saXN0LCBiZWFtLCBidW1wLCBjb2x1bW4pOgogICAgZGYgPSBfZ2V0X21lYW5fYW5kX3N0ZF9kYXRhKGRmX2xpc3QsIGNvbHVtbiArICJYIikKICAgIGRmID0gZGYubWVyZ2UoX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWSIpLmRyb3AoIlMiLCBheGlzPSJjb2x1bW5zIiksCiAgICAgICAgICAgICAgICAgIGxlZnRfaW5kZXg9VHJ1ZSwgcmlnaHRfaW5kZXg9VHJ1ZSwKICAgICAgICAgICAgICAgICAgKQogICAgX3dyaXRlX21lYW5fdGZzKGRmLCBiZWFtLCBidW1wLCBjb2x1bW4pCiAgICB0ZnMud3JpdGVfdGZzKGdldF9tZWFuX3Rmc19maWxlbmFtZShiZWFtLCBidW1wLCBjb2x1bW4pLCBkZiwgc2F2ZV9pbmRleD0iTkFNRSIpCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -865,10 +865,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmID0gX2dldF9tZWFuX2FuZF9zdGRfZGF0YShkZl9saXN0LCBjb2x1bW4gKyAiWCIpCiAgICBkZiA9IGRmLm1lcmdlKF9nZXRfbWVhbl9hbmRfc3RkX2RhdGEoZGZfbGlzdCwgY29sdW1uICsgIlkiKS5kcm9wKCJTIiwgYXhpcz0iY29sdW1ucyIpLAogICAgICAgICAgICAgICAgICBsZWZ0X2luZGV4PVRydWUsIHJpZ2h0X2luZGV4PVRydWUsCiAgICAgICAgICAgICAgICAgICkKICAgIF93cml0ZV9tZWFuX3RmcyhkZiwgYmVhbSwgYnVtcCwgY29sdW1uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4KGZpbGVuYW1lLCBsb2dfZmlsZT1maWxlbmFtZS5yZXBsYWNlKCIubWFkeCIsICIubG9nIiksIGN3ZD0iLi9jd2QiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeV9uYW1lID0geV9jb2wK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
