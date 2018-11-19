@@ -329,11 +329,11 @@
         <mark key="]" line="137" column="10" />
         <mark key="." line="137" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542640281461">
-        <mark key="[" line="86" column="40" />
-        <mark key="]" line="68" column="4" />
-        <mark key="." line="68" column="4" />
-        <mark key="^" line="68" column="3" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542641638133">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542120639438">
         <mark key="[" line="2" column="33" />
@@ -709,7 +709,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>lter_i</text>
+        <text>_get_all_dfs()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -817,7 +817,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lter_i</text>
+        <text>_get_all_dfs()</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
