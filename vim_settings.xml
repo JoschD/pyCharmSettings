@@ -557,10 +557,10 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1542900011277">
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="70" column="26" />
-        <mark key="." line="69" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1542902954832">
+        <mark key="[" line="19" column="63" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="63" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/tfs_files/index.rst" timestamp="1542120791801">
         <mark key="[" line="20" column="0" />
@@ -743,8 +743,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIHBsYW5lIGlzIG5vdCBOb25lIGFuZCBkZl9saW4gaXMgbm90IE5vbmUgYW5kIGRmX3BrMnBrIGlzIG5vdCBOb25lOgogICAgICAgIGFtcF90dW5lID0gZGZfbGluLgo=</text>
+      <register name="&quot;" type="4">
+        <text>df_pk2pk</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -852,7 +852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>df_pk2pk</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
