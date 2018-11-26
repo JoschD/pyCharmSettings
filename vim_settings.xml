@@ -175,7 +175,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1542980525786">
+      <file name="/Python Console" timestamp="1543230766366">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -556,7 +556,7 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1543229803893">
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1543230895861">
         <mark key="[" line="46" column="47" />
         <mark key="]" line="46" column="50" />
         <mark key="." line="46" column="50" />
@@ -744,7 +744,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[idx_merge]</text>
+        <text>np.real()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -852,7 +852,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[idx_merge]</text>
+        <text>np.real()</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
