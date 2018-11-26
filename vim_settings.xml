@@ -557,11 +557,11 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1543230895861">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="46" column="50" />
-        <mark key="." line="46" column="50" />
-        <mark key="^" line="45" column="61" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1543238903298">
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="102" column="19" />
+        <mark key="." line="102" column="19" />
+        <mark key="^" line="102" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/tfs_files/index.rst" timestamp="1542120791801">
         <mark key="[" line="20" column="0" />
@@ -745,7 +745,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>np.real()</text>
+        <text />
       </register>
       <register name="b" type="4">
         <keys>
@@ -853,7 +853,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>np.real()</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -861,14 +861,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZl9hbXAgPSBkZl9hbXAubG9jW2lkeF9tZXJnZSwgOl0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNpZ25hbF90dW5lID0gZ2V0X3NpZ25hbCgxLiwgZl90dW5lLCBOX1RVUk5TKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHRyeToKICAgICAgICBhbXAgPQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNpZ25hbF90dW5lID0gZ2V0X3NpZ25hbCgxLiwgZl90dW5lLCBOX1RVUk5TKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -877,13 +877,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKCJBdmVyYWdpbmcgb3ZlciB7OmR9IGZyZXF1ZW5jaWVzIGluIHBsYW5lIHs6c30iLmZvcm1hdChsZW4oZGF0YV9leHRyYWN0KSwgcGxhbmUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmVfc2lnbmFsIAo=</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKCJBdmVyYWdpbmcgb3ZlciB7OmR9IGZyZXF1ZW5jaWVzIGluIHBsYW5lIHs6c30iLmZvcm1hdChsZW4oZGF0YV9leHRyYWN0KSwgcGxhbmUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIGxpbmVfc2lnbmFsIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -901,7 +901,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludF9yYW5nZSA9IG5wLmFyYW5nZShOX1RVUk5TKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGludF9yYW5nZSA9IG5wLmFyYW5nZShOX1RVUk5TKQo=</text>
