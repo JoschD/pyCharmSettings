@@ -353,10 +353,11 @@
         <mark key="^" line="173" column="19" />
         <mark key="." line="174" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543325010395">
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="67" column="23" />
-        <mark key="." line="54" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543326511988">
+        <mark key="[" line="77" column="108" />
+        <mark key="]" line="77" column="127" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="76" column="48" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_pandas.py" timestamp="1542978802668">
         <mark key="[" line="187" column="0" />
@@ -749,7 +750,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF4X2JwbXMgPSBheC50d2lueSgpCiAgICBmaWcuc3VicGxvdHNfYWRqdXN0KGJvdHRvbT0wLjMpCiAgICBheF9icG1zLnhheGlzLnNldF90aWNrc19wb3NpdGlvbigiYm90dG9tIikKICAgIGF4X2JwbXMueGF4aXMuc2V0X2xhYmVsX3Bvc2l0aW9uKCJib3R0b20iKQogICAgYXhfYnBtcy5zcGluZXNbImJvdHRvbSJdLnNldF9wb3NpdGlvbigoImF4ZXMiLCAtMC4yKSkKICAgIGF4X2JwbXMuc2V0X2ZyYW1lX29uKFRydWUpCiAgICBheF9icG1zLnBhdGNoLnNldF92aXNpYmxlKEZhbHNlKQogICAgZm9yIHNwIGluIGF4X2JwbXMuc3BpbmVzLml0ZXJ2YWx1ZXMoKToKICAgICAgICBzcC5zZXRfdmlzaWJsZShGYWxzZSkKICAgIGF4X2JwbXMuc3BpbmVzWyJib3R0b20iXS5zZXRfdmlzaWJsZShUcnVlKQogICAgYXhfYnBtcy5zZXRfeHRpY2tzKGNvZWZmc1siWCJdKQogICAgYXhfYnBtcy5zZXRfeHRpY2tsYWJlbHMoY29lZmZzLmluZGV4LCByb3RhdGlvbj00NSwgaGE9InJpZ2h0IikKICAgIGF4X2JwbXMuZ3JpZChGYWxzZSkK</text>
+        <text encoding="base64">ICAgIHBsb3RfY29tcGxleF9jb2VmZmljaWVudChvcy5wYXRoLmpvaW4oR1VJT1VULCAiMjAxOC0xMS0yNiIsICJMSENCMiIsICJNZWFzdXJlbWVudHMiLCAiQmVhbTJAVHVybkAyMDE4XzExXzAzQDAxXzM1XzA2Xzk3NiIpKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -863,7 +864,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4X2JwbXMuc2V0X3h0aWNrcyhjb2VmZnNbIlgiXSkKICAgIGF4X2JwbXMuc2V0X3h0aWNrbGFiZWxzKGNvZWZmcy5pbmRleCwgcm90YXRpb249NDUsIGhhPSJyaWdodCIpCg==</text>
+        <text encoding="base64">ICAgIHBsb3RfY29tcGxleF9jb2VmZmljaWVudChvcy5wYXRoLmpvaW4oR1VJT1VULCAiMjAxOC0xMS0yNiIsICJMSENCMiIsICJNZWFzdXJlbWVudHMiLCAiQmVhbTJAVHVybkAyMDE4XzExXzAzQDAxXzM1XzA2Xzk3NiIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGF4X2JwbXMgPSBheC50d2lueSgpCiAgICBmaWcuc3VicGxvdHNfYWRqdXN0KGJvdHRvbT0wLjMpCiAgICBheF9icG1zLnhheGlzLnNldF90aWNrc19wb3NpdGlvbigiYm90dG9tIikKICAgIGF4X2JwbXMueGF4aXMuc2V0X2xhYmVsX3Bvc2l0aW9uKCJib3R0b20iKQogICAgYXhfYnBtcy5zcGluZXNbImJvdHRvbSJdLnNldF9wb3NpdGlvbigoImF4ZXMiLCAtMC4yKSkKICAgIGF4X2JwbXMuc2V0X2ZyYW1lX29uKFRydWUpCiAgICBheF9icG1zLnBhdGNoLnNldF92aXNpYmxlKEZhbHNlKQogICAgZm9yIHNwIGluIGF4X2JwbXMuc3BpbmVzLml0ZXJ2YWx1ZXMoKToKICAgICAgICBzcC5zZXRfdmlzaWJsZShGYWxzZSkKICAgIGF4X2JwbXMuc3BpbmVzWyJib3R0b20iXS5zZXRfdmlzaWJsZShUcnVlKQogICAgYXhfYnBtcy5zZXRfeHRpY2tzKGNvZWZmc1siWCJdKQogICAgYXhfYnBtcy5zZXRfeHRpY2tsYWJlbHMoY29lZmZzLmluZGV4LCByb3RhdGlvbj00NSwgaGE9InJpZ2h0IikKICAgIGF4X2JwbXMuZ3JpZChGYWxzZSkK</text>
