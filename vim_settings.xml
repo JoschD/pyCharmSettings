@@ -188,7 +188,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1543337913701">
+      <file name="/Python Console" timestamp="1543832822242">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -315,8 +315,8 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/.gitignore" timestamp="1534413256404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1541759157264">
-        <mark key="[" line="41" column="15" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1543832591902">
+        <mark key="[" line="299" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/plotshop/index.rst" timestamp="1539174113171">
         <mark key="[" line="22" column="13" />
@@ -419,6 +419,9 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entrypoint.py" timestamp="1543832820996">
+        <mark key="[" line="206" column="70" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1532958077242">
         <mark key="[" line="210" column="0" />
@@ -555,7 +558,7 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543830985054">
+      <file name="/Dummy.txt" timestamp="1543832419581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plot_resonance_spectrum_felix.py" timestamp="1539867003640">
@@ -605,6 +608,9 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/gui2beta/gui2kmod.py" timestamp="1542133469979">
+        <mark key="[" line="632" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/analyse_frequency.py" timestamp="1543253950025">
         <mark key="[" line="173" column="0" />
         <mark key="]" line="173" column="126" />
@@ -644,6 +650,13 @@
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" timestamp="1543832748476">
+        <mark key="'" line="287" column="18" />
+        <mark key="[" line="299" column="18" />
+        <mark key="]" line="299" column="27" />
+        <mark key="^" line="281" column="21" />
+        <mark key="." line="299" column="18" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/constants.py" timestamp="1541605766830">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="18" column="40" />
@@ -675,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="78" column="47" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="79" column="91" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="106" column="34" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -775,6 +787,7 @@
       <jump line="12" column="32" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
       <jump line="0" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
       <jump line="41" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
+      <jump line="287" column="18" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -791,8 +804,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBheC5wbG90KGNvZWZmc1siWCJdLCBzaW5lWyJGT1JXQVJEIl0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>e.message</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -900,13 +913,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tick_function(new_tick_locations)</text>
+        <text>e.message</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBheC5wbG90KGNvZWZmc1siWCJdLCBzaW5lWyJGT1JXQVJEIl0pCg==</text>
+      <register name="0" type="4">
+        <text>e.args[0]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGF4X2JwbXMgPSBheC50d2lueSgpCiAgICBmaWcuc3VicGxvdHNfYWRqdXN0KGJvdHRvbT0wLjMpCiAgICBheF9icG1zLnhheGlzLnNldF90aWNrc19wb3NpdGlvbigiYm90dG9tIikKICAgIGF4X2JwbXMueGF4aXMuc2V0X2xhYmVsX3Bvc2l0aW9uKCJib3R0b20iKQogICAgYXhfYnBtcy5zcGluZXNbImJvdHRvbSJdLnNldF9wb3NpdGlvbigoImF4ZXMiLCAtMC4yKSkKICAgIGF4X2JwbXMuc2V0X2ZyYW1lX29uKFRydWUpCiAgICBheF9icG1zLnBhdGNoLnNldF92aXNpYmxlKEZhbHNlKQogICAgZm9yIHNwIGluIGF4X2JwbXMuc3BpbmVzLml0ZXJ2YWx1ZXMoKToKICAgICAgICBzcC5zZXRfdmlzaWJsZShGYWxzZSkKICAgIGF4X2JwbXMuc3BpbmVzWyJib3R0b20iXS5zZXRfdmlzaWJsZShUcnVlKQogICAgYXhfYnBtcy5zZXRfeHRpY2tzKGNvZWZmc1siWCJdKQogICAgYXhfYnBtcy5zZXRfeHRpY2tsYWJlbHMoY29lZmZzLmluZGV4LCByb3RhdGlvbj00NSwgaGE9InJpZ2h0IikKICAgIGF4X2JwbXMuZ3JpZChGYWxzZSkK</text>
