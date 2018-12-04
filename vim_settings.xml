@@ -187,7 +187,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1543852485444">
+      <file name="/Python Console" timestamp="1543921168256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -678,7 +678,7 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_lastmeas_results.py" timestamp="1543919876037">
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_lastmeas_results.py" timestamp="1543921055495">
         <mark key="[" line="35" column="27" />
         <mark key="]" line="35" column="27" />
         <mark key="." line="35" column="27" />
@@ -812,7 +812,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Change</text>
+        <text>Waist Rigidity Shift Knob</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -920,7 +920,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Change</text>
+        <text>Waist Rigidity Shift Knob</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
