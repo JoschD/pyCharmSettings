@@ -385,9 +385,9 @@
         <mark key="." line="142" column="20" />
         <mark key="^" line="142" column="54" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543337931860">
-        <mark key="[" line="50" column="35" />
-        <mark key="]" line="50" column="45" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543918740506">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="61" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="49" column="41" />
       </file>
@@ -678,11 +678,10 @@
         <mark key="]" line="37" column="21" />
         <mark key="." line="37" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_lastmeas_results.py" timestamp="1543918478758">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="39" />
-        <mark key="^" line="20" column="21" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_lastmeas_results.py" timestamp="1543919876037">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="35" column="27" />
+        <mark key="." line="35" column="27" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1534151413069">
         <mark key="[" line="70" column="40" />
@@ -813,7 +812,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICA=</text>
+        <text>Change</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -921,37 +920,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICA=</text>
+        <text>Change</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5sb2NbbGluZSwgIiJdCg==</text>
+        <text encoding="base64">ICAgIGF4LnNldF94dGlja2xhYmVscyhjb2VmZnMuaW5kZXgsIHJvdGF0aW9uPTQ1LCBoYT0icmlnaHQiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBheC5zZXRfeHRpY2tsYWJlbHMoW0lELmZvcm1hdChzKSBmb3IgcyBpbiB0aWNrX3Bvc10sIHJvdGF0aW9uPTQ1LCBoYT0icmlnaHQiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5sb2NbbGluZSwgIiJdCg==</text>
+        <text encoding="base64">ICAgICAgICB0aWNrX3BvcyA9IGF4LmdldF94dGlja3MoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFtdLAo=</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGxhYmVsIGlzIG5vdCBOb25lOgogICAgICAgIGRmLmluc2VydCgwLCAiRklMRSIsIGRmLmluZGV4KQo=</text>
+        <text encoding="base64">TEFCRUxTID0gWyJQb3NpdGl2ZSIsICJOZWdhdGl2ZSJdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiTmVnQ2hhbmdlVHJpcF9tMTgiOiB7CiAgICAgICAgICAgICJmcmVxIjogMC4wMDA5LAogICAgICAgICAgICAid2luZG93X3dpZHRoIjogMC4wMDAwNSwKICAgICAgICAgICAgInBhdGhfdG9fZGlyIjogb3MucGF0aC5qb2luKEdVSU9VVCwgIjIwMTgtMTEtMjYiLCAiTEhDQjIiLCAiTWVhc3VyZW1lbnRzIiwgIkJlYW0yQFR1cm5AMjAxOF8xMl8wMkAyMF81MV80Ml82ODYiKSwKICAgICAgICB9LAogICAgICAgICJOZWdDaGFuZ2VUcmlwX20yMSI6IHsKICAgICAgICAgICAgImZyZXEiOiAwLjAwMDksCiAgICAgICAgICAgICJ3aW5kb3dfd2lkdGgiOiAwLjAwMDA1LAogICAgICAgICAgICAicGF0aF90b19kaXIiOiBvcy5wYXRoLmpvaW4oR1VJT1VULCAiMjAxOC0xMS0yNiIsICJMSENCMiIsICJNZWFzdXJlbWVudHMiLCAiQmVhbTJAVHVybkAyMDE4XzEyXzAyQDIwXzU3XzU4XzcxMSIpLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiTmVnQ2hhbmdlVHJpcF9tMDUiOiB7CiAgICAgICAgICAgICJmcmVxIjogMC4wMDA5LAogICAgICAgICAgICAid2luZG93X3dpZHRoIjogMC4wMDAwNSwKICAgICAgICAgICAgInBhdGhfdG9fZGlyIjogb3MucGF0aC5qb2luKEdVSU9VVCwgIjIwMTgtMTEtMjYiLCAiTEhDQjIiLCAiTWVhc3VyZW1lbnRzIiwgIkJlYW0yQFR1cm5AMjAxOF8xMl8wMkAyMF8yMV8zMF8wNzQiKSwKICAgICAgICB9LAogICAgICAgICJOZWdDaGFuZ2VUcmlwX20wOSI6IHsKICAgICAgICAgICAgImZyZXEiOiAwLjAwMDksCiAgICAgICAgICAgICJ3aW5kb3dfd2lkdGgiOiAwLjAwMDA1LAogICAgICAgICAgICAicGF0aF90b19kaXIiOiBvcy5wYXRoLmpvaW4oR1VJT1VULCAiMjAxOC0xMS0yNiIsICJMSENCMiIsICJNZWFzdXJlbWVudHMiLCAiQmVhbTJAVHVybkAyMDE4XzEyXzAyQDIwXzQwXzU3XzI4NCIpLAogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIFsiTmVnQ2hhbmdlVHJpcF9tezowMmR9Ii5mb3JtYXQocykgZm9yIHMgaW4gWExJTkVTWzFdXSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -969,7 +968,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFsiUG9zQ2hhbmdlVHJpcF9tezowMmR9Ii5mb3JtYXQocykgZm9yIHMgaW4gWExJTkVTWzBdXSwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
