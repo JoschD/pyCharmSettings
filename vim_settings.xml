@@ -189,7 +189,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1543921168256">
+      <file name="/Python Console" timestamp="1543937198838">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -387,11 +387,11 @@
         <mark key="." line="142" column="20" />
         <mark key="^" line="142" column="54" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543934828037">
-        <mark key="[" line="83" column="46" />
-        <mark key="]" line="54" column="61" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="41" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1543938148152">
+        <mark key="[" line="102" column="74" />
+        <mark key="]" line="46" column="36" />
+        <mark key="." line="46" column="36" />
+        <mark key="^" line="46" column="36" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/getLLM_difference.py" timestamp="1542063293769">
         <mark key="[" line="111" column="75" />
@@ -564,7 +564,7 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543852452590">
+      <file name="/Dummy.txt" timestamp="1543937370241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plot_resonance_spectrum_felix.py" timestamp="1539867003640">
@@ -813,7 +813,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdF9kYXRhID0gdFtid2RfZm91cl9vc3pfYnBtOl0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -921,37 +921,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogTUxUUExZWzBdXQ==</text>
+        <text encoding="base64">ICAgIHQgPSBtb2RlbC5sb2NbOiwgWF9DT0xd</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcyA9IFsicmVzdWx0c19sYXN0X21lYXNfezowMmR9SHoiLmZvcm1hdChmKSBmb3IgZiBpbiBbMTAsIDExLCAxMl1dCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdF9kYXRhID0gY29lZmZzLmxvY1s6ZndkX2ZvdXJfb3N6X2JwbSwgIlgiXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdF9kYXRhID0gdFtid2RfZm91cl9vc3pfYnBtOl0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">V0lORE9XID0gNWUtNQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Q0VOVEVSID0gOWUtNAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">REFUQUZSQU1FID0gIi4vcmVzdWx0c19sYXN0X21lYXNfMTBIei50ZnMiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGludF9yYW5nZSA9IG5wLmFyYW5nZShsZW4oZGZfc2luZS5pbmRleCkpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpZy50aWdodF9sYXlvdXQoKQogICAgZmlnLnNhdmVmaWcoREFUQUZSQU1FLnJlcGxhY2UoIi50ZnMiLCAiLnBkZiIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFyX29yX2NhcC5zZXRfYWxwaGEoYWxwaGEpCg==</text>
+        <text encoding="base64">ICAgIGludF9yYW5nZSA9IG5wLmFyYW5nZShsZW4oZGZfc2luZS5pbmRleCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -969,10 +969,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYmFyX29yX2NhcCBpbiBiYXJzX29yX2NhcHM6Cg==</text>
+        <text encoding="base64">ICAgIGRmX3NpbmVbIkJBQ0tXQVJEIl0gPSBhbXAgKiBucC5zaW4oMipucC5waSpmICogaW50X3JhbmdlICsgMC4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBiYXJzX29yX2NhcHMgaW4gZWJhclsxOl06Cg==</text>
+        <text encoding="base64">ICAgIGRmX3NpbmVbIkZPUldBUkQiXSA9IGFtcCAqIG5wLnNpbigyKm5wLnBpKmYgKiBpbnRfcmFuZ2UgKyAwLjUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
