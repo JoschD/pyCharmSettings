@@ -351,8 +351,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1542626163378">
         <mark key="[" line="314" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.orbit_separation/bbeat_compare/get_bbeat.py" timestamp="1544106271112">
-        <mark key="[" line="7" column="92" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.orbit_separation/bbeat_compare/get_bbeat.py" timestamp="1544111164491">
+        <mark key="[" line="134" column="149" />
+        <mark key="]" line="134" column="149" />
+        <mark key="^" line="134" column="149" />
+        <mark key="." line="134" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
@@ -820,8 +823,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGluZV9kaSA9IGF4LnBsb3QoZGZfbWVyZ2VbIlMiXSwgZGZfbWVyZ2VbIkJCRUFUIl0sIGxhYmVsPSJEaWZmLiBNQUQtWCB2aWEgJFxEZWx0YSRLIikK</text>
+      <register name="&quot;" type="4">
+        <text>$USER_HOME$/link_gui_out/HLLHC-DA/LHCB1/Results/b1_md2148_afterglobal</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -929,7 +932,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bb_path</text>
+        <text>$USER_HOME$/link_gui_out/HLLHC-DA/LHCB1/Results/b1_md2148_afterglobal</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
