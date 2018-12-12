@@ -94,6 +94,9 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1544603903575">
+        <mark key="[" line="144" column="20" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="22" />
@@ -285,11 +288,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.mattheo_response_test/eval.py" timestamp="1544203241089">
-        <mark key="[" line="264" column="44" />
-        <mark key="]" line="265" column="94" />
-        <mark key="." line="265" column="94" />
-        <mark key="^" line="265" column="98" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.mattheo_response_test/eval.py" timestamp="1544604265854">
+        <mark key="[" line="266" column="95" />
+        <mark key="]" line="266" column="64" />
+        <mark key="." line="266" column="64" />
+        <mark key="^" line="266" column="64" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/twiss_optics/index.rst" timestamp="1538491933518">
         <mark key="[" line="0" column="0" />
@@ -342,7 +345,6 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/correct_coupleDy.py" timestamp="1544178348477" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1542626163378">
         <mark key="[" line="314" column="16" />
       </file>
@@ -817,8 +819,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvX2JldGFfYmVhdF9wbG90KGNvcnJlY3RvcnM9WyJrcXRmLmEzNCIsICJrcXRmLmE0NSIsICJrcXRmLmE1NiJdLCB5bGltPVstLjEsIC4xXSwgbmxlZ2VuZD00KQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -932,7 +934,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzLnNldF94YXhpc19sYWJlbChheCkK</text>
+        <text encoding="base64">ICAgIGRvX2JldGFfYmVhdF9wbG90KGNvcnJlY3RvcnM9WyJrcXRmLmEzNCIsICJrcXRmLmE0NSIsICJrcXRmLmE1NiJdLCB5bGltPVstLjEsIC4xXSwgbmxlZ2VuZD00KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
