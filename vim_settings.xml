@@ -94,8 +94,8 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1544603903575">
-        <mark key="[" line="144" column="20" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1544802990023">
+        <mark key="[" line="50" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -659,6 +659,9 @@
         <mark key="[" line="33" column="5" />
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
+      </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/data_creation_ampdet.py" timestamp="1544802933526">
+        <mark key="[" line="9" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" timestamp="1543833897296">
         <mark key="'" line="287" column="18" />
