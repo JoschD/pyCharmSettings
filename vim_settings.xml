@@ -660,8 +660,10 @@
         <mark key="]" line="33" column="5" />
         <mark key="." line="33" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/data_creation_ampdet.py" timestamp="1544802933526">
-        <mark key="[" line="9" column="10" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/data_creation_ampdet.py" timestamp="1545041392597">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="12" />
+        <mark key="." line="45" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" timestamp="1543833897296">
         <mark key="'" line="287" column="18" />
@@ -1096,6 +1098,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
