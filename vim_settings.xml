@@ -13,7 +13,7 @@
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1542049905247">
+      <file name="/a.dummy" timestamp="1545050470462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -30,15 +30,21 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/regression.py" timestamp="1534342415524">
         <mark key="[" line="0" column="37" />
       </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/irnl18_triplet_correction.py" timestamp="1545045826068">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/irnl18_triplet_correction.py" timestamp="1545050412271">
+        <mark key="[" line="53" column="17" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="165" column="35" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545053105779">
+        <mark key="[" line="136" column="24" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -146,6 +152,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/rdt_study.ini" timestamp="1545053142906">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/segment_by_segment.py" timestamp="1533804554155">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="50" />
@@ -240,10 +251,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1535449709506">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="8" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1545053158104">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/analyser.py" timestamp="1542053053163">
         <mark key="[" line="139" column="0" />
@@ -345,6 +357,12 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
+      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/irnl18_hllhc_triplet_correction_template_control.py" timestamp="1545050571500">
+        <mark key="[" line="115" column="21" />
+        <mark key="]" line="114" column="21" />
+        <mark key="." line="114" column="21" />
+        <mark key="^" line="114" column="21" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1542626163378">
         <mark key="[" line="314" column="16" />
       </file>
@@ -400,6 +418,11 @@
         <mark key="]" line="119" column="173" />
         <mark key="." line="118" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.HLLHC.IRNL.squeezed.triplet_correction.madx" timestamp="1545053386061">
+        <mark key="[" line="343" column="12" />
+        <mark key="]" line="343" column="12" />
+        <mark key="." line="343" column="12" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/getLLM_difference.py" timestamp="1542063293769">
         <mark key="[" line="111" column="75" />
         <mark key="]" line="111" column="75" />
@@ -440,10 +463,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1535549555537">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1545052531651">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="66" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1543930017285">
         <mark key="[" line="552" column="0" />
@@ -642,6 +666,12 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
         <mark key="[" line="229" column="44" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1545051635000">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="14" column="149" />
+        <mark key="." line="14" column="83" />
+        <mark key="^" line="14" column="82" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/poly_editor_example.py" timestamp="1532679954732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -661,13 +691,6 @@
         <mark key="[" line="11" column="25" />
         <mark key="]" line="15" column="135" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" timestamp="1543833897296">
-        <mark key="'" line="287" column="18" />
-        <mark key="[" line="299" column="18" />
-        <mark key="]" line="299" column="27" />
-        <mark key="^" line="281" column="21" />
-        <mark key="." line="299" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/quick_optics_check/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1541152137744">
         <mark key="[" line="38" column="37" />
@@ -817,8 +840,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG9wdGljX3R5cGUgaW4gb3B0Lm9wdGljX3R5cGVzOgo=</text>
+      <register name="&quot;" type="4">
+        <text>optics2018</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -926,37 +949,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>##############################</text>
+        <text>optics2018</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TE9HID0gbG9nZ2luZ190b29scy5nZXRfbG9nZ2VyKF9fbmFtZV9fLCBsZXZlbF9jb25zb2xlPWxvZ2dpbmdfdG9vbHMuSU5GTywgZm10PSIlKGFzY3RpbWUpcyB8ICUobGV2ZWxuYW1lKTdzIHwgJShtZXNzYWdlKXMgfCAlKG5hbWUpcyIpCg==</text>
+        <text encoding="base64">c3lzdGVtLCAicm0gb3B0aWNzMjAxOCI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9yIG9wdGljX3R5cGUgaW4gb3B0Lm9wdGljX3R5cGVzOgo=</text>
+        <text encoding="base64">c3lzdGVtLCAibG4gLWZucyAvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvVjYuNTAzL1dJU0Ugd2lzZSI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLW90eXBlcyIsCiAgICAgICAgbmFtZT0ib3B0aWNfdHlwZXMiLAogICAgICAgIHR5cGU9c3RyLAogICAgICAgIG5hcmdzPSIrIiwKICAgICAgICBjaG9pY2VzPVsiMzAzMCIsICIxNTE1IiwgIjYwMTUiXSwKICAgICAgICByZXF1aXJlZD1UcnVlLAogICAgICAgIGhlbHA9Ik9wdGljIHR5cGVzIHRvIHVzZSwgZS5nLiAnMzAzMCcgZm9yIDMwLzMwIGJldGFzdGFyIHJvdW5kIG9wdGljcy4iLAogICAgKQo=</text>
+        <text encoding="base64">c3lzdGVtLCAibG4gLWZucyAvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvVjYuNTAzL0ZpRGVMIGZpZGVsIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">c3lzdGVtLCAibG4gLWZucyAvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvcnVuSUkvMjAxOCBvcHRpY3MyMDE4IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKGNhbGNjb3JyZWN0aW9ucyA9PSAxKSB7Cg==</text>
+        <text encoding="base64">c3lzdGVtLCAibG4gLWZucyAvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvcnVuSUkvMjAxNyBvcHRpY3MyMDE3IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2FsY2NvcnJlY3Rpb25zID0gJShDQUxDQ09SUkVDVElPTlMpcyA7Cg==</text>
+        <text encoding="base64">c3lzdGVtLCAibG4gLWZucyAvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvcnVuSUkvMjAxNiBvcHRpY3MyMDE2IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aWYobXlsaGNiZWFtPjMpeyBjYWxsLGZpbGU9Im9wdGljczIwMTcvbGhjYjRfYXMtYnVpbHQuc2VxIjsgfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgKGNhbGNjb3JyZWN0aW9ucyA9PSAxKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -974,10 +997,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FsY2NvcnJlY3Rpb25zID0gJShDQUxDQ09SUkVDVElPTlMpcyA7Cg==</text>
+        <text encoding="base64">aWYob3B0aWNzX3R5cGUgPT0gMTUxNSkgeyBjYWxsLCBmaWxlPSJvcHRpY3MyMDE3L29wdGljc2ZpbGUuMjZfY3RwcHMyIjsgfTsgISByb3VuZCAxNQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYob3B0aWNzX3R5cGUgPT0gMzAzMCkgeyBjYWxsLCBmaWxlPSJvcHRpY3MyMDE3L29wdGljc2ZpbGUuMjJfY3RwcHMyIjsgfTsgISByb3VuZCAzMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
