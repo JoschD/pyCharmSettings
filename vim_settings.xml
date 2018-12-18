@@ -41,10 +41,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545148304136">
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="13" />
-        <mark key="." line="51" column="13" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545151184870">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -468,10 +468,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1545149131602">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="27" />
-        <mark key="." line="84" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1545151244109">
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1543930017285">
         <mark key="[" line="552" column="0" />
@@ -845,7 +846,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJMU0YiOiAiMCIsCg==</text>
+        <text encoding="base64">RVJST1JERUZfRklMRU5BTUUgPSAiV0lTRS5lcnJvcmRlZi57OjA0ZH17OnN9LnRmcyIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -959,31 +960,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9fZGVmYXVsdCA9IFsiQkVBTSIsICJUWVBFIiwgIkVSUk9SREVGIiwgIkNPUlJFQ1RJT05TIl0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJMU0YiOiAiMCIsCg==</text>
+        <text encoding="base64">RVJST1JERUZfRklMRU5BTUUgPSAiV0lTRS5lcnJvcmRlZi57OjA0ZH17OnN9LnRmcyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJcbiIpCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X2Vycm9yZGVmX3BhdGgocGF0aCwgc2VlZCwgZXJyb3JfbG9jKToKICAgICAgICAiIiIgUmV0dXJuIHRoZSBmdWxscGF0aCB0byB0aGUgZXJyb3IgZGVmaW5pdGlvbiBmaWxlICIiIgogICAgICAgIGVycm9yX2xvYyA9ICIiIGlmICJBTEwiID09IGVycm9yX2xvYyBlbHNlICIuezpzfSIuZm9ybWF0KGVycm9yX2xvYykKICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKHBhdGgsIEVSUk9SREVGX0ZJTEVOQU1FLmZvcm1hdChzZWVkLCBlcnJvcl9sb2MpKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ym9vbF9vcl9zdHI9RmFsc2UsIGludF9vcl9zdHI9MTApCiAgICBlbHNlOgogICAgICAgIHRlc3RlcigpCiAgICAgICAgIyBlLmcuCiAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIGdldF9lcnJvcmRlZl9wYXRoKHBhdGgsIHNlZWQsIGVycm9yX2xvYyk6CiAgICAiIiIgUmV0dXJuIHRoZSBmdWxscGF0aCB0byB0aGUgZXJyb3IgZGVmaW5pdGlvbiBmaWxlICIiIgogICAgZXJyb3JfbG9jID0gIiIgaWYgIkFMTCIgPT0gZXJyb3JfbG9jIGVsc2UgIi57OnN9Ii5mb3JtYXQoZXJyb3JfbG9jKQogICAgcmV0dXJuIG9zLnBhdGguam9pbihwYXRoLCBFUlJPUkRFRl9GSUxFTkFNRS5mb3JtYXQoc2VlZCwgZXJyb3JfbG9jKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaG9pY2VzPVtUcnVlLCBGYWxzZSwgIklQMSIsICJJUDUiLCAiSVAyIiwgIklQOCJdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXJyb3JkZWZfcGF0aCA9IGdldF9lcnJvcmRlZl9wYXRoKG9wdC5lcnJvcmRlZl9kaXIsIHNlZWQsIGVycm9yX2xvYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBTb21lIGRlZmF1bHRzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBub3RfZm91bmQgPSBbbmYgZm9yIG5mIGluIG5vX2RlZmF1bHQgaWYgbmYgbm90IGluIG5ld192YWx1ZXNdCiAgICAgICAgaWYgYW55KG5vdF9mb3VuZCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlJlcXVpcmVkIHBhcmFtZXRlcnMgJ3t9JyBub3QgZm91bmQuIi5mb3JtYXQobm90X2ZvdW5kKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1001,10 +1002,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0ge30K</text>
+        <text encoding="base64">ICAgICAgICBub19kZWZhdWx0ID0gWyJCRUFNIiwgIlRZUEUiLCAiRVJST1JERUYiLCAiQ09SUkVDVElPTlMiXQoKICAgICAgICBub3RfZm91bmQgPSBbbmYgZm9yIG5mIGluIG5vX2RlZmF1bHQgaWYgbmYgbm90IGluIG5ld192YWx1ZXNdCiAgICAgICAgaWYgYW55KG5vdF9mb3VuZCk6CiAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIlJlcXVpcmVkIHBhcmFtZXRlcnMgJ3t9JyBub3QgZm91bmQuIi5mb3JtYXQobm90X2ZvdW5kKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgeGluZyBlbmFibGVkIGZvciBhbGwgaXBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJDQUxDQ09SUkVDVElPTlMiOiAiMSIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
