@@ -41,10 +41,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545224499141">
-        <mark key="[" line="75" column="38" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545230184703">
+        <mark key="[" line="157" column="4" />
+        <mark key="]" line="156" column="37" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -201,7 +201,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545216974186">
+      <file name="/Python Console" timestamp="1545229980144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -339,7 +339,7 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/.gitignore" timestamp="1534413256404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1543832591902">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1545229978981">
         <mark key="[" line="299" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/plotshop/index.rst" timestamp="1539174113171">
@@ -849,8 +849,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>CALCCORRECTIONS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIG9wdC5lcnJvcl9sb2NhdGlvbnMgaXMgTm9uZToKICAgICAgICBvcHQuZXJyb3JfbG9jYXRpb25zID0gWyJBTEwiXQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -958,7 +958,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CALCCORRECTIONS</text>
+        <text>eval('[&quot;A3&quot;, &quot;A4&quot;, &quot;A5&quot;, &quot;A6&quot;, B3&quot;, &quot;B4&quot;, &quot;B5&quot;, &quot;B6&quot;]')</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -967,28 +967,28 @@
         <text>CALCCORRECTTRIP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsCg==</text>
+        <text encoding="base64">ICAgIGlmIG9wdC5lcnJvcl9sb2NhdGlvbnMgaXMgTm9uZToKICAgICAgICBvcHQuZXJyb3JfbG9jYXRpb25zID0gWyJBTEwiXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PVsiQUxMIl0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RVJST1JERUZfRklMRU5BZGRNRSA9ICJXSVNFLmVycm9yZGVmLns6MDRkfXs6c30udGZzIgo=</text>
+        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXJyb3JkZWZfbWFzayA9ICJXSVNFLmVycm9yZGVmLns6MDRkfXs6c30udGZzIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VE9ETzogUG9zc2libHkgbW9yZSBhbm90YXRpb24gZnJvbSBNQURYLi4uCg==</text>
+        <text encoding="base64">RVJST1JERUZfRklMRU5BZGRNRSA9ICJXSVNFLmVycm9yZGVmLns6MDRkfXs6c30udGZzIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RVJST1JERUZfRklMRU5BTUUgPSAiV0lTRS5lcnJvcmRlZi57OjA0ZH17OnN9LnRmcyIK</text>
+        <text encoding="base64">ZXJyb3JkZWZfbWFzayA9ICJXSVNFLmVycm9yZGVmLns6MDRkfXs6c30udGZzIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1006,10 +1006,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VE9ETzogUG9zc2libHkgbW9yZSBhbm90YXRpb24gZnJvbSBNQURYLi4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">RVJST1JERUZfRklMRU5BTUUgPSAiV0lTRS5lcnJvcmRlZi57OjA0ZH17OnN9LnRmcyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
