@@ -36,6 +36,12 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="165" column="35" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/post_processing.py" timestamp="1545313834005">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="61" />
+        <mark key="^" line="77" column="46" />
+        <mark key="." line="83" column="12" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="22" column="85" />
@@ -77,10 +83,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1545305195896">
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1545317767871">
+        <mark key="[" line="327" column="19" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
@@ -118,8 +124,11 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1544802990023">
-        <mark key="[" line="50" column="20" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1545317819742">
+        <mark key="[" line="415" column="30" />
+        <mark key="]" line="416" column="0" />
+        <mark key="^" line="415" column="0" />
+        <mark key="." line="416" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -207,7 +216,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545302636895">
+      <file name="/Python Console" timestamp="1545317822719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -516,6 +525,7 @@
         <mark key="." line="19" column="8" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" timestamp="1545318155327" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
         <mark key="[" line="0" column="0" />
       </file>
@@ -575,6 +585,7 @@
         <mark key="." line="176" column="55" />
         <mark key="^" line="100" column="20" />
       </file>
+      <file name="/usr/local/lib/python2.7/dist-packages/matplotlib/axes/_axes.py" timestamp="1545314248350" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
@@ -856,7 +867,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSAiezpzfSB7OnN9IHs6c30iLmZvcm1hdChnZXRfcGxvdF90aXRsZShiZWFtLCB4aW5nLCBlcnJvcl90eXBlcywgZXJyb3JfbG9jKSwgb3B0aWNfdHlwZSwgbGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBoaXN0X2hhbmRlbHMgPQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -964,37 +975,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG91dHB1dF9pZC5yZXBsYWNlKCJfIiwgIiAiKS5yZXBsYWNlKCJjb3JyZWN0ZWQgYnkiLCAidCBieSIp</text>
+        <text>if id.startswith(stage)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9zZWVkX2RhdGFfdGl0bGVfYW5kX2ZpbGVuYW1lKGJlYW0sIHhpbmcsIGVycm9yX3R5cGVzLCBlcnJvcl9sb2MsIG9wdGljX3R5cGUsIG91dHB1dF9pZCk6Cg==</text>
+      <register name="0" type="4">
+        <text>color=ps.get_mpl_color(idx_data), label=&quot;_nolegend_&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSAiezpzfSB7OnN9IHs6c30iLmZvcm1hdChnZXRfcGxvdF90aXRsZShiZWFtLCB4aW5nLCBlcnJvcl90eXBlcywgZXJyb3JfbG9jKSwgb3B0aWNfdHlwZSwgbGFiZWwpCg==</text>
+        <text encoding="base64">ICAgICAgICBoaXN0X2hhbmRlbHMgPQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICJ7OnN9Lns6c30udGZzIi5mb3JtYXQoCiAgICAgICAgICAgICAgICB0aXRsZS5yZXBsYWNlKCIgIiwgIi4iKSwgInNlZWRfZGF0YSIp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZWdlbmQgPSBwcy5tYWtlX3RvcF9sZWdlbmQoYXhzWzBdLCA0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwgPSBvdXRwdXRfaWQucmVwbGFjZSgiXyIsICIgIikucmVwbGFjZSgiY29ycmVjdGVkIGJ5IiwgInQgYnkiKQo=</text>
+        <text encoding="base64">ICAgICAgICBfcmVvcmRlcl9sZWdlbmQobGVnZW5kLCBfZ2V0X2FsbF9vdXRwdXRfaWRzKG9wdC5tYWNoaW5lLCBiZWFtLCBvcHQudW51c2VkX3N0YWdlcykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9IGdldF9wbG90X3RpdGxlKGJlYW0sIHhpbmcsIGVycm9yX3R5cGVzLCBlcnJvcl9sb2MpCg==</text>
+        <text encoding="base64">ICAgIGNvcnJlY3RlZF9ieSA9IG91dFstMV0gKyAiIF9ieV9iezpkfV97OnN9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aXRsZSA9IGdldF9wbG90X3RpdGxlKGJlYW0sIHhpbmcsIGVycm9yX3R5cGVzLCBlcnJvcl9sb2MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yID0gZGF0YS5zdGQoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvYWRfYW5kX3Bsb3RfYWxsX3NhdmVkCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgZWJhcl9jb250ID0gYXguZXJyb3JiYXIoeF9wb3MsIHlfbWF4LCB4ZXJyPWVycm9yLCBjb2xvcj1wcy5nZXRfbXBsX2NvbG9yKGlkeF9kYXRhKSwKICAgICAgICAgICAgICAgICMgICAgICAgICAgICAgICAgICAgICBsYWJlbD0iX25vbGVnZW5kXyIsIG1hcmtlcj0iIikKICAgICAgICAgICAgICAgICMgcHMuY2hhbmdlX2ViYXJfYWxwaGFfZm9yX2xpbmUoZWJhcl9jb250LCBhbHBoYV9tZWFuKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgPSBzZWVkX2RmW3Rlcm1dCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1012,10 +1023,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG9wdC5lcnJvcl9sb2NhdGlvbnMgaXMgTm9uZToKICAgICAgICBvcHQuZXJyb3JfbG9jYXRpb25zID0gWyJBTEwiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG9wdC5lcnJvcl9sb2NhdGlvbnMgaXMgTm9uZToKICAgICAgICBvcHQuZXJyb3JfbG9jYXRpb25zID0gWyJBTEwiXQo=</text>
+        <text encoding="base64">ICAgICAgICBheC5lcnJvcmJhcihkYXRhLm1lYW4oKSwgeV9tYXgsIHhlcnI9ZGF0YS5zdGQoKSwgY29sb3I9cHMuZ2V0X21wbF9jb2xvcihpZHhfZGF0YSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
