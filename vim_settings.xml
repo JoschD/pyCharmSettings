@@ -47,10 +47,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545236706815">
-        <mark key="[" line="375" column="37" />
-        <mark key="]" line="374" column="0" />
-        <mark key="." line="374" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1545335184421">
+        <mark key="[" line="303" column="11" />
+        <mark key="]" line="396" column="0" />
+        <mark key="." line="396" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -83,11 +83,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1545329034655">
-        <mark key="[" line="247" column="16" />
-        <mark key="]" line="245" column="76" />
-        <mark key="." line="245" column="76" />
-        <mark key="^" line="299" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1545334808901">
+        <mark key="[" line="377" column="44" />
+        <mark key="]" line="373" column="0" />
+        <mark key="." line="373" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1545328730066">
         <mark key="[" line="16" column="0" />
@@ -129,11 +128,11 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1545323804066">
-        <mark key="[" line="415" column="30" />
-        <mark key="]" line="416" column="0" />
-        <mark key="^" line="415" column="0" />
-        <mark key="." line="416" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1545331081054">
+        <mark key="[" line="520" column="0" />
+        <mark key="]" line="521" column="69" />
+        <mark key="^" line="520" column="37" />
+        <mark key="." line="520" column="37" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -221,7 +220,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545328741883">
+      <file name="/Python Console" timestamp="1545335195692">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -493,10 +492,10 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
         <mark key="[" line="336" column="62" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1545229223778">
-        <mark key="[" line="64" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1545334122413">
+        <mark key="[" line="81" column="26" />
         <mark key="]" line="64" column="32" />
-        <mark key="^" line="188" column="22" />
+        <mark key="^" line="191" column="22" />
         <mark key="." line="64" column="17" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1543930017285">
@@ -698,10 +697,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
         <mark key="[" line="229" column="44" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1545327767767">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="63" />
-        <mark key="." line="16" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1545335212247">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="^" line="35" column="17" />
+        <mark key="." line="35" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/poly_editor_example.py" timestamp="1532679954732">
         <mark key="[" line="0" column="0" />
@@ -872,7 +872,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -980,37 +980,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSA9ICIgIi5qb2luKHRpdGxlLnNwbGl0KCIgIilbOi0xXSkKICAgICAgICBmaWdmaWxlbmFtZSA9ICJ7OnN9Lns6c30iLmZvcm1hdCh0aXRsZS5yZXBsYWNlKCcgJywgJy4nKSwgImhpc3RvZ3JhbTIiKQogICAgICAgIGZpZy5jYW52YXMuc2V0X3dpbmRvd190aXRsZSh0aXRsZSkKICAgICAgICBmaWcuc2V0X3RpdGxlKHRpdGxlKQo=</text>
+        <text encoding="base64">bWFudWFsID0gJ3siT05ESVNQIjogIjAifScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWdmaWxlbmFtZSA9ICJ7OnN9Lns6c30iLmZvcm1hdCgiLiIuam9pbih0aXRsZS5zcGxpdCgiICIpWzotMV0pLCAiaGlzdG9ncmFtIikKICAgICAgICBmaWcuY2FudmFzLnNldF93aW5kb3dfdGl0bGUoIiAiLmpvaW4odGl0bGUuc3BsaXQoIiAiKVs6LTFdKSkK</text>
+        <text encoding="base64">bWFudWFsID0geyJPTkRJU1AiOiAiMCJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHBzLnN5bmMyZChheHMpCg==</text>
+        <text encoding="base64">ICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2hsbGhjX2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnMiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXhzW2lkeF9heF0uc2V0X3hsYWJlbCgiVmFsdWUiKQo=</text>
+        <text encoding="base64">W0FsbEVycm9yc05vWGluZ10KYmVhbXMgPSAxLDIKeGluZyA9IEZhbHNlLAplcnJvcl90eXBlcyA9IFsiQTMiLCAiQTQiLCAiQTUiLCAiQTYiLCAiQjMiLCAiQjQiLCAiQjUiLCAiQjYiXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuY2FudmFzLnNldF93aW5kb3dfdGl0bGUodGl0bGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb249InN0b3JlX3RydWUiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfcmVvcmRlcl9sZWdlbmQobGVnZW5kLCBfZ2V0X2FsbF9vdXRwdXRfaWRzKG9wdC5tYWNoaW5lLCBiZWFtLCBvcHQudW51c2VkX3N0YWdlcykpCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLXdvdGhlciIsCiAgICAgICAgbmFtZT0id2l0aF9vdGhlcl9jb3JyZWN0aW9ucyIsCiAgICAgICAgaGVscD0iZG8gYWxzbyB0aGUgb3RoZXIgY29ycmVjdGlvbnMsIGkuZS4gZnJvbSAzMDMwIGFuZCBvdGhlciBiZWFtLiIsCiAgICAgICAgYWN0aW9uPSJzdG9yZV90cnVlIiwKICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZWdlbmQgPSBheHNbMF0ubGVnZW5kKCkK</text>
+        <text encoding="base64">eGluZyA9IEZhbHNlLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1028,10 +1028,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBheHNbLTFdLnNldF94bGFiZWwoIlZhbHVlIikK</text>
+        <text encoding="base64">YmVhbXMgPSAxLDIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcudGlnaHRfbGF5b3V0KCkK</text>
+        <text encoding="base64">eGluZyA9IFRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
