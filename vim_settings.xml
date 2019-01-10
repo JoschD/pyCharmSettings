@@ -564,11 +564,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/iforest_test.py" timestamp="1547120844175">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="43" column="36" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="39" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/iforest_test.py" timestamp="1547125399204">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="41" column="15" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/measure_optics.py" timestamp="1538493569767">
         <mark key="[" line="137" column="31" />
@@ -891,8 +891,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YjIgPSBwbHQuc2NhdHRlcihYX3Rlc3RbOiwgMF0sIFhfdGVzdFs6LCAxXSwgYz0nZ3JlZW4nLAogICAgICAgICAgICAgICAgIHM9MjAsIGVkZ2Vjb2xvcj0naycpCmMgPSBwbHQuc2NhdHRlcihYX291dGxpZXJzWzosIDBdLCBYX291dGxpZXJzWzosIDFdLCBjPSdyZWQnLAogICAgICAgICAgICAgICAgcz0yMCwgZWRnZWNvbG9yPSdrJykK</text>
+      <register name="&quot;" type="4">
+        <text>clf.fit</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1000,7 +1000,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2018_commissioning/B1_crossing_H_amp_det_out.dat</text>
+        <text>clf.fit</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
