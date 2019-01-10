@@ -225,7 +225,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1545335195692">
+      <file name="/Python Console" timestamp="1547120776339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -564,6 +564,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/iforest_test.py" timestamp="1547120844175">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="36" />
+        <mark key="^" line="35" column="15" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/measure_optics.py" timestamp="1538493569767">
         <mark key="[" line="137" column="31" />
       </file>
@@ -886,7 +892,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJCMSBILUtpY2tzIElQNSBYJ2luZyIsIEJBU0VfRElSICsgImJlYW0xL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0gvZ2V0a2lja2FjX2FtcGRldC5vdXQiKSwK</text>
+        <text encoding="base64">YjIgPSBwbHQuc2NhdHRlcihYX3Rlc3RbOiwgMF0sIFhfdGVzdFs6LCAxXSwgYz0nZ3JlZW4nLAogICAgICAgICAgICAgICAgIHM9MjAsIGVkZ2Vjb2xvcj0naycpCmMgPSBwbHQuc2NhdHRlcihYX291dGxpZXJzWzosIDBdLCBYX291dGxpZXJzWzosIDFdLCBjPSdyZWQnLAogICAgICAgICAgICAgICAgcz0yMCwgZWRnZWNvbG9yPSdrJykK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1000,7 +1006,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJCMSBILUtpY2tzIElQNSBYJ2luZyIsIEJBU0VfRElSICsgImJlYW0xL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0gvZ2V0a2lja2FjX2FtcGRldC5vdXQiKSwK</text>
+        <text encoding="base64">YjIgPSBwbHQuc2NhdHRlcihYX3Rlc3RbOiwgMF0sIFhfdGVzdFs6LCAxXSwgYz0nZ3JlZW4nLAogICAgICAgICAgICAgICAgIHM9MjAsIGVkZ2Vjb2xvcj0naycpCmMgPSBwbHQuc2NhdHRlcihYX291dGxpZXJzWzosIDBdLCBYX291dGxpZXJzWzosIDFdLCBjPSdyZWQnLAogICAgICAgICAgICAgICAgcz0yMCwgZWRnZWNvbG9yPSdrJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCJCMSBILUtpY2tzIElQNSBYJ2luZyIsIEJBU0VfRElSICsgImJlYW0xL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0gvZ2V0a2lja2FjX2FtcGRldC5vdXQiKSwK</text>
