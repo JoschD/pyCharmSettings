@@ -97,8 +97,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547129392188">
-        <mark key="[" line="139" column="74" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
         <mark key="[" line="2" column="42" />
@@ -432,10 +434,16 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1547137194303">
-        <mark key="[" line="106" column="26" />
-        <mark key="]" line="108" column="27" />
-        <mark key="." line="105" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1547140367125">
+        <mark key="[" line="447" column="91" />
+        <mark key="]" line="435" column="0" />
+        <mark key="." line="435" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1547139320080">
+        <mark key="[" line="312" column="0" />
+        <mark key="]" line="312" column="29" />
+        <mark key="." line="312" column="0" />
+        <mark key="^" line="312" column="15" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -535,11 +543,11 @@
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/plot_detuning_data.py" timestamp="1547054452632">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="12" />
-        <mark key="." line="14" column="12" />
-        <mark key="^" line="11" column="41" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/plot_detuning_data.py" timestamp="1547141017331">
+        <mark key="[" line="63" column="71" />
+        <mark key="]" line="66" column="84" />
+        <mark key="." line="66" column="84" />
+        <mark key="^" line="66" column="84" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/amplitude_detuning" timestamp="1531821773420">
         <mark key="[" line="3" column="0" />
@@ -792,7 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="47" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="79" column="91" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="106" column="34" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="118" column="66" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -892,6 +899,7 @@
       <jump line="0" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
       <jump line="41" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
       <jump line="287" column="18" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" />
+      <jump line="222" column="24" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -908,8 +916,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+      <register name="&quot;" type="4">
+        <text>get_corrected_ampdet_data</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1017,34 +1025,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get_corrected_ampdet_data</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwMCwKICAgICAgICAidHVuZV9jdXQiOiAwLjAwMDUsCiAgICAgICAgImZpbmVfd2luZG93IjogMTAwLAogICAgICAgICJmaW5lX2N1dCI6IDAuMDAwMSwK</text>
+        <text encoding="base64">ICAgIGhlYWRlcl9zbG9wZSwgaGVhZGVyX3Nsb3BlX3N0ZCwgaGVhZGVyX29mZnNldCA9IF9nZXRfb2RyX2hlYWRlcnMoY29ycmVjdGVkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDMwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDA1LAogICAgICAgICMgImZpbmVfd2luZG93IjogMjAsCiAgICAgICAgIyAiZmluZV9jdXQiOiAwLjAwMSwK</text>
+        <text encoding="base64">ZGVmIGFkZF9jb3JyZWN0ZWRfb2RyKGtpY2thY19kZiwgb2RyX2ZpdCwgYWN0aW9uX3BsYW5lLCB0dW5lX3BsYW5lKToKICAgICIiIiBBZGRzIHRoZSBvZHIgZml0IG9mIHRoZSBjb3JyZWN0ZWQgZGF0YSB0byB0aGUgaGVhZGVyIG9mIHRoZSBraWNrYWMuCgogICAgQXJnczoKICAgICAgICBraWNrYWNfZGY6IERhdGFmcmFtZSBjb250YWluaW5nIHRoZSBkYXRhCiAgICAgICAgb2RyX2ZpdDogb2RyLWZpdCBkYXRhIChkZWZpbml0aW9ucyBzZWUgYGBkZXR1bmluZ190b29scy5weWBgKQogICAgICAgIGFjdGlvbl9wbGFuZTogUGxhbmUgb2YgdGhlIGFjdGlvbgogICAgICAgIHR1bmVfcGxhbmU6IFBsYW5lIG9mIHRoZSB0dW5lCgogICAgUmV0dXJuczoKICAgICAgICBNb2RpZmllZCBraWNrX2FjCiAgICAiIiIKICAgIGtpY2thY19kZi5oZWFkZXJzW0hFQURFUl9DT1JSX09GRlNFVChhY3Rpb25fcGxhbmUsIHR1bmVfcGxhbmUpXSA9IG9kcl9maXQuYmV0YVswXQogICAga2lja2FjX2RmLmhlYWRlcnNbSEVBREVSX0NPUlJfU0xPUEUoYWN0aW9uX3BsYW5lLCB0dW5lX3BsYW5lKV0gPSBvZHJfZml0LmJldGFbMV0KICAgIGtpY2thY19kZi5oZWFkZXJzW0hFQURFUl9DT1JSX1NMT1BFX1NURChhY3Rpb25fcGxhbmUsIHR1bmVfcGxhbmUpXSA9IG9kcl9maXQuc2RfYmV0YVsxXQogICAgcmV0dXJuIGtpY2thY19kZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGNvcnJlY3RlZDoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1065,7 +1073,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
