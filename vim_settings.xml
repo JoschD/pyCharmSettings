@@ -338,6 +338,12 @@
         <mark key="." line="153" column="16" />
         <mark key="^" line="151" column="18" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1547134508584">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="12" />
+        <mark key="." line="159" column="12" />
+        <mark key="^" line="157" column="25" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/twiss_optics/index.rst" timestamp="1538491933518">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -423,11 +429,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1547131238624">
-        <mark key="[" line="189" column="24" />
-        <mark key="]" line="191" column="27" />
-        <mark key="^" line="272" column="20" />
-        <mark key="." line="188" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/18_MD1_ampdetxing/analyse_detuning.py" timestamp="1547135160004">
+        <mark key="[" line="142" column="28" />
+        <mark key="]" line="129" column="23" />
+        <mark key="^" line="190" column="19" />
+        <mark key="." line="129" column="23" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/iforest.py" timestamp="1529672280983">
         <mark key="[" line="8" column="0" />
@@ -901,7 +907,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDMwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDA1LAogICAgICAgICMgImZpbmVfd2luZG93IjogMjAsCiAgICAgICAgIyAiZmluZV9jdXQiOiAwLjAwMSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1009,37 +1015,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>clf.fit</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwMCwKICAgICAgICAidHVuZV9jdXQiOiAwLjAwMiwKICAgICAgICAiZmluZV93aW5kb3ciOiAxMDAsCiAgICAgICAgImZpbmVfY3V0IjogMC4wMDAxLAo=</text>
+        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwMCwKICAgICAgICAidHVuZV9jdXQiOiAwLjAwMDUsCiAgICAgICAgImZpbmVfd2luZG93IjogMTAwLAogICAgICAgICJmaW5lX2N1dCI6IDAuMDAwMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDMwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDA1LAogICAgICAgICMgImZpbmVfd2luZG93IjogMjAsCiAgICAgICAgIyAiZmluZV9jdXQiOiAwLjAwMSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAxLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDA1LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJCMSBILUtpY2tzIElQNSBYJ2luZyIsIEJBU0VfRElSICsgImJlYW0xL0IxX2ZsYXRvcmJpdF9JUDV4aW5nX0gvZ2V0a2lja2FjX2FtcGRldC5vdXQiKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKCJCMSBILUtpY2tzIElQNSBYJ2luZyIsIEJBU0VfRElSICsgIjIwMThfY29tbWlzc2lvbmluZy9CMV9jcm9zc2luZ19IX2FtcF9kZXRfb3V0LmRhdCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1057,10 +1063,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJwbG90LjIwMTguYjEuaGtpY2tzLiI6IE9yZGVyZWREaWN0KFsKICAgICAgICAoIkIxIEgtS2lja3MgRnVsbCBYJ2luZyIsIEJBU0VfRElSICsgIjIwMThfY29tbWlzc2lvbmluZy9CMV9jcm9zc2luZ19IX2FtcF9kZXRfb3V0LmRhdCIpLAogICAgICAgICgiQjEgSC1LaWNrcyBJUDUgWCdpbmciLCBCQVNFX0RJUiArICJiZWFtMS9CMV9mbGF0b3JiaXRfSVA1eGluZ19IL2dldGtpY2thY19hbXBkZXQub3V0IiksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoIkIxIEgtS2lja3MgRnVsbCBYJ2luZyIsIEJBU0VfRElSICsgIjIwMThfY29tbWlzc2lvbmluZy9CMV9jcm9zc2luZ19IX2FtcF9kZXRfb3V0LmRhdCIpLAo=</text>
+        <text encoding="base64">ICAgICAgICAid2luZG93X2xlbmd0aCI6IDIwLAogICAgICAgICJ0dW5lX2N1dCI6IDAuMDAyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
