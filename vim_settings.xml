@@ -288,10 +288,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547564019426">
-        <mark key="[" line="32" column="6" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547564996122">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/analyser.py" timestamp="1542053053163">
         <mark key="[" line="139" column="0" />
@@ -757,9 +758,9 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
         <mark key="[" line="229" column="44" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547558159318">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="15" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547564992823">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="25" />
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="24" />
       </file>
@@ -932,7 +933,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VlZHMgPSAxLAo=</text>
+        <text encoding="base64">bWF4X2R1cmF0aW9uID0gIm5leHR3ZWVrIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1046,7 +1047,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
+        <text encoding="base64">bWF4X2R1cmF0aW9uID0gIm5leHR3ZWVrIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VlZHMgPSAxLAo=</text>
