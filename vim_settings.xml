@@ -50,10 +50,10 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1546961891277">
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="400" column="107" />
-        <mark key="." line="396" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1547558794104">
+        <mark key="[" line="401" column="68" />
+        <mark key="]" line="401" column="95" />
+        <mark key="." line="401" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -86,10 +86,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1546877317862">
-        <mark key="[" line="245" column="54" />
-        <mark key="]" line="245" column="78" />
-        <mark key="." line="245" column="55" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547558776873">
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="95" />
+        <mark key="." line="450" column="4" />
         <mark key="^" line="245" column="53" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1546877298279">
@@ -291,8 +291,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1545224416411">
-        <mark key="[" line="6" column="32" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547558840999">
+        <mark key="[" line="32" column="0" />
         <mark key="]" line="6" column="46" />
         <mark key="." line="6" column="0" />
       </file>
@@ -753,9 +753,9 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
         <mark key="[" line="229" column="44" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1545335212247">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547558159318">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="15" />
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="24" />
       </file>
@@ -927,8 +927,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1036,13 +1036,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>XingOnOff</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwbG90X3N0eWxlLnNldF9zY2lfbWFnbml0dWRlKGF4LCBheGlzPSJ4Iiwgb3JkZXI9LTMsIGZmb3JtYXQ9IiUyLjBmIikK</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgICAgICAgICBheC5lcnJvcmJhcigqKnBsb3RfZGF0YSkK</text>
