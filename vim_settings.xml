@@ -92,11 +92,12 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547638150277">
-        <mark key="[" line="382" column="34" />
-        <mark key="]" line="382" column="34" />
-        <mark key="." line="382" column="34" />
-        <mark key="^" line="245" column="53" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547654818095">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="39" column="71" />
+        <mark key="]" line="39" column="71" />
+        <mark key="." line="39" column="71" />
+        <mark key="^" line="39" column="57" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1546877298279">
         <mark key="[" line="14" column="0" />
@@ -144,9 +145,9 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1547203589755">
-        <mark key="[" line="668" column="2" />
-        <mark key="]" line="529" column="10" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1547654804686">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="22" />
         <mark key="^" line="529" column="10" />
         <mark key="." line="529" column="10" />
       </file>
@@ -827,7 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="91" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="106" column="34" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="118" column="66" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="153" column="49" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
@@ -927,6 +927,7 @@
       <jump line="41" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/beta_star_from_twiss.py" />
       <jump line="287" column="18" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/test/entrypoint_test.py" />
       <jump line="222" column="24" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" />
+      <jump line="38" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -944,7 +945,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHdpc2VfdG9vbHMK</text>
+        <text>True</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1052,13 +1053,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/media/jdilly/Storage/test</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVmIHJlcGxhY2VfcGF0dGVybl9pbl9maWxlbmFtZXNfYnlfc3RyKGZvbGRlciwgcGF0dGVybiwgcmVwbGFjZSwgZmlsdGVyPU5vbmUsIHJlY3Vyc2l2ZT1GYWxzZSwgdGVzdD1GYWxzZSk6Cg==</text>
+      <register name="0" type="4">
+        <text>u'axes.grid': True,</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IHdpc2VfdG9vbHMK</text>
