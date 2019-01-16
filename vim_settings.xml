@@ -86,10 +86,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547558776873">
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="95" />
-        <mark key="." line="450" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547638150277">
+        <mark key="[" line="382" column="34" />
+        <mark key="]" line="382" column="34" />
+        <mark key="." line="382" column="34" />
         <mark key="^" line="245" column="53" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1546877298279">
@@ -288,11 +288,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547564996122">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547638049707">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/analyser.py" timestamp="1542053053163">
         <mark key="[" line="139" column="0" />
@@ -758,9 +758,9 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
         <mark key="[" line="229" column="44" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547564992823">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="25" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547638045738">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="24" />
         <mark key="^" line="35" column="17" />
         <mark key="." line="35" column="24" />
       </file>
@@ -932,8 +932,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bWF4X2R1cmF0aW9uID0gIm5leHR3ZWVrIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1041,13 +1041,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>XingOnOff</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWF4X2R1cmF0aW9uID0gIm5leHR3ZWVrIgo=</text>
+        <text encoding="base64">bWFudWFsID0geyJPTkRJU1AiOiAiMCJ9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VlZHMgPSAxLAo=</text>
