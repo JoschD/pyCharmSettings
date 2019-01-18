@@ -56,10 +56,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1547802739063">
-        <mark key="[" line="402" column="68" />
-        <mark key="]" line="402" column="95" />
-        <mark key="." line="402" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1547823181726">
+        <mark key="[" line="403" column="84" />
+        <mark key="]" line="403" column="84" />
+        <mark key="." line="403" column="84" />
+        <mark key="^" line="402" column="86" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -160,6 +161,12 @@
         <mark key="[" line="57" column="12" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1547824828157">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/__init__.py" timestamp="1533742041772">
         <mark key="[" line="0" column="0" />
@@ -295,10 +302,10 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547658774398">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/ampdet_study.ini" timestamp="1547824778439">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/analyser.py" timestamp="1542053053163">
         <mark key="[" line="139" column="0" />
@@ -943,8 +950,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>str.__new__(str, value)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1052,37 +1059,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>str.__new__(str, value)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3dkID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvU1RVRFkuMTguTEhDLk1EMzMxMS8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">O3N3aXRjaCBjb21tZW50aW5nIG9uIGZvbGxvd2luZyBsaW5lcyB0byBjYWxjdWxhdGUgYXJjIGVycm9ycwo=</text>
+        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWFudWFsID0geyJBUkNFUlJPUlMiOiAiMSJ9Cg==</text>
+        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI0Il0sIFsiQjUiXSwgWyJBNSJdLCBbIkI2Il0sIFsiQTYiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2l0aF9vdGhlcl9jb3JyZWN0aW9ucyA9IEZhbHNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">W1hpbmdPbk9mZkhpc3RdCmJlYW1zID0gMSwyCnhpbmcgPSBGYWxzZSwgVHJ1ZQplcnJvcl90eXBlcyA9IFsiQjQiXSwgWyJCNSJdCmVycm9yX2xvY2F0aW9ucyA9ICJBTEwiLCAiSVAxIiwgIklQNSIKdW51c2VkX3N0YWdlcyA9ICJBUkNBUFBMSUVEIgo=</text>
+        <text encoding="base64">YmVhbXMgPSAxLDIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHdpc2VfdG9vbHMK</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y3dkID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvU1RVRFkuMTguTEhDLk1EMzMxMS8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcy5yZW1vdmVkaXJzKHN1YmRpcl9wYXRoKQo=</text>
+        <text encoding="base64">eGluZyA9IEZhbHNlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1100,10 +1107,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2h1dGlsLnJtdHJlZShwYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Y3dkID0gIi9hZnMvY2Vybi5jaC93b3JrL2ovamRpbGx5L3ByaXZhdGUvU1RVRFkuMTguTEhDLk1EMzMxMS8iCmJlYW1zID0gMSwyCnhpbmcgPSBGYWxzZQp3aXRoX290aGVyX2NvcnJlY3Rpb25zID0gRmFsc2UKZXJyb3JfdHlwZXMgPSBbIkI0Il0sIFsiQjUiXSwgWyJBNSJdLCBbIkI2Il0sIFsiQTYiXQplcnJvcl9sb2NhdGlvbnMgPSAiQUxMIiwgIklQMSIsICJJUDUiCnVudXNlZF9zdGFnZXMgPSAiIgptYW51YWwgPSB7IkFSQ0VSUk9SUyI6ICIxIn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
