@@ -13,7 +13,7 @@
         <mark key="]" line="332" column="0" />
         <mark key="." line="332" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1545050470462">
+      <file name="/a.dummy" timestamp="1547803867238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -56,7 +56,7 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1547716279857">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1547802739063">
         <mark key="[" line="402" column="68" />
         <mark key="]" line="402" column="95" />
         <mark key="." line="402" column="0" />
@@ -240,7 +240,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1547559863327">
+      <file name="/Python Console" timestamp="1547803162491">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -474,10 +474,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entry_datatypes.py" timestamp="1545148607848">
-        <mark key="[" line="145" column="14" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entry_datatypes.py" timestamp="1547803462805">
+        <mark key="[" line="94" column="80" />
+        <mark key="]" line="90" column="41" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/analyser.py" timestamp="1542796210073">
         <mark key="[" line="174" column="28" />
@@ -943,8 +943,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">O3N3aXRjaCBjb21tZW50aW5nIG9uIGZvbGxvd2luZyBsaW5lcyB0byBjYWxjdWxhdGUgYXJjIGVycm9ycwo=</text>
+      <register name="&quot;" type="4">
+        <text>str.__new__(str, value)</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1057,8 +1057,8 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">eGluZyA9IEZhbHNlLCBUcnVlCmVycm9yX3R5cGVzID0gWyJCNCJdLCBbIkI1Il0KZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
+      <register name="0" type="4">
+        <text>str.__new__(str, value)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">O3N3aXRjaCBjb21tZW50aW5nIG9uIGZvbGxvd2luZyBsaW5lcyB0byBjYWxjdWxhdGUgYXJjIGVycm9ycwo=</text>
