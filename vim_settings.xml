@@ -24,12 +24,6 @@
         <mark key="^" line="6" column="64" />
         <mark key="." line="6" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/index.rst" timestamp="1542120015660">
-        <mark key="[" line="17" column="14" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/regression.py" timestamp="1534342415524">
-        <mark key="[" line="0" column="37" />
-      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/irnl18_triplet_correction.py" timestamp="1545050412271">
         <mark key="[" line="53" column="17" />
         <mark key="]" line="53" column="17" />
@@ -41,9 +35,6 @@
         <mark key="]" line="76" column="61" />
         <mark key="^" line="77" column="46" />
         <mark key="." line="83" column="12" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/savefigpdf_test.py" timestamp="1546955891484">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/rename_second_level_folders" timestamp="1547647120788">
         <mark key="[" line="10" column="42" />
@@ -110,9 +101,6 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/get_bpm_calibration.py" timestamp="1533804040822">
-        <mark key="[" line="2" column="42" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542652222512">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="10" column="0" />
@@ -173,27 +161,15 @@
         <mark key="]" line="4" column="68" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/constants.py" timestamp="1539088176247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1545155205552">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_dispersion_writer.py" timestamp="1534343648985">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="5" />
       </file>
-      <file name="/'bpms'" timestamp="1530110939060">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main_window.py" timestamp="1532945833539">
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/chroma.py" timestamp="1530105695649">
-        <mark key="[" line="79" column="65" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/bbq_utils/timberextract.py" timestamp="1530887240314">
         <mark key="[" line="42" column="0" />
@@ -210,9 +186,6 @@
         <mark key="]" line="6" column="50" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/backwards_compatibility.py" timestamp="1533807402024">
-        <mark key="[" line="22" column="81" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/htcondor_wrapper.py" timestamp="1541423123382">
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="0" />
@@ -223,9 +196,6 @@
         <mark key="]" line="69" column="33" />
         <mark key="." line="72" column="16" />
         <mark key="^" line="72" column="16" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/get_tune_full.py" timestamp="1547550539829">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_utils.py" timestamp="1533734224440">
         <mark key="[" line="50" column="0" />
@@ -258,9 +228,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.IRNL.squeezed.triplet_correction.madx" timestamp="1541156327133">
-        <mark key="[" line="155" column="13" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_chromatic_writer.py" timestamp="1534343719414">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="22" />
@@ -281,16 +248,10 @@
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/correction/index.rst" timestamp="1538491997349">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_coupling_writer.py" timestamp="1534343696111">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1543852536506">
-        <mark key="[" line="23" column="16" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/tfs_collection.py" timestamp="1542120763559">
         <mark key="[" line="4" column="32" />
@@ -319,9 +280,6 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/get_optics_3D.py" timestamp="1530105567974">
-        <mark key="[" line="174" column="58" />
-      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/orbit_check/get_orbit.py" timestamp="1541435930269">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="26" />
@@ -334,9 +292,6 @@
         <mark key="^" line="38" column="22" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/main.py" timestamp="1532942749446">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/madx_snippets.py" timestamp="1541154230433">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="71" column="45" />
@@ -347,10 +302,10 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1542121048657">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548066771732">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
@@ -389,19 +344,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/wise_tools.py" timestamp="1547551176563">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/dickle.py" timestamp="1533064523664">
         <mark key="[" line="1224" column="26" />
         <mark key="]" line="1224" column="0" />
         <mark key="." line="1224" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/.gitignore" timestamp="1534413256404">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1545229978981">
-        <mark key="[" line="299" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/plotshop/index.rst" timestamp="1539174113171">
         <mark key="[" line="22" column="13" />
@@ -433,12 +379,6 @@
         <mark key="]" line="114" column="21" />
         <mark key="." line="114" column="21" />
         <mark key="^" line="114" column="21" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/outlier_filter.py" timestamp="1547551307244">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/check_calculated_corrections.py" timestamp="1542626163378">
-        <mark key="[" line="314" column="16" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.orbit_separation/bbeat_compare/get_bbeat.py" timestamp="1544113324804">
         <mark key="[" line="134" column="0" />
@@ -520,9 +460,6 @@
         <mark key="]" line="187" column="56" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/beta_star_fit_from_model.py" timestamp="1547550477926">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -548,9 +485,6 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one/hole_in_one.py" timestamp="1530109744053">
-        <mark key="[" line="336" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1548063638141">
         <mark key="'" line="0" column="0" />
@@ -601,9 +535,6 @@
         <mark key="." line="19" column="8" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/figure_gui/artist_options" timestamp="1532683554781">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541412010246">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="14" />
@@ -636,19 +567,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/measure_optics.py" timestamp="1538493569767">
-        <mark key="[" line="137" column="31" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/utils/index.rst" timestamp="1539792579559">
-        <mark key="[" line="88" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/check_calculated_corrections.py" timestamp="1539170957320">
-        <mark key="[" line="5" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/global_correct_iterative.py" timestamp="1545242912997">
         <mark key="[" line="483" column="1" />
@@ -677,8 +599,11 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one.py" timestamp="1547832918312" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548064004452">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548066901636">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
@@ -689,9 +614,6 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="178" column="24" />
         <mark key="." line="178" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/10_OrbitSeparation/template.separationcheck.madx" timestamp="1542039403064">
-        <mark key="[" line="49" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1535125030224">
         <mark key="[" line="82" column="0" />
@@ -713,16 +635,10 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545237482146">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plot_resonance_spectrum_felix.py" timestamp="1539867003640">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/beta.py" timestamp="1533807337589">
-        <mark key="[" line="2560" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tfs_files/diff_files.py" timestamp="1544193207432">
         <mark key="[" line="7" column="0" />
@@ -749,9 +665,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/images/readme.txt" timestamp="1534428803002">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/plotting/fig_editor/general_helper.py" timestamp="1535125066592">
         <mark key="[" line="0" column="0" />
@@ -789,9 +702,6 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window_widgets.py" timestamp="1539182802713">
-        <mark key="[" line="229" column="44" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/hllhc_ampdet_study.ini" timestamp="1547638045738">
         <mark key="[" line="35" column="0" />
@@ -967,8 +877,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHJldHVybiBvcy5wYXRoLmpvaW4oVEVNUExBVEVESVIsIFRFTVBMQVRFTkFNRSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1076,58 +986,66 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJldHVybiBvcy5wYXRoLmpvaW4oVEVNUExBVEVESVIsIFRFTVBMQVRFTkFNRSk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzeXMKCiMgQmV0YS1CZWF0IFJlcG8gaW1wb3J0cwpiZXRhX2JldGFfcGF0aCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgb3MucGFyZGlyLCBvcy5wYXJkaXIpKQpzeXMucGF0aC5hcHBlbmQoYmV0YV9iZXRhX3BhdGgpCgpmcm9tIG1hZHggaW1wb3J0IGNvZGVfc25pcHBldHMKZnJvbSB1dGlscyBpbXBvcnQgbG9nZ2luZ190b29scwoKTE9HID0gbG9nZ2luZ190b29scy5nZXRfbG9nZ2VyKF9fbmFtZV9fKQoKVEVNUExBVEVESVIgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSkKVEVNUExBVEVNQVAgPSB7CiAgICAiTEhDIjogInRlbXBsYXRlLjIwMTguTEhDLklSTkwuc3F1ZWV6ZWQudHJpcGxldF9jb3JyZWN0aW9uLm1hZHgiLAogICAgIkhMTEhDIjogInRlbXBsYXRlLjIwMTguSExMSEMuSVJOTC5zcXVlZXplZC50cmlwbGV0X2NvcnJlY3Rpb24ubWFkeCIsCn0KCkNPUlJFQ1RJT05TX0ZJTEVOQU1FID0gIk1DWC5zZXR0aW5nLns6c30uezpzfS5tYWQiCgpTVEFHRV9PUkRFUiA9IHsKICAgICJMSEMiOiBbIk5PTUlOQUxNQUNISU5FIiwgIkFSQ0FQUExJRUQiLCAiTVFYQVBQTElFRCIsICAiTUJJUEFQUExJRUQiLAogICAgICAgICAgICAgIkFMTEFQUExJRUQiLCAiQ09SUkVDVEVEIl0sCiAgICAiSExMSEMiOiBbIk5PTUlOQUxNQUNISU5FIiwgIkFSQ0FQUExJRUQiLCAiSVBBUFBMSUVEIiwgICJDT1JSRUNURUQiXSwKfQoKCiMgSURzIGZvciBvdXRwdXQgZmlsZXMvc3RhZ2VzCklEUyA9IHsKICAgICJOT01JTkFMTUFDSElORSI6ICJub21pbmFsIiwKICAgICJBUkNBUFBMSUVEIjogImVycm9yc19hcmMiLAogICAgIk1RWEFQUExJRUQiOiAiZXJyb3JzX21xeCIsCiAgICAiTUJJUEFQUExJRUQiOiAiZXJyb3JzX21iX2lwIiwKICAgICJBTExBUFBMSUVEIjogImVycm9yc19hbGwiLAogICAgIklQQVBQTElFRCI6ICJlcnJvcnNfaXAiLAogICAgIkNPUlJFQ1RFRCI6ICJjb3JyZWN0ZWQiCn0KClNVUFBPUlRFRF9NQUNISU5FUyA9IFsiTEhDIiwgIkhMTEhDIl0KCgpjbGFzcyBUZW1wbGF0ZUNvbnRyb2w6CgogICAgZGVmIF9faW5pdF9fKHNlbGYsIG1hY2hpbmUpOgogICAgICAgIGlmIG1hY2hpbmUgbm90IGluIFNVUFBPUlRFRF9NQUNISU5FUzoKICAgICAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcigiTWFjaGluZSAnezpzfScgbm90IGltcGxlbWVudGVkLiIuZm9ybWF0KG1hY2hpbmUpKQogICAgICAgIHNlbGYubWFjaGluZSA9IG1hY2hpbmUKICAgICAgICBzZWxmLnRlbXBsYXRlID0gc2VsZi5fZ2V0X3RlbXBsYXRlX2Zvcl9tYWNoaW5lKG1hY2hpbmUpCgogICAgIyBQYXJhbXMgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKICAgIGRlZiBfZ2V0X2RlZmF1bHRfcGFyYW1ldGVycyhzZWxmLCBuZXdfdmFsdWVzKToKICAgICAgICAiIiIgUGFyYW1ldGVycyB0byBiZSBmaWxsZWQgaW4gTUFEWC1TY3JpcHQgIiIiCgogICAgICAgIGlmIHNlbGYubWFjaGluZSA9PSAiTEhDIjoKICAgICAgICAgICAgbm9fZGVmYXVsdCA9IFsiQkVBTSIsICJUWVBFIiwgIkVSUk9SREVGIiwgIkNPUlJFQ1RJT05TIl0KICAgICAgICAgICAgZGVmYXVsdCA9IHsKICAgICAgICAgICAgICAgICMgQmVhbSBQYXJhbWV0ZXJzCiAgICAgICAgICAgICAgICAiUVgiOiAiNjIuMzEiLAogICAgICAgICAgICAgICAgIlFZIjogIjYwLjMyIiwKICAgICAgICAgICAgICAgICJDSFJPTVgiOiAiMyIsCiAgICAgICAgICAgICAgICAiQ0hST01ZIjogIjMiLAogICAgICAgICAgICAgICAgIyBTZXR0aW5ncwogICAgICAgICAgICAgICAgIlVTRVRISU4iOiAiMSIsCiAgICAgICAgICAgICAgICAiQVJDRVJST1JTIjogIjEiLAogICAgICAgICAgICAgICAgIkNBTENDT1JSRUNUVFJJUCI6ICIxIiwKICAgICAgICAgICAgICAgICMgT3V0cHV0cwogICAgICAgICAgICAgICAgIk5PTUlOQUxNQUNISU5FIjogIiIsCiAgICAgICAgICAgICAgICAiQVJDQVBQTElFRCI6ICIiLAogICAgICAgICAgICAgICAgIk1RWEFQUExJRUQiOiAiIiwKICAgICAgICAgICAgICAgICJNQklQQVBQTElFRCI6ICIiLAogICAgICAgICAgICAgICAgIkFMTEFQUExJRUQiOiAiIiwKICAgICAgICAgICAgICAgICJDT1JSRUNURUQiOiAiIiwKICAgICAgICAgICAgfQogICAgICAgIGVsaWYgc2VsZi5tYWNoaW5lID09ICJITExIQyI6CiAgICAgICAgICAgIG5vX2RlZmF1bHQgPSBbIkJFQU0iLCAiVFlQRSIsICJFUlJPUkRFRiIsICJDT1JSRUNUSU9OUyJdCiAgICAgICAgICAgIGRlZmF1bHQgPSB7CiAgICAgICAgICAgICAgICAjIEJlYW0gUGFyYW1ldGVycwogICAgICAgICAgICAgICAgIlFYIjogIjYyLjMxIiwKICAgICAgICAgICAgICAgICJRWSI6ICI2MC4zMiIsCiAgICAgICAgICAgICAgICAiQ0hST00iOiAiMyIsCiAgICAgICAgICAgICAgICAiTlJKIjogIjcwMDAuMCIsCiAgICAgICAgICAgICAgICAjIFNldHRpbmdzCiAgICAgICAgICAgICAgICAiT05ESVNQIjogIjEiLAogICAgICAgICAgICAgICAgIkNBTENDT1JSRUNUVFJJUCI6ICIxIiwKICAgICAgICAgICAgICAgICJBUkNFUlJPUlMiOiAiMSIsCiAgICAgICAgICAgICAgICAiQ09SUkVDVEQyIjogIjAiLAogICAgICAgICAgICAgICAgIkNPUlJFQ1RNQ0JYIjogIjAiLAogICAgICAgICAgICAgICAgIkxTRiI6ICIwIiwKICAgICAgICAgICAgICAgICJNT1BPV0VSIjogIjAiLAogICAgICAgICAgICAgICAgIk9OQUxJQ0UiOiAiMCIsCiAgICAgICAgICAgICAgICAiT05MSENCIjogIjAiLAogICAgICAgICAgICAgICAgIyBPdXRwdXRzCiAgICAgICAgICAgICAgICAiTk9NSU5BTE1BQ0hJTkUiOiAiIiwKICAgICAgICAgICAgICAgICJBUkNBUFBMSUVEIjogIiIsCiAgICAgICAgICAgICAgICAiSVBBUFBMSUVEIjogIiIsCiAgICAgICAgICAgICAgICAiQ09SUkVDVEVEIjogIiIsCiAgICAgICAgICAgIH0KCiAgICAgICAgbm90X2ZvdW5kID0gW25mIGZvciBuZiBpbiBub19kZWZhdWx0IGlmIG5mIG5vdCBpbiBuZXdfdmFsdWVzXQogICAgICAgIGlmIGFueShub3RfZm91bmQpOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJSZXF1aXJlZCBwYXJhbWV0ZXJzICd7fScgbm90IGZvdW5kLiIuZm9ybWF0KG5vdF9mb3VuZCkpCgogICAgICAgICMgY3Jvc3NpbmcgYW5nbGVzIGFuZCBzZXBhcmF0aW9uIGJ1bXBzCiAgICAgICAgZm9yIGlkeCBpbiBbMSwgMiwgNSwgOF06CiAgICAgICAgICAgIGZvciBwcmVmaXggaW4gWyJYSU5HIiwgIlNFUCIsICJQSEkiXToKICAgICAgICAgICAgICAgIGRlZmF1bHRbIns6c317OmR9Ii5mb3JtYXQocHJlZml4LCBpZHgpXSA9ICIwIgoKICAgICAgICAjIGFwcGxpZWQgZXJyb3JzCiAgICAgICAgZm9yIGlkeCBpbiByYW5nZSgxLCAxMik6CiAgICAgICAgICAgIGZvciBvcmllbnRhdGlvbiBpbiBbIkEiLCAiQiJdOgogICAgICAgICAgICAgICAgZGVmYXVsdFsiezpzfXs6ZH0iLmZvcm1hdChvcmllbnRhdGlvbiwgaWR4KV0gPSAiMCIKCiAgICAgICAgIyByZXR1cm4gZGljdGlvbmFyeSBmaWxsZWQgd2l0aCBkZWZhdWx0cyBhbmQgbmV3IHZhbHVlcwogICAgICAgIGRlZmF1bHQudXBkYXRlKG5ld192YWx1ZXMpCiAgICAgICAgcmV0dXJuIGRlZmF1bHQKCiAgICBkZWYgX2dldF9jcm9zc2luZ19wYXJhbXNfZm9yX29wdGljcyhzZWxmLCBvcHRpY190eXBlLCB4aW5nKToKICAgICAgICAiIiIgUmV0dXJuIHRoZSBjcm9zc2luZyBwYXJhbWV0ZXJzIGZvciBvcHRpY3MgdHlwZSBhbmQgY3Jvc3Npbmcgc2NoZW1lICIiIgogICAgICAgIGlmIHNlbGYubWFjaGluZSA9PSAiTEhDIjoKICAgICAgICAgICAgbWFwcGluZyA9IHsKICAgICAgICAgICAgICAgICJyb3VuZCI6IHsKICAgICAgICAgICAgICAgICAgICAiSVAxIjogeyJYSU5HMSI6ICIxNTAiLCAiUEhJMSI6ICI5MCJ9LAogICAgICAgICAgICAgICAgICAgICJJUDUiOiB7IlhJTkc1IjogIjE1MCIsICJQSEk1IjogIjAifSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAiZmxhdCI6IHsKICAgICAgICAgICAgICAgICAgICAiSVAxIjogeyJYSU5HMSI6ICIxNTAiLCAiUEhJMSI6ICIwIn0sCiAgICAgICAgICAgICAgICAgICAgIklQNSI6IHsiWElORzUiOiAiMTUwIiwgIlBISTUiOiAiOTAifSwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIG9wdGljX3R5cGVbMDoyXSA9PSBvcHRpY190eXBlWzI6NF06CiAgICAgICAgICAgICAgICBvdHlwZSA9ICJyb3VuZCIKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIG90eXBlID0gImZsYXQiCgogICAgICAgIGVsaWYgc2VsZi5tYWNoaW5lID09ICJITExIQyI6CiAgICAgICAgICAgIG1hcHBpbmcgPSB7CiAgICAgICAgICAgICAgICAiZGVmYXVsdCI6IHsKICAgICAgICAgICAgICAgICAgICAiSVAxIjogeyJYSU5HMSI6ICIyOTUiLCAgIlBISTEiOiAiOTAiLCAiU0VQMSI6ICIwLjc1In0sCiAgICAgICAgICAgICAgICAgICAgIklQNSI6IHsiWElORzUiOiAiMjk1IiwgICJQSEk1IjogIjAiLCAgIlNFUDUiOiAiMC43NSJ9LAogICAgICAgICAgICAgICAgICAgICJJUDIiOiB7IlhJTkcyIjogIjE3MCIsICAiUEhJMiI6ICI5MCIsICAiU0VQMiI6ICIyIiwgIk9OQUxJQ0UiOiAiMSJ9LAogICAgICAgICAgICAgICAgICAgICJJUDgiOiB7IlhJTkc4IjogIi0yNTAiLCAiUEhJOCI6ICIwIiwgICJTRVA4IjogIi0yIiwgIk9OTEhDQiI6ICIxIn0sCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9CiAgICAgICAgICAgIG90eXBlID0gImRlZmF1bHQiCgogICAgICAgIHJlc3VsdCA9IHt9CiAgICAgICAgaWYgeGluZzoKICAgICAgICAgICAgIyByZXR1cm4gYXBwcm9wcmlhdGUgc2V0dGluZ3MgKGRpZmZlcmluZyBmcm9tIGRlZmF1bHRzLCB3aGljaCBpcyBubyBjcm9zc2luZykKICAgICAgICAgICAgaWYgbm90IGlzaW5zdGFuY2UoeGluZywgbGlzdCk6ICAjIHVzZSBhbGwKICAgICAgICAgICAgICAgIHhpbmcgPSBtYXBwaW5nW290eXBlXS5rZXlzKCkKICAgICAgICAgICAgW3Jlc3VsdC51cGRhdGUobWFwcGluZ1tvdHlwZV1bc3ViXSkgZm9yIHN1YiBpbiB4aW5nXQogICAgICAgIHJldHVybiByZXN1bHQKCiAgICBkZWYgX2dldF9zZWVkcmFuKHNlbGYsIHNlZWQpOgogICAgICAgIGlmIHNlbGYubWFjaGluZSA9PSAiTEhDIjoKICAgICAgICAgICAgcmV0dXJuIHt9ICAjIG5vdCBuZWVkZWQgaW4gTEhDCiAgICAgICAgZWxpZiBzZWxmLm1hY2hpbmUgPT0gIkhMTEhDIjoKICAgICAgICAgICAgcmV0dXJuIHsiU0VFRFJBTiI6IHN0cihzZWVkKX0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9lcnJvcnR5cGVzX3BhcmFtcyhlcnJvcl90eXBlcyk6CiAgICAgICAgIiIiIFJldHVybiBhIGRpY3Rpb25hcnkgd2l0aCBhY3RpdmF0ZWQgZXJyb3JzIG9mIHByZXNlbnQga2luZHMgKGUuZy4gQTQsIEIzKSAiIiIKICAgICAgICByZXR1cm4ge2V0OiAiMSIgZm9yIGV0IGluIGVycm9yX3R5cGVzfQoKICAgIGRlZiBfZ2V0X291dHB1dF9zbmlwcGV0cyhzZWxmLCBwYXRoLCBiZWFtLCBjb3JyZWN0X2J5LCBtZWFzdXJlX29mX2ludGVyZXN0KToKICAgICAgICAiIiIgUmV0dXJuIHRoZSBvdXRwdXQtY3JlYXRpbmcgc25pcHBldHMgdG8gYmUgcGxhY2VkIGludG8gdGhlIG1hZHggZmlsZSAiIiIKICAgICAgICBzbmlwcGV0ID0gewogICAgICAgICAgICAicHRjcmR0IjogY29kZV9zbmlwcGV0cy5nZXRfcHRjX3R3aXNzX3JkdCwKICAgICAgICAgICAgInB0Y2FtcGRldCI6IGNvZGVfc25pcHBldHMuZ2V0X3B0Y19hbXBsaXR1ZGVfZGV0dW5pbmcsCiAgICAgICAgfQoKICAgICAgICBpZHMgPSBJRFMKICAgICAgICBzdGFnZV9vcmRlciA9IFNUQUdFX09SREVSW3NlbGYubWFjaGluZV0KICAgICAgICBpZiBjb3JyZWN0X2J5IGlzIG5vdCBOb25lOgogICAgICAgICAgICBpZHMgPSB7IkNPUlJFQ1RFRCI6ICJ7OnN9X3s6c30iLmZvcm1hdCgKICAgICAgICAgICAgICAgIGlkc1siQ09SUkVDVEVEIl0sIHNlbGYuX2dldF9jb3JyZWN0X2J5X2Jhc2UoY29ycmVjdF9ieSkpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgc3RhZ2Vfb3JkZXIgPSBbIkNPUlJFQ1RFRCJdCgogICAgICAgIHJldHVybiB7b3V0OiBzbmlwcGV0W21lYXN1cmVfb2ZfaW50ZXJlc3RdKHBhdGgsICJiezpkfS57OnN9Ii5mb3JtYXQoYmVhbSwgaWRzW291dF0pKQogICAgICAgICAgICAgICAgZm9yIG91dCBpbiBzdGFnZV9vcmRlcn0KCiAgICBkZWYgX2dldF9jb3JyZWN0aW9uc19wYXJhbXMoc2VsZiwgcGF0aCwgYmVhbSwgb3B0aWNfdHlwZSwgY29ycmVjdF9ieSk6CiAgICAgICAgIiIiIFJldHVybiB0aGUgcGFyYW1ldGVycyBmb3IgdGhlIHRyaXBsZXQgY29ycmVjdGlvbiAiIiIKICAgICAgICBpZiBjb3JyZWN0X2J5IGlzIG5vdCBOb25lOgogICAgICAgICAgICBjYWxjID0gIjAiCiAgICAgICAgICAgIGNvcnJlY3QgPSBjb3JyZWN0X2J5CiAgICAgICAgZWxzZToKICAgICAgICAgICAgY2FsYyA9ICIxIgogICAgICAgICAgICBjb3JyZWN0ID0gc2VsZi5nZXRfY29ycmVjdGlvbl9maWxlKHBhdGgsIGJlYW0sIG9wdGljX3R5cGUpCgogICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICJDQUxDQ09SUkVDVFRSSVAiOiBjYWxjLAogICAgICAgICAgICAiQ09SUkVDVElPTlMiOiBjb3JyZWN0LAogICAgICAgIH0KCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9jb3JyZWN0aW9uX2ZpbGUocGF0aCwgYmVhbSwgb3B0aWNfdHlwZSk6CiAgICAgICAgIiIiIEdldCB0aGUgZmlsZW5hbWUgZm9yIHRoZSB0cmlwbGV0LWNvcnJlY3Rpb25zIGZpbGUuICIiIgogICAgICAgIHJldHVybiBvcy5wYXRoLmpvaW4ocGF0aCwgQ09SUkVDVElPTlNfRklMRU5BTUUuZm9ybWF0KCJiezpkfSIuZm9ybWF0KGJlYW0pLCBvcHRpY190eXBlKSkKCiAgICBAc3RhdGljbWV0aG9kCiAgICBkZWYgX2dldF9jb3JyZWN0X2J5X2Jhc2UoY29ycmVjdF9ieSk6CiAgICAgICAgIiIiIFJldHVybiBhIHNob3J0IGZpbGVuYW1lIGZvciB0aGUgY29ycmVjdGlvbnMgc2V0dGluZ3MgZmlsZSAiIiIKICAgICAgICBpZGNzID0gW2kgZm9yIGksIHMgaW4gZW51bWVyYXRlKENPUlJFQ1RJT05TX0ZJTEVOQU1FLnNwbGl0KCIuIikpIGlmIHMuc3RhcnRzd2l0aCgieyIpXQogICAgICAgIHBhcnRzID0gb3MucGF0aC5iYXNlbmFtZShjb3JyZWN0X2J5KS5zcGxpdCgiLiIpCiAgICAgICAgcmV0dXJuICJieV97OnN9Ii5mb3JtYXQoIl8iLmpvaW4oW3BhcnRzW2lkeF0gZm9yIGlkeCBpbiBpZGNzXSkpCgogICAgZGVmIF9nZXRfam9iX25hbWUoc2VsZiwgcGF0aCwgYmVhbSwgY29ycmVjdGVkX2J5KToKICAgICAgICAiIiIgR2V0IHRoZSBuYW1lIG9mIHRoZSBqb2IgZmlsZSAiIiIKICAgICAgICBmaWxlX3BhcnRzID0gb3MucGF0aC5zcGxpdGV4dChvcy5wYXRoLmJhc2VuYW1lKHNlbGYudGVtcGxhdGUpKQogICAgICAgIG91dF9wYXJ0cyA9IFsKICAgICAgICAgICAgZmlsZV9wYXJ0c1swXS5yZXBsYWNlKCJ0ZW1wbGF0ZSIsICJqb2IiKSwKICAgICAgICAgICAgImJ7OmR9Ii5mb3JtYXQoYmVhbSksCiAgICAgICAgXQogICAgICAgIGlmIGNvcnJlY3RlZF9ieSBpcyBub3QgTm9uZToKICAgICAgICAgICAgb3V0X3BhcnRzLmFwcGVuZChzZWxmLl9nZXRfY29ycmVjdF9ieV9iYXNlKGNvcnJlY3RlZF9ieSkpCiAgICAgICAgb3V0X3BhcnRzLmFwcGVuZChmaWxlX3BhcnRzWzFdLnN0cmlwKCIuIikpCiAgICAgICAgcmV0dXJuIG9zLnBhdGguam9pbihwYXRoLCAiLiIuam9pbihvdXRfcGFydHMpKQoKICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBfZ2V0X3RlbXBsYXRlX2Zvcl9tYWNoaW5lKG1hY2hpbmUpOgogICAgICAgIHJldHVybiBvcy5wYXRoLmpvaW4oVEVNUExBVEVESVIsIFRFTVBMQVRFTUFQW21hY2hpbmVdKQoKICAgICMgUHVibGljIEZ1bmN0aW9ucyAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCgogICAgZGVmIGdldF9jb3JyZWN0aW9uX2ZpbGUoc2VsZiwgcGF0aCwgYmVhbSwgb3B0aWNfdHlwZSk6CiAgICAgICAgIiIiIFJldHVybiB0aGUgcGF0aCBvZiB0aGUgY29ycmVjdGlvbiBmaWxlIHdpdGggdGhlIG5hbWluZyBjb252ZW50aW9uLiAiIiIKICAgICAgICByZXR1cm4gc2VsZi5fZ2V0X2NvcnJlY3Rpb25fZmlsZShwYXRoLCBiZWFtLCBvcHRpY190eXBlKQoKICAgIGRlZiBmaWxsX21hZHhfdGVtcGxhdGUoc2VsZiwgcGFyYW1zKToKICAgICAgICAiIiIgTWFudWFsIHdheSB0byBnZXQgdGhlIHRlbXBsYXRlIGNvbnRlbmQKCiAgICAgICAgICAgIFBhcmFtcyBpcyBmaWxsZWQgd2l0aCBkZWZhdWx0IHZhbHVlcy4gU2VlIF9nZXRfZGVmYXVsdF9wYXJhbWV0ZXJzKCkgZm9yIGRldGFpbHMuCiAgICAgICAgIiIiCiAgICAgICAgcGFyYW1zID0gc2VsZi5fZ2V0X2RlZmF1bHRfcGFyYW1ldGVycyhwYXJhbXMpCiAgICAgICAgd2l0aCBvcGVuKHNlbGYudGVtcGxhdGUsICJyIikgYXMgZjoKICAgICAgICAgICAgdGVtcGxhdGUgPSBmLnJlYWQoKQogICAgICAgIHJldHVybiB0ZW1wbGF0ZSAlIHBhcmFtcwoKICAgIGRlZiB3cml0ZV9tYWR4X2pvYihzZWxmLCBvdXRwdXRfcGF0aCwgZXJyb3JkZWZfcGF0aCwgc2VlZCwKICAgICAgICAgICAgICAgICAgICAgICBiZWFtLCB4aW5nLCBlcnJvcl90eXBlcywgb3B0aWNfdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICBjb3JyZWN0X2J5LCBtZWFzdXJlX29mX2ludGVyZXN0LCBtYW51YWw9e30pOgogICAgICAgICIiIiBQcmVwYXJlIHRoZSB0ZW1wbGF0ZSBjb250ZW50IGFuZCB3cml0ZSBpdCBpbnRvIGEgam9iCgogICAgICAgIEFyZ3M6CiAgICAgICAgICAgIG91dHB1dF9wYXRoOiBwYXRoIHRvIHRoZSBvdXRwdXQgZGlyZWN0b3J5CiAgICAgICAgICAgIGVycm9yZGVmX3BhdGg6IHBhdGggdG8gdGhlIHdpc2UtZXJyb3JkZWZpbml0aW9uIGZpbGUgdG8gdXNlCiAgICAgICAgICAgIGJlYW06IFsxMl0KICAgICAgICAgICAgeGluZzogRmFsc2UsIFRydWUgb3IgbGlzdCBvZiBJUHMKICAgICAgICAgICAgZXJyb3JfdHlwZXM6ICJbQUJdWzEtMTFdIgogICAgICAgICAgICBvcHRpY190eXBlOiAiMzAzMCwgIjE1MTUiIG9yICI2MDE1IgogICAgICAgICAgICBjb3JyZWN0X2J5OiBwYXRoIHRvIG1hZ25ldCBzZXR0aW5ncyBmaWxlCiAgICAgICAgICAgICAgICAgICAgICAgIChuYW1pbmcgY29udmVudGlvbnMgbmVlZCB0byBhcHBseSwgc2VlIGdldF9jb3JyZWN0aW9uX2ZpbGUoKSkKICAgICAgICAgICAgbWVhc3VyZV9vZl9pbnRlcmVzdDogZWl0aGVyICdwdGNyZHQnIG9yICdwdGNhbXBkZXQnCgogICAgICAgICIiIgogICAgICAgIHBhcmFtcyA9IHsKICAgICAgICAgICAgIkJFQU0iOiBzdHIoYmVhbSksCiAgICAgICAgICAgICJUWVBFIjogb3B0aWNfdHlwZSwKICAgICAgICAgICAgIkVSUk9SREVGIjogZXJyb3JkZWZfcGF0aCwKICAgICAgICB9CgogICAgICAgIHBhcmFtcy51cGRhdGUoc2VsZi5fZ2V0X3NlZWRyYW4oc2VlZCkpCiAgICAgICAgcGFyYW1zLnVwZGF0ZShzZWxmLl9nZXRfY3Jvc3NpbmdfcGFyYW1zX2Zvcl9vcHRpY3Mob3B0aWNfdHlwZSwgeGluZykpCiAgICAgICAgcGFyYW1zLnVwZGF0ZShzZWxmLl9nZXRfZXJyb3J0eXBlc19wYXJhbXMoZXJyb3JfdHlwZXMpKQogICAgICAgIHBhcmFtcy51cGRhdGUoc2VsZi5fZ2V0X291dHB1dF9zbmlwcGV0cyhvdXRwdXRfcGF0aCwgYmVhbSwgY29ycmVjdF9ieSwgbWVhc3VyZV9vZl9pbnRlcmVzdCkpCiAgICAgICAgcGFyYW1zLnVwZGF0ZShzZWxmLl9nZXRfY29ycmVjdGlvbnNfcGFyYW1zKG91dHB1dF9wYXRoLCBiZWFtLCBvcHRpY190eXBlLCBjb3JyZWN0X2J5KSkKICAgICAgICBwYXJhbXMudXBkYXRlKG1hbnVhbCkKCiAgICAgICAgam9iX3BhdGggPSBzZWxmLl9nZXRfam9iX25hbWUob3V0cHV0X3BhdGgsIGJlYW0sIGNvcnJlY3RfYnkpCiAgICAgICAgd2l0aCBvcGVuKGpvYl9wYXRoLCAidyIpIGFzIGY6CiAgICAgICAgICAgIGYud3JpdGUoc2VsZi5maWxsX21hZHhfdGVtcGxhdGUocGFyYW1zKSkKICAgICAgICByZXR1cm4gam9iX3BhdGgKCgojIFNjcmlwdCBNb2RlICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CiAgICByYWlzZSBFbnZpcm9ubWVudEVycm9yKCJ7OnN9IGlzIG5vdCBzdXBwb3NlZCB0byBydW4gYXMgbWFpbi4iLmZvcm1hdChfX2ZpbGVfXykpCg==</text>
+      <register name="0" type="4">
+        <text>/afs/cern.ch/user/j/jdilly/extractor/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1VQUE9SVEVEX01BQ0hJTkVTID0gWyJMSEMiLCAiSExMSEMiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hY2hpbmUgPSBtYWNoaW5lCg==</text>
+        <text encoding="base64">U1VQUE9SVEVEX01BQ0hJTkVTID0gWyJMSEMiLCAiSExMSEMiXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYWNoaW5lIG5vdCBpbiBTVVBQT1JURURfTUFDSElORVM6CiAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIk1hY2hpbmUgJ3s6c30nIG5vdCBpbXBsZW1lbnRlZC4iLmZvcm1hdChtYWNoaW5lKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hY2hpbmUgPSBtYWNoaW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtYWNoaW5lIG5vdCBpbiBTVVBQT1JURURfTUFDSElORVM6CiAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIk1hY2hpbmUgJ3s6c30nIG5vdCBpbXBsZW1lbnRlZC4iLmZvcm1hdChtYWNoaW5lKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RW50cnlwb2ludCBBbXBsaXR1ZGUgRGV0dW5pbmcgQW5hbHlzaXMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
+        <text encoding="base64">RW50cnlwb2ludCBBbXBsaXR1ZGUgRGV0dW5pbmcgQW5hbHlzaXMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
           <key char="48" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="118" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
           <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
+        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI0Il0sIFsiQjUiXSwgWyJBNSJdLCBbIkI2Il0sIFsiQTYiXQo=</text>
+        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1138,7 +1056,7 @@
       <last-offset />
       <last-pattern>iotools</last-pattern>
       <last-replace>get_options</last-replace>
-      <last-substitute>get_rdt_options</last-substitute>
+      <last-substitute>iotools</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
