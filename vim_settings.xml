@@ -58,11 +58,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1542119834774">
-        <mark key="[" line="2" column="39" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="30" column="15" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1548077464565">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/kmod_orbit/kmod_orbit.py" timestamp="1533804235014">
         <mark key="[" line="11" column="0" />
@@ -302,10 +302,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548066771732">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548077427733">
         <mark key="[" line="36" column="33" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
@@ -599,11 +600,11 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one.py" timestamp="1547832918312" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548076127512">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548077516795">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
@@ -877,8 +878,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>LHCBEAM/IP1-SEP-H-MM</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -986,37 +987,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>/afs/cern.ch/user/j/jdilly/extractor/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJMSENCRUFNL0lQMS1PRkZTRVQtSC1NTSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U1VQUE9SVEVEX01BQ0hJTkVTID0gWyJMSEMiLCAiSExMSEMiXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm1hY2hpbmUgPSBtYWNoaW5lCg==</text>
+        <text encoding="base64">U1VQUE9SVEVEX01BQ0hJTkVTID0gWyJMSEMiLCAiSExMSEMiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYWNoaW5lIG5vdCBpbiBTVVBQT1JURURfTUFDSElORVM6CiAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIk1hY2hpbmUgJ3s6c30nIG5vdCBpbXBsZW1lbnRlZC4iLmZvcm1hdChtYWNoaW5lKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm1hY2hpbmUgPSBtYWNoaW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBtYWNoaW5lIG5vdCBpbiBTVVBQT1JURURfTUFDSElORVM6CiAgICAgICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoIk1hY2hpbmUgJ3s6c30nIG5vdCBpbXBsZW1lbnRlZC4iLmZvcm1hdChtYWNoaW5lKSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RW50cnlwb2ludCBBbXBsaXR1ZGUgRGV0dW5pbmcgQW5hbHlzaXMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1042,10 +1043,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
+        <text encoding="base64">RW50cnlwb2ludCBBbXBsaXR1ZGUgRGV0dW5pbmcgQW5hbHlzaXMKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
+        <text encoding="base64">dW51c2VkX3N0YWdlcyA9ICIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
