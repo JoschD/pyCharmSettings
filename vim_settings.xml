@@ -89,11 +89,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/dict_tools.py" timestamp="1548175433854">
-        <mark key="[" line="152" column="46" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548162893701">
         <mark key="[" line="453" column="0" />
         <mark key="]" line="455" column="91" />
@@ -221,7 +216,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548171949515">
+      <file name="/Python Console" timestamp="1548178359682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -579,11 +574,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entrypoint.py" timestamp="1548175193736">
-        <mark key="[" line="325" column="75" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
-        <mark key="^" line="321" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entrypoint.py" timestamp="1548176811128">
+        <mark key="[" line="523" column="0" />
+        <mark key="]" line="523" column="16" />
+        <mark key="." line="523" column="16" />
+        <mark key="^" line="522" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
         <mark key="[" line="16" column="4" />
@@ -691,10 +686,11 @@
         <mark key="]" line="8" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1548175791473">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="1" />
-        <mark key="." line="19" column="1" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1548178937328">
+        <mark key="[" line="121" column="28" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/logging_tools.py" timestamp="1547833130273">
         <mark key="[" line="15" column="23" />
@@ -906,8 +902,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEdlbmVyYWwgRnVuY3Rpb25hbGl0eQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocGFyYW0uZmxhZ3MgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBpc2luc3RhbmNlKHBhcmFtLmZsYWdzLCBsaXN0KSBvcgogICAgICAgICAgICAgICAgICAgICAgICBub3QgYWxsKGlzaW5zdGFuY2UoZiwgc3RyKSBmb3IgZiBpbiBwYXJhbS5mbGFncykpOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiJ3twYXJhbS5uYW1lfSc6IEZsYWdzIGFyZSBub3QgYSBsaXN0IG9mIHN0cmluZ3MuIikK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1015,37 +1011,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEdlbmVyYWwgRnVuY3Rpb25hbGl0eQ==</text>
+        <text encoding="base64">Il0sIA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfbm90X2Vub3VnaF9sZW5ndGgoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhBcmd1bWVudEVycm9yKToKICAgICAgICBzb21lX2Z1bmN0aW9uKGFjY2VsPSJMSENCMSIsIGFuaW50PTMsIGFsaXN0PVtdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcmFtLm5hbWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne3BhcmFtLm5hbWV9JzogTmFtZSBpcyBub3QgYSBzdHJpbmcuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfc3RyaWN0X3Bhc3MoKToKICAgIHN0cmljdF9mdW5jdGlvbihhY2NlbD0iTEhDQjEiLCBhbmludD0zKQoKCmRlZiB0ZXN0X3N0cmljdF9mYWlsKCk6CiAgICB3aXRoIHB5dGVzdC5yYWlzZXMoQXJndW1lbnRFcnJvcik6CiAgICAgICAgc3RyaWN0X2Z1bmN0aW9uKGFjY2VsPSJMSENCMSIsIGFuaW50PTMsIHVua293bj0ibm90X2ZvdW5kIikKCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocGFyYW0uZmxhZ3MgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBpc2luc3RhbmNlKHBhcmFtLmZsYWdzLCBsaXN0KSBvcgogICAgICAgICAgICAgICAgICAgICAgICBub3QgYWxsKGlzaW5zdGFuY2UoZiwgc3RyKSBmb3IgZiBpbiBwYXJhbS5mbGFncykpOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiJ3twYXJhbS5uYW1lfSc6IEZsYWdzIGFyZSBub3QgYSBsaXN0IG9mIHN0cmluZ3MuIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfYXNfa3dhcmdzKCk6CiAgICBwYXNzCgoKZGVmIHRlc3RfYXNfc3RyaW5nKCk6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0PSJMSENCMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgbm90IGlzaW5zdGFuY2UocGFyYW0ubmFtZSwgc3RyKToKICAgICAgICAgICAgICAgICMgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiJ3twYXJhbS5uYW1lfSc6IE5hbWUgaXMgbm90IGEgc3RyaW5nLiIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYXJhbS5mbGFncyBhbmQKICAgICAgICAgICAgICAgICAgICAgICAgbm90IGlzaW5zdGFuY2UocGFyYW0uZmxhZ3MsIGxpc3QpIG9yCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBhbGwoaXNpbnN0YW5jZShmLCBzdHIpIGZvciBmIGluIHBhcmFtLmZsYWdzKSk6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne3BhcmFtLm5hbWV9JzogRmxhZ3MgYXJlIG5vdCBhIGxpc3Qgb2Ygc3RyaW5ncy4iKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhcmFtLm5hcmdzID09IGFyZ3BhcnNlLiBhbmQgbm90IGxlbihvcHQpOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIEFyZ3VtZW50RXJyb3IoZiIne2tleTpzfScgc2hvdWxkIGJlIGxpc3Qgb2YgbGVuZ3RoID49IDEsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZiIgaW5zdGVhZCBpdCB3YXMgb2YgbGVuZ3RoIHtsZW4ob3B0KTpkfS5cbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGYiSGVscDoge3BhcmFtLmhlbHA6c30iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcmFtLm5hbWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne2tleTpzfSc6IEtleSBhbmQgbmFtZSBuZWVkIHRvIGJlIHRoZSBzYW1lLiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgImNob2ljZXMiOiBbImIiLCAzXSwgInR5cGUiOiBzdHIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1071,10 +1067,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgaXNpbnN0YW5jZShwYXJhbVsibmFyZ3MiXSwgc3RyKToKICAgICAgICAgICAgICAgICMgICAgIHBhcmFtLnBvcCgibmFyZ3MiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIm5hcmdzIjogIisiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFyZ3MuYWRkX3BhcmFtZXRlcihuYW1lPSJhbnVtYmVyIiwKICAgICAgICAgICAgICAgICAgICAgICBmbGFncz1bIi1udW0iLCAiLS1hbnVtIl0sCiAgICAgICAgICAgICAgICAgICAgICAgaGVscD0iSnVzdCBhIG51bWJlci4iLAogICAgICAgICAgICAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdD0xOS4sCiAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
