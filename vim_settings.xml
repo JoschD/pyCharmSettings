@@ -149,8 +149,8 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548180249009">
-        <mark key="[" line="26" column="14" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548181367827">
+        <mark key="[" line="22" column="30" />
         <mark key="]" line="26" column="14" />
         <mark key="." line="26" column="14" />
         <mark key="^" line="6" column="24" />
@@ -216,12 +216,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548180550739">
+      <file name="/Python Console" timestamp="1548180572162">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1548180315085">
+      <file name="/fragment.py" timestamp="1548180655486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -348,7 +348,11 @@
         <mark key="]" line="1224" column="0" />
         <mark key="." line="1224" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1548180546409" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/dict_tools.py" timestamp="1548181193257">
+        <mark key="[" line="466" column="37" />
+        <mark key="]" line="489" column="44" />
+        <mark key="." line="489" column="44" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/plotshop/index.rst" timestamp="1539174113171">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="21" column="0" />
@@ -904,7 +908,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>, level=0</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1012,7 +1016,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, level=0</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -1021,28 +1025,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcmFtLm5hbWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne3BhcmFtLm5hbWV9JzogTmFtZSBpcyBub3QgYSBzdHJpbmcuIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocGFyYW0uZmxhZ3MgYW5kCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBpc2luc3RhbmNlKHBhcmFtLmZsYWdzLCBsaXN0KSBvcgogICAgICAgICAgICAgICAgICAgICAgICBub3QgYWxsKGlzaW5zdGFuY2UoZiwgc3RyKSBmb3IgZiBpbiBwYXJhbS5mbGFncykpOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiJ3twYXJhbS5uYW1lfSc6IEZsYWdzIGFyZSBub3QgYSBsaXN0IG9mIHN0cmluZ3MuIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmcuc3VidHlwZSA9PSBsaXN0Ogo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaWYgbm90IGlzaW5zdGFuY2UocGFyYW0ubmFtZSwgc3RyKToKICAgICAgICAgICAgICAgICMgICAgIHJhaXNlIFBhcmFtZXRlckVycm9yKGYiJ3twYXJhbS5uYW1lfSc6IE5hbWUgaXMgbm90IGEgc3RyaW5nLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9ICJbIiArIHZhbHVlICsgIl0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYXJhbS5mbGFncyBhbmQKICAgICAgICAgICAgICAgICAgICAgICAgbm90IGlzaW5zdGFuY2UocGFyYW0uZmxhZ3MsIGxpc3QpIG9yCiAgICAgICAgICAgICAgICAgICAgICAgIG5vdCBhbGwoaXNpbnN0YW5jZShmLCBzdHIpIGZvciBmIGluIHBhcmFtLmZsYWdzKSk6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne3BhcmFtLm5hbWV9JzogRmxhZ3MgYXJlIG5vdCBhIGxpc3Qgb2Ygc3RyaW5ncy4iKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcmFtLm5hbWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne2tleTpzfSc6IEtleSBhbmQgbmFtZSBuZWVkIHRvIGJlIHRoZSBzYW1lLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmcuc3VidHlwZSA9PSBsaXN0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IGxpc3RfY2hlY2sodmFsdWUsIGxldmVsPTApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgImNob2ljZXMiOiBbImIiLCAzXSwgInR5cGUiOiBzdHIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSAiWyIgKyB2YWx1ZSArICJdIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1068,10 +1072,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIm5hcmdzIjogIisiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcyA9IHZhbHVlLnJlcGxhY2UoIiAiLCAiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IChzLnN0YXJ0c3dpdGgoIlsiICogKGxldmVsKzEpKSBvciBzLnN0YXJ0c3dpdGgoKCJbIipsZXZlbCkgKyAicmFuZ2UiKSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
