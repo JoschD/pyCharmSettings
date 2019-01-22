@@ -542,6 +542,12 @@
         <mark key="." line="19" column="8" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/bound_methods.py" timestamp="1548168851838">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="^" line="31" column="40" />
+        <mark key="." line="32" column="18" />
+      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.separation/code/runner.py" timestamp="1541412010246">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="14" />
@@ -899,8 +905,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfd3JvbmdfcGFyYW1fY3JlYXRpb25fZmxhZ3MoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhQYXJhbWV0ZXJFcnJvcik6CiAgICAgICAgRW50cnlQb2ludChbeyJuYW1lIjogInRlc3QifV0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>MyClass</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1008,13 +1014,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>MyClass</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfd3JvbmdfcGFyYW1fY3JlYXRpb25fZmxhZ3MoKToKICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhQYXJhbWV0ZXJFcnJvcik6CiAgICAgICAgRW50cnlQb2ludChbeyJuYW1lIjogInRlc3QifV0pCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGdldGF0dHIoTXlDbGFzcy5jbGFzc2Z1biwgIl9fc2VsZl9fIikpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBBcmd1bWVudEVycm9yCg==</text>
