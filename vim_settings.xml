@@ -84,13 +84,6 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1547718645433">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="39" column="77" />
-        <mark key="]" line="393" column="12" />
-        <mark key="." line="393" column="12" />
-        <mark key="^" line="392" column="30" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1546877298279">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -208,7 +201,6 @@
         <mark key="]" line="54" column="83" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/generate_fullresponse_pandas.py" timestamp="1547832975013" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="72" />
@@ -406,7 +398,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/twiss_functions.py" timestamp="1547559879727" />
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps/compare_output.py" timestamp="1542617691227">
         <mark key="[" line="34" column="25" />
         <mark key="]" line="34" column="0" />
@@ -497,12 +488,12 @@
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1548063638141">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1548156549254">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="281" column="82" />
-        <mark key="^" line="41" column="15" />
-        <mark key="." line="41" column="15" />
+        <mark key="[" line="105" column="61" />
+        <mark key="]" line="106" column="28" />
+        <mark key="^" line="106" column="28" />
+        <mark key="." line="106" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1543930017285">
         <mark key="[" line="552" column="0" />
@@ -615,7 +606,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/hole_in_one.py" timestamp="1547832918312" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548077516795">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
