@@ -42,6 +42,12 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_detuning_data.py" timestamp="1548251659759">
+        <mark key="[" line="79" column="54" />
+        <mark key="]" line="67" column="55" />
+        <mark key="^" line="67" column="55" />
+        <mark key="." line="67" column="55" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
         <mark key="]" line="22" column="85" />
@@ -95,10 +101,11 @@
         <mark key="." line="446" column="0" />
         <mark key="^" line="452" column="65" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
+        <mark key="[" line="177" column="4" />
+        <mark key="]" line="177" column="43" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="176" column="40" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.bfpp_bumps_wise/runner.py" timestamp="1542652222512">
         <mark key="[" line="27" column="29" />
@@ -905,8 +912,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHlfbWluID0gWzAsIHhbMV0gKiAoc2xvcGUgLSBzbG9wZV9zdGQpXQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1020,31 +1027,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIG5vdCBpc2luc3RhbmNlKHBhcmFtLm5hbWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgUGFyYW1ldGVyRXJyb3IoZiIne3BhcmFtLm5hbWV9JzogTmFtZSBpcyBub3QgYSBzdHJpbmcuIikK</text>
+        <text encoding="base64">ICAgIHlfbWluID0gWzAsIHhbMV0gKiAoc2xvcGUgLSBzbG9wZV9zdGQpXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic2xvcGUiOiBzbG9wZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
+        <text encoding="base64">ICAgICAgICAic3RkIjogc2xvcGVfc3RkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmcuc3VidHlwZSA9PSBsaXN0Ogo=</text>
+        <text encoding="base64">ICAgIG1pbl95ID0gWzAsIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9ICJbIiArIHZhbHVlICsgIl0iCg==</text>
+        <text encoding="base64">ICAgICAgICAic3RkIjogc2xvcGVfc3RkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmcuc3VidHlwZSA9PSBsaXN0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IGxpc3RfY2hlY2sodmFsdWUsIGxldmVsPTApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBhcmcuc3VidHlwZSA9PSBsaXN0Ogo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1070,10 +1077,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgPSAiWyIgKyB2YWx1ZSArICJdIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9ICJbIiArIHZhbHVlICsgIl0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcyA9IHZhbHVlLnJlcGxhY2UoIiAiLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBsaXN0X2NoZWNrKHZhbHVlLCBsZXZlbD0xKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
