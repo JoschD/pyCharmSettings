@@ -705,6 +705,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="121" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/extracttfs.py" timestamp="1548438041363">
+        <mark key="[" line="4" column="62" />
+        <mark key="]" line="8" column="60" />
+        <mark key="^" line="7" column="59" />
+        <mark key="." line="8" column="60" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/logging_tools.py" timestamp="1547833130273">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="23" />
@@ -912,7 +918,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
+        <text encoding="base64">dGZzLndyaXRlX3Rmcyhvcy5wYXRoLmpvaW4oc3JjLCAiQmVhbTFfc2hvcnRlci5lcnJvcnMiKSwgZGYxKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1026,7 +1032,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
+        <text encoding="base64">dGZzLndyaXRlX3Rmcyhvcy5wYXRoLmpvaW4oc3JjLCAiQmVhbTFfc2hvcnRlci5lcnJvcnMiKSwgZGYxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
