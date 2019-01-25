@@ -53,11 +53,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1548324740514">
-        <mark key="[" line="272" column="64" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
-        <mark key="^" line="404" column="86" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1548434121163">
+        <mark key="[" line="410" column="87" />
+        <mark key="]" line="410" column="100" />
+        <mark key="." line="410" column="0" />
+        <mark key="^" line="408" column="87" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -96,14 +96,14 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548423721341">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548434238314">
         <mark key="a" line="49" column="4" />
         <mark key="'" line="49" column="0" />
         <mark key="i" line="49" column="0" />
-        <mark key="[" line="71" column="38" />
-        <mark key="]" line="71" column="70" />
-        <mark key="^" line="69" column="66" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
         <mark key="[" line="177" column="4" />
@@ -160,11 +160,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548409910078">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="29" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548434108942">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="14" />
+        <mark key="." line="28" column="14" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/__init__.py" timestamp="1533742041772">
         <mark key="[" line="0" column="0" />
@@ -912,7 +912,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBNQU5VQUxfU1RZTEVfTk9STUFMLnVwZGF0ZShkaWN0KHUiZmlncnVlLmZpZ3NpemUiOiBbOC41LCA4Ll0pKQo=</text>
+        <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1020,31 +1020,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/media/jdilly/Storage/Projects/NOTE.18.MD1_Amplitude_Detuning/overleaf/results/simulation</text>
+        <text>current_params[&quot;error_types&quot;][0]</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNQU5VQUxfU1RZTEVfTk9STUFMLnVwZGF0ZShkaWN0KHUiZmlncnVlLmZpZ3NpemUiOiBbOC41LCA4Ll0pKQo=</text>
+        <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZShQTE9UX1NUWUxFLCBNQU5VQUxfU1RZTEVfTk9STUFMKQo=</text>
+        <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpZy50aWdodF9sYXlvdXQoKQo=</text>
+        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZShQTE9UX1NUWUxFLCBNQU5VQUxfU1RZTEVfTk9STUFMKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF4LmdldF9maWd1cmUoKS50aWdodF9sYXlvdXQoKQo=</text>
+        <text encoding="base64">ICAgIGZpZy50aWdodF9sYXlvdXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5b3V0WyJ5YXhpcyJdWyJzaG93dGlja2xhYmVscyJdOgo=</text>
+        <text encoding="base64">ICAgIGF4LmdldF9maWd1cmUoKS50aWdodF9sYXlvdXQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5b3V0WyJ5YXhpcyJdWyJzaG93dGlja2xhYmVscyJdOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1076,10 +1076,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGhhY2tfZmlnKGZpZyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihtaW5tYXhkaWN0LmtleXMoKSk6Cg==</text>
+        <text encoding="base64">ZGVmIGhhY2tfZmlnKGZpZyk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
