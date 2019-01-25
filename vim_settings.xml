@@ -90,19 +90,20 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1548422356952">
-        <mark key="[" line="112" column="73" />
-        <mark key="]" line="112" column="74" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/matplotlib_wrapper.py" timestamp="1548423186977">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="129" column="16" />
         <mark key="." line="112" column="74" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548422148194">
-        <mark key="a" line="47" column="4" />
-        <mark key="'" line="47" column="0" />
-        <mark key="i" line="47" column="0" />
-        <mark key="[" line="584" column="18" />
-        <mark key="]" line="584" column="112" />
-        <mark key="." line="584" column="18" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548423721341">
+        <mark key="a" line="49" column="4" />
+        <mark key="'" line="49" column="0" />
+        <mark key="i" line="49" column="0" />
+        <mark key="[" line="71" column="38" />
+        <mark key="]" line="71" column="70" />
+        <mark key="^" line="69" column="66" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
         <mark key="[" line="177" column="4" />
@@ -911,7 +912,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5b3V0WyJ5YXhpcyJdWyJzaG93dGlja2xhYmVscyJdOgo=</text>
+        <text encoding="base64">ICAgICAgICBNQU5VQUxfU1RZTEVfTk9STUFMLnVwZGF0ZShkaWN0KHUiZmlncnVlLmZpZ3NpemUiOiBbOC41LCA4Ll0pKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1025,31 +1026,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYXlvdXRbInhheGlzIl1bInNob3d0aWNrbGFiZWxzIl0gaXMgbm90IE5vbmUgYW5kIG5vdCBsYXlvdXRbInhheGlzIl1bInNob3d0aWNrbGFiZWxzIl06Cg==</text>
+        <text encoding="base64">ICAgICAgICBNQU5VQUxfU1RZTEVfTk9STUFMLnVwZGF0ZShkaWN0KHUiZmlncnVlLmZpZ3NpemUiOiBbOC41LCA4Ll0pKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5b3V0WyJ5YXhpcyJdWyJzaG93dGlja2xhYmVscyJdOgo=</text>
+        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZShQTE9UX1NUWUxFLCBNQU5VQUxfU1RZTEVfTk9STUFMKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZy50aWdodF9sYXlvdXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF4LmdldF9maWd1cmUoKS50aWdodF9sYXlvdXQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbGF5b3V0WyJ5YXhpcyJdWyJzaG93dGlja2xhYmVscyJdOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGhhY2tfZmlnKGZpZyk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGxlbihtaW5tYXhkaWN0LmtleXMoKSk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpZyA9IGhhY2tfZmlnKGZpZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1075,10 +1076,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1wdHlfc3RyaW5nX2xhYmVscyA9IAo=</text>
+        <text encoding="base64">ZGVmIGhhY2tfZmlnKGZpZyk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWxzID0gW2l0ZW0uZ2V0X3RleHQoKSBmb3IgaXRlbSBpbiBheC5nZXRfeXRpY2tsYWJlbHMoKV0K</text>
+        <text encoding="base64">ICAgIGlmIGxlbihtaW5tYXhkaWN0LmtleXMoKSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
