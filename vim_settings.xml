@@ -96,13 +96,14 @@
         <mark key="." line="71" column="12" />
         <mark key="^" line="67" column="46" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548345306435">
-        <mark key="a" line="45" column="4" />
-        <mark key="'" line="45" column="0" />
-        <mark key="i" line="45" column="0" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548408798018">
+        <mark key="a" line="46" column="4" />
+        <mark key="'" line="46" column="0" />
+        <mark key="i" line="46" column="0" />
+        <mark key="[" line="571" column="0" />
+        <mark key="]" line="571" column="0" />
+        <mark key="." line="571" column="0" />
+        <mark key="^" line="571" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
         <mark key="[" line="177" column="4" />
@@ -159,10 +160,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548327231856">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1548408974671">
         <mark key="[" line="30" column="13" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="30" column="13" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/__init__.py" timestamp="1533742041772">
         <mark key="[" line="0" column="0" />
@@ -229,7 +231,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548343032226">
+      <file name="/Python Console" timestamp="1548350073858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548337542972">
@@ -661,8 +663,8 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/negativelog.py" timestamp="1548350066488">
-        <mark key="[" line="18" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/negativelog.py" timestamp="1548407847780">
+        <mark key="[" line="14" column="13" />
         <mark key="]" line="18" column="10" />
         <mark key="." line="18" column="0" />
       </file>
@@ -910,7 +912,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG1pbm1heGRpY3RbY3VycmVudF9wYXJhbXNbImVycm9yX3R5cGVzIl1bMF1dCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1018,37 +1020,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>MANUAL_STYLE_HIST</text>
+        <text>{ }</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmlnID0gcGx0LmZpZ3VyZSgpCmF4ID0gZmlnLmdjYSgpCg==</text>
+      <register name="0" type="4">
+        <text>{&quot;min&quot;: -20000, &quot;max&quot;: 13000 },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0LnNob3coKQo=</text>
+        <text encoding="base64">ICAgICAgICByYW5nZSA9IG1pbm1heGRpY3RbY3VycmVudF9wYXJhbXNbImVycm9yX3R5cGVzIl1bMF1dCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZmlnID0gcGx0LmZpZ3VyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB5YXhpcy51cGRhdGUoZGljdChyYW5nZT1bcmFuZ2VbIm1pbiJdXSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB0aXRsZT0iIiwK</text>
+        <text encoding="base64">cGx0LnNob3coKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BhcmFtcy51cGRhdGUoZGljdChhbXBkZXQ9YW1wZGV0KSkK</text>
+        <text encoding="base64">ZmlnID0gcGx0LmZpZ3VyZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BhcmFtcy51cGRhdGUoZGljdChhbXBkZXQ9YW1wZGV0KSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyB0aXRsZT0iIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSB0cmlwY29yLmdldF9uYW1lcGFydHNfZnJvbV9wYXJhbWV0ZXJzKHhpbmc9eGluZylbMF0K</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BhcmFtcy51cGRhdGUoZGljdChhbXBkZXQ9YW1wZGV0KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgeGluZyBpbiBvcHQueGluZzoK</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50X3BhcmFtcy51cGRhdGUoZGljdChhbXBkZXQ9YW1wZGV0KSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1074,10 +1076,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhID0ge30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWQgPSB0cmlwY29yLmdldF9uYW1lcGFydHNfZnJvbV9wYXJhbWV0ZXJzKHhpbmc9eGluZylbMF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBrZXkgaW4gZGF0YS5rZXlzKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgeGluZyBpbiBvcHQueGluZzoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
