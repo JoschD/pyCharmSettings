@@ -53,11 +53,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1548434121163">
-        <mark key="[" line="410" column="87" />
-        <mark key="]" line="410" column="100" />
-        <mark key="." line="410" column="0" />
-        <mark key="^" line="408" column="87" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1548663792405">
+        <mark key="[" line="409" column="0" />
+        <mark key="]" line="410" column="103" />
+        <mark key="." line="409" column="70" />
+        <mark key="^" line="409" column="70" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/algorithms/compensate_ac_effect.py" timestamp="1534344034951">
         <mark key="[" line="26" column="0" />
@@ -96,14 +96,14 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548434238314">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548664464094">
         <mark key="a" line="49" column="4" />
         <mark key="'" line="49" column="0" />
         <mark key="i" line="49" column="0" />
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="25" />
-        <mark key="." line="55" column="25" />
-        <mark key="^" line="55" column="25" />
+        <mark key="[" line="593" column="4" />
+        <mark key="]" line="597" column="24" />
+        <mark key="." line="597" column="24" />
+        <mark key="^" line="597" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
         <mark key="[" line="177" column="4" />
@@ -917,8 +917,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dGZzLndyaXRlX3Rmcyhvcy5wYXRoLmpvaW4oc3JjLCAiQmVhbTFfc2hvcnRlci5lcnJvcnMiKSwgZGYxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>gather_all_data</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1026,13 +1026,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>current_params[&quot;error_types&quot;][0]</text>
+        <text>gather_all_data</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dGZzLndyaXRlX3Rmcyhvcy5wYXRoLmpvaW4oc3JjLCAiQmVhbTFfc2hvcnRlci5lcnJvcnMiKSwgZGYxKQo=</text>
+        <text encoding="base64">ICAgIGdhdGhlcl9hbGxfZGF0YShlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnNDcm9zc2luZ0lQNSIpCiAgICBnYXRoZXJfYWxsX2RhdGEoZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iQWxsRXJyb3JzTm90Q3Jvc3NpbmdJUDUiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJCNiI6IHsibWluIjogLTEwMDAwMCwgIm1heCI6IDcwMDAwfSwK</text>
