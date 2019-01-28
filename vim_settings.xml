@@ -96,13 +96,14 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="97" column="47" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548668784188">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548670294475">
         <mark key="a" line="49" column="4" />
         <mark key="'" line="49" column="0" />
         <mark key="i" line="49" column="0" />
-        <mark key="[" line="588" column="95" />
-        <mark key="]" line="588" column="95" />
-        <mark key="." line="588" column="95" />
+        <mark key="[" line="580" column="95" />
+        <mark key="]" line="580" column="95" />
+        <mark key="." line="580" column="95" />
+        <mark key="^" line="589" column="59" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1548251540131">
         <mark key="[" line="177" column="4" />
@@ -230,7 +231,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548668525583">
+      <file name="/Python Console" timestamp="1548670339160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548422313343">
@@ -916,8 +917,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
+      <register name="&quot;" type="4">
+        <text>ForPlotAllErrors</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1025,13 +1026,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>AllErrorsCrossingIP5</text>
+        <text>ForPlotAllErrors</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXJyb3JfbG9jYXRpb25zID0gIkFMTCIsICJJUDEiLCAiSVA1Igo=</text>
+        <text encoding="base64">ICAgIHBsb3RfY3Jvc3Npbmdfb25lcGxvdChlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJGb3JQbG90QWxsRXJyb3JzIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHBsb3RfY3Jvc3Npbmdfb25lcGxvdChlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnNDcm9zc2luZ0lQNSIpCg==</text>
