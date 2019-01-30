@@ -214,7 +214,6 @@
         <mark key="]" line="54" column="83" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/generate_fullresponse_pandas.py" timestamp="1548348727411" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="72" />
@@ -230,7 +229,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548864073939">
+      <file name="/Python Console" timestamp="1548867037981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548422313343">
@@ -580,11 +579,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tbt_xarray.py" timestamp="1548864169239">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="27" column="53" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="18" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tbt_xarray.py" timestamp="1548867027007">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/entrypoints/index.rst" timestamp="1548063269415">
         <mark key="[" line="24" column="0" />
@@ -664,7 +663,6 @@
         <mark key="]" line="5" column="100" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_sdds.py" timestamp="1548860196880" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/figure_editor.py" timestamp="1539605546781">
         <mark key="[" line="32" column="15" />
         <mark key="]" line="41" column="9" />
@@ -936,8 +934,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self._xarray.__getattribute__(name)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEluaGVyaXRhbmNlIGlzIHNhZGx5IG5vdCBlYXNpbHkgcG9zc2libGUsIHNlZSBodHRwczovL2dpdGh1Yi5jb20vcHlkYXRhL3hhcnJheS9pc3N1ZXMvNzI4IC4K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1045,7 +1043,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>\left</text>
@@ -1054,37 +1052,37 @@
         <text>self._xarray.__getattribute__(name)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgIEluaGVyaXRhbmNlIGlzIHNhZGx5IG5vdCBlYXNpbHkgcG9zc2libGUsIHNlZSBodHRwczovL2dpdGh1Yi5jb20vcHlkYXRhL3hhcnJheS9pc3N1ZXMvNzI4IC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRpdGVtX18oa2V5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIFdyYXBzIGEgZGF0YWFycmF5IG9iamVjdCBhbmQgYWxsIGZ1bmN0aW9uYWxpdHkgaXMgcmVkaXJlY3RlZCBmcm9tIHRoaXMgb2JqZWN0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRhdHRyX18obmFtZSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBrZXkpOgogICAgICAgICAgICByZXR1cm4gc2VsZi5feGFycmF5Ll9fZ2V0aXRlbV9fKGtleSkKCiAgICBkZWYgX19nZXRhdHRyX18oc2VsZiwgbmFtZSk6CiAgICAgICAgIiIiIFRoaXMgbWV0aG9kIGlzIGNhbGxlZCBvbmx5IGlmIHB5dGhvbiBkb2VzIG5vdCBmaW5kICduYW1lJyBieSBpdHNlbGYsCiAgICAgICAgaGVuY2Ugb25lIGRvZXMgbm90IGhhdmUgdG8gdHJ5LWV4Y2VwdCBvbiBzZWxmIGZpcnN0LgoKICAgICAgICBfeGFycmF5Ll9fZ2V0YXR0cl9fKCkgYW5kIF94YXJyYXkuZ2V0YXR0cigpIHJlZGlyZWN0IHRvIGFuIG92ZXJ3cml0dGVuIF9fZ2V0YXR0cmlidXRlX18KICAgICAgICBmdW5jdGlvbiBpbiBEYXRhQXJyYXksIHdoaWNoIGlzIGJhc2VkIG9uIHRoZSBzYW1lIGFzc3VwdGlvbiAodGhhdCBjYWxsaW5nIHRoaXMgZnVuY3Rpb24KICAgICAgICBpcyB0aGUgbGFzdCByZXNvcnQpLiBIZW5jZSB3ZSBoYXZlIHRvIHVzZSBfeGFycmF5Ll9fZ2V0YXR0cmlidXRlX18oKS4KICAgICAgICAiIiIKICAgICAgICByZXR1cm4gZ2V0YXR0cihzZWxmLl94YXJyYXksIG5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRhdHRyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIF9jb25zdHJ1Y3RvcihzZWxmKToKICAgICAgICByZXR1cm4gVGJ0RGF0YQoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl94YXJyYXkuX2NvbnN0cnVjdG9yID0gbGFtYmRhKCkK</text>
       </register>
       <register name="w" type="4">
         <text>nlr2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX3hhcnJheS5fX2dldGF0dHJfXyhuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBBcmdzOgogICAgICAgICAgICBuYW1lOiAKCiAgICAgICAgUmV0dXJuczoKCiAgICAgICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX19nZXRhdHRyX18obmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
