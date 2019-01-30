@@ -580,11 +580,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="8" column="66" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tbt_xarray.py" timestamp="1548856917003">
-        <mark key="[" line="29" column="84" />
-        <mark key="]" line="29" column="42" />
-        <mark key="." line="29" column="42" />
-        <mark key="^" line="24" column="12" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tbt_xarray.py" timestamp="1548858028571">
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/entrypoints/index.rst" timestamp="1548063269415">
         <mark key="[" line="24" column="0" />
@@ -931,8 +930,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>self.loc[&quot;X&quot;, &quot;BPM.2&quot;, 4, 4]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGltcz0oJ3F1YW50aXR5JywgJ2JwbScsICdidW5jaCcsICd0dXJuJyksCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1049,37 +1048,37 @@
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIF9jb25zdHJ1Y3RvcihzZWxmKToKICAgICAgICByZXR1cm4gVGZzRGF0YUZyYW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGt3YXJncy5wb3AoImRhdGEiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGltcz0oJ3F1YW50aXR5JywgJ2JwbScsICdidW5jaCcsICd0dXJuJyksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGt3YXJncy5wb3AoImRhdGEiKQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGZyb21fc2RkcyhjbHMpOgogICAgICAgIHBhc3MKCiAgICBkZWYgdG9fc2RkcyhzZWxmKToKICAgICAgICBwYXNz</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGNvbG9yX2xpc3QgPSBbIGZvciBpZHggaW4gWzAsMiwzLDQsNSw2LDddXQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">T1VUX0RJUiA9IEJBU0VfRElSCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG93ID0gbWVhc2RhdGFbMF0gLSBtZWFzZGF0YVsxXQogICAgICAgICAgICB1cHAgPSBtZWFzZGF0YVswXSArIG1lYXNkYXRhWzFdCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcgPSBhZGRfbWVhc3VyZW1lbnRfbGluZXMoY3VycmVudF9wYXJhbXMsIGxpbmVfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG93ID0gbWVhc2RhdGFbMF0gLSBtZWFzZGF0YVsxXQogICAgICAgICAgICB1cHAgPSBtZWFzZGF0YVswXSArIG1lYXNkYXRhWzFdCg==</text>
       </register>
       <register name="w" type="4">
         <text>nlr2</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG15X2NvbG9ycyA9IGxpc3QocHMuZ2V0X21wbF9jb2xvcigpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWcgPSBhZGRfbWVhc3VyZW1lbnRfbGluZXMoY3VycmVudF9wYXJhbXMsIGxpbmVfbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG15X2NvbG9ycy5pbnNlcnQoMSwgbXlfY29sb3JzWzNdKQo=</text>
+        <text encoding="base64">ICAgIG15X2NvbG9ycyA9IGxpc3QocHMuZ2V0X21wbF9jb2xvcigpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
