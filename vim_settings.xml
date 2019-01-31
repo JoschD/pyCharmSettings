@@ -63,10 +63,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1548954856106">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="60" column="43" />
-        <mark key="." line="56" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1548956207407">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="65" column="25" />
+        <mark key="." line="61" column="0" />
         <mark key="^" line="53" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/kmod/kmod_orbit/kmod_orbit.py" timestamp="1533804235014">
@@ -302,10 +302,11 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548954543446">
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548956015895">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="58" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
@@ -389,10 +390,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="28" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1548954481543">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1548955913747">
         <mark key="[" line="78" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+        <mark key="]" line="40" column="22" />
+        <mark key="." line="40" column="22" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.orbit_separation/bbeat_compare/get_bbeat.py" timestamp="1544113324804">
         <mark key="[" line="134" column="0" />
@@ -941,7 +943,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGdldF9kZWZhdWx0X2NoYW5nZV9maWxlbmFtZSgpOgogICAgIiIiIERlZmF1bHQgY2hhbmdlcGFyYW1ldGVycyBmaWxlbmFtZSAiIiIKICAgIHJldHVybiAiY2hhbmdlcGFyYW1ldGVyc19mcm9ta25vYi5tYWR4Igo=</text>
+        <text encoding="base64">ZGVmIGdldF9kZWZhdWx0X292ZXJ2aWV3X2ZpbGVuYW1lKCk6CiAgICAiIiIgRGVmYXVsdCBjaGFuZ2VwYXJhbWV0ZXJzIGZpbGVuYW1lICIiIgogICAgcmV0dXJuICJvdmVydmlldy5vdXQiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1055,10 +1057,10 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGdldF9kZWZhdWx0X2NoYW5nZV9maWxlbmFtZSgpOgogICAgIiIiIERlZmF1bHQgY2hhbmdlcGFyYW1ldGVycyBmaWxlbmFtZSAiIiIKICAgIHJldHVybiAiY2hhbmdlcGFyYW1ldGVyc19mcm9ta25vYi5tYWR4Igo=</text>
+        <text encoding="base64">ZGVmIGdldF9kZWZhdWx0X292ZXJ2aWV3X2ZpbGVuYW1lKCk6CiAgICAiIiIgRGVmYXVsdCBjaGFuZ2VwYXJhbWV0ZXJzIGZpbGVuYW1lICIiIgogICAgcmV0dXJuICJvdmVydmlldy5vdXQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrbm9iX25hbWVzOiBOYW1lIG9mIHRoZSBrbm9iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1067,10 +1069,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBvdGhlcgoKZGVmIF9ub3coKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHV0YyA9IHB5dHoudGltZXpvbmUoIlVUQyIpCg==</text>
+        <text encoding="base64">IyBvdGhlcgoKZGVmIF9ub3coKToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHV0YyA9IHB5dHoudGltZXpvbmUoIlVUQyIpCg==</text>
@@ -1079,7 +1081,7 @@
         <text encoding="base64">ICAgIHV0YyA9IHB5dHoudGltZXpvbmUoIlVUQyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHV0YyA9IHB5dHoudGltZXpvbmUoIlVUQyIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1105,10 +1107,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRpbWUgPSBkYXRldGltZS5zdHJwdGltZSh0aW1lLCBjb25zdC5nZXRfdGltZV9mb3JtYXQoKSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gY29uc3QuZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoKQo=</text>
+        <text encoding="base64">ICAgIHRpbWUgPSBkYXRldGltZS5zdHJwdGltZSh0aW1lLCBjb25zdC5nZXRfdGltZV9mb3JtYXQoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
