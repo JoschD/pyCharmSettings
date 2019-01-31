@@ -63,7 +63,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1548077464565">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1548933043944">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="61" />
         <mark key="." line="11" column="61" />
@@ -94,15 +94,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="12" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1548162893701">
-        <mark key="a" line="60" column="4" />
-        <mark key="'" line="85" column="0" />
-        <mark key="i" line="60" column="0" />
-        <mark key="[" line="453" column="0" />
-        <mark key="]" line="455" column="91" />
-        <mark key="." line="453" column="65" />
-        <mark key="^" line="453" column="65" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
         <mark key="[" line="115" column="0" />
@@ -229,11 +220,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1548178359682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1532691973551">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -313,8 +299,8 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548077427733">
-        <mark key="[" line="36" column="33" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1548932957232">
+        <mark key="[" line="45" column="0" />
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
@@ -579,6 +565,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/tmp/run.sh" timestamp="1548933575101">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/iforest_test.py" timestamp="1547550982013">
         <mark key="[" line="8" column="66" />
         <mark key="]" line="8" column="66" />
@@ -633,8 +622,8 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548077516795">
-        <mark key="[" line="30" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1548934046208">
+        <mark key="[" line="35" column="44" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="30" column="0" />
