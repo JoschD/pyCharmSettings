@@ -102,6 +102,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="12" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/dict_tools.py" timestamp="1549278832268">
+        <mark key="[" line="491" column="31" />
+        <mark key="]" line="491" column="48" />
+        <mark key="^" line="491" column="32" />
+        <mark key="." line="491" column="32" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
@@ -227,7 +233,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549271153564">
+      <file name="/Python Console" timestamp="1549279601499">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -339,6 +345,11 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/twiss_optics/index.rst" timestamp="1538491933518">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/abcmeta.py" timestamp="1549279472149">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="28" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/error_handling.py" timestamp="1529660110600">
@@ -482,11 +493,11 @@
         <mark key="]" line="187" column="56" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entry_datatypes.py" timestamp="1549270581714">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="117" column="5" />
-        <mark key="^" line="113" column="14" />
-        <mark key="." line="113" column="14" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entry_datatypes.py" timestamp="1549280507673">
+        <mark key="[" line="152" column="21" />
+        <mark key="]" line="152" column="30" />
+        <mark key="." line="152" column="0" />
+        <mark key="^" line="151" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
@@ -730,11 +741,11 @@
         <mark key="]" line="8" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1549271152497">
-        <mark key="[" line="227" column="26" />
-        <mark key="]" line="229" column="38" />
-        <mark key="." line="228" column="0" />
-        <mark key="^" line="233" column="25" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1549280809357">
+        <mark key="[" line="182" column="41" />
+        <mark key="]" line="184" column="9" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="178" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/extracttfs.py" timestamp="1548438041363">
         <mark key="[" line="4" column="62" />
@@ -949,7 +960,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChvcHQuaW50ID09IDUpCiAgICBhc3NlcnQob3B0LnN0ciA9PSAnaGVsbG8nKQo=</text>
+        <text encoding="base64">ICAgICAgICBvcHQsIHVua25vd24gPSBwYXJhbXRlc3RfZnVuY3Rpb24oCiAgICAgICAgICAgIGVudHJ5X2NmZz1jZmdfZmlsZSwgc2VjdGlvbj0iU2VjdGlvbiIKICAgICAgICApCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1057,16 +1068,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>dict</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChvcHQuZGljdFsnaW50J10gPT0gNSkKICAgIGFzc2VydChvcHQuZGljdFsnc3RyJ10gPT0gJ2hlbGxvJykK</text>
+        <text encoding="base64">ICAgICAgICBvcHQsIHVua25vd24gPSBwYXJhbXRlc3RfZnVuY3Rpb24oCiAgICAgICAgICAgIGVudHJ5X2NmZz1jZmdfZmlsZSwgc2VjdGlvbj0iU2VjdGlvbiIKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChvcHQuaW50ID09IDUpCiAgICBhc3NlcnQob3B0LnN0ciA9PSAnaGVsbG8nKQo=</text>
+        <text encoding="base64">ICAgIHYgPSBtYygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1075,20 +1086,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBlbnRyeXBvaW50KHtkaWN0IjogZGljdCgK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgICAgICB2YWx1ZSA9IGV2YWwodmFsdWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBvbWMzLnV0aWxzLmVudHJ5X2RhdGF0eXBlcyBpbXBvcnQgKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiB2YWx1ZSBpbiBbVHJ1ZSwgMV06CiAgICAgICAgICAgIHJldHVybiBib29sLl9fbmV3X18oYm9vbCwgVHJ1ZSkKCiAgICAgICAgZWxpZiB2YWx1ZSBpbiBbRmFsc2UsIDBdOgogICAgICAgICAgICByZXR1cm4gYm9vbC5fX25ld19fKGJvb2wsIEZhbHNlKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>','.join(
-                        [c.__name__ for c in classes])</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxpc3QoZXZhbCh2YWx1ZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN0ci5fX25ld19fKHN0ciwgdmFsdWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1bmtub3duID0gJ290aGVyJyIsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1114,10 +1124,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihjZmdfZmlsZSwgInciKSBhcyBmOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsaXN0ID0gNCwgNSwgNiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lPSJteW5hbWUiLAogICAgICAgIGludD0zLAogICAgICAgIGxpc3Q9WzQsIDUsIDZdLAogICAgICAgIHVua25vd249Im15ZmluYWxhcmd1bWVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJpbnQgPSAzIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
