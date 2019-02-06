@@ -220,10 +220,10 @@
         <mark key="]" line="54" column="83" />
         <mark key="." line="54" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/wise_test.py" timestamp="1549449067494">
-        <mark key="[" line="70" column="26" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/wise_test.py" timestamp="1549453099796">
+        <mark key="[" line="46" column="49" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
         <mark key="[" line="23" column="0" />
@@ -240,7 +240,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1549301565107">
+      <file name="/Python Console" timestamp="1549450607918">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -268,7 +268,7 @@
         <mark key="]" line="10" column="22" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tfs_writer_test.py" timestamp="1549449327718">
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/tfs_writer_test.py" timestamp="1549450311829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_coupling_writer.py" timestamp="1534343696111">
@@ -463,6 +463,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1549453411615">
+        <mark key="[" line="279" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entry_datatypes.py" timestamp="1547830708908">
         <mark key="[" line="94" column="80" />
@@ -990,7 +993,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZSgic3RhbmRhcmQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKWRkCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1104,31 +1107,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gImFsbFdJU0VfIiArIGRmLmhlYWRlcnNbIk1BR05FVFMiXVs6NF0KICAgIHBhdGggPSBvcy5wYXRoLmpvaW4oT1VUX0RJUiwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBheC5oaXN0KGRmLmxvY1ttYWduZXQsIDpdLCBsYWJlbD1tYWduZXQsIGhpc3R0eXBlPSJzdGVwIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZSgic3RhbmRhcmQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKWRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXguaGlzdChkZi5sb2NbbWFnbmV0LCA6XSwgbGFiZWw9bWFnbmV0LCBjb2xvcj1jb2xvcnMudG9fcmdiYShjLCAuNSkpCiAgICAgICAgYXguaGlzdChkZi5sb2NbbWFnbmV0LCA6XSwgbGFiZWw9Il9fbm9sZWdlbmRfXyIsIGhpc3R0eXBlPSJzdGVwIiwgY29sb3I9YykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBfZ2V0X2ZpbGVwYXRoKGRmLmhlYWRlcnNbIk1BR05FVFMiXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5wYXRoLmpvaW4oT1VUX0RJUiwgZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBheC5oaXN0KGRmLmxvY1ttYWduZXQsIDpdLCBsYWJlbD1tYWduZXQsIGNvbG9yPWNvbG9ycy50b19yZ2JhKGMsIC41KSkKICAgICAgICBheC5oaXN0KGRmLmxvY1ttYWduZXQsIDpdLCBsYWJlbD0iX19ub2xlZ2VuZF9fIiwgaGlzdHR5cGU9InN0ZXAiLCBjb2xvcj1jKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gImFsbFdJU0VfIiArIGRmLmhlYWRlcnNbIk1BR05FVFMiXVs6NF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKGpzb24uZHVtcHMoeydkYXRhJzogZGF0YSwgJ2xheW91dCc6IGxheW91dH0pKQo=</text>
+        <text encoding="base64">ICAgIHBzLnNldF9zdHlsZSgic3RhbmRhcmQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbihwYXRoICsgIi5qc29uIiwgInciKSBhcyBmOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1154,10 +1157,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhdGggPSBfZ2V0X2ZpbGVwYXRoKGRmLmhlYWRlcnNbIk1BR05FVFMiXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1xeGIgPSAK</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5wYXRoLmpvaW4oT1VUX0RJUiwgZmlsZW5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
