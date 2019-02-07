@@ -47,11 +47,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/wise_test.ini" timestamp="1549538339823">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="15" column="86" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="86" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/wise_test.ini" timestamp="1549544546155">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/test_accelerator_bpms_regex.py" timestamp="1530104442979">
         <mark key="[" line="22" column="49" />
@@ -996,8 +996,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">W0Fmc1dpc2VDb2xsaXNpb25dCndpc2VfZGlyID0gIi9hZnMvY2Vybi5jaC9lbmcvbGhjL29wdGljcy9WNi41MDMvV0lTRS9BZnRlcl9zZWN0b3JfMy00X3JlcGFpci9jb2xsaXNpb24iCndpc2VfbWFzayA9ICJjb2xsaXNpb25fNzAwMC1lbWZxY3MtezpkfS50ZnMiCm91dF9kaXIgPSAiLi93aXNlMjAxMV90ZXN0Igo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1111,7 +1111,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gX2dhdGhlcl9kYXRhKG1hZ25ldHMsIG9yZGVyKQo=</text>
+        <text encoding="base64">W0Fmc1dpc2VDb2xsaXNpb25dCndpc2VfZGlyID0gIi9hZnMvY2Vybi5jaC9lbmcvbGhjL29wdGljcy9WNi41MDMvV0lTRS9BZnRlcl9zZWN0b3JfMy00X3JlcGFpci9jb2xsaXNpb24iCndpc2VfbWFzayA9ICJjb2xsaXNpb25fNzAwMC1lbWZxY3MtezpkfS50ZnMiCm91dF9kaXIgPSAiLi93aXNlMjAxMV90ZXN0Igo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
