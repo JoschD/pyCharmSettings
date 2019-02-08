@@ -34,11 +34,11 @@
         <mark key="]" line="22" column="85" />
         <mark key="." line="22" column="85" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/plot_orbit.py" timestamp="1549636282027">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="47" />
-        <mark key="." line="39" column="44" />
-        <mark key="^" line="39" column="44" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/plot_orbit.py" timestamp="1549637488063">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="12" />
+        <mark key="." line="43" column="12" />
+        <mark key="^" line="41" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1549619484375">
         <mark key="[" line="438" column="0" />
@@ -755,7 +755,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuc2F2ZV9maWd1cmUoIkxIQ0IxLm9yYml0X2NvbXAucGRmIikK</text>
+        <text encoding="base64">ICAgICAgICBmaWcuZ2NhKCkuc2V0X3hsaW0oWzk2MDAsIDEwNzAwXSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -869,7 +869,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcuc2F2ZV9maWd1cmUoIkxIQ0IxLm9yYml0X2NvbXAucGRmIikK</text>
+        <text encoding="base64">ICAgICAgICBmaWcuZ2NhKCkuc2V0X3hsaW0oWzk2MDAsIDEwNzAwXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmlsZV9tZWFzID0gIkxIQ0J7YmVhbTpkfS5vcmJpdDEudGZzIgpmaWxlX3NpbSA9ICJ0d2lzcy5ie2JlYW06ZH0iCg==</text>
