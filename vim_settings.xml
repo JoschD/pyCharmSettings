@@ -79,9 +79,7 @@
         <mark key="]" line="23" column="98" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/kmod/kmod_analysis.py" timestamp="1549620843673">
-        <mark key="[" line="13" column="0" />
-      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/kmod/kmod_analysis.py" timestamp="1549621690374" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/optics_measurements/io_filehandler.py" timestamp="1542372300822">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="22" />
@@ -340,12 +338,6 @@
         <mark key="]" line="90" column="41" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/kmod/kmod_utils.py" timestamp="1549620959700">
-        <mark key="[" line="85" column="68" />
-        <mark key="]" line="85" column="68" />
-        <mark key="." line="85" column="68" />
-        <mark key="^" line="85" column="84" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.18.ions.ip2_problems/code.10Hz_modulation/plot_line_signal.py" timestamp="1544003383166">
         <mark key="[" line="118" column="30" />
         <mark key="]" line="119" column="173" />
@@ -376,6 +368,9 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/kmod/kmod_get_files.py" timestamp="1549621485636">
+        <mark key="[" line="12" column="52" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1549560183071">
         <mark key="[" line="125" column="33" />
@@ -459,6 +454,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/kmod/kmod_cleaning.py" timestamp="1549621222145" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/__init__.py" timestamp="1533742065657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
