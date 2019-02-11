@@ -107,11 +107,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1549883224445">
-        <mark key="[" line="55" column="11" />
-        <mark key="]" line="56" column="44" />
-        <mark key="." line="56" column="44" />
-        <mark key="^" line="50" column="32" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1549899960649">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
         <mark key="[" line="115" column="0" />
@@ -999,7 +999,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHUnZm9udC5zZXJpZic6IFsnQ29tcHV0ZXIgTW9kZXJuJ10sCg==</text>
+        <text encoding="base64">TEFCRUxfRk9STUFUID0gciJcdW5zYW5zbWF0aCAkXHBhcnRpYWwgUV97fS9ccGFydGlhbCAySl97fSBcLCBcbGVmdFsge3tcbWF0aHJte3ttfX1ee3stMX19fX0gXHJpZ2h0XSQgXHNhbnNtYXRoIgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1113,7 +1113,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHUnZm9udC5zZXJpZic6IFsnQ29tcHV0ZXIgTW9kZXJuJ10sCg==</text>
+        <text encoding="base64">TEFCRUxfRk9STUFUID0gciJcdW5zYW5zbWF0aCAkXHBhcnRpYWwgUV97fS9ccGFydGlhbCAySl97fSBcLCBcbGVmdFsge3tcbWF0aHJte3ttfX1ee3stMX19fX0gXHJpZ2h0XSQgXHNhbnNtYXRoIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgciIkXHBhcnRpYWwgUV94L1xwYXJ0aWFsIDJKX3kgXCwgXGxlZnRbIFx0ZXh0e219XnstMX0gXHJpZ2h0XSQiLAo=</text>
