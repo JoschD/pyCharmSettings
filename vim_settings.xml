@@ -107,11 +107,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="15" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1549990265668">
-        <mark key="[" line="153" column="29" />
-        <mark key="]" line="51" column="22" />
-        <mark key="." line="51" column="22" />
-        <mark key="^" line="51" column="22" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1550063877102">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="80" column="47" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="26" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1547140917448">
         <mark key="[" line="115" column="0" />
@@ -1000,7 +1000,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF4LmFkZF9jb2xsZWN0aW9uM2QocG9seSwgenM9W2RmLlMubWluKCldLCB6ZGlyPSd5JykK</text>
+        <text encoding="base64">ICAgICJCNUE1QjZBNiI6IHsibWluIjogLTc1MDAwLCAibWF4IjogMTIwMDAwfSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1113,8 +1113,8 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>[&quot;B4&quot;, &quot;B5&quot;, &quot;A5&quot;, &quot;B6&quot;, &quot;A6&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJCNUE1QjZBNiI6IHsibWluIjogLTc1MDAwLCAibWF4IjogMTIwMDAwfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGF4LmFkZF9jb2xsZWN0aW9uM2QocG9seSwgenM9W2RmLlMubWluKCldLCB6ZGlyPSd5JykK</text>
