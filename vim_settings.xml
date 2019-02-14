@@ -239,7 +239,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550049264147">
+      <file name="/Python Console" timestamp="1550141315524">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -487,11 +487,11 @@
         <mark key="." line="118" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/inputs/twiss_2sext_elements.dat" timestamp="1549389797805" />
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/3dplot.py" timestamp="1550137984215">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="11" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/3dplot.py" timestamp="1550142449500">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.HLLHC.IRNL.squeezed.triplet_correction.madx" timestamp="1545053386061">
         <mark key="[" line="343" column="12" />
@@ -810,7 +810,9 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/main_window.py" timestamp="1550061594640" />
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1550138950334" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1550140127262">
+        <mark key="[" line="219" column="30" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/io_widgets.py" timestamp="1542621284456">
         <mark key="[" line="42" column="48" />
         <mark key="]" line="42" column="0" />
@@ -1003,7 +1005,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJvd19jb29yZHNbaWR4ICsgMSAlIDNdID0gWzAsIDBdCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yID0gWyJiIiwgInIiXQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1111,37 +1113,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ax.add_collection3d(plt.fill_between(df.S, df.X, df.Y))</text>
+        <text encoding="base64">ICAgIGRmLmhlYWRlcnNbIkNFTlRFUiJdID0g</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJvd19jb29yZHNbaWR4ICsgMSAlIDNdID0gWzAsIDBdCg==</text>
+      <register name="0" type="4">
+        <text>r.get('x', [0, 0])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFycm93X2Nvb3JkcyA9IFtOb25lXSAqIDMK</text>
+        <text encoding="base64">ICAgIGNvbG9yID0gWyJiIiwgInIiXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcyA9IFtOb25lXSAqIDMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNfYXJyb3cgPSBBcnJvdzNEKFtkZi5TLm1pbigpLCBkZi5TLm1heCgpXSwgWzAsIDBdLCBbMCwgMF0sCiAgICAgICAgICAgICAgICAgICAgICBtdXRhdGlvbl9zY2FsZT0yMCwgYXJyb3dzdHlsZT0iLXw+IiwgY29sb3I9ImsiKQogICAgYXguYWRkX2FydGlzdChzX2Fycm93KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF4LmFkZF9jb2xsZWN0aW9uM2QocG9seSwgenM9W2RmLlMubWluKCldLCB6ZGlyPSd5JykK</text>
+        <text encoding="base64">ICAgIGNlbnRlciA9IGRmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvbHkuc2V0X2FscGhhKDAuNikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvbHkgPSBQb2x5Q29sbGVjdGlvbihbbGlzdCh6aXAoZGYuUywgZGYuWCkpXSwgZmFjZWNvbG9ycz1bInIiXSkK</text>
+        <text encoding="base64">ICAgICAgICBheC5hZGRfYXJ0aXN0KGFycm93KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF4LnBsb3QoeCwgeSwgJ2srJywgemRpcj0neicsIHpzPS0xLjUpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcnJvd19jb29yZHNbaWR4XSA9IHIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1167,10 +1169,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmID0gdGZzLnJlYWRfdGZzKCd0d2lzcy5iMScsIGluZGV4PSJOQU1FIikK</text>
+        <text encoding="base64">ICAgICAgICBhcnJvd19jb29yZHMgPSBbTm9uZV0gKiAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyb3dfY29vcmRzW2lkeCArIGkgJSAzXSA9IFswLCAwXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
