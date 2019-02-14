@@ -427,6 +427,7 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="/usr/local/lib/python2.7/dist-packages/matplotlib/spines.py" timestamp="1550135171036" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/__init__.py" timestamp="1533742052948">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="69" />
@@ -486,10 +487,10 @@
         <mark key="." line="118" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/inputs/twiss_2sext_elements.dat" timestamp="1549389797805" />
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/3dplot.py" timestamp="1550050898313">
-        <mark key="[" line="15" column="55" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/3dplot.py" timestamp="1550134948499">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.HLLHC.IRNL.squeezed.triplet_correction.madx" timestamp="1545053386061">
         <mark key="[" line="343" column="12" />
@@ -999,8 +1000,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJCNUE1QjZBNiI6IHsibWluIjogLTc1MDAwLCAibWF4IjogMTIwMDAwfSwK</text>
+      <register name="&quot;" type="4">
+        <text>ax.add_collection3d(plt.fill_between(df.S, df.X, df.Y))</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1108,7 +1109,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>igure()</text>
+        <text>ax.add_collection3d(plt.fill_between(df.S, df.X, df.Y))</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
