@@ -14,15 +14,16 @@
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="varmap" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
+      <mapping ext="b1" type="PLAIN_TEXT" />
       <mapping ext="madx" type="PLAIN_TEXT" />
       <mapping ext="twisskick" type="PLAIN_TEXT" />
       <mapping pattern="offline_presentation" type="Python" />
       <mapping pattern="plot_spectrum" type="Python" />
       <mapping pattern="amplitude_detuning" type="Python" />
-      <mapping pattern="entrypoint" type="Python" />
       <mapping pattern="draggabletext" type="Python" />
+      <mapping pattern="create_myplots" type="Python" />
       <mapping pattern="range_test" type="Python" />
-      <mapping pattern="artist_options" type="Python" />
+      <mapping pattern="2018_irnl_three_optics" type="Python" />
       <mapping pattern="matplotlib_gui" type="Python" />
       <mapping pattern="rename_second_level_folders" type="Python" />
       <mapping pattern="test_optics_class" type="Python" />
@@ -30,8 +31,8 @@
       <mapping pattern="twiss_fullresponse" type="Python" />
       <mapping pattern="cleanup_logs" type="Python" />
       <mapping pattern="matplotlib_plotly_wrapper" type="Python" />
-      <mapping pattern="2018_irnl_three_optics" type="Python" />
-      <mapping pattern="create_myplots" type="Python" />
+      <mapping pattern="entrypoint" type="Python" />
+      <mapping pattern="artist_options" type="Python" />
     </extensionMap>
   </component>
 </application>

@@ -16,6 +16,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/tools.py" timestamp="1550229517474">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/.gitignore" timestamp="1550498292912">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1549625663142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -177,6 +182,9 @@
         <mark key="]" line="54" column="83" />
         <mark key="." line="54" column="4" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/test/context.py" timestamp="1550497808996">
+        <mark key="[" line="9" column="10" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_rdts.py" timestamp="1533658950656">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="24" column="72" />
@@ -198,7 +206,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1550249198723">
+      <file name="/Python Console" timestamp="1550497394682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -351,6 +359,11 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/requirements.txt" timestamp="1550498316684">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHCDA.MachineDrift/code.orbit_separation/bbeat_compare/get_bbeat.py" timestamp="1544113324804">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -395,8 +408,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550229447679">
-        <mark key="[" line="0" column="1" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550498599256">
+        <mark key="[" line="310" column="42" />
+        <mark key="]" line="310" column="48" />
+        <mark key="." line="310" column="48" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entry_datatypes.py" timestamp="1547830708908">
         <mark key="[" line="94" column="80" />
@@ -427,6 +442,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/handler.py" timestamp="1550498547747">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="311" column="54" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/regression/fsf" timestamp="1526636560172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -440,15 +459,19 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550229817881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/handler.py" timestamp="1550494430102">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/handler.py" timestamp="1550497627001">
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="311" column="54" />
+        <mark key="." line="289" column="8" />
+        <mark key="^" line="289" column="8" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/tfs_pandas.py" timestamp="1532958077242">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/twiss.b1" timestamp="1550497562523">
+        <mark key="[" line="46" column="58" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
@@ -517,6 +540,12 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/tmp/run.sh" timestamp="1548933575101">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/.travis.yml" timestamp="1550498410835">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/doc/entrypoints/index.rst" timestamp="1548063269415">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -527,7 +556,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entrypoint.py" timestamp="1550237474470">
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/entrypoint.py" timestamp="1550496976551">
         <mark key="[" line="89" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotly_helpers/widgets.py" timestamp="1531131614383">
@@ -563,11 +592,21 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/test/test_tfs.py" timestamp="1550498167964">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1549625232433">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="45" />
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/README.md" timestamp="1550497982849">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/requirements.txt" timestamp="1550226457180">
         <mark key="[" line="7" column="17" />
@@ -685,7 +724,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1550240078137" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -718,6 +756,9 @@
         <mark key="]" line="7" column="31" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/LICENSE.md" timestamp="1550497928345">
+        <mark key="[" line="0" column="15" />
+      </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.HLLHC.amplitude_detuning_40cm/code.ampdet/data_creation_ampdet.py" timestamp="1545044672022">
         <mark key="[" line="11" column="25" />
         <mark key="]" line="15" column="135" />
@@ -747,9 +788,6 @@
         <mark key="[" line="37" column="85" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/frequency.py" timestamp="1550495035413">
-        <mark key="[" line="96" column="43" />
       </file>
       <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1534151413069">
         <mark key="[" line="70" column="40" />
@@ -994,13 +1032,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>collection</text>
+        <text encoding="base64">ZnJvbSAuIA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiAqKkJpbGxpZSBUaG9tcHNvbioqIC0gKkluaXRpYWwgd29yayogLSBbUHVycGxlQm9vdGhdKGh0dHBzOi8vZ2l0aHViLmNvbS9QdXJwbGVCb290aCkK</text>
+        <text encoding="base64">ZGVmIF92YWxpZGF0ZShkYXRhX2ZyYW1lLCBpbmZvX3N0cj0iIik6CiAgICAiIiIgQ2hlY2sgaWYgRGF0YWZyYW1lIGNvbnRhaW5zIGZpbml0ZSB2YWx1ZXMgb25seSAiIiIKICAgIGRlZiBpc25vdGZpbml0ZSh4KToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiB+bnAuaXNmaW5pdGUoeCkKICAgICAgICBleGNlcHQgVHlwZUVycm9yOiAgIyBtb3N0IGxpa2VseSBzdHJpbmcKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcmV0dXJuIG5wLnplcm9zKHguc2hhcGUsIGR0eXBlPWJvb2wpCiAgICAgICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjogICMgc2luZ2xlIGVudHJ5CiAgICAgICAgICAgICAgICByZXR1cm4gbnAuemVyb3MoMSwgZHR5cGU9Ym9vbCkKCiAgICBib29sX2RmID0gZGF0YV9mcmFtZS5hcHBseShpc25vdGZpbml0ZSkKICAgIGlmIGJvb2xfZGYudmFsdWVzLmFueSgpOgogICAgICAgIExPR0dFUi53YXJuaW5nKGYiRGF0YUZyYW1lIHtpbmZvX3N0cjpzfSBjb250YWlucyBub24tcGh5c2ljYWwgdmFsdWVzIGF0IEluZGV4OiAiCiAgICAgICAgICAgICAgICAgICAgICAgZiJ7Ym9vbF9kZi5pbmRleFtib29sX2RmLmFueShheGlzPSdjb2x1bW5zJyldLnRvbGlzdCgpfSIpCgogICAgaWYgbm90IGxlbihzZXQoZGF0YV9mcmFtZS5pbmRleCkpID09IGxlbihkYXRhX2ZyYW1lLmluZGV4KToKICAgICAgICByYWlzZSBUZnNGb3JtYXRFcnJvcigiSW5kaWNlcyBhcmUgbm90IFVuaXF1ZS4iKQoKICAgIGlmIG5vdCBsZW4oc2V0KGRhdGFfZnJhbWUuY29sdW1ucykpID09IGxlbihkYXRhX2ZyYW1lLmNvbHVtbnMpOgogICAgICAgIHJhaXNlIFRmc0Zvcm1hdEVycm9yKCJDb2x1bW4gbmFtZXMgbm90IFVuaXF1ZS4iKQoKICAgIExPR0dFUi5kZWJ1ZyhmIkRhdGFGcmFtZSB7aW5mb19zdHI6c30gdmFsaWRhdGVkLiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1008,24 +1046,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>These instructions will get you a copy of the project up and running on your local machine for 
-development and testing purposes. See deployment for notes on how to deploy the project on a live system.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIF92YWxpZGF0ZShkYXRhX2ZyYW1lLCBpbmZvX3N0cj0iIik6CiAgICAiIiIgQ2hlY2sgaWYgRGF0YWZyYW1lIGNvbnRhaW5zIGZpbml0ZSB2YWx1ZXMgb25seSAiIiIKICAgIGRlZiBpc25vdGZpbml0ZSh4KToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiB+bnAuaXNmaW5pdGUoeCkKICAgICAgICBleGNlcHQgVHlwZUVycm9yOiAgIyBtb3N0IGxpa2VseSBzdHJpbmcKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgcmV0dXJuIG5wLnplcm9zKHguc2hhcGUsIGR0eXBlPWJvb2wpCiAgICAgICAgICAgIGV4Y2VwdCBBdHRyaWJ1dGVFcnJvcjogICMgc2luZ2xlIGVudHJ5CiAgICAgICAgICAgICAgICByZXR1cm4gbnAuemVyb3MoMSwgZHR5cGU9Ym9vbCkKCiAgICBib29sX2RmID0gZGF0YV9mcmFtZS5hcHBseShpc25vdGZpbml0ZSkKICAgIGlmIGJvb2xfZGYudmFsdWVzLmFueSgpOgogICAgICAgIExPR0dFUi53YXJuaW5nKGYiRGF0YUZyYW1lIHtpbmZvX3N0cjpzfSBjb250YWlucyBub24tcGh5c2ljYWwgdmFsdWVzIGF0IEluZGV4OiAiCiAgICAgICAgICAgICAgICAgICAgICAgZiJ7Ym9vbF9kZi5pbmRleFtib29sX2RmLmFueShheGlzPSdjb2x1bW5zJyldLnRvbGlzdCgpfSIpCiAgICBlbHNlOgogICAgICAgIExPR0dFUi5kZWJ1ZyhmIkRhdGFGcmFtZSB7aW5mb19zdHI6c30gdmFsaWRhdGVkLiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U2VlIGFsc28gdGhlIGxpc3Qgb2YgW2NvbnRyaWJ1dG9yc10oaHR0cHM6Ly9naXRodWIuY29tL3lvdXIvcHJvamVjdC9jb250cmlidXRvcnMpIHdobyBwYXJ0aWNpcGF0ZWQgaW4gdGhpcyBwcm9qZWN0Lgo=</text>
+        <text encoding="base64">bWF0cGxvdGxpYj49Mi4yLjMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R2l0UHl0aG9uPj0yLjEuOAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEJyZWFrIGRvd24gaW50byBlbmQgdG8gZW5kIHRlc3RzCgpFeHBsYWluIHdoYXQgdGhlc2UgdGVzdHMgdGVzdCBhbmQgd2h5CgpgYGAKR2l2ZSBhbiBleGFtcGxlCmBgYAoKIyMjIEFuZCBjb2Rpbmcgc3R5bGUgdGVzdHMKCkV4cGxhaW4gd2hhdCB0aGVzZSB0ZXN0cyB0ZXN0IGFuZCB3aHkKCmBgYApHaXZlIGFuIGV4YW1wbGUKYGBgCgojIyBEZXBsb3ltZW50CgpBZGQgYWRkaXRpb25hbCBub3RlcyBhYm91dCBob3cgdG8gZGVwbG95IHRoaXMgb24gYSBsaXZlIHN5c3RlbQoKIyMgQnVpbHQgV2l0aAoKKiBbRHJvcHdpemFyZF0oaHR0cDovL3d3dy5kcm9wd2l6YXJkLmlvLzEuMC4yL2RvY3MvKSAtIFRoZSB3ZWIgZnJhbWV3b3JrIHVzZWQKKiBbTWF2ZW5dKGh0dHBzOi8vbWF2ZW4uYXBhY2hlLm9yZy8pIC0gRGVwZW5kZW5jeSBNYW5hZ2VtZW50CiogW1JPTUVdKGh0dHBzOi8vcm9tZXRvb2xzLmdpdGh1Yi5pby9yb21lLykgLSBVc2VkIHRvIGdlbmVyYXRlIFJTUyBGZWVkcwoKIyMgQ29udHJpYnV0aW5nCgpQbGVhc2UgcmVhZCBbQ09OVFJJQlVUSU5HLm1kXShodHRwczovL2dpc3QuZ2l0aHViLmNvbS9QdXJwbGVCb290aC9iMjQ2Nzk0MDI5NTdjNjNlYzQyNikgZm9yIGRldGFpbHMgb24gb3VyIGNvZGUgb2YgY29uZHVjdCwgYW5kIHRoZSBwcm9jZXNzIGZvciBzdWJtaXR0aW5nIHB1bGwgcmVxdWVzdHMgdG8gdXMuCgojIyBWZXJzaW9uaW5nCgpXZSB1c2UgW1NlbVZlcl0oaHR0cDovL3NlbXZlci5vcmcvKSBmb3IgdmVyc2lvbmluZy4gRm9yIHRoZSB2ZXJzaW9ucyBhdmFpbGFibGUsIHNlZSB0aGUgW3RhZ3Mgb24gdGhpcyByZXBvc2l0b3J5XShodHRwczovL2dpdGh1Yi5jb20veW91ci9wcm9qZWN0L3RhZ3MpLiAK</text>
+        <text encoding="base64">c2NpcHk+PTEuMC4wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgUnVubmluZyB0aGUgdGVzdHMKCkV4cGxhaW4gaG93IHRvIHJ1biB0aGUgYXV0b21hdGVkIHRlc3RzIGZvciB0aGlzIHN5c3RlbQo=</text>
+        <text encoding="base64">L2RvYy9fYnVpbGQvKgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lmh5cG90aGVzaXMqCi5wcm9qZWN0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1051,12 +1088,10 @@ development and testing purposes. See deployment for notes on how to deploy the 
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RW5kIHdpdGggYW4gZXhhbXBsZSBvZiBnZXR0aW5nIHNvbWUgZGF0YSBvdXQgb2YgdGhlIHN5c3RlbSBvciB1c2luZyBpdCBmb3IgYSBsaXR0bGUgZGVtbwo=</text>
+        <text encoding="base64">dWRpbGx5dGllcy8K</text>
       </register>
-      <register name="9" type="4">
-        <text>A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be</text>
+      <register name="9" type="2">
+        <text encoding="base64">Kn4KKi5lcHMKKi5wcwoqLmxvZwoqLnB5YwoqLmd6Ciouc3dwCipfbGlueAoqX2xpbnkKZGIKXCMqXCMKKi5iYWsKKi5vcmlnCnNvdXJjZV8yMDExClRlc3RGdWxsUmVzcAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
