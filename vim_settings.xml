@@ -368,11 +368,6 @@
         <mark key="]" line="115" column="24" />
         <mark key="." line="115" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/requirements.txt" timestamp="1550498316684">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/setup.py" timestamp="1550502296623">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="19" />
@@ -425,7 +420,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
-        <mark key="]" line="294" column="7" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/entry_datatypes.py" timestamp="1547830708908">
         <mark key="[" line="94" column="80" />
@@ -471,8 +465,8 @@
         <mark key="]" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550229817881">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
+        <mark key="[" line="33" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/handler.py" timestamp="1550497627001">
         <mark key="[" line="289" column="0" />
@@ -553,8 +547,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1550229768386">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1550591539151">
+        <mark key="[" line="24" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/tmp/run.sh" timestamp="1548933575101">
         <mark key="[" line="0" column="0" />
@@ -815,6 +809,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/frequency.py" timestamp="1550591341283" />
       <file name="/media/jdilly/Storage/PhD/STUDY.18.prelim.rdts_on_flatoptics/10_Code/ptc/data_creation.py" timestamp="1534151413069">
         <mark key="[" line="70" column="40" />
         <mark key="]" line="70" column="74" />
