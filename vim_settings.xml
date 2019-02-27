@@ -639,6 +639,11 @@
       <file name="/Dummy.txt" timestamp="1550247995435">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/README.md" timestamp="1551264814753">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/negativelog.py" timestamp="1548407847780">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="18" column="10" />
@@ -904,8 +909,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biA9IGxhbWJkYSBzOiB0ZXh0LmFwcGVuZCgiXG4iICsgcykK</text>
+      <register name="&quot;" type="4">
+        <text>This package provides reading and writing functionality for **table format system (tfs)** files.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1013,7 +1018,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dict(a=1, b='str', c=dict(e=[1,2,3])</text>
+        <text>This package provides reading and writing functionality for **table format system (tfs)** files.</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -1021,29 +1026,46 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBkZC5hID09IDEKICAgIGFzc2VydCBkZC5iID09ICdzdHInCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biA9IGxhbWJkYSBzOiB0ZXh0LmFwcGVuZCgiXG4iICsgcykK</text>
+      <register name="1" type="4">
+        <text>Reading and writing capabilities for [tfs-files](http://mad.web.cern.ch/mad/madx.old/Introduction/tfs.html)
+are provided by this package. The files are read into special `pandas` `Dataframes`, called `TfsDataFrames`,
+which in addition to the normal behaviour attach an `OrderedDict` of headers to the `DataFrame`.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBhdHRyIGluIFsibmFtZSIsICJkZWZhdWx0IiwgInJlcXVpcmVkIiwgImNob2ljZXMiLCAiaGVscCJdOgogICAgICAgIGFzc2VydCBzdHIoZ2V0YXR0cihwYXJhbSwgYXR0cikpIGluIHRleHQK</text>
+      <register name="2" type="4">
+        <text>Installation is easily done via `pip`. The package is then used as `tfs`.
+
+```
+pip install tfs-pandas
+```
+
+Example:
+
+```
+import tfs
+
+data_frame = tfs.read('path_to_input.tfs', index=&quot;index_column&quot;)
+tfs.write('path_to_output.tfs', data_frame, save_index=&quot;index_column&quot;)
+```</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRleHQgPSBsb2cuZ2V0X2xvZygpCg==</text>
+        <text encoding="base64">dG8gYmUgaW5zdGFsbGVkIGluIHlvdXIgcHl0aG9uIGVudmlyb25tZW50Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhcnNlciA9IERpY3RQYXJzZXIoKQogICAgcGFyYW0gPSBQYXJhbWV0ZXIoInRlc3QiLCBkZWZhdWx0PSJjIiwgcmVxdWlyZWQ9RmFsc2UsIGNob2ljZXM9WyJhIiwgImIiLCAiYyJdLCBoZWxwPSJoZWxwIikKICAgIGxvYyA9ICJzdWIuc3V1Yi5zdXV1YiIKICAgIHBhcnNlci5hZGRfcGFyYW1ldGVyKHBhcmFtLCBsb2M9bG9jKQogICAgcGFyc2VyX21vZHVsZSA9IHN5cy5tb2R1bGVzW3BhcnNlci50cmVlLl9fbW9kdWxlX19dLl9fbmFtZV9fCiAgICB3aXRoIFRlbXBTdHJpbmdMb2dnZXIocGFyc2VyX21vZHVsZSkgYXMgbG9nOgogICAgICAgIHBhcnNlci50cmVlKCkK</text>
+        <text encoding="base64">VGhlIHBhY2thZ2UgZGVwZW5kcyBoZWF2aWx5IG9uIGBwYW5kYXNgIGFuZCBhbHNvIG9uIGBudW1weWAsIHNvIHRoZXNlIHBhY2thZ2VzIG5lZWQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZSA9IGxpc3RfY2hlY2sodmFsdWUpCg==</text>
+      <register name="5" type="4">
+        <text>- Creating a new `DataFrame` by combining multiple `TfsDataFrame`,
+for example via `pandas.DataFrame.append()` or `pandas.concat()`, 
+will convert the `TfsDataFrame` back to a `DataFrame` and lose therefore the headers.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAqKkphaW1lKiogLSAqSW5pdGlhbCB3b3JrKiAtIFtqYWltZWNwODldKGh0dHBzOi8vZ2l0aHViLmNvbS9qYWltZWNwODkpCiogKipMdWvDocWhKiogLSAqSW5pdGlhbCB3b3JrKiAtIFtsbWFsaW5hXShodHRwczovL2dpdGh1Yi5jb20vbG1hbGluYSkKKiAqKkpvc2NoKiogLSAqUHVibGlzaGluZyogLSBbSm9zY2hEXShodHRwczovL2dpdGh1Yi5jb20vSm9zY2hEKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbGlzdF9jaGVjayh2YWx1ZSk6CiAgICAgICAgICAgIGlmIG5vdCB2YWx1ZS5yZXBsYWNlKCIgIiwgIiIpLnN0YXJ0c3dpdGgoInJhbmdlKCIpOgogICAgICAgICAgICAgICAgdmFsdWUgPSAiWyIgKyB2YWx1ZSArICJdIgogICAgICAgICAgICByZXR1cm4gdmFsdWUK</text>
+        <text encoding="base64">ICAgIGZ1biA9IGxhbWJkYSBzOiB0ZXh0LmFwcGVuZCgiXG4iICsgcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1069,10 +1091,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbG9nZ2luZ190b29scy5nZXRfbG9nZ2VyKCJfX21haW5fXyIpICAjIHVuY29tbWVudCB0byBzZWUgdHJlZQo=</text>
+        <text encoding="base64">ICAgIGZvciBhdHRyIGluIFsibmFtZSIsICJkZWZhdWx0IiwgInJlcXVpcmVkIiwgImNob2ljZXMiLCAiaGVscCJdOgogICAgICAgIGFzc2VydCBzdHIoZ2V0YXR0cihwYXJhbSwgYXR0cikpIGluIHRleHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZnJvbSB1dGlscyBpbXBvcnQgbG9nZ2luZ190b29scyAgIyB1bmNvbW1lbnQgdG8gc2VlIHRyZWUK</text>
+        <text encoding="base64">ICAgIHRleHQgPSBsb2cuZ2V0X2xvZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
