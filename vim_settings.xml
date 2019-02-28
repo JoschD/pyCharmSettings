@@ -259,10 +259,11 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/extract_online_model.py" timestamp="1549041231221">
-        <mark key="[" line="128" column="19" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/extract_online_model.py" timestamp="1551373228488">
+        <mark key="[" line="118" column="30" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="121" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/fig_editor/options_utils.py" timestamp="1539712794015">
         <mark key="[" line="43" column="0" />
@@ -274,10 +275,10 @@
         <mark key="]" line="71" column="45" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1549041017289">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1551373177001">
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/accuracy/test_measure_optics.py" timestamp="1533739376395">
         <mark key="[" line="13" column="0" />
@@ -717,7 +718,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1551089234264" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -910,8 +910,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyMgRnVuY3Rpb25hbGl0eQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1025,20 +1025,23 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBkZC5hID09IDEKICAgIGFzc2VydCBkZC5iID09ICdzdHInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgQXJndW1lbnRFcnJvcigKICAgICAgICAgICAgICAgICJBcmd1bWVudCAndGltZScgcmVxdWlyZWQgZm9yIGZ1bmN0aW9uICd7OnN9Jy4iLmZvcm1hdChGVU5DVElPTl9ERUZJTklUSU9OKQogICAgICAgICAgICApCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyMgRnVuY3Rpb25hbGl0eQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">IyMgRnVuY3Rpb25hbGl0eQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>- Direct commits to master are forbidden.
 
 - All pull requests need to be reviewed!</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>### Transferred
 
 - Main functions: hole_in_one, harpy
@@ -1060,19 +1063,14 @@
 
 - Regression tests</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">W1RyYXZpcy1DSV0oaHR0cHM6Ly90cmF2aXMtY2kuY29tL3B5bGhjL29tYzMpLiAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiMjIE1pc3Npbmc=</text>
-      </register>
       <register name="7" type="4">
-        <text>Reading and writing capabilities for [tfs-files](http://mad.web.cern.ch/mad/madx.old/Introduction/tfs.html)
-are provided by this package. The files are read into special `pandas` `Dataframes`, called `TfsDataFrames`,
-which in addition to the normal behaviour attach an `OrderedDict` of headers to the `DataFrame`.</text>
+        <text encoding="base64">CiMjIE1pc3Npbmc=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1098,6 +1096,11 @@ which in addition to the normal behaviour attach an `OrderedDict` of headers to 
         </keys>
       </register>
       <register name="8" type="4">
+        <text>Reading and writing capabilities for [tfs-files](http://mad.web.cern.ch/mad/madx.old/Introduction/tfs.html)
+are provided by this package. The files are read into special `pandas` `Dataframes`, called `TfsDataFrames`,
+which in addition to the normal behaviour attach an `OrderedDict` of headers to the `DataFrame`.</text>
+      </register>
+      <register name="9" type="4">
         <text>Installation is easily done via `pip`. The package is then used as `tfs`.
 
 ```
@@ -1112,9 +1115,6 @@ import tfs
 data_frame = tfs.read('path_to_input.tfs', index=&quot;index_column&quot;)
 tfs.write('path_to_output.tfs', data_frame, save_index=&quot;index_column&quot;)
 ```</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dG8gYmUgaW5zdGFsbGVkIGluIHlvdXIgcHl0aG9uIGVudmlyb25tZW50Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
