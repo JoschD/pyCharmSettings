@@ -484,10 +484,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1550583439004">
         <mark key="[" line="50" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_bar_compare.py" timestamp="1551868997121">
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_bar_compare.py" timestamp="1551870023999">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="61" column="79" />
+        <mark key="." line="61" column="79" />
+        <mark key="^" line="61" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tools.py" timestamp="1550494349611">
         <mark key="[" line="8" column="0" />
@@ -943,7 +944,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlfZGlmZiA9IHJlc3VsdHNfa2V5cy5mb3JtYXQoYmVhbT1iZWFtLCB4aW5nPWRpZmZfaWQsIGFtcGRldD1kZXR1bmluZ1thZF0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IChtZWFuLCBzdGQpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1057,7 +1058,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhX2ZsYXQgPSBtZWFzdXJlbWVudF9kaWN0W2tleV9mbGF0XQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNba2V5XSA9IChtZWFuLCBzdGQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBrZXlfZGlmZiA9IHJlc3VsdHNfa2V5cy5mb3JtYXQoYmVhbT1iZWFtLCB4aW5nPWRpZmZfaWQsIGFtcGRldD1kZXR1bmluZ1thZF0pCg==</text>
