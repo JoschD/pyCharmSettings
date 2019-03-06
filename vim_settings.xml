@@ -487,8 +487,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1550583439004">
         <mark key="[" line="50" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_bar_compare.py" timestamp="1551880538687">
-        <mark key="^" line="77" column="18" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_bar_compare.py" timestamp="1551884682146">
+        <mark key="[" line="79" column="57" />
+        <mark key="]" line="85" column="61" />
+        <mark key="^" line="87" column="13" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tools.py" timestamp="1550494349611">
         <mark key="[" line="8" column="0" />
@@ -943,8 +946,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIG9wYWNpdHkgPSAwCiAgICBlcnJvcl9jb25maWcgPSB7fQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBheC5lcnJvcmJhcihpbmRleCArIGJhcl93aWR0aCAqIChiZWFtLTEpLAogICAgICAgICAgICAgICAgICAgIF9nZXRfZGF0YShzaW0sIGJlYW0sIGVycm9yPUZhbHNlKSwKICAgICAgICAgICAgICAgICAgICBsaW5lc3R5bGU9IiIsIG1hcmtlcj0ieCIsIGNvbG9yPWNvbG9yLAogICAgICAgICAgICAgICAgICAgIHllcnI9X2dldF9kYXRhKHNpbSwgYmVhbSwgZXJyb3I9VHJ1ZSksCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IkJlYW0gezpkfSBzaW11bGF0ZWQiLmZvcm1hdChiZWFtKSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1058,7 +1061,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4LnBsb3QoaW5kZXgsIF9nZXRfZGF0YShzaW0sIGJlYW09MSwgZXJyb3I9RmFsc2UpLCAKICAgICAgICAgICAgbGluZXN0eWxlPSIiLCBtYXJrZXI9Ii4iLCBjb2xvcj1wcy5nZXRfbXBsX2NvbG9yKDApLCAKICAgICAgICAgICAgeWVycj1fZ2V0X2RhdGEoc2ltLCBiZWFtPTEsIGVycm9yPVRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBheC5lcnJvcmJhcihpbmRleCArIGJhcl93aWR0aCAqIChiZWFtLTEpLAogICAgICAgICAgICAgICAgICAgIF9nZXRfZGF0YShzaW0sIGJlYW0sIGVycm9yPUZhbHNlKSwKICAgICAgICAgICAgICAgICAgICBsaW5lc3R5bGU9IiIsIG1hcmtlcj0ieCIsIGNvbG9yPWNvbG9yLAogICAgICAgICAgICAgICAgICAgIHllcnI9X2dldF9kYXRhKHNpbSwgYmVhbSwgZXJyb3I9VHJ1ZSksCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IkJlYW0gezpkfSBzaW11bGF0ZWQiLmZvcm1hdChiZWFtKSkK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIG9wYWNpdHkgPSAwCiAgICBlcnJvcl9jb25maWcgPSB7fQ==</text>
