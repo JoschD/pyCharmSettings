@@ -390,7 +390,7 @@
         <mark key="]" line="122" column="48" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550247995435">
+      <file name="/Dummy.txt" timestamp="1551978707580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/negativelog.py" timestamp="1548407847780">
@@ -598,7 +598,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1551883191847">
+      <file name="/Python Console" timestamp="1551978805430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -805,10 +805,11 @@
         <mark key="^" line="337" column="16" />
         <mark key="." line="337" column="17" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551975030366">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551978947594">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="65" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1038,7 +1039,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEZlZWRkb3duOiIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1146,47 +1147,45 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;K{:d}{:s}L&quot;.format(order, skew)</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;k{:d}{:s}&quot;.format(order+1, skew.lower())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEZlZWRkb3duOiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRhdGFmcmFtZQo=</text>
       </register>
       <register name="4" type="4">
-        <text>if(1=0){
-	%(ARCAPPLIED)s
-};</text>
+        <text>def get_k_from_df(df):
+    d = {}
+    for order in range(6):
+        for skew in [&quot;&quot;, &quot;S&quot;]:
+            column = &quot;K{:d}{:s}L&quot;.format(order, skew)
+            key = &quot;k{:d}{:s}&quot;.format(order+1, skew.lower())
+            if column in df.columns:
+                d[key] = df.loc[:, column].sum()
+    return d</text>
       </register>
-      <register name="5" type="4">
-        <text>if(1=0){
-
-	%(ARCAPPLIED)s
-%(MQXAPPLIED)s
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICByZXR1cm4gc3VtKFsKICAgICAgICBrd2FyZ3MuZ2V0KCJrNCIsIDApLAogICAgICAgIGt3YXJncy5nZXQoIms1IiwgMCkgKiBkeCwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNXMiLCAwKSAqIGR5LAogICAgICAgIGt3YXJncy5nZXQoIms2IiwgMCkgKiAuNSAqIChkeCoqMiArIGR5KioyKSwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNnMiLCAwKSAqIGR4ICogZHksCiAgICAgICAgXSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>f(1=0){
-	%(ARCAPPLIED)s
-%(MQXAPPLIED)s
-%(MBIPAPPLIED)s
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmlmKDE9MCl7CgoKfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1211,11 +1210,13 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIF9teWJhcihheCwgaW5kZXgsIG1lYXMsIGJlYW0sIGNvbG9yPXRvX3JnYmEoY29sb3IsIDEpLCBtYXJrZXI9Ii4iLCBsYWJlbD0iQmVhbSB7OmR9IG1lYXN1cmVkIi5mb3JtYXQoYmVhbSkpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfbXliYXIoYXgsIGluZGV4LCBzaW0sIGJlYW0sIGNvbG9yPXRvX3JnYmEoY29sb3IsIDAuMyksIG1hcmtlcj0ieCIsIGxhYmVsPSJCZWFtIHs6ZH0gc2ltdWxhdGVkIi5mb3JtYXQoYmVhbSkpCg==</text>
+      <register name="9" type="4">
+        <text>if(1=0){
+	%(ARCAPPLIED)s
+};</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
