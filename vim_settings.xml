@@ -805,11 +805,10 @@
         <mark key="^" line="337" column="16" />
         <mark key="." line="337" column="17" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551978947594">
-        <mark key="[" line="69" column="4" />
-        <mark key="]" line="69" column="32" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="65" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551979891920">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1039,7 +1038,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEZlZWRkb3duOiIK</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1156,18 +1155,21 @@
         <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEZlZWRkb3duOiIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaW50IGRhdGFmcmFtZQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>def get_k_from_df(df):
     d = {}
     for order in range(6):
@@ -1178,14 +1180,11 @@
                 d[key] = df.loc[:, column].sum()
     return d</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICByZXR1cm4gc3VtKFsKICAgICAgICBrd2FyZ3MuZ2V0KCJrNCIsIDApLAogICAgICAgIGt3YXJncy5nZXQoIms1IiwgMCkgKiBkeCwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNXMiLCAwKSAqIGR5LAogICAgICAgIGt3YXJncy5nZXQoIms2IiwgMCkgKiAuNSAqIChkeCoqMiArIGR5KioyKSwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNnMiLCAwKSAqIGR4ICogZHksCiAgICAgICAgXSkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1210,13 +1209,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
       </register>
       <register name="9" type="4">
-        <text>if(1=0){
-	%(ARCAPPLIED)s
-};</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
