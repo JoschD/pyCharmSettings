@@ -799,17 +799,17 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1551966541850">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1551968631049">
         <mark key="[" line="337" column="58" />
         <mark key="]" line="337" column="30" />
         <mark key="^" line="337" column="16" />
         <mark key="." line="337" column="17" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551883205922">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="48" column="17" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1551968988751">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="37" column="34" />
+        <mark key="." line="37" column="12" />
+        <mark key="^" line="36" column="61" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1039,7 +1039,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;%(OUTPATH)s/</text>
+        <text encoding="base64">b3MucGF0aC5qb2luKG91dF9kaXIsIA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1147,13 +1147,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment/testscript/output/t</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;%(OUTPATH)s/</text>
+        <text encoding="base64">b3MucGF0aC5qb2luKG91dF9kaXIsIA==</text>
       </register>
       <register name="1" type="4">
         <text>if(1=0){
