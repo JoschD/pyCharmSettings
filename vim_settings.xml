@@ -21,7 +21,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1549625663142">
+      <file name="/a.dummy" timestamp="1552049746986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -529,6 +529,13 @@
         <mark key="]" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown_compare.py" timestamp="1552049777806">
+        <mark key="'" line="83" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="83" column="15" />
+        <mark key="^" line="63" column="11" />
+        <mark key="." line="63" column="11" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/utils/index.rst" timestamp="1551108549496">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -805,10 +812,10 @@
         <mark key="^" line="343" column="0" />
         <mark key="." line="344" column="28" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552038962642">
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552049819264">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -921,9 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="8" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="225" column="25" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
-      <jump line="246" column="20" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="264" column="88" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="247" column="49" filename="/media/jdilly/Storage/PhD/1805_prelim_rdt_studies_on_flatoptics/10_Code/ptc/data_creation.py" />
       <jump line="805" column="82" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/model/accelerators/lhc.py" />
@@ -1021,6 +1025,9 @@
       <jump line="303" column="51" filename="/media/jdilly/Storage/Repositories/omc3/omc3/utils/dict_tools.py" />
       <jump line="0" column="0" filename="/media/jdilly/Storage/Repositories/omc3/omc3/utils/dict_tools.py" />
       <jump line="72" column="0" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
+      <jump line="63" column="11" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown_compare.py" />
+      <jump line="0" column="0" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown_compare.py" />
+      <jump line="83" column="4" filename="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown_compare.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1038,7 +1045,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3RhX3F4ID0gY3RhX2ZyYWMgKyBmbG9vcihxeGluaXQpOwo=</text>
+        <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1151,25 +1158,114 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y3RhX3F4ID0gY3RhX2ZyYWMgKyBmbG9vcihxeGluaXQpOwo=</text>
+      <register name="0" type="4">
+        <text>import os
+import re
+
+import numpy as np
+from tfs_files import tfs_pandas as tfs
+from udillyties.madx_runners.irnl18_triplet_correction_evaluate_ampdet import get_values_from_tfs
+
+
+def get_detuning_from_k4(df, betax, betay):
+    strengths = [&quot;K4L&quot;, &quot;K5L&quot;, &quot;K5SL&quot;, &quot;K6L&quot;, &quot;K6SL&quot;]
+    coeff = df.loc[:, strengths]/(32*np.pi)
+    return (coeff.values * (betax.values**2)[:, None],
+            coeff.values * (betay.values**2)[:, None],
+            -2*coeff.values * betax.values[:, None] * betay.values[:, None],
+            )
+
+
+def get_feeddown_to_k4(dataframe, dx, dy):
+    feed_down_map = {
+        &quot;K5L&quot;: lambda x: x*dx,
+        &quot;K5SL&quot;: lambda x: x*dy,
+        &quot;K6L&quot;: lambda x: x * .5 * (np.square(dx) + np.square(dy)),
+        &quot;K6SL&quot;: lambda x: x * dx * dy,
+    }
+
+    for strength, func in feed_down_map.items():
+        dataframe[strength] = dataframe[strength].apply(func)
+
+    return dataframe
+
+
+k_pattern = re.compile(r&quot;K(\d)(S?)L&quot;)
+def rename(s):
+    match = re.match(k_pattern, s)
+    if match:
+        return &quot;K{:d}{:s}L&quot;.format(
+            int(match.group(1))+1,
+            match.group(2),
+        )
+    return s
+
+
+out_dir = &quot;/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment/high_energy/output/&quot;
+
+tfs_test_before = os.path.join(out_dir, &quot;ptc_normal.before.dat&quot;)
+tfs_test_after = os.path.join(out_dir, &quot;ptc_normal.after.dat&quot;)
+twiss_out = os.path.join(out_dir, &quot;twiss.after.dat&quot;)
+
+dx = -0.005
+dy = 0.005
+
+if __name__ == '__main__':
+    ad_before = np.array(get_values_from_tfs(tfs_test_before))
+    ad_after = np.array(get_values_from_tfs(tfs_test_after))
+    df_out = tfs.read_tfs(twiss_out, index=&quot;NAME&quot;)
+    df_out = df_out.rename(rename, axis=&quot;columns&quot;)
+
+    print &quot;Read DataFrame:&quot;
+    print df_out
+    print &quot;\n\n&quot;
+    k4 = get_feeddown_to_k4(df_out, dx, dy)
+
+    print &quot;Calculated Feeddown:&quot;
+    print k4
+    print &quot;\n\n&quot;
+
+    anhx1000, anhy0100, anhx0100 = get_detuning_from_k4(k4, df_out.BETX, df_out.BETY)
+
+    print &quot;Results:&quot;
+    print anhx1000
+    print anhy0100
+    print anhx0100
+
+    ad_sum = ad_before + np.array([anhx1000.sum().sum(), anhy0100.sum().sum(), anhx0100.sum().sum()])
+
+    print &quot;\n\n&quot;
+    print &quot;MAD-X Before:&quot;
+    print ad_before
+    print &quot; --- &quot;
+    print &quot;MAD-X After:&quot;
+    print ad_after
+    print &quot; --- &quot;
+    print &quot;Calculated:&quot;
+    print ad_sum</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+        <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
+        <text encoding="base64">b3V0X2RpciA9ICIvbWVkaWEvamRpbGx5L1N0b3JhZ2UvUHJvamVjdHMvTk9URS4xOC5NRDMzMTEuQW1wbGl0dWRlX0RldHVuaW5nL2NvZGUubWlzYWxpZ25tZW50L2hpZ2hfZW5lcmd5L291dHB1dC8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50IGRhdGFmcmFtZQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>def get_k_from_df(df):
     d = {}
     for order in range(6):
@@ -1179,12 +1275,6 @@
             if column in df.columns:
                 d[key] = df.loc[:, column].sum()
     return d</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gc3VtKFsKICAgICAgICBrd2FyZ3MuZ2V0KCJrNCIsIDApLAogICAgICAgIGt3YXJncy5nZXQoIms1IiwgMCkgKiBkeCwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNXMiLCAwKSAqIGR5LAogICAgICAgIGt3YXJncy5nZXQoIms2IiwgMCkgKiAuNSAqIChkeCoqMiArIGR5KioyKSwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNnMiLCAwKSAqIGR4ICogZHksCiAgICAgICAgXSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1210,10 +1300,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZQo=</text>
+        <text encoding="base64">CiAgICByZXR1cm4gc3VtKFsKICAgICAgICBrd2FyZ3MuZ2V0KCJrNCIsIDApLAogICAgICAgIGt3YXJncy5nZXQoIms1IiwgMCkgKiBkeCwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNXMiLCAwKSAqIGR5LAogICAgICAgIGt3YXJncy5nZXQoIms2IiwgMCkgKiAuNSAqIChkeCoqMiArIGR5KioyKSwKICAgICAgICBrd2FyZ3MuZ2V0KCJrNnMiLCAwKSAqIGR4ICogZHksCiAgICAgICAgXSkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcw==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
