@@ -818,11 +818,11 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552054530382">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552055884422">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="." line="82" column="12" />
+        <mark key="^" line="82" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1052,7 +1052,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TiA9IHN0YXRzLm5vcm0obG9jPW11LCBzY2FsZT1zaWdtYSkK</text>
+        <text encoding="base64">ICAgIHhpbmcgPSBbIkI1IiwgIkE1IiwgIkI2IiwgIkE2Il0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1169,28 +1169,28 @@
         <text encoding="base64">bG93ZXIsIHVwcGVyID0gLS41LCAwLjUKbXUsIHNpZ21hID0gMCwgMQpYID0gc3RhdHMudHJ1bmNub3JtKAogICAgKGxvd2VyIC0gbXUpIC8gc2lnbWEsICh1cHBlciAtIG11KSAvIHNpZ21hLCBsb2M9bXUsIHNjYWxlPXNpZ21hKQpOID0gc3RhdHMubm9ybShsb2M9bXUsIHNjYWxlPXNpZ21hKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TiA9IHN0YXRzLm5vcm0obG9jPW11LCBzY2FsZT1zaWdtYSkK</text>
+        <text encoding="base64">ICAgIHhpbmcgPSBbIkI1IiwgIkE1IiwgIkI2IiwgIkE2Il0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVycm9yX2xvYyA9ICJBTEwiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
+        <text encoding="base64">TiA9IHN0YXRzLm5vcm0obG9jPW11LCBzY2FsZT1zaWdtYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0X2RpciA9ICIvbWVkaWEvamRpbGx5L1N0b3JhZ2UvUHJvamVjdHMvTk9URS4xOC5NRDMzMTEuQW1wbGl0dWRlX0RldHVuaW5nL2NvZGUubWlzYWxpZ25tZW50L2hpZ2hfZW5lcmd5L291dHB1dC8iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+        <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
+        <text encoding="base64">b3V0X2RpciA9ICIvbWVkaWEvamRpbGx5L1N0b3JhZ2UvUHJvamVjdHMvTk9URS4xOC5NRDMzMTEuQW1wbGl0dWRlX0RldHVuaW5nL2NvZGUubWlzYWxpZ25tZW50L2hpZ2hfZW5lcmd5L291dHB1dC8iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1216,18 +1216,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGFmcmFtZQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGVkIEs0OiAiICsgc3RyKGs0KQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>def get_k_from_df(df):
-    d = {}
-    for order in range(6):
-        for skew in [&quot;&quot;, &quot;S&quot;]:
-            column = &quot;K{:d}{:s}L&quot;.format(order, skew)
-            key = &quot;k{:d}{:s}&quot;.format(order+1, skew.lower())
-            if column in df.columns:
-                d[key] = df.loc[:, column].sum()
-    return d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50IGRmX291dAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
