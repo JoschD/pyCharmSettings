@@ -806,11 +806,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552044227313">
-        <mark key="[" line="377" column="26" />
-        <mark key="]" line="344" column="28" />
-        <mark key="^" line="343" column="0" />
-        <mark key="." line="344" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552050674772">
+        <mark key="[" line="338" column="13" />
+        <mark key="]" line="338" column="81" />
+        <mark key="^" line="337" column="80" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552049819264">
         <mark key="[" line="8" column="0" />
@@ -1045,7 +1045,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
+        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1153,96 +1153,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>import os
-import re
-
-import numpy as np
-from tfs_files import tfs_pandas as tfs
-from udillyties.madx_runners.irnl18_triplet_correction_evaluate_ampdet import get_values_from_tfs
-
-
-def get_detuning_from_k4(df, betax, betay):
-    strengths = [&quot;K4L&quot;, &quot;K5L&quot;, &quot;K5SL&quot;, &quot;K6L&quot;, &quot;K6SL&quot;]
-    coeff = df.loc[:, strengths]/(32*np.pi)
-    return (coeff.values * (betax.values**2)[:, None],
-            coeff.values * (betay.values**2)[:, None],
-            -2*coeff.values * betax.values[:, None] * betay.values[:, None],
-            )
-
-
-def get_feeddown_to_k4(dataframe, dx, dy):
-    feed_down_map = {
-        &quot;K5L&quot;: lambda x: x*dx,
-        &quot;K5SL&quot;: lambda x: x*dy,
-        &quot;K6L&quot;: lambda x: x * .5 * (np.square(dx) + np.square(dy)),
-        &quot;K6SL&quot;: lambda x: x * dx * dy,
-    }
-
-    for strength, func in feed_down_map.items():
-        dataframe[strength] = dataframe[strength].apply(func)
-
-    return dataframe
-
-
-k_pattern = re.compile(r&quot;K(\d)(S?)L&quot;)
-def rename(s):
-    match = re.match(k_pattern, s)
-    if match:
-        return &quot;K{:d}{:s}L&quot;.format(
-            int(match.group(1))+1,
-            match.group(2),
-        )
-    return s
-
-
-out_dir = &quot;/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment/high_energy/output/&quot;
-
-tfs_test_before = os.path.join(out_dir, &quot;ptc_normal.before.dat&quot;)
-tfs_test_after = os.path.join(out_dir, &quot;ptc_normal.after.dat&quot;)
-twiss_out = os.path.join(out_dir, &quot;twiss.after.dat&quot;)
-
-dx = -0.005
-dy = 0.005
-
-if __name__ == '__main__':
-    ad_before = np.array(get_values_from_tfs(tfs_test_before))
-    ad_after = np.array(get_values_from_tfs(tfs_test_after))
-    df_out = tfs.read_tfs(twiss_out, index=&quot;NAME&quot;)
-    df_out = df_out.rename(rename, axis=&quot;columns&quot;)
-
-    print &quot;Read DataFrame:&quot;
-    print df_out
-    print &quot;\n\n&quot;
-    k4 = get_feeddown_to_k4(df_out, dx, dy)
-
-    print &quot;Calculated Feeddown:&quot;
-    print k4
-    print &quot;\n\n&quot;
-
-    anhx1000, anhy0100, anhx0100 = get_detuning_from_k4(k4, df_out.BETX, df_out.BETY)
-
-    print &quot;Results:&quot;
-    print anhx1000
-    print anhy0100
-    print anhx0100
-
-    ad_sum = ad_before + np.array([anhx1000.sum().sum(), anhy0100.sum().sum(), anhx0100.sum().sum()])
-
-    print &quot;\n\n&quot;
-    print &quot;MAD-X Before:&quot;
-    print ad_before
-    print &quot; --- &quot;
-    print &quot;MAD-X After:&quot;
-    print ad_after
-    print &quot; --- &quot;
-    print &quot;Calculated:&quot;
-    print ad_sum</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
