@@ -806,11 +806,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552050674772">
-        <mark key="[" line="338" column="13" />
-        <mark key="]" line="338" column="81" />
-        <mark key="^" line="337" column="80" />
-        <mark key="." line="338" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="344" column="80" />
+        <mark key="^" line="337" column="27" />
+        <mark key="." line="343" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552049819264">
         <mark key="[" line="8" column="0" />
@@ -1045,7 +1045,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
+        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9CmlmKG15bGhjYmVhbT4xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMi5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1153,13 +1153,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>column=name,s,x,y,betx,bety,L,K3L,K4L,K4SL,K5L,K5SL;</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
+        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMS5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9CmlmKG15bGhjYmVhbT4xKXt0d2lzcyxjaHJvbSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5iMi5tYWduZXRzX2Zvcl9hbXBkZXQuZGF0Ijt9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">a19wYXR0ZXJuID0gcmUuY29tcGlsZShyIksoXGQpKFM/KUwiKQo=</text>
