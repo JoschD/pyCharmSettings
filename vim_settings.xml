@@ -814,12 +814,12 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552321318961">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552322146382">
         <mark key="i" line="93" column="4" />
-        <mark key="[" line="255" column="94" />
-        <mark key="]" line="251" column="0" />
-        <mark key="." line="251" column="0" />
-        <mark key="^" line="246" column="33" />
+        <mark key="[" line="271" column="25" />
+        <mark key="]" line="271" column="20" />
+        <mark key="." line="271" column="20" />
+        <mark key="^" line="270" column="33" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1049,7 +1049,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3hsaW0oWzAsIDAuMDE3XSkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1163,7 +1163,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3hsaW0oWzAsIDAuMDE3XSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMikK</text>
