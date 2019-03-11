@@ -605,7 +605,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1552064021224">
+      <file name="/Python Console" timestamp="1552300711919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -813,12 +813,12 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552298339117">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552301659784">
         <mark key="i" line="93" column="4" />
-        <mark key="[" line="132" column="33" />
-        <mark key="]" line="143" column="16" />
-        <mark key="." line="143" column="16" />
-        <mark key="^" line="143" column="98" />
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="87" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="150" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1048,7 +1048,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2ggPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRfYmVmb3JlID0gZ2V0X3ZhbHVlc19mcm9tX3Rmcyhvcy5wYXRoLmpvaW4ocGF0aCwgZ2V0X3B0Y19maWxlbmFtZShiZWFtKSkpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1156,7 +1156,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>map.append(idx)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -1165,28 +1165,28 @@
         <text encoding="base64">ICAgIGJldGF4ID0gYmV0YXhbY29lZmYuaW5kZXhdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2ggPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRfYmVmb3JlID0gZ2V0X3ZhbHVlc19mcm9tX3Rmcyhvcy5wYXRoLmpvaW4ocGF0aCwgZ2V0X3B0Y19maWxlbmFtZShiZWFtKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWR4ICs9IDEKICAgICAgICAgICAgdG9fYXBwZW5kID0gaWR4ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGYgPSB0ZnMuVGZzRGF0YUZyYW1lKGNvbHVtbnM9WyJBTkhYMTAwMCIsICJBTkhZMDEwMCIsICJBTkhYMDEwMCJdKQoKICAgICAgICAgICAgYWRfYmVmb3JlID0gZ2V0X3ZhbHVlc19mcm9tX3Rmcyhvcy5wYXRoLmpvaW4ocGF0aCwgZ2V0X3B0Y19maWxlbmFtZShiZWFtKSkpCgogICAgICAgICAgICBkZi5sb2NbMCwgOl0gPSBhZF9iZWZvcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAib3V0cHV0XzMwMzAuZXJyb3JzX0I1X0E1X0I2X0E2LmluX2FsbF9JUHMubm9YaW5nIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmLmxvY1tpZHggKyAxLCBbIkRYIiwgIkRZIl1dID0gZHgsIGR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5wLnJhbmRvbS5zZWVkKHNlZWQ9MTMzNykgICMgdXNlIHNhbWUgbWlzYWxpZ25tZW50cyBwZXIgc2VlZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1212,10 +1212,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWR4ICs9IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
