@@ -388,7 +388,7 @@
         <mark key="]" line="122" column="48" />
         <mark key="." line="114" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552311326638">
+      <file name="/Dummy.txt" timestamp="1552403800136">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/negativelog.py" timestamp="1548407847780">
@@ -603,7 +603,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1552398648917">
+      <file name="/Python Console" timestamp="1552403832408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -813,12 +813,9 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552402118358">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552404037513">
         <mark key="i" line="93" column="4" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="409" column="15" />
-        <mark key="." line="409" column="15" />
-        <mark key="^" line="409" column="15" />
+        <mark key="^" line="369" column="34" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1046,8 +1043,9 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml0X29wdCwgcGNvdiA9IGN1cnZlX2ZpdChnYXVzc19kaXN0LCB4X3ZhbCwgeV92YWwsIFtTSUdNQSwgMCwgTl9NSVNTQUxJR05dKQo=</text>
+      <register name="&quot;" type="4">
+        <text>def diff(array):
+    return array[1:] - array[:-1]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1155,38 +1153,39 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ax.set_xti</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZml0X29wdCwgcGNvdiA9IGN1cnZlX2ZpdChnYXVzc19kaXN0LCB4X3ZhbCwgeV92YWwsIFtTSUdNQSwgMCwgTl9NSVNTQUxJR05dKQo=</text>
+        <text encoding="base64">ICAgICAgICAxOiB7CiAgICAgICAgICAgICJYWCI6IFtdLAogICAgICAgICAgICAiWFkiOiBbXSwKICAgICAgICAgICAgIllZIiIgW10iLAogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLnNhdmVmaWcob3MucGF0aC5qb2luKGdldF9vdXRfcGF0aCgpLCBnZXRfb3V0X2hpc3RfZmlsZW5hbWUoYmVhbSwgYWN0aW9uX3AsIHR1bmVfcCkpKQo=</text>
+      <register name="1" type="4">
+        <text>def diff(array):
+    return array[1:] - array[:-1]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLnNhdmVmaWcob3MucGF0aC5qb2luKGdldF9vdXRfcGF0aCgpLCBnZXRfb3V0X2hpc3RfZmlsZW5hbWUoYmVhbSwgYWN0aW9uX3AsIHR1bmVfcCkpKQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>,
                         CONFIG_FOLDER</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgXywgeGxhYmVsID0gdGFfY29uc3QuZ2V0X3BhaXJlZF9sYWJsZXMoYWN0aW9uX3AsIHR1bmVfcCkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3hsYWJlbAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9pbl9wYXRoKHNlZWQpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbigKICAgICAgICBDV0QsICJyZXN1bHRzX3Blcl9zZWVkIiwgInNlZWRfezowNGR9Ii5mb3JtYXQoc2VlZCksCiAgICAgICAgQ09ORklHX0ZPTERFUgogICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMCkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJlYW0gaW4gQkVBTVM6Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9pbl9wYXRoKHNlZWQpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbigKICAgICAgICBDV0QsICJyZXN1bHRzX3Blcl9zZWVkIiwgInNlZWRfezowNGR9Ii5mb3JtYXQoc2VlZCksCiAgICAgICAgQ09ORklHX0ZPTERFUgogICAgKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1212,10 +1211,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gdGZzLnJlYWRfdGZzKG9zLnBhdGguam9pbihnZXRfb3V0X3BhdGgoKSwgZ2V0X291dF9maWxlbmFtZV9nYXRoZXJlZChiZWFtKSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleD0iTEFCRUwiKQoKICAgICAgICAgICAgICAgIG9yaWcsIG1lYW4sIHN0ZCA9IChkZi5sb2NbOiwgZGV0dW5pbmddKS50cmFuc3Bvc2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJlYW0gaW4gQkVBTVM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
