@@ -97,7 +97,6 @@
         <mark key="]" line="10" column="27" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.triplet_correction.madx" timestamp="1551888359399" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/segment_by_segment.py" timestamp="1533804554155">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="50" />
@@ -814,12 +813,12 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552398547295">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552402118358">
         <mark key="i" line="93" column="4" />
-        <mark key="[" line="396" column="54" />
-        <mark key="]" line="396" column="88" />
-        <mark key="." line="396" column="0" />
-        <mark key="^" line="389" column="19" />
+        <mark key="[" line="354" column="0" />
+        <mark key="]" line="409" column="15" />
+        <mark key="." line="409" column="15" />
+        <mark key="^" line="409" column="15" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -875,7 +874,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1551089234264" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/htcondor_wrapper.py" timestamp="1533300450391">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
