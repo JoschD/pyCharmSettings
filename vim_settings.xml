@@ -21,7 +21,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1552049746986">
+      <file name="/a.dummy" timestamp="1552408339071">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -813,9 +813,11 @@
         <mark key="^" line="337" column="27" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552404037513">
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/manual_feeddown.py" timestamp="1552408078891">
         <mark key="i" line="93" column="4" />
-        <mark key="^" line="369" column="34" />
+        <mark key="[" line="431" column="35" />
+        <mark key="]" line="431" column="35" />
+        <mark key="." line="431" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1534169402975">
         <mark key="[" line="178" column="0" />
@@ -1043,9 +1045,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>def diff(array):
-    return array[1:] - array[:-1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeW1heCA9IGF4LmdldF95bGltKClbMV0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1153,39 +1154,38 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>V</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAxOiB7CiAgICAgICAgICAgICJYWCI6IFtdLAogICAgICAgICAgICAiWFkiOiBbXSwKICAgICAgICAgICAgIllZIiIgW10iLAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXgudGV4dChmbWVhbi1mc2lnbWEsIHRleHRfcG9zLCByIiQtXHNpZ21hJCIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>def diff(array):
-    return array[1:] - array[:-1]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeW1heCA9IGF4LmdldF95bGltKClbMV0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeF9rZGUgPSBucC5saW5zcGFjZSgtMWU0LCAxZTMsIDEwMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnLnNhdmVmaWcob3MucGF0aC5qb2luKGdldF9vdXRfcGF0aCgpLCBnZXRfb3V0X2hpc3RfZmlsZW5hbWUoYmVhbSwgYWN0aW9uX3AsIHR1bmVfcCkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-                        CONFIG_FOLDER</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXgudGV4dChtaXNfbWluLCAxLjAyKnltYXgsICJtaW4iKQogICAgICAgICAgICBheC50ZXh0KG1pc19tYXgsIDEuMDIqeW1heCwgIm1heCIpCiAgICAgICAgICAgIGF4LnRleHQobWlzX21lYW4sIDEuMDIqeW1heCwgciIkXGxlZnRhcnJvdyBcc2lnbWEgXHJpZ2h0YXJyb3ckIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXywgeGxhYmVsID0gdGFfY29uc3QuZ2V0X3BhaXJlZF9sYWJsZXMoYWN0aW9uX3AsIHR1bmVfcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXguc2V0X3hsYWJlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgeW1heCA9IGF4LmdldF95bGltKClbMV0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9pbl9wYXRoKHNlZWQpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbigKICAgICAgICBDV0QsICJyZXN1bHRzX3Blcl9zZWVkIiwgInNlZWRfezowNGR9Ii5mb3JtYXQoc2VlZCksCiAgICAgICAgQ09ORklHX0ZPTERFUgogICAgKQo=</text>
+      <register name="7" type="4">
+        <text>def diff(array):
+    return array[1:] - array[:-1]</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1211,10 +1211,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IHBzLmdldF9tcGxfY29sb3IoMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJlYW0gaW4gQkVBTVM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnLnNhdmVmaWcob3MucGF0aC5qb2luKGdldF9vdXRfcGF0aCgpLCBnZXRfb3V0X2hpc3RfZmlsZW5hbWUoYmVhbSwgYWN0aW9uX3AsIHR1bmVfcCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
