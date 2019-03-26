@@ -32,10 +32,11 @@
         <mark key="." line="33" column="75" />
         <mark key="^" line="33" column="74" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/analyse_detuning.py" timestamp="1552568171936">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/analyse_detuning.py" timestamp="1553618373766">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="337" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/plot_detuning_data.py" timestamp="1552319068422">
         <mark key="[" line="56" column="0" />
@@ -1088,7 +1089,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsb3BlID0gcGxvdF9vZHJbInkiXVsxXSAvIHBsb3Rfb2RyWyJ4Il1bMV0KICAgICAgICAgICAgICAgIHNsb3BlX3N0ZCA9IHBsb3Rfb2RyWyJ5dXBwZXIiXVsxXSAvIHBsb3Rfb2RyWyJ4Il1bMV0gLSBwbG90X29kclsibWVhbiJdCiAgICAgICAgICAgICAgICBwbG90X29kclsibGFiZWwiXSA9IHR1bmVfYW5hbHlzaXMua2lja2FjX21vZGlmaWVycy5fZ2V0X3Nsb3BlX2xhYmVsKHNsb3BlLCBzbG9wZV9zdGQpCg==</text>
+        <text encoding="base64">ICAgICAgICAiYmJxX3Bsb3RfdHdvIjogQkJRX1RXTywK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1202,7 +1203,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsb3Rfb2RyWyJtZWFuIl0gPSBwbG90X29kclsieSJdWzFdIC8gcGxvdF9vZHJbIngiXVsxXQogICAgcGxvdF9vZHJbInN0ZCJdID0gcGxvdF9vZHJbInl1cHBlciJdWzFdIC8gcGxvdF9vZHJbIngiXVsxXSAtIHBsb3Rfb2RyWyJtZWFuIl0K</text>
+        <text encoding="base64">ICAgICAgICAiYmJxX3Bsb3RfdHdvIjogQkJRX1RXTywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNsb3BlID0gcGxvdF9vZHJbInkiXVsxXSAvIHBsb3Rfb2RyWyJ4Il1bMV0KICAgICAgICAgICAgICAgIHNsb3BlX3N0ZCA9IHBsb3Rfb2RyWyJ5dXBwZXIiXVsxXSAvIHBsb3Rfb2RyWyJ4Il1bMV0gLSBwbG90X29kclsibWVhbiJdCiAgICAgICAgICAgICAgICBwbG90X29kclsibGFiZWwiXSA9IHR1bmVfYW5hbHlzaXMua2lja2FjX21vZGlmaWVycy5fZ2V0X3Nsb3BlX2xhYmVsKHNsb3BlLCBzbG9wZV9zdGQpCg==</text>
