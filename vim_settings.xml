@@ -389,8 +389,11 @@
         <mark key="]" line="6" column="3" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/plot_detuning_data.py" timestamp="1553605712156">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/plot_detuning_data.py" timestamp="1553607197624">
+        <mark key="[" line="102" column="38" />
+        <mark key="]" line="95" column="36" />
+        <mark key="^" line="95" column="36" />
+        <mark key="." line="95" column="36" />
       </file>
       <file name="/afs/cern.ch/user/l/lmalina/public/omc3/omc3/harpy/frequency.py" timestamp="1549375298200">
         <mark key="[" line="105" column="47" />
@@ -447,6 +450,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/madx_wrapper.py" timestamp="1550236264320">
         <mark key="[" line="1" column="5" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/manual_feeddown.py" timestamp="1553606949974" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/orbit_check/online_model.py" timestamp="1549625612222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="99" />
@@ -526,6 +530,9 @@
         <mark key="]" line="317" column="39" />
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="26" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1553606762099">
+        <mark key="[" line="185" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/logging_tools.py" timestamp="1551116499640">
         <mark key="[" line="267" column="29" />
@@ -628,7 +635,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1553597369238">
+      <file name="/Python Console" timestamp="1553607654639">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
