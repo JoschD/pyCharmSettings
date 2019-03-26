@@ -75,10 +75,10 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/quick_freq_spec.py" timestamp="1553597377812">
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="33" column="65" />
-        <mark key="^" line="33" column="65" />
-        <mark key="." line="33" column="65" />
+        <mark key="[" line="37" column="59" />
+        <mark key="]" line="37" column="65" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_phase_writer.py" timestamp="1534343518696">
         <mark key="[" line="6" column="5" />
@@ -388,6 +388,9 @@
         <mark key="[" line="1" column="12" />
         <mark key="]" line="6" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/plot_detuning_data.py" timestamp="1553605712156">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/afs/cern.ch/user/l/lmalina/public/omc3/omc3/harpy/frequency.py" timestamp="1549375298200">
         <mark key="[" line="105" column="47" />
