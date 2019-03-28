@@ -825,6 +825,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_feeddown.madx" timestamp="1553787035527">
+        <mark key="[" line="410" column="0" />
+        <mark key="]" line="416" column="77" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_compare/manual_feeddown_compare.py" timestamp="1552499199638">
         <mark key="[" line="73" column="15" />
         <mark key="]" line="73" column="4" />
@@ -1092,7 +1096,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwb3MgPSBzdW0oeF92YWwpLzIK</text>
+        <text encoding="base64">aWYobXlsaGNiZWFtPT0xKSB7VXNlLCBzZXF1ZW5jZT1saGNiMTt9CmlmKG15bGhjYmVhbT4xKSB7VXNlLCBzZXF1ZW5jZT1saGNiMjt9CnNlbGVjdCxmbGFnPXR3aXNzLGNsZWFyOwpzZWxlY3QsIGZsYWc9dHdpc3MsIHBhdHRlcm49IkJQTSIsICAgY29sdW1uPW5hbWUscyx4LHksYmV0eCxiZXR5LGFsZngsYWxmeSxkeCxkcHgsbXV4LG11eTsKc2VsZWN0LCBmbGFnPXR3aXNzLCBwYXR0ZXJuPSJNIiwgICBjb2x1bW49bmFtZSxzLHgseSxiZXR4LGJldHksYWxmeCxhbGZ5LGR4LGRweCxtdXgsbXV5OwppZihteWxoY2JlYW09PTEpIHt0d2lzcyxjaHJvbSxzZXF1ZW5jZT1saGNiMSxmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5jdGEuYjEiO30KaWYobXlsaGNiZWFtPjEpIHt0d2lzcyxjcmhvbSxzZXF1ZW5jZT1saGNiMixmaWxlPSIlKE9VVFBBVEgpcy90d2lzcy5jdGEuYjIiO30K</text>
       </register>
       <register name="b" type="4">
         <keys>
