@@ -546,10 +546,10 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554134250443">
-        <mark key="[" line="302" column="8" />
-        <mark key="]" line="302" column="99" />
-        <mark key="." line="302" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554136402562">
+        <mark key="[" line="636" column="41" />
+        <mark key="]" line="636" column="0" />
+        <mark key="." line="636" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1553609623958">
         <mark key="[" line="62" column="23" />
@@ -1094,7 +1094,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSwgZmlsZW5hbWUgPSBnZXRfY3RhX3NlZWRfZGF0YV90aXRsZV9hbmRfZmlsZW5hbWUoYmVhbSwgeGluZywgZXJyb3JfdHlwZXMsIG9wdGljX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWdmaWxlbmFtZSA9ICJ7OnN9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1208,31 +1208,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oIkdhdGhlcmVkIGRhdGEgZm9yICd7OnN9JyIuZm9ybWF0KHRpdGxlKSkK</text>
+        <text encoding="base64">ICAgIHRpdGxlID0gIiAiLmpvaW4ocGFydHMpCiAgICBmaWxlbmFtZSA9ICIuIi5qb2luKHBhcnRzICsgWyJjdGFfc2VlZF9kYXRhIl0pICsgIi50ZnMiCiAgICByZXR1cm4gdGl0bGUsIGZpbGVuYW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZSwgZmlsZW5hbWUgPSBnZXRfY3RhX3NlZWRfZGF0YV90aXRsZV9hbmRfZmlsZW5hbWUoYmVhbSwgeGluZywgZXJyb3JfdHlwZXMsIG9wdGljX3R5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWdmaWxlbmFtZSA9ICJ7OnN9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRpdGxlID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlZWRfZGF0YV9jdGEubG9jW3NlZWQsIDpdID0gZ2V0X2N0YV92YWx1ZXMob3V0cHV0X2RpciwgYmVhbSkK</text>
+        <text encoding="base64">ICAgICAgICBtb2Rfb25lID0gbGFtYmRhIHg6IG5wLm1vZCh4LCAxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGRmLCBuYW1lIGluIHppcChbc2VlZF9kYXRhLCBzZWVkX2RhdGFfY3RhXSwgW2ZpbGVuYW1lLCAiY3RhXyIgKyBmaWxlbmFtZV0pOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHhpbmcgaW4gb3B0LnhpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VlZF9kYXRhX2N0YSA9IHRmcy5UZnNEYXRhRnJhbWUoCiAgICAgICAgICAgICAgICBpbmRleD1zZWVkcywKICAgICAgICAgICAgICAgIGNvbHVtbnM9WyJRWCIsICJRWSJdCiAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVycm9yX3R5cGVzIGluIG9wdC5lcnJvcl90eXBlcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBlbnRyeXBvaW50KGdldF9wYXJhbXMoKSwgc3RyaWN0PVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWtlX2JvdHRvbV90ZXh0KGF4c1stMV0sIHRpdGxlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1258,10 +1258,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2hpc3RvZ3JhbTJfcGxvdHMob3B0KToK</text>
+        <text encoding="base64">ICAgICAgICBwcy5zeW5jMmQoYXhzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
