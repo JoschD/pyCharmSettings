@@ -546,11 +546,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554200222669">
-        <mark key="[" line="395" column="10" />
-        <mark key="]" line="396" column="12" />
-        <mark key="." line="396" column="12" />
-        <mark key="^" line="396" column="13" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554225960002">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="76" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="61" column="15" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1553609623958">
         <mark key="[" line="62" column="23" />
@@ -1104,7 +1104,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsc3R5bGU9ImZ1bGwiLAo=</text>
+        <text encoding="base64">TUFOVUFMX1NUWUxFX0hJU1QgPSB7dSdmaWd1cmUuZmlnc2l6ZSc6IFsxMC44MCwgMTkuMjBdLCB1J2F4ZXMuZ3JpZCc6IEZhbHNlfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1218,7 +1218,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsc3R5bGU9ImZ1bGwiLAo=</text>
+        <text encoding="base64">TUFOVUFMX1NUWUxFX0hJU1QgPSB7dSdmaWd1cmUuZmlnc2l6ZSc6IFsxMC44MCwgMTkuMjBdLCB1J2F4ZXMuZ3JpZCc6IEZhbHNlfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsc3R5bGU9ImZ1bGwiLAo=</text>
