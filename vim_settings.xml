@@ -546,11 +546,11 @@
         <mark key="]" line="213" column="48" />
         <mark key="." line="213" column="48" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554228433772">
-        <mark key="[" line="632" column="49" />
-        <mark key="]" line="632" column="81" />
-        <mark key="." line="632" column="0" />
-        <mark key="^" line="631" column="29" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1554283156401">
+        <mark key="[" line="788" column="85" />
+        <mark key="]" line="792" column="119" />
+        <mark key="." line="791" column="0" />
+        <mark key="^" line="788" column="52" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1553609623958">
         <mark key="[" line="62" column="23" />
@@ -657,7 +657,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554227561894">
+      <file name="/Python Console" timestamp="1554283220475">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1548966935677">
@@ -1104,7 +1104,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmYuaGlzdChheD1heCwgYWxwaGE9YWxwaGFfaGlzdCwgY29sb3I9Y29sb3IsIGxhYmVsPXhpbmdfbGFiZWwpCg==</text>
+        <text encoding="base64">ICAgIGNvcHlfdG9fcHJlcygiL2hvbWUvamRpbGx5L2xpbmtfYWZzX3dvcmsvcHJpdmF0ZS9TVFVEWS4xOC5MSEMuTUQzMzExL3Jlc3VsdHNfcGxvdCIsCiAgICAgICAgICAgICAgICAgIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9Qcm9qZWN0cy9OT1RFLjE4Lk1EMzMxMS5BbXBsaXR1ZGVfRGV0dW5pbmcvcmVzdWx0cy5tZF9ub3RlL3Jlc3VsdHMvc2ltdWxhdGlvbiIpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1218,7 +1218,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZmYuaGlzdChheD1heCwgYWxwaGE9YWxwaGFfaGlzdCwgY29sb3I9Y29sb3IsIGxhYmVsPXhpbmdfbGFiZWwpCg==</text>
+        <text encoding="base64">ICAgIGNvcHlfdG9fcHJlcygiL2hvbWUvamRpbGx5L2xpbmtfYWZzX3dvcmsvcHJpdmF0ZS9TVFVEWS4xOC5MSEMuTUQzMzExL3Jlc3VsdHNfcGxvdCIsCiAgICAgICAgICAgICAgICAgIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9Qcm9qZWN0cy9OT1RFLjE4Lk1EMzMxMS5BbXBsaXR1ZGVfRGV0dW5pbmcvcmVzdWx0cy5tZF9ub3RlL3Jlc3VsdHMvc2ltdWxhdGlvbiIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsc3R5bGU9ImZ1bGwiLAo=</text>
