@@ -367,10 +367,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1554465013939">
-        <mark key="[" line="125" column="13" />
-        <mark key="]" line="125" column="39" />
-        <mark key="." line="125" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1554467957096">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="152" column="10" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="106" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tfs/README.md" timestamp="1550497982849">
         <mark key="[" line="2" column="59" />
@@ -1098,7 +1099,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJMSENCRUFNL0lQNS1PRkZTRVQtVi1NTSIsCg==</text>
+        <text encoding="base64">ZGVmIGFtcGRldF9jb21taXNoXzIwMTgoKToKICAgIG1haW4oZnVuY3Rpb249Im92ZXJ2aWV3IiwKICAgICAgICAgdGltZT0iMjAxOC0wNC0yOCAxNTowMDowMC4wMDAiLAogICAgICAgICBjd2Q9Ii9hZnMvY2Vybi5jaC91c2VyL2ovamRpbGx5L2V4dHJhY3RfdGVtcC8iLAogICAgICAgICBzZXJ2ZXI9ImNzLWNjci1kZXYzIiwKICAgICAgICAga25vYl9uYW1lcz1bCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDEtWElORy1ILU1VUkFEIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQMS1YSU5HLVYtTVVSQUQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVAyLVhJTkctVi1NVVJBRCIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDUtWElORy1ILU1VUkFEIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1YSU5HLVYtTVVSQUQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVA4LVhJTkctSC1NVVJBRCIsCgogICAgICAgICAgICAgIkxIQ0JFQU0vSVAxLVNFUC1ILU1NIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQMS1TRVAtVi1NTSIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDItU0VQLUgtTU0iLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVA1LVNFUC1ILU1NIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1TRVAtVi1NTSIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDgtU0VQLVYtTU0iLAoKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1PRkZTRVQtVi1NTSIsCiAgICAgICAgIF0sCiAgICAgICAgICkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1212,7 +1213,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJMSENCRUFNL0lQNS1PRkZTRVQtVi1NTSIsCg==</text>
+        <text encoding="base64">ZGVmIGFtcGRldF9jb21taXNoXzIwMTgoKToKICAgIG1haW4oZnVuY3Rpb249Im92ZXJ2aWV3IiwKICAgICAgICAgdGltZT0iMjAxOC0wNC0yOCAxNTowMDowMC4wMDAiLAogICAgICAgICBjd2Q9Ii9hZnMvY2Vybi5jaC91c2VyL2ovamRpbGx5L2V4dHJhY3RfdGVtcC8iLAogICAgICAgICBzZXJ2ZXI9ImNzLWNjci1kZXYzIiwKICAgICAgICAga25vYl9uYW1lcz1bCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDEtWElORy1ILU1VUkFEIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQMS1YSU5HLVYtTVVSQUQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVAyLVhJTkctVi1NVVJBRCIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDUtWElORy1ILU1VUkFEIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1YSU5HLVYtTVVSQUQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVA4LVhJTkctSC1NVVJBRCIsCgogICAgICAgICAgICAgIkxIQ0JFQU0vSVAxLVNFUC1ILU1NIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQMS1TRVAtVi1NTSIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDItU0VQLUgtTU0iLAogICAgICAgICAgICAgIkxIQ0JFQU0vSVA1LVNFUC1ILU1NIiwKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1TRVAtVi1NTSIsCiAgICAgICAgICAgICAiTEhDQkVBTS9JUDgtU0VQLVYtTU0iLAoKICAgICAgICAgICAgICJMSENCRUFNL0lQNS1PRkZTRVQtVi1NTSIsCiAgICAgICAgIF0sCiAgICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyAiTEhDQkVBTS9JUDItU0VQLVYtTU0iLAo=</text>
