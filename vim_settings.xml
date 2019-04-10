@@ -15,6 +15,9 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1554923307274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/README.md" timestamp="1550575589775">
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="138" />
@@ -131,10 +134,10 @@
         <mark key="." line="222" column="20" />
         <mark key="^" line="222" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/tune_diagram.py" timestamp="1554921286945">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/tune_diagram.py" timestamp="1554923412249">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="11" column="41" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/quick_freq_spec.py" timestamp="1553620552796">
         <mark key="[" line="18" column="30" />
@@ -502,7 +505,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -610,37 +613,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWxsKFswIDw9IGwgPD0gMSBmb3IgbCBpbiBsaW1dKQ==</text>
+        <text>0.32, 0.935</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgbGltIGlzIG5vdCBOb25lOgo=</text>
+      <register name="0" type="4">
+        <text>RESONANCE_LINES_POS[0]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoMSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGMgPSBwcy5nZXRfbXBsX2NvbG9yKGlkeCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBueToK</text>
+        <text encoding="base64">ICAgIHR4dF9vZmZzZXQgPSAocXhfbGltWzFdIC0gcXhfbGltWzBdKSAqIDAuMDIKICAgIGZvciBpZHgsIGwgaW4gZW51bWVyYXRlKGxvY2F0aW9ucyk6CiAgICAgICAgIyBjID0gcHMuZ2V0X21wbF9jb2xvcihpZHgpCiAgICAgICAgYyA9ICJrIgogICAgICAgIGZzaXplID0gMTEKICAgICAgICBheC5wbG90KGxbMF0sIGxbMV0sIGxhYmVsPWxbMl0sIG1hcmtlcj0ieCIsIGNvbG9yPWMpCiAgICAgICAgYXgudGV4dChsWzBdICsgdHh0X29mZnNldCwgbFsxXSwgIih7On0sIHs6fSkiLmZvcm1hdChsWzBdLCBsWzFdKSwKICAgICAgICAgICAgICAgIGNvbG9yPWMsIGZvbnRzaXplPWZzaXplLCB2YT0idG9wIiwgaGE9ImxlZnQiKQogICAgICAgIGF4LnRleHQobFswXSArIHR4dF9vZmZzZXQsIGxbMV0sIGxbMl0sCiAgICAgICAgICAgICAgICBjb2xvcj1jLCBmb250c2l6ZT1mc2l6ZSwgdmE9ImJvdHRvbSIsIGhhPSJsZWZ0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBueDoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgbng6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgYWxsKFswIDw9IGwgPD0xIGZvciBsIGluIGxpbV0pOgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgbnk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfdmFsdWUobmEsIG5iLCBxYiwgcCk6CiAgICByZXR1cm4gZmxvYXQoKHAtbmIqcWIpKS9uYQoK</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIF9tYWtlX2xpbmVzX2xlZ2VuZChheCwgbWF4X29yZGVyLCBuY29scz0zKToKICAgICIiIiBDcmVhdGUgbGVnZW5kIGhhbmRsZXMgYW5kIGxhYmVscyBmb3IgcmVzb25hbmNlIG9yZGVycyAiIiIKICAgIGhhbmRsZXMsIGxhYmVscyA9IF9lbXB0eV9saXN0KG1heF9vcmRlcisxKSwgX2VtcHR5X2xpc3QobWF4X29yZGVyKzEpCiAgICBmb3IgaWR4IGluIHJhbmdlKG1heF9vcmRlcik6CiAgICAgICAgb3JkZXIgPSBpZHgrMQogICAgICAgIGhhbmRsZXNbaWR4XSA9IExpbmUyRChbMF0sIFswXSwgYz1fZ2V0X2xjKG9yZGVyKSwgbHM9X2dldF9scyhvcmRlcikpCiAgICAgICAgbGFiZWxzW2lkeF0gPSAie30uIG9yZGVyIi5mb3JtYXQob3JkZXIpCgogICAgcHMubWFrZV90b3BfbGVnZW5kKGF4LCBuY29sPW5jb2xzLCBoYW5kbGVzPWhhbmRsZXMsIGxhYmVscz1sYWJlbHMpCiAgICBheC50ZXh0KDAuMzIsIDAuOTM1LCAiUmVzb25hbmNlIExpbmVzOiIsIGhhPSJyaWdodCIsIHRyYW5zZm9ybT1heC5maWd1cmUudHJhbnNGaWd1cmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -666,10 +669,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIF9ub3RfYV9tdWx0aXBsZShueCwgbnksIHAsIGRpdik6CiAgICAiIiIgQ2hlY2sgaWYgdGhpcyBsaW5lIGhhcyBhIHNtYWxsZXIgc2V0IG9mIG54LCBueSBhbmQgcCAiIiIKICAgIGlmIG5vdCBkaXY6ICAjIG54IGFuZCBueSBhcmUgemVybwogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGlmIGRpdiA9PSAxOiAgIyBlaXRoZXIgYWxsIGFyZSAxIG9yIG5vIGNvbW1vbiBkaXZpc29yCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBpZiBkaXYgPT0gbng6ICAjIG55IGlzIHplcm8KICAgICAgICByZXR1cm4gZ2NkKHAsIG54KSA9PSAxCiAgICBpZiBkaXYgPT0gbnk6ICAjIG54IGlzIHplcm8KICAgICAgICByZXR1cm4gZ2NkKHAsIG55KSA9PSAxCgogICAgIyBueCBhbmQgbnkgYXJlIG5vdCB6ZXJvIGhhdmUgY29tbW9uIGRpdmlzb3IgLT4gY2hlY2sgaWYgcCBoYXMgc2FtZSBkaXZpc29yCiAgICBwX2ZyYWMgPSBmbG9hdChwKSAvIGRpdgogICAgcmV0dXJuIGludChwX2ZyYWMpICE9IHBfZnJhYwoK</text>
+        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoMSwgMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9ub3RfYV9tdWx0aXBsZShueCwgbnksIHAsIGRpdik6CiAgICAiIiIgQ2hlY2sgaWYgdGhpcyBsaW5lIGhhcyBhIHNtYWxsZXIgc2V0IG9mIG54LCBueSBhbmQgcCAiIiIKICAgIGlmIG5vdCBkaXY6ICAjIG54IGFuZCBueSBhcmUgemVybwogICAgICAgIHJldHVybiBGYWxzZQoKICAgIGlmIGRpdiA9PSAxOiAgIyBlaXRoZXIgYWxsIGFyZSAxIG9yIG5vIGNvbW1vbiBkaXZpc29yCiAgICAgICAgcmV0dXJuIFRydWUKCiAgICBpZiBkaXYgPT0gbng6ICAjIG55IGlzIHplcm8KICAgICAgICByZXR1cm4gZ2NkKHAsIG54KSA9PSAxCiAgICBpZiBkaXYgPT0gbnk6ICAjIG54IGlzIHplcm8KICAgICAgICByZXR1cm4gZ2NkKHAsIG55KSA9PSAxCgogICAgIyBueCBhbmQgbnkgYXJlIG5vdCB6ZXJvIGhhdmUgY29tbW9uIGRpdmlzb3IgLT4gY2hlY2sgaWYgcCBoYXMgc2FtZSBkaXZpc29yCiAgICBwX2ZyYWMgPSBmbG9hdChwKSAvIGRpdgogICAgcmV0dXJuIGludChwX2ZyYWMpICE9IHBfZnJhYwoKCmRlZiBnZXRfcmVzb25hbmNlX2xpbmVzKG1heF9vcmRlcik6CiAgICAiIiIgUmV0dXJuIGEgbGlzdCBvZiBhbGwgcmVzb25hbmNlIGxpbmVzIHVwIHRvIG1heF9vcmRlci4gIiIiCiAgICBsaW5lcyA9IFtdCiAgICBtYXhfcmFuZ2UgPSBtYXhfb3JkZXIgKyAxCiAgICBmb3IgbnggaW4gcmFuZ2UoLW1heF9yYW5nZSwgbWF4X3JhbmdlKToKICAgICAgICBmb3IgbnkgaW4gcmFuZ2UoLW1heF9yYW5nZSwgbWF4X3JhbmdlKToKICAgICAgICAgICAgZGl2LCBvcmRlciA9IGdjZChueCwgbnkpLCBhYnMobngpICsgYWJzKG55KQogICAgICAgICAgICBmb3IgcCBpbiByYW5nZSgtbWF4X3JhbmdlLCBtYXhfcmFuZ2UpOgogICAgICAgICAgICAgICAgaWYgYW55KFtwLCBueCwgbnldKSBhbmQgb3JkZXIgPD0gbWF4X29yZGVyIGFuZCBfbm90X2FfbXVsdGlwbGUobngsIG55LCBwLCBkaXYpOgogICAgICAgICAgICAgICAgICAgIGlmIG54OgogICAgICAgICAgICAgICAgICAgICAgICBsaW0gPSBbX2dldF92YWx1ZShueCwgbnksIG4sIHApIGZvciBuIGluIFswLCAxXV0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgYWxsKFswIDw9IGwgPD0gMSBmb3IgbCBpbiBsaW1dKToKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChMaW5lKHg9KDAsIDEpLCB5PWxpbSwgbng9bngsIG55PW55LCBvcmRlcj1vcmRlcikpCgogICAgICAgICAgICAgICAgICAgIGlmIG55OgogICAgICAgICAgICAgICAgICAgICAgICBsaW0gPSBbX2dldF92YWx1ZShueSwgbngsIG4sIHApIGZvciBuIGluIFswLCAxXV0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgYWxsKFswIDw9IGwgPD0xIGZvciBsIGluIGxpbV0pOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGluZXMuYXBwZW5kKExpbmUoeD1saW0sIHk9KDAsIDEpLCBueD1ueCwgbnk9bnksIG9yZGVyPW9yZGVyKSkKCiAgICByZXR1cm4gbGluZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBueToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
