@@ -131,11 +131,10 @@
         <mark key="." line="222" column="20" />
         <mark key="^" line="222" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/tune_diagram.py" timestamp="1554911013854">
-        <mark key="[" line="78" column="15" />
-        <mark key="]" line="91" column="52" />
-        <mark key="." line="91" column="43" />
-        <mark key="^" line="87" column="29" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/tune_diagram.py" timestamp="1554915593428">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/quick_freq_spec.py" timestamp="1553620552796">
         <mark key="[" line="18" column="30" />
@@ -235,7 +234,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554900078627">
+      <file name="/Python Console" timestamp="1554913086067">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -502,8 +501,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>max_order</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -611,37 +610,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>max_order</text>
+        <text>int(ny_frac) != ny_frac</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>max_range</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGl2ID0gZ2NkKHAsIG54KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfbGVnZW5kKG1heF9vcmRlcik6CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGluZV9zdHlsZXMgPSBbIi0iLCAiLS0iLCAiOiJdCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBwOgogICAgICAgIHJldHVybiBGYWxzZQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHMucGx0ZGQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw9IiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGluZV9jb2xvcnMgPSBwcy5nZXRfbXBsX2NvbG9yKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBvaW50KDEsIF9nZXRfdmFsdWUobngsIG55LCAxLCBwKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBvaW50KDAsIF9nZXRfdmFsdWUobngsIG55LCAwLCBwKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -667,10 +666,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBvaW50KDAsIF9nZXRfdmFsdWUobngsIG55LCAwLCBwKSksCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWJzKGRpdikgPD0gMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGl2ID09IDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
