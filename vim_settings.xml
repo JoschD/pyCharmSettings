@@ -15,7 +15,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1554923307274">
+      <file name="/a.dummy" timestamp="1554986443826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/README.md" timestamp="1550575589775">
@@ -23,6 +23,9 @@
         <mark key="]" line="33" column="138" />
         <mark key="." line="33" column="75" />
         <mark key="^" line="33" column="74" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/twiss.mqsx.dat" timestamp="1554987724959">
+        <mark key="[" line="51" column="59" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/3dplot.py" timestamp="1550150173658">
         <mark key="[" line="67" column="0" />
@@ -84,6 +87,12 @@
         <mark key="]" line="28" column="30" />
         <mark key="^" line="23" column="10" />
         <mark key="." line="28" column="11" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/rdt_test.py" timestamp="1554987420276">
+        <mark key="a" line="26" column="90" />
+        <mark key="[" line="26" column="90" />
+        <mark key="]" line="26" column="91" />
+        <mark key="." line="26" column="91" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/handler.py" timestamp="1550497627001">
         <mark key="[" line="289" column="0" />
@@ -233,7 +242,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554986212052">
+      <file name="/Python Console" timestamp="1554987320882">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -275,11 +284,11 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="47" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/code.py" timestamp="1554986204075">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="21" column="6" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/code.py" timestamp="1554986324776">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="4" />
+        <mark key="." line="56" column="4" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/outliers.py" timestamp="1550228912085">
         <mark key="[" line="1" column="10" />
@@ -314,6 +323,7 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/context.py" timestamp="1550574426455">
         <mark key="[" line="5" column="31" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1554987171711" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/esrf_tbt.py" timestamp="1550229552644">
         <mark key="[" line="0" column="0" />
       </file>
