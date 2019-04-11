@@ -97,10 +97,6 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_template_control.py" timestamp="1554129908207">
-        <mark key="[" line="279" column="65" />
-        <mark key="^" line="14" column="22" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/trackone.py" timestamp="1550229638608">
         <mark key="[" line="0" column="0" />
       </file>
@@ -237,7 +233,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1554913086067">
+      <file name="/Python Console" timestamp="1554986212052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -278,6 +274,12 @@
         <mark key="]" line="47" column="24" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="47" column="24" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/code.py" timestamp="1554986204075">
+        <mark key="[" line="21" column="64" />
+        <mark key="]" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+        <mark key="^" line="21" column="6" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/outliers.py" timestamp="1550228912085">
         <mark key="[" line="1" column="10" />
@@ -504,8 +506,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
+      <register name="&quot;" type="8">
+        <text>[0,0]
+[0,0]
+[0,0]
+[0,0]</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -613,37 +618,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0.32, 0.935</text>
+        <text>t( tw_metaclass.S, tw_metaclass.F1001R , label='metaclass')</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="4">
-        <text>RESONANCE_LINES_POS[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZmlnLCBheCA9IHBsdC5zdWJwbG90cyhucm93cz0yLCBuY29scz0yLCBmaWdzaXplPSgyMCwyMCkgKQoKYXhbMCwwXS5wbG90KCB0d19tZXRhY2xhc3MuUywgdHdfbWV0YWNsYXNzLkYxMDAxUiAsIGxhYmVsPSdtZXRhY2xhc3MnKQpheFswLDBdLnBsb3QoIGNvdXBsaW5nX3JkdHNbJ1MnXSwgbnAucmVhbChjb3VwbGluZ19yZHRzWydGMTAwMSddKSAsIGxhYmVsPSdvcHRpY3NjbGFzcyByZHQnKQpheFswLDBdLnBsb3QoIGNvdXBsaW5nX2NtYXRyaXhbJ1MnXSwgbnAucmVhbChjb3VwbGluZ19jbWF0cml4WydGMTAwMSddKSAsIGxhYmVsPSdvcHRpY3NjbGFzcyBjbWF0cml4JykKYXhbMCwwXS5sZWdlbmQoKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
+      <register name="1" type="8">
+        <text>[0,0]
+[0,0]
+[0,0]
+[0,0]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGMgPSBwcy5nZXRfbXBsX2NvbG9yKGlkeCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR4dF9vZmZzZXQgPSAocXhfbGltWzFdIC0gcXhfbGltWzBdKSAqIDAuMDIKICAgIGZvciBpZHgsIGwgaW4gZW51bWVyYXRlKGxvY2F0aW9ucyk6CiAgICAgICAgIyBjID0gcHMuZ2V0X21wbF9jb2xvcihpZHgpCiAgICAgICAgYyA9ICJrIgogICAgICAgIGZzaXplID0gMTEKICAgICAgICBheC5wbG90KGxbMF0sIGxbMV0sIGxhYmVsPWxbMl0sIG1hcmtlcj0ieCIsIGNvbG9yPWMpCiAgICAgICAgYXgudGV4dChsWzBdICsgdHh0X29mZnNldCwgbFsxXSwgIih7On0sIHs6fSkiLmZvcm1hdChsWzBdLCBsWzFdKSwKICAgICAgICAgICAgICAgIGNvbG9yPWMsIGZvbnRzaXplPWZzaXplLCB2YT0idG9wIiwgaGE9ImxlZnQiKQogICAgICAgIGF4LnRleHQobFswXSArIHR4dF9vZmZzZXQsIGxbMV0sIGxbMl0sCiAgICAgICAgICAgICAgICBjb2xvcj1jLCBmb250c2l6ZT1mc2l6ZSwgdmE9ImJvdHRvbSIsIGhhPSJsZWZ0IikK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgbng6Cg==</text>
+        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIvYWZzL2Nlcm4uY2gvZW5nL3NsL2xpbnRyYWNrL0JldGEtQmVhdC5zcmMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgbnk6Cg==</text>
+        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGMgPSBwcy5nZXRfbXBsX2NvbG9yKGlkeCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR4dF9vZmZzZXQgPSAocXhfbGltWzFdIC0gcXhfbGltWzBdKSAqIDAuMDIKICAgIGZvciBpZHgsIGwgaW4gZW51bWVyYXRlKGxvY2F0aW9ucyk6CiAgICAgICAgIyBjID0gcHMuZ2V0X21wbF9jb2xvcihpZHgpCiAgICAgICAgYyA9ICJrIgogICAgICAgIGZzaXplID0gMTEKICAgICAgICBheC5wbG90KGxbMF0sIGxbMV0sIGxhYmVsPWxbMl0sIG1hcmtlcj0ieCIsIGNvbG9yPWMpCiAgICAgICAgYXgudGV4dChsWzBdICsgdHh0X29mZnNldCwgbFsxXSwgIih7On0sIHs6fSkiLmZvcm1hdChsWzBdLCBsWzFdKSwKICAgICAgICAgICAgICAgIGNvbG9yPWMsIGZvbnRzaXplPWZzaXplLCB2YT0idG9wIiwgaGE9ImxlZnQiKQogICAgICAgIGF4LnRleHQobFswXSArIHR4dF9vZmZzZXQsIGxbMV0sIGxbMl0sCiAgICAgICAgICAgICAgICBjb2xvcj1jLCBmb250c2l6ZT1mc2l6ZSwgdmE9ImJvdHRvbSIsIGhhPSJsZWZ0IikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -669,10 +677,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpZywgYXggPSBwbHQuc3VicGxvdHMoMSwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgbng6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBueToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgbnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
