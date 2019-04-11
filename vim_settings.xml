@@ -36,11 +36,11 @@
         <mark key="]" line="34" column="91" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1554721031902">
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="." line="339" column="0" />
-        <mark key="^" line="339" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1554978789109">
+        <mark key="[" line="371" column="71" />
+        <mark key="]" line="374" column="98" />
+        <mark key="." line="371" column="0" />
+        <mark key="^" line="367" column="75" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/BpmsChartInteractor.java" timestamp="1530779371677">
         <mark key="'" line="0" column="0" />
@@ -66,13 +66,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbmV3TWluWCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoeFNwaW5lT2Zmc2V0IC0gY29ycmVjdGVkUG9pbnQueCkqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS53aWR0aCAtIGNvcnJlY3RlZFBvaW50LngpICogc2NhbGUpOwogICAgICAgIGludCBuZXdNaW5ZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKCh5U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WSA9IGNvcnJlY3RlZFBvaW50LnkgKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS5oZWlnaHQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>getMouseWheelZoomWindow(new Point(e.getX(), e.getY()), e.getWheelRotation())</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5ld0RhdGFXaW5kb3cgPSBuZXcgRGF0YVdpbmRvdyhjdXJyZW50RGF0YVdpbmRvdy5nZXRYUmFuZ2UoKSwgbmV3RGF0YVdpbmRvdy5nZXRZUmFuZ2UoKSkgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbmV3TWluWCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoeFNwaW5lT2Zmc2V0IC0gY29ycmVjdGVkUG9pbnQueCkqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS53aWR0aCAtIGNvcnJlY3RlZFBvaW50LngpICogc2NhbGUpOwogICAgICAgIGludCBuZXdNaW5ZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKCh5U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WSA9IGNvcnJlY3RlZFBvaW50LnkgKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS5oZWlnaHQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
