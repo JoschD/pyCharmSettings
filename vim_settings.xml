@@ -36,11 +36,10 @@
         <mark key="]" line="34" column="91" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1554978789109">
-        <mark key="[" line="371" column="71" />
-        <mark key="]" line="374" column="98" />
-        <mark key="." line="371" column="0" />
-        <mark key="^" line="367" column="75" />
+      <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1554980560956">
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="367" column="0" />
+        <mark key="." line="367" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/BetaBeatGui/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/BpmsChartInteractor.java" timestamp="1530779371677">
         <mark key="'" line="0" column="0" />
@@ -66,7 +65,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbmV3TWluWCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoeFNwaW5lT2Zmc2V0IC0gY29ycmVjdGVkUG9pbnQueCkqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS53aWR0aCAtIGNvcnJlY3RlZFBvaW50LngpICogc2NhbGUpOwogICAgICAgIGludCBuZXdNaW5ZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKCh5U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WSA9IGNvcnJlY3RlZFBvaW50LnkgKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS5oZWlnaHQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBuZXdNYXhZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKChnZXRQbG90UmVjdCgpLmhlaWdodCAtIGNvcnJlY3RlZFBvaW50LnkpICogc2NhbGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getMouseWheelZoomWindow(new Point(e.getX(), e.getY()), e.getWheelRotation())</text>
@@ -75,33 +74,31 @@
         <text encoding="base64">ICAgICAgICBpbnQgbmV3TWluWCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoeFNwaW5lT2Zmc2V0IC0gY29ycmVjdGVkUG9pbnQueCkqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WCA9IGNvcnJlY3RlZFBvaW50LnggKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS53aWR0aCAtIGNvcnJlY3RlZFBvaW50LngpICogc2NhbGUpOwogICAgICAgIGludCBuZXdNaW5ZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKCh5U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsKICAgICAgICBpbnQgbmV3TWF4WSA9IGNvcnJlY3RlZFBvaW50LnkgKyAoaW50KSgoZ2V0UGxvdFJlY3QoKS5oZWlnaHQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBuZXdNYXhZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKChnZXRQbG90UmVjdCgpLmhlaWdodCAtIGNvcnJlY3RlZFBvaW50LnkpICogc2NhbGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3RGF0YVdpbmRvdyA9IG5ldyBEYXRhV2luZG93KG5ld0RhdGFXaW5kb3cuZ2V0WFJhbmdlKCksIGN1cnJlbnREYXRhV2luZG93LmdldFlSYW5nZSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBuZXdNaW5ZID0gY29ycmVjdGVkUG9pbnQueSArIChpbnQpKCh5U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC55KSAqIHNjYWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3RGF0YVdpbmRvdyA9IG5ldyBEYXRhV2luZG93KGN1cnJlbnREYXRhV2luZG93LmdldFhSYW5nZSgpLCBuZXdEYXRhV2luZG93LmdldFlSYW5nZSgpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBuZXdNYXhYID0gY29ycmVjdGVkUG9pbnQueCArIChpbnQpKChnZXRQbG90UmVjdCgpLndpZHRoIC0gY29ycmVjdGVkUG9pbnQueCkgKiBzY2FsZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIGludCBuZXdNaW5YID0gY29ycmVjdGVkUG9pbnQueCArIChpbnQpKCh4U3BpbmVPZmZzZXQgLSBjb3JyZWN0ZWRQb2ludC54KSogc2NhbGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdWaXNpYmxlV2luZG93cy5wdXQoMCwgbmV3RGF0YVdpbmRvdyk7IC8vIHpvb20gaW4gdG8gdGhlIG5ldyB3aW5kb3cgZGVwZW5kaW5nIG9uIHRoaXMgb2Zmc2V0ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50VmlzaWJsZVdpbmRvd3MucHV0KDAsIHRoaXMuZ2V0Q2hhcnQoKS5nZXREYXRhV2luZG93KCkpOyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3RGF0YVdpbmRvdyA9IG5ldyBEYXRhV2luZG93KG5ld0RhdGFXaW5kb3cuZ2V0WFJhbmdlKCksIGN1cnJlbnREYXRhV2luZG93LmdldFlSYW5nZSgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyZm9ybVpvb20oY3VycmVudFZpc2libGVXaW5kb3dzLCBuZXdWaXNpYmxlV2luZG93cywgdHJ1ZSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3RGF0YVdpbmRvdyA9IG5ldyBEYXRhV2luZG93KGN1cnJlbnREYXRhV2luZG93LmdldFhSYW5nZSgpLCBuZXdEYXRhV2luZG93LmdldFlSYW5nZSgpKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>Export Component now uses specific filename.
-Also, better Error handling in this regard.</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>Simplified cleaning, added chart change via keyboard, 
-added BPM-Names to HoverText.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBuZXdWaXNpYmxlV2luZG93cy5wdXQoMCwgbmV3RGF0YVdpbmRvdyk7IC8vIHpvb20gaW4gdG8gdGhlIG5ldyB3aW5kb3cgZGVwZW5kaW5nIG9uIHRoaXMgb2Zmc2V0ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
