@@ -172,12 +172,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1550583439004">
         <mark key="[" line="50" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1555064725857">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="24" column="0" />
-      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1555084501113" />
       <file name="/" timestamp="1548954006277">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +243,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1555081292298">
+      <file name="/Python Console" timestamp="1555084502801">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -523,7 +518,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQxID0gIjIwMTgtMDQtMTAgMDA6MDA6MDAuMDAwIgogICAgdDIgPSAiMjAxOC0wNC0xMSAyMzoyMjowMC4wMDAiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -639,32 +634,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHQxID0gIjIwMTgtMDQtMTAgMDA6MDA6MDAuMDAwIgogICAgdDIgPSAiMjAxOC0wNC0xMSAyMzoyMjowMC4wMDAiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmRlZiBnZXRfbGFzdF9iZWFtcHJvY2Vzcyh0aW1lKTo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bHNhLgo=</text>
+        <text encoding="base64">ICAgIGxzYS5fbGhjU2VydmljZS5maW5kUmVzaWRlbnRTdGFuZEFsb25lQmVhbVByb2Nlc3Nlc0J5VGltZSgpCg==</text>
       </register>
-      <register name="3" type="8">
-        <text>[0,0]
-[0,0]
-[0,0]
-[0,0]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHQxID0gIjIwMTgtMDQtMTAgMDA6MDA6MDAuMDAwIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQyID0gIjIwMTgtMDQtMTEgMjM6MTI6MDAuMDAwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT10MSwgdDI9dDIsIGFjY2VsZXJhdG9yPSdsaGMnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIvYWZzL2Nlcm4uY2gvZW5nL3NsL2xpbnRyYWNrL0JldGEtQmVhdC5zcmMiKQo=</text>
+        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT10MSwgdDI9dDIsIGFjY2VsZXJhdG9yPSdsaGMnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">TElORV9TVFlMRVMgPSBbIi0iLCAiLSIsICItLSIsICItLSIsICI6Il0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">CmRlZiBnZXRfbGFzdF9iZWFtcHJvY2Vzcyh0aW1lKTo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -690,10 +682,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGMgPSBwcy5nZXRfbXBsX2NvbG9yKGlkeCkK</text>
+        <text encoding="base64">bHNhLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHR4dF9vZmZzZXQgPSAocXhfbGltWzFdIC0gcXhfbGltWzBdKSAqIDAuMDIKICAgIGZvciBpZHgsIGwgaW4gZW51bWVyYXRlKGxvY2F0aW9ucyk6CiAgICAgICAgIyBjID0gcHMuZ2V0X21wbF9jb2xvcihpZHgpCiAgICAgICAgYyA9ICJrIgogICAgICAgIGZzaXplID0gMTEKICAgICAgICBheC5wbG90KGxbMF0sIGxbMV0sIGxhYmVsPWxbMl0sIG1hcmtlcj0ieCIsIGNvbG9yPWMpCiAgICAgICAgYXgudGV4dChsWzBdICsgdHh0X29mZnNldCwgbFsxXSwgIih7On0sIHs6fSkiLmZvcm1hdChsWzBdLCBsWzFdKSwKICAgICAgICAgICAgICAgIGNvbG9yPWMsIGZvbnRzaXplPWZzaXplLCB2YT0idG9wIiwgaGE9ImxlZnQiKQogICAgICAgIGF4LnRleHQobFswXSArIHR4dF9vZmZzZXQsIGxbMV0sIGxbMl0sCiAgICAgICAgICAgICAgICBjb2xvcj1jLCBmb250c2l6ZT1mc2l6ZSwgdmE9ImJvdHRvbSIsIGhhPSJsZWZ0IikK</text>
+      <register name="9" type="8">
+        <text>[0,0]
+[0,0]
+[0,0]
+[0,0]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
