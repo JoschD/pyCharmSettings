@@ -251,10 +251,11 @@
       <file name="/Python Console" timestamp="1556545397538">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556547461275">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556548565605">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="41" column="45" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1556525275719" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -528,7 +529,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBkdF91dGMuc3RyZnRpbWUoZ2V0X3RpbWVfZm9ybWF0KCkpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -642,7 +643,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGxvY2FsX3RvX3V0YyhkdF9sb2NhbCk6CiAgICAiIiIgQ29udmVydCBsb2NhbCBkYXRldGltZSBvYmplY3QgdG8gdXRjIGRhdGV0aW1lIG9iamVjdC4gIiIiCiAgICBsb2NhbCA9IGdldF9leHBlcmltZW50X3RpbWV6b25lKCkKICAgIHJldHVybiBsb2NhbC5sb2NhbGl6ZShkdF9sb2NhbCkuYXN0aW1lem9uZShweXR6LnV0YykK</text>
+        <text encoding="base64">ICAgIHJldHVybiBkdF91dGMuc3RyZnRpbWUoZ2V0X3RpbWVfZm9ybWF0KCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGxvY2FsID0gZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoKQo=</text>
