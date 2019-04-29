@@ -82,9 +82,9 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1551431006109">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="30" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1555085992196">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="41" />
         <mark key="^" line="23" column="10" />
         <mark key="." line="28" column="11" />
       </file>
@@ -172,7 +172,12 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1550583439004">
         <mark key="[" line="50" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1555084501113" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1555086014442">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/" timestamp="1548954006277">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,6 +251,7 @@
       <file name="/Python Console" timestamp="1555084502801">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1556525275719" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="344" column="80" />
@@ -324,7 +330,6 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/context.py" timestamp="1550574426455">
         <mark key="[" line="5" column="31" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/twiss_optics/optics_class.py" timestamp="1554987171711" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/esrf_tbt.py" timestamp="1550229552644">
         <mark key="[" line="0" column="0" />
       </file>
@@ -379,9 +384,9 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="17" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1551431796887">
-        <mark key="[" line="251" column="8" />
-        <mark key="]" line="251" column="8" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/data_converter.py" timestamp="1555086078791">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="78" />
         <mark key="." line="251" column="8" />
         <mark key="^" line="251" column="8" />
       </file>
@@ -518,7 +523,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRpbWUgPSBweXR6LnV0Yy5sb2NhbGl6ZShkYXRldGltZS5zdHJwdGltZSh0aW1lLCBjb25zdC5nZXRfdGltZV9mb3JtYXQoKSkpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -632,7 +637,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHQxID0gIjIwMTgtMDQtMTAgMDA6MDA6MDAuMDAwIgogICAgdDIgPSAiMjAxOC0wNC0xMSAyMzoyMjowMC4wMDAiCg==</text>
+        <text encoding="base64">ICAgIHRpbWUgPSBweXR6LnV0Yy5sb2NhbGl6ZShkYXRldGltZS5zdHJwdGltZSh0aW1lLCBjb25zdC5nZXRfdGltZV9mb3JtYXQoKSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
