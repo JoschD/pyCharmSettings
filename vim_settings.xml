@@ -172,9 +172,9 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1550583439004">
         <mark key="[" line="50" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1556547045843">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="84" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1556551441744">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="46" />
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
       </file>
@@ -210,6 +210,9 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/projects/18_MD1_ampdetxing/bartest" timestamp="1551878281144">
         <mark key="[" line="20" column="31" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/requirements.txt" timestamp="1556550634771">
+        <mark key="[" line="8" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/2dplot.py" timestamp="1553769362543">
         <mark key="[" line="52" column="14" />
@@ -248,14 +251,13 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1556545397538">
+      <file name="/Python Console" timestamp="1556552735180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556548565605">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="41" column="45" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="36" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556552821009">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1556525275719" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -396,6 +398,12 @@
         <mark key="." line="251" column="8" />
         <mark key="^" line="251" column="8" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556552740761">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="36" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
       </file>
@@ -529,7 +537,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkdF91dGMuc3RyZnRpbWUoZ2V0X3RpbWVfZm9ybWF0KCkpCg==</text>
+        <text encoding="base64">CmRlZiB0b19zdHJpbmcoZHQpOgogICAgIiIiIENvbnZlcnQgYSB1dGMgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgdXRjIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0LnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -643,31 +651,34 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkdF91dGMuc3RyZnRpbWUoZ2V0X3RpbWVfZm9ybWF0KCkpCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHJldHVybiBkdF9sb2NhbC5hc3RpbWV6b25lKHB5dHoudXRjKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoKQo=</text>
+        <text encoding="base64">CmRlZiB0b19zdHJpbmcoZHQpOgogICAgIiIiIENvbnZlcnQgYSB1dGMgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgdXRjIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0LnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoYWRkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsb2NhbC5sb2NhbGl6ZShkYXRldGltZS5zdHJwdGltZSh0LCBnZXRfdGltZV9mb3JtYXQoKSkpLmFzdGltZXpvbmUocHl0ei51dGMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvY2FsID0gZ2V0X2V4cGVyaW1lbnRfdGltZXpvbmUoKQo=</text>
+        <text encoding="base64">ZGVmIHV0Y190b19sb2NhbF9zdHJpbmcoZHRfdXRjKToKICAgICIiIiBDb252ZXJ0IGEgdXRjIGRhdGV0aW1lIG9iamVjdCB0byBhIGxvY2FsIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0X3V0Yy5hc3RpbWV6b25lKGdldF9leHBlcmltZW50X3RpbWV6b25lKCkpLnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>else:
+        raise LookupError(
+            f&quot;No Beamprocess found that ended before {time_tools.utc_to_utc_string(dt_utc)}.&quot;
+        )</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxzYS5fbGhjU2VydmljZS5maW5kUmVzaWRlbnRTdGFuZEFsb25lQmVhbVByb2Nlc3Nlc0J5VGltZSgpCg==</text>
+        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT1zdGFydF9sb2NhbCwgdDI9ZW5kX2xvY2FsLCBhY2NlbGVyYXRvcj0nbGhjJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHQxID0gIjIwMTgtMDQtMTAgMDA6MDA6MDAuMDAwIgo=</text>
+        <text encoding="base64">ICAgIGVuZF9sb2NhbCA9IHRpbWVfdG9vbHMudXRjX3RvX2xvY2FsKGR0X3V0YykKICAgIHN0YXJ0X2xvY2FsID0gZW5kX2xvY2FsIC0gdGltZWRlbHRhKGRheXM9MSkKCiAgICBiZWFtcHJvY2Vzc2VzID0gbHNhLmZpbmRCZWFtUHJvY2Vzc0hpc3RvcnkodDE9c3RhcnRfbG9jYWwsIHQyPWVuZF9sb2NhbCwgYWNjZWxlcmF0b3I9J2xoYycpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -693,10 +704,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHQyID0gIjIwMTgtMDQtMTEgMjM6MTI6MDAuMDAwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT10MSwgdDI9dDIsIGFjY2VsZXJhdG9yPSdsaGMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
