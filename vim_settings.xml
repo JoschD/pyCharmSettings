@@ -254,10 +254,10 @@
       <file name="/Python Console" timestamp="1556552735180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556552821009">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556619990709">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1556525275719" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -344,7 +344,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/stats.py" timestamp="1550228993449">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555060232097">
+      <file name="/Dummy.txt" timestamp="1556619801928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/convert_kickac_old.py" timestamp="1554476950497">
@@ -398,11 +398,11 @@
         <mark key="." line="251" column="8" />
         <mark key="^" line="251" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556552740761">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="36" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556619846875">
+        <mark key="[" line="55" column="11" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="52" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
@@ -537,7 +537,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmRlZiB0b19zdHJpbmcoZHQpOgogICAgIiIiIENvbnZlcnQgYSB1dGMgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgdXRjIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0LnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -654,31 +654,31 @@
         <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHJldHVybiBkdF9sb2NhbC5hc3RpbWV6b25lKHB5dHoudXRjKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRlZiB0b19zdHJpbmcoZHQpOgogICAgIiIiIENvbnZlcnQgYSB1dGMgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgdXRjIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0LnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiB0b19zdHJpbmcoZHQpOgogICAgIiIiIENvbnZlcnQgYSB1dGMgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgdXRjIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0LnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ZGVmIHV0Y190b19sb2NhbF9zdHJpbmcoZHRfdXRjKToKICAgICIiIiBDb252ZXJ0IGEgdXRjIGRhdGV0aW1lIG9iamVjdCB0byBhIGxvY2FsIHRpbWUgc3RyaW5nICIiIgogICAgcmV0dXJuIGR0X3V0Yy5hc3RpbWV6b25lKGdldF9leHBlcmltZW50X3RpbWV6b25lKCkpLnN0cmZ0aW1lKGdldF90aW1lX2Zvcm1hdCgpKQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>else:
         raise LookupError(
             f&quot;No Beamprocess found that ended before {time_tools.utc_to_utc_string(dt_utc)}.&quot;
         )</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT1zdGFydF9sb2NhbCwgdDI9ZW5kX2xvY2FsLCBhY2NlbGVyYXRvcj0nbGhjJykK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZF9sb2NhbCA9IHRpbWVfdG9vbHMudXRjX3RvX2xvY2FsKGR0X3V0YykKICAgIHN0YXJ0X2xvY2FsID0gZW5kX2xvY2FsIC0gdGltZWRlbHRhKGRheXM9MSkKCiAgICBiZWFtcHJvY2Vzc2VzID0gbHNhLmZpbmRCZWFtUHJvY2Vzc0hpc3RvcnkodDE9c3RhcnRfbG9jYWwsIHQyPWVuZF9sb2NhbCwgYWNjZWxlcmF0b3I9J2xoYycpCg==</text>
+        <text encoding="base64">ICAgIGJlYW1wcm9jZXNzZXMgPSBsc2EuZmluZEJlYW1Qcm9jZXNzSGlzdG9yeSh0MT1zdGFydF9sb2NhbCwgdDI9ZW5kX2xvY2FsLCBhY2NlbGVyYXRvcj0nbGhjJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -704,7 +704,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuZF9sb2NhbCA9IHRpbWVfdG9vbHMudXRjX3RvX2xvY2FsKGR0X3V0YykKICAgIHN0YXJ0X2xvY2FsID0gZW5kX2xvY2FsIC0gdGltZWRlbHRhKGRheXM9MSkKCiAgICBiZWFtcHJvY2Vzc2VzID0gbHNhLmZpbmRCZWFtUHJvY2Vzc0hpc3RvcnkodDE9c3RhcnRfbG9jYWwsIHQyPWVuZF9sb2NhbCwgYWNjZWxlcmF0b3I9J2xoYycpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
