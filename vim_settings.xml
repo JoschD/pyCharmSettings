@@ -254,10 +254,11 @@
       <file name="/Python Console" timestamp="1556552735180">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556619990709">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556625450917">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/detuning_tools.py" timestamp="1556525275719" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
@@ -537,7 +538,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRldGltZSA9IHV0Y19kYXRldGltZQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -651,7 +652,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgIHJldHVybiBkdF9sb2NhbC5hc3RpbWV6b25lKHB5dHoudXRjKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5kYXRldGltZSA9IHV0Y19kYXRldGltZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeToK</text>
