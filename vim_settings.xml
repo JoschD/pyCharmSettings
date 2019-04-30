@@ -150,11 +150,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_machine_settings_overview.py" timestamp="1556642371165">
-        <mark key="[" line="33" column="74" />
-        <mark key="]" line="33" column="74" />
-        <mark key="." line="33" column="74" />
-        <mark key="^" line="33" column="74" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_machine_settings_overview.py" timestamp="1556646979747">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="49" column="16" />
+        <mark key="." line="49" column="8" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="/Python Console" timestamp="1556644452516">
         <mark key="[" line="0" column="0" />
@@ -546,8 +546,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>print</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -655,66 +655,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fills[6536][-1][0]</text>
+        <text>print</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      <register name="0" type="4">
+        <text>LOG.info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRpbWJlcl9kYiA9IHB5dGltYmVyLkxvZ2dpbmdEQigpIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGltYjY1MzYgPSBkYi5nZXRMSENGaWxsRGF0YSg2NTM2KQo=</text>
+        <text encoding="base64">ICAgIGZpbGxfdGltYmVyID0gdGltYmVyX2RiLmdldExIQ0ZpbGxEYXRhKGZpbGxfbm8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoIiIpVgpwcmludCgiRmlsbCA2NTM3IikKcHJpbnQoIkZyb20gcGpsc2E6IikKcHJpbnQoZiJTdGFydDoge3N0cnRpbWUobHNhX2ZpbGxzWzY1MzddWzBdWzBdKX0iKQpwcmludChmIkVuZDogICB7c3RydGltZShsc2FfZmlsbHNbNjUzN11bLTFdWzBdKX0iKQpwcmludCgiIikKcHJpbnQoIkZyb20gcHl0aW1iZXI6IikKcHJpbnQoZiJTdGFydDoge3N0cnRpbWUodGltYjY1MzdbJ3N0YXJ0VGltZSddKX0iKQpwcmludChmIkVuZDogICB7c3RydGltZSh0aW1iNjUzN1snZW5kVGltZSddKX0iKQpwcmludCgiIikK</text>
+        <text encoding="base64">ICAgIGZpbGxfc3RhcnQsIGZpbGxfZW5kID0gW2ZpbGxfdGltYmVyW2tleV0gZm9yIGtleSBpbiAoJ3N0YXJ0VGltZScsICdlbmRUaW1lJyldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoIkZpbGwgNjUzNyIpCg==</text>
+        <text encoding="base64">ICAgIGZpbGxfc3RhcnQsIGZpbGxfZW5kID0gZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLCBuYW1lID0gdG1wX3RpbWUsIHRtcF9uYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoIkZpbGwgNjUzNiIpCg==</text>
+        <text encoding="base64">ICAgIHRpbWUsIG5hbWUgPSBiZWFtcHJvY2Vzc2VzWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZiJTdGFydDoge3N0cnRpbWUodGltYjY1MzZbJ3N0YXJ0VGltZSddKX0iKQpwcmludChmIkVuZDogICB7c3RydGltZSh0aW1iNjUzNlsnZW5kVGltZSddKX0iKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3VuZCA9IGl0ZW0K</text>
       </register>
       <register name="w" type="4">
         <keys>
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="34" code="0" mods="0" />
           <key char="48" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="69" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="68" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoIkZpbGwgNjUzNiIpCg==</text>
+        <text encoding="base64">ICAgIGZvdW5kID0gb3B0aWNzX3RhYmxlWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
