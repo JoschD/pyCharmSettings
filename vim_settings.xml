@@ -38,6 +38,12 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/trackone.py" timestamp="1550229638608">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1556876692045">
+        <mark key="[" line="222" column="75" />
+        <mark key="]" line="222" column="76" />
+        <mark key="." line="222" column="20" />
+        <mark key="^" line="222" column="19" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1554814338238">
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="37" />
@@ -119,6 +125,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1556876920324">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/print_machine_settings_overview.py" timestamp="1556790301995">
         <mark key="[" line="0" column="0" />
@@ -206,6 +217,12 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/outliers.py" timestamp="1550228912085">
         <mark key="[" line="1" column="10" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.example_hector/analyse_detuning.py" timestamp="1556877891642">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="/afs/cern.ch/user/l/lmalina/public/omc3/omc3/harpy/frequency.py" timestamp="1549375298200">
         <mark key="[" line="105" column="47" />
@@ -350,7 +367,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBsaGMudXRjKCkudGltZSgpID09IHBzLnV0YygpLnRpbWUoKQo=</text>
+        <text encoding="base64">QkFTRV9ESVIgPSAiLi8iCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -467,28 +484,28 @@
         <text encoding="base64">ICAgIGFzc2VydCBsaGMudXRjKCkudGltZSgpID09IHBzLnV0YygpLnRpbWUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBwcwo=</text>
+        <text encoding="base64">QkFTRV9ESVIgPSAiLi8iCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3N0ciA9IGxvY2FsLnN0cmZ0aW1lKHR0LmdldF90aW1lX2Zvcm1hdCgpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3Rfc3RyaW5ncyhub3cpOgogICAgdXRjX3N0cmluZyA9IG5vdy5zdHJmdGltZSh0dC5nZXRfdGltZV9mb3JtYXQoKSkKICAgIHV0Y19kdCA9IHR0LnV0Y19zdHJpbmdfdG9fdXRjKHV0Y19zdHJpbmcpCiAgICBhc3NlcnQgbm93ID09IHV0Y19kdAoKICAgIGxvY2FsID0gdHQudXRjX3RvX2xvY2FsKG5vdywgdHQuZ2V0X2Nlcm5fdGltZXpvbmUoKSkKICAgIHV0Y19kdCA9IHR0LmxvY2FsX3RvX3V0Yyhsb2NhbCwgdHQuZ2V0X2Nlcm5fdGltZXpvbmUoKSkKICAgIGFzc2VydCBub3cgPT0gdXRjX2R0Cgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vdyA9IHR0LnV0Y19ub3coKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmIHBsb3RfcGF0aChwbG90X25hbWUpOgogICAgcmV0dXJuIG9zLnBhdGguam9pbihCQVNFX0RJUiwgcGxvdF9uYW1lKQoKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICMgcGx0LnNob3coKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZnJvbSBwbG90c2hvcCBpbXBvcnQgcG9zdF9wcm9jZXNzaW5nCmZyb20gZmlndXJlX2VkaXRvciBpbXBvcnQgbWFpbiBhcyBmaWdlZGl0CmZyb20gbWF0cGxvdGxpYiBpbXBvcnQgcHlwbG90IGFzIHBsdAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y21tbmJ1aWxkLWRlcC1tYW5hZ2VyPj0yLjIuMgo=</text>
+        <text encoding="base64">ICAgIHN1Yl9kaXIgPSAiYmVhbTEvQjFfZmxhdG9yYml0X0gvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dHJhdmlzLXNwaGlueD49Mi4xLjAK</text>
+        <text encoding="base64">ICAgIGZpZ3NfY29tID0gZ2V0X2NvbW1pc2hfcGxvdHNfYjJfeSgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,10 +523,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpZ3NfY29tID0gZ2V0X2NvbW1pc2hfcGxvdHNfYjJfeCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1haW4oCiAgICAgICAgdGltZT0iMjAxOC0wNC0xMCAyMzoyMDowMC4wMDAiLAogICAgICAgICMga25vYnM9WwogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDEtWElORy1ILU1VUkFEIiwKICAgICAgICAjICAgICAgIkxIQ0JFQU0vSVAxLVhJTkctVi1NVVJBRCIsCiAgICAgICAgIyAgICAgICJMSENCRUFNL0lQMi1YSU5HLVYtTVVSQUQiLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDUtWElORy1ILU1VUkFEIiwKICAgICAgICAjICAgICAgIkxIQ0JFQU0vSVA1LVhJTkctVi1NVVJBRCIsCiAgICAgICAgIyAgICAgICJMSENCRUFNL0lQOC1YSU5HLUgtTVVSQUQiLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDEtU0VQLUgtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDEtU0VQLVYtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDItU0VQLUgtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDUtU0VQLUgtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDUtU0VQLVYtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDgtU0VQLVYtTU0iLAogICAgICAgICMgICAgICAiTEhDQkVBTS9JUDUtT0ZGU0VULVYtTU0iLAogICAgICAgICMgIF0KICAgICkK</text>
+        <text encoding="base64">ICAgIGZpZ3NfY29tID0gZ2V0X2NvbW1pc2hfcGxvdHNfYjFfeSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
