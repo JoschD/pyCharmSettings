@@ -48,11 +48,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/data_extract/pylsa.py" timestamp="1556642627950">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1555085992196">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="41" />
@@ -282,23 +277,14 @@
         <mark key="." line="251" column="8" />
         <mark key="^" line="251" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556639693146">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1556876920324">
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/print_machine_settings_overview.py" timestamp="1557151377069">
-        <mark key="[" line="12" column="7" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/print_machine_settings_overview.py" timestamp="1557152875398">
+        <mark key="[" line="96" column="34" />
+        <mark key="]" line="96" column="34" />
+        <mark key="." line="96" column="34" />
+        <mark key="^" line="96" column="34" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/tfs/index.rst" timestamp="1551108615656">
         <mark key="[" line="2" column="0" />
