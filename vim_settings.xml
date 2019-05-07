@@ -103,11 +103,10 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/timber.py" timestamp="1557223908970">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="9" column="56" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/timber.py" timestamp="1557224938822">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/utils/index.rst" timestamp="1551108549496">
         <mark key="[" line="15" column="0" />
@@ -200,7 +199,7 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1557221663011">
+      <file name="/Python Console" timestamp="1557224996736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556643029953">
@@ -314,11 +313,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/print_machine_settings_overview.py" timestamp="1557167473527">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/print_machine_settings_overview.py" timestamp="1557224759161">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="14" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/tfs/index.rst" timestamp="1551108615656">
         <mark key="[" line="2" column="0" />
@@ -402,10 +401,10 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/pylsa.py" timestamp="1557223936113">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/pylsa.py" timestamp="1557224385666">
+        <mark key="[" line="96" column="9" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1550161690558">
         <mark key="[" line="153" column="0" />
@@ -711,8 +710,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -820,7 +819,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>start_time.local_string()</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -829,28 +828,28 @@
         <text encoding="base64">ICAgICAgICBkYiA9IHB5dGltYmVyLkxvZ2dpbmdEQigpCiAgICAgICAgZXZlbnRfdHMsIGV2ZW50X3ZhbCA9IGRiLmdldCgnSFg6U1JNUC1QT1cnLCB0MSwgdDIpWydIWDpTUk1QLVBPVyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBJbmRleEVycm9yOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGFjdF90aW1lID0gYWNjX3RpbWUuX19jbGFzc19fLmZyb21fdGltZXN0YW1wKGV2ZW50X3RzWy0xXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaW5kX3JlbGV2YW50X2JwKHNlbGYsIGFjY190aW1lLCBhY2NlbGVyYXRvcj0nbGhjJyk6CiAgICAgICAgdDIgPSBhY2NfdGltZS5sb2NhbF9zdHJpbmcoKQogICAgICAgIHQxID0gYWNjX3RpbWUuc3ViKGRheXM9MSkubG9jYWxfc3RyaW5nKCkgICMgYXNzdW1lcyBhIGZpbGwgaXMgbm90IGxvbmdlciB0aGFuIGEgZGF5CgogICAgICAgIGJwcyA9IHNlbGYuZmluZFVzZXJDb250ZXh0TWFwcGluZ0hpc3RvcnkodDEsIHQyLCBhY2NlbGVyYXRvcj1hY2NlbGVyYXRvcikKICAgICAgICBhY2MgPSBwamxzYS5BY2NlbGVyYXRvcnMuZ2V0KGFjY2VsZXJhdG9yLCBhY2NlbGVyYXRvcikKICAgICAgICBicHNfaW5mbyA9IHNlbGYuX2NvbnRleHRTZXJ2aWNlLmZpbmRTdGFuZEFsb25lQmVhbVByb2Nlc3NlcyhhY2MpCiAgICAgICAgZGIgPSBweXRpbWJlci5Mb2dnaW5nREIoKQogICAgICAgIGV2ZW50X3RzLCBldmVudF92YWwgPSBkYi5nZXQoJ0hYOlNSTVAtUE9XJywgdDEsIHQyKVsnSFg6U1JNUC1QT1cnXQogICAgICAgIGZpbGxfdHMsIGZpbGxfbm8gPSBkYi5nZXQoJ0hYOkZJTExOJywgdDEsIHQyKVsnSFg6RklMTE4nXQogICAgICAgIGJwc19vdXQgPSB7fQogICAgICAgIGZvciB0cywgbmFtZSBpbiB6aXAoYnBzLnRpbWVzdGFtcCwgYnBzLm5hbWUpOgogICAgICAgICAgICBldmVudCA9IGludChldmVudF92YWxbZXZlbnRfdHMuc2VhcmNoc29ydGVkKHRzKSAtIDFdKQogICAgICAgICAgICBmaWxsID0gaW50KGZpbGxfbm9bZmlsbF90cy5zZWFyY2hzb3J0ZWQodHMpIC0gMV0pCiAgICAgICAgICAgIGlmIGV2ZW50ID09IDEyMzoKICAgICAgICAgICAgICAgIGJwID0gYnBzX2luZm9bbmFtZV0KICAgICAgICAgICAgICAgIGJwc19vdXRbdHNdID0gewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogbmFtZSwKICAgICAgICAgICAgICAgICAgICAiZmlsbCI6IGZpbGwsCiAgICAgICAgICAgICAgICAgICAgImNhdGVnb3J5Ijogc3RyKGJwLmNhdGVnb3J5KSwKICAgICAgICAgICAgICAgICAgICAiY29udGV4dCI6IHN0cihicC5jb250ZXh0Q2F0ZWdvcnkpLAogICAgICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6IHN0cihicC5kZXNjcmlwdGlvbiksCiAgICAgICAgICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJwc19vdXQsIGV2ZW50X3ZhbAoK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlbF9icCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaW5kX2V4YWN0X3RpbWVfZm9yX2JwKGFjY190aW1lLCBhY2NlbGVyYXRvcj0nbGhjJyk6CiAgICAgICAgIiIiIEZpbmRzIHRoZSBsYXN0ICIiIgogICAgICAgIGRiID0gcHl0aW1iZXIuTG9nZ2luZ0RCKCkKICAgICAgICB0MSwgdDIgPSBhY2NfdGltZS5zdWIoZGF5cz0xKS50aW1lc3RhbXAoKSwgYWNjX3RpbWUudGltZXN0YW1wKCkKICAgICAgICBldmVudF90cywgZXZlbnRfdmFsID0gZGIuZ2V0KCdIWDpTUk1QLVBPVycsIHQxLCB0MilbJ0hYOlNSTVAtUE9XJ10KICAgICAgICB0cnk6CiAgICAgICAgICAgIGV4YWN0X3RpbWUgPSBhY2NfdGltZS5fX2NsYXNzX18uZnJvbV90aW1lc3RhbXAoZXZlbnRfdHNbZXZlbnRfdmFsID09IDEyMy5dWy0xXSkKICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIk5vIHZhbGlkIGJlYW1wcm9jZXNzIGZvdW5kIGluIHRoZSAyNGggYmVmb3JlIHthY2NfdGltZS51dGNfc3RyaW5nKCl9IikKICAgICAgICBMT0cuZGVidWcoZiJFeGFjdCB0aW1lIGZvdW5kOiB7ZXhhY3RfdGltZS51dGNfc3RyaW5nKCl9IikKICAgICAgICByZXR1cm4gZXhhY3RfdGltZQo=</text>
+        <text encoding="base64">ICAgIHJlbF9icCA9IGxzYS5maW5kX2xhc3RfcmVsZXZhbnRfYnAoYWNjX3RpbWUsIGFjY2VsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHl0aW1iZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHl0aW1iZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBicHNfaW5mbyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kX3JlbGV2YW50X2JwKHNlbGYsIGFjY190aW1lLCBhY2NlbGVyYXRvcj0nbGhjJyk6CiAgICAgICAgdDIgPSBhY2NfdGltZS5sb2NhbF9zdHJpbmcoKQogICAgICAgIHQxID0gYWNjX3RpbWUuc3ViKGRheXM9MSkubG9jYWxfc3RyaW5nKCkgICMgYXNzdW1lcyBhIGZpbGwgaXMgbm90IGxvbmdlciB0aGFuIGEgZGF5CgogICAgICAgIGJwcyA9IHNlbGYuZmluZFVzZXJDb250ZXh0TWFwcGluZ0hpc3RvcnkodDEsIHQyLCBhY2NlbGVyYXRvcj1hY2NlbGVyYXRvcikKICAgICAgICBhY2MgPSBwamxzYS5BY2NlbGVyYXRvcnMuZ2V0KGFjY2VsZXJhdG9yLCBhY2NlbGVyYXRvcikKICAgICAgICBicHNfaW5mbyA9IHNlbGYuX2NvbnRleHRTZXJ2aWNlLmZpbmRTdGFuZEFsb25lQmVhbVByb2Nlc3NlcyhhY2MpCiAgICAgICAgZGIgPSBweXRpbWJlci5Mb2dnaW5nREIoKQogICAgICAgIGV2ZW50X3RzLCBldmVudF92YWwgPSBkYi5nZXQoJ0hYOlNSTVAtUE9XJywgdDEsIHQyKVsnSFg6U1JNUC1QT1cnXQogICAgICAgIGZpbGxfdHMsIGZpbGxfbm8gPSBkYi5nZXQoJ0hYOkZJTExOJywgdDEsIHQyKVsnSFg6RklMTE4nXQogICAgICAgIGJwc19vdXQgPSB7fQogICAgICAgIGZvciB0cywgbmFtZSBpbiB6aXAoYnBzLnRpbWVzdGFtcCwgYnBzLm5hbWUpOgogICAgICAgICAgICBldmVudCA9IGludChldmVudF92YWxbZXZlbnRfdHMuc2VhcmNoc29ydGVkKHRzKSAtIDFdKQogICAgICAgICAgICBmaWxsID0gaW50KGZpbGxfbm9bZmlsbF90cy5zZWFyY2hzb3J0ZWQodHMpIC0gMV0pCiAgICAgICAgICAgIGlmIGV2ZW50ID09IDEyMzoKICAgICAgICAgICAgICAgIGJwID0gYnBzX2luZm9bbmFtZV0KICAgICAgICAgICAgICAgIGJwc19vdXRbdHNdID0gewogICAgICAgICAgICAgICAgICAgICJuYW1lIjogbmFtZSwKICAgICAgICAgICAgICAgICAgICAiZmlsbCI6IGZpbGwsCiAgICAgICAgICAgICAgICAgICAgImNhdGVnb3J5Ijogc3RyKGJwLmNhdGVnb3J5KSwKICAgICAgICAgICAgICAgICAgICAiY29udGV4dCI6IHN0cihicC5jb250ZXh0Q2F0ZWdvcnkpLAogICAgICAgICAgICAgICAgICAgICJkZXNjcmlwdGlvbiI6IHN0cihicC5kZXNjcmlwdGlvbiksCiAgICAgICAgICAgICAgICB9CiAgICAgICAgcmV0dXJuIGJwc19vdXQsIGV2ZW50X3ZhbAoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -868,10 +867,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxscyA9IGRpY3QoemlwKGZpbGxzX3RpbWJlclswXSwgZmlsbHNfdGltYmVyWzFdKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBmaW5kX2V4YWN0X3RpbWVfZm9yX2JwKGFjY190aW1lLCBhY2NlbGVyYXRvcj0nbGhjJyk6CiAgICAgICAgIiIiIEZpbmRzIHRoZSBsYXN0ICIiIgogICAgICAgIGRiID0gcHl0aW1iZXIuTG9nZ2luZ0RCKCkKICAgICAgICB0MSwgdDIgPSBhY2NfdGltZS5zdWIoZGF5cz0xKS50aW1lc3RhbXAoKSwgYWNjX3RpbWUudGltZXN0YW1wKCkKICAgICAgICBldmVudF90cywgZXZlbnRfdmFsID0gZGIuZ2V0KCdIWDpTUk1QLVBPVycsIHQxLCB0MilbJ0hYOlNSTVAtUE9XJ10KICAgICAgICB0cnk6CiAgICAgICAgICAgIGV4YWN0X3RpbWUgPSBhY2NfdGltZS5fX2NsYXNzX18uZnJvbV90aW1lc3RhbXAoZXZlbnRfdHNbZXZlbnRfdmFsID09IDEyMy5dWy0xXSkKICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIk5vIHZhbGlkIGJlYW1wcm9jZXNzIGZvdW5kIGluIHRoZSAyNGggYmVmb3JlIHthY2NfdGltZS51dGNfc3RyaW5nKCl9IikKICAgICAgICBMT0cuZGVidWcoZiJFeGFjdCB0aW1lIGZvdW5kOiB7ZXhhY3RfdGltZS51dGNfc3RyaW5nKCl9IikKICAgICAgICByZXR1cm4gZXhhY3RfdGltZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcHl0aW1iZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
