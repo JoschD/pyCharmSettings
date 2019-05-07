@@ -199,7 +199,7 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1557224996736">
+      <file name="/Python Console" timestamp="1557229387905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556643029953">
@@ -401,10 +401,10 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="8" column="2" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/pylsa.py" timestamp="1557224385666">
-        <mark key="[" line="96" column="9" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/pylsa.py" timestamp="1557229423092">
+        <mark key="[" line="101" column="42" />
+        <mark key="]" line="101" column="42" />
+        <mark key="." line="101" column="42" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1550161690558">
         <mark key="[" line="153" column="0" />
@@ -426,11 +426,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/root/index.rst" timestamp="1556894492230">
         <mark key="[" line="0" column="4" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/doc/index.rst" timestamp="1556893763172">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/plotting/tune_diagram.py" timestamp="1554996605906">
         <mark key="[" line="19" column="7" />
@@ -711,7 +706,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>findResidentStandAloneBeamProcessesByTime</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -819,7 +814,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>findResidentStandAloneBeamProcessesByTime</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
