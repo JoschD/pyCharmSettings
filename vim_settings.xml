@@ -9,12 +9,6 @@
       <file name="/a.dummy" timestamp="1557332619950">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/README.md" timestamp="1556894680257">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="118" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="38" column="74" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/analyse_detuning.py" timestamp="1554801077667">
         <mark key="[" line="437" column="0" />
         <mark key="]" line="437" column="19" />
@@ -120,7 +114,7 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1557327967272">
+      <file name="/Python Console" timestamp="1557393437859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="51" />
         <mark key="." line="0" column="51" />
@@ -134,25 +128,16 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1556898539303">
         <mark key="[" line="4" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/.travis.yml" timestamp="1556897971954">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="2" column="89" />
-        <mark key="." line="2" column="89" />
-        <mark key="^" line="2" column="89" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/__init__.py" timestamp="1550493959339">
         <mark key="[" line="1" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1556894566709">
         <mark key="[" line="60" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/writer.py" timestamp="1556894402363">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/esrf_tbt.py" timestamp="1550229552644">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/mytest.py" timestamp="1557393227079">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/machine_settings_overview.py" timestamp="1557332536275">
@@ -223,7 +208,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="79" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/classes.py" timestamp="1556893710496">
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/classes.py" timestamp="1557393435732">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="10" column="16" />
         <mark key="^" line="9" column="10" />
@@ -234,12 +219,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/.gitignore" timestamp="1556894333822">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/pylsa.py" timestamp="1557328693483">
         <mark key="[" line="4" column="44" />
