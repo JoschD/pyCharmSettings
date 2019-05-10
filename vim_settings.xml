@@ -141,11 +141,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/test_dot_dict_error.py" timestamp="1550247883230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1557499014920">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="28" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1557501403887">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="19" column="9" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="19" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/tests/accuracy/context.py" timestamp="1556798051760">
         <mark key="[" line="5" column="33" />
@@ -234,9 +234,9 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1557231420725">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="231" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1557501431580">
+        <mark key="[" line="235" column="6" />
+        <mark key="]" line="105" column="49" />
         <mark key="." line="212" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1556898539303">
@@ -479,8 +479,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldF9pbmZvKHRpbWU9bWQzMzEyLCBrbm9icz1LTk9CUykK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -588,37 +588,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, acc_time.utc_string()),</text>
+        <text>, knobs=KNOBS</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdldF9pbmZvKHRpbWU9bWQzMzEyLCBrbm9icz1LTk9CUykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICJMSENCRUFNLzIwMThfZ2xvYmFsX2F0c19mbGF0X2IxX2Zvcl9pcDVfd2Fpc3QiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9hMyIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2IzIiwKICAgICAgICAgICAgICJMSENCRUFNLzIwMThfTUQ0X3JlcGxpY2F0aW5nSExfYTQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9iNCIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2I2IiwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOnB5bGhjL2RhdGFfZXh0cmFjdC9weWxzYS5weQo=</text>
+      <register name="3" type="4">
+        <text>, knobs=KNOBS)
+    get_info(time=md2418, knobs=KNOBS</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM6cHlsaGMvZGF0YV9leHRyYWN0L2xzYS5weQo=</text>
+      <register name="4" type="4">
+        <text>, knobs=KNOBS)
+    get_info(time=md2418, knobs=KNOBS</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>, knobs=KNOBS)
+    get_info(time=md2418, knobs=KNOBS</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9pbmZvX2VuZGluZygpOgogICAgIiIiIEZpbGVlbmRpbmcgZm9yIGZpbGVzIGNvbnRhaW5pbmcgaW5mby4gIiIiCiAgICByZXR1cm4gIi5pbmZvIgoKCmRlZiBnZXRfYmVhbXByb2Nlc3NfaW5mb19maWxlbmFtZShiZWFtcHJvY2Vzcyk6CiAgICAiIiIgRmlsZW5hbWUgZm9ybWF0IGZvciBiZWFtcHJvY2VzcyBpbmZvIGZpbGVzLiAiIiIKICAgIHJldHVybiAiYnBfIiArIGJlYW1wcm9jZXNzICsgZ2V0X2luZm9fZW5kaW5nKCkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -636,10 +639,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOnB5bGhjL2RhdGFfZXh0cmFjdC9weWxzYS5weQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIlRpbWUiOiBhY2NfdGltZS51dGNfc3RyaW5nKCksCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM6cHlsaGMvZGF0YV9leHRyYWN0L2xzYS5weQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
