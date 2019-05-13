@@ -12,7 +12,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1557741102771">
+      <file name="/a.dummy" timestamp="1557753341527">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/twiss.mqsx.dat" timestamp="1554987724959">
@@ -45,6 +45,9 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/dict_tools.py" timestamp="1557327885268">
         <mark key="[" line="13" column="30" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/helper.py" timestamp="1557753424701">
+        <mark key="[" line="27" column="62" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
@@ -154,6 +157,11 @@
         <mark key="]" line="26" column="46" />
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="14" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/runner.py" timestamp="1557753647325">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/" timestamp="1557234911756">
         <mark key="[" line="0" column="0" />
@@ -315,10 +323,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/madx_wrapper.py" timestamp="1550236264320">
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1557740808749">
-        <mark key="[" line="135" column="40" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1557753512116">
+        <mark key="[" line="137" column="40" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/machine_settings_overview.py" timestamp="1557332536275">
         <mark key="[" line="0" column="0" />
@@ -487,7 +495,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">UkVTVUxUU19QQVRIID0gIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9QaEQvU1RVRFkuMTguSExMSENEQS5NYWNoaW5lRHJpZnQvMTBfT3JiaXRTZXBhcmF0aW9uL3Jlc3VsdHMvIgpQUkVTRU5UQVRJT05fUEFUSCAgPSAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1BoRC9TVFVEWS4xOC5ITExIQ0RBLk1hY2hpbmVEcmlmdC85MF9QcmVzZW50YXRpb24vaW1hZ2VzLyIK</text>
+        <text encoding="base64">T1VURElSID0gIlNJTVJFUyIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -604,26 +612,25 @@
         <text>../results.analysis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UkVTVUxUU19QQVRIID0gIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9QaEQvU1RVRFkuMTguSExMSENEQS5NYWNoaW5lRHJpZnQvMTBfT3JiaXRTZXBhcmF0aW9uL3Jlc3VsdHMvIgpQUkVTRU5UQVRJT05fUEFUSCAgPSAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1BoRC9TVFVEWS4xOC5ITExIQ0RBLk1hY2hpbmVEcmlmdC85MF9QcmVzZW50YXRpb24vaW1hZ2VzLyIK</text>
+        <text encoding="base64">T1VURElSID0gIlNJTVJFUyIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UFJFU0VOVEFUSU9OX1BBVEggPSAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1BoRC9TVFVEWS4xOC5ITExIQ0RBLk1hY2hpbmVEcmlmdC9yZXN1bHQucHJlc19mb3JfbG1jL2ltYWdlcy8iCg==</text>
+        <text encoding="base64">UkVTVUxUU19QQVRIID0gIi9tZWRpYS9qZGlsbHkvU3RvcmFnZS9QaEQvU1RVRFkuMTguSExMSENEQS5NYWNoaW5lRHJpZnQvMTBfT3JiaXRTZXBhcmF0aW9uL3Jlc3VsdHMvIgpQUkVTRU5UQVRJT05fUEFUSCAgPSAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1BoRC9TVFVEWS4xOC5ITExIQ0RBLk1hY2hpbmVEcmlmdC85MF9QcmVzZW50YXRpb24vaW1hZ2VzLyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICJMSENCRUFNLzIwMThfZ2xvYmFsX2F0c19mbGF0X2IxX2Zvcl9pcDVfd2Fpc3QiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9hMyIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2IzIiwKICAgICAgICAgICAgICJMSENCRUFNLzIwMThfTUQ0X3JlcGxpY2F0aW5nSExfYTQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9iNCIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2I2IiwK</text>
+        <text encoding="base64">UFJFU0VOVEFUSU9OX1BBVEggPSAiL21lZGlhL2pkaWxseS9TdG9yYWdlL1BoRC9TVFVEWS4xOC5ITExIQ0RBLk1hY2hpbmVEcmlmdC9yZXN1bHQucHJlc19mb3JfbG1jL2ltYWdlcy8iCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICJMSENCRUFNLzIwMThfZ2xvYmFsX2F0c19mbGF0X2IxX2Zvcl9pcDVfd2Fpc3QiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9hMyIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2IzIiwKICAgICAgICAgICAgICJMSENCRUFNLzIwMThfTUQ0X3JlcGxpY2F0aW5nSExfYTQiLAogICAgICAgICAgICAgIkxIQ0JFQU0vMjAxOF9NRDRfcmVwbGljYXRpbmdITF9iNCIsCiAgICAgICAgICAgICAiTEhDQkVBTS8yMDE4X01ENF9yZXBsaWNhdGluZ0hMX2I2IiwK</text>
       </register>
       <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
-      <register name="6" type="4">
-        <text>, knobs=KNOBS)
-    get_info(time=md2418, knobs=KNOBS</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name="7" type="4">
         <text>, knobs=KNOBS)
@@ -648,8 +655,9 @@
         <text>, knobs=KNOBS)
     get_info(time=md2418, knobs=KNOBS</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+      <register name="9" type="4">
+        <text>, knobs=KNOBS)
+    get_info(time=md2418, knobs=KNOBS</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
