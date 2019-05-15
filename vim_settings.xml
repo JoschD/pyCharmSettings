@@ -133,10 +133,10 @@
         <mark key="." line="49" column="8" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="/Python Console" timestamp="1557393437859">
+      <file name="/Python Console" timestamp="1557924749397">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="51" />
-        <mark key="." line="0" column="51" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/utils/time_tools.py" timestamp="1556643029953">
         <mark key="[" line="19" column="0" />
@@ -362,6 +362,12 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/madx_wrapper.py" timestamp="1550236264320">
         <mark key="[" line="1" column="5" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/manual_feeddown.py" timestamp="1557924783606">
+        <mark key="[" line="136" column="13" />
+        <mark key="]" line="136" column="63" />
+        <mark key="^" line="136" column="15" />
+        <mark key="." line="136" column="40" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1557240219131">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
@@ -507,7 +513,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>np.zeros(len(df.index))</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -615,13 +621,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>re.match(&quot;&quot;, &quot;Hallo&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="4">
-        <text>../results.analysis</text>
+        <text>np.zeros(len(df.index))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICMgbWFpbigpCiAgICAjIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iWGluZ09uT2ZmIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJYaW5nSVAxIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJYaW5nSVA1IikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL3JkdF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJCMVhpbmdPbk9mZiIpCiAgICAjIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9obGxoY19hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iQWxsRXJyb3JzWGluZ1Rlc3QiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvaGxsaGNfYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249Ik9ubHlTZXh0dXBvbGVzIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2hsbGhjX2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJPbmx5SGlnaHBvbGVzIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2hsbGhjX2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnNYaW5nMjU1IikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2hsbGhjX2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnNPZmZEaXNwIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJBbGwiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvbWQzMzExLmluaSIsIHNlY3Rpb249IkVycm9yQ2hlY2siKQojICAgICBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvbWQzMzExLmluaSIsIHNlY3Rpb249IkZsYXRPcmJpdCIpCiAgICBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvbWQzMzExLmluaSIsIHNlY3Rpb249IkNyb3NzaW5nSVA1IikKICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iTm90Q3Jvc3NpbmdJUDUiKQo=</text>
