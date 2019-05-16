@@ -55,11 +55,11 @@
         <mark key="]" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1557839490910">
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="19" column="9" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1558008637100">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="18" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="35" column="18" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/tests/accuracy/context.py" timestamp="1556798051760">
         <mark key="[" line="5" column="33" />
@@ -422,8 +422,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoZiJucC5lbXB0eToge3RpbWVpdC50aW1laXQoJ25wLmVtcHR5KChuLCBuKSwgZHR5cGU9Ym9vbCknLCBudW1iZXI9bl90ZXN0LCBzZXR1cD1zZXR1cCl9cyIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>md2418</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -531,13 +531,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>import numpy as np</text>
+        <text>md2418</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoZiJucC5mdWxsOiB7dGltZWl0LnRpbWVpdCgnbnAuZnVsbCgobiwgbiksIFRydWUpJywgbnVtYmVyPW5fdGVzdCwgc2V0dXA9c2V0dXApfXMiKQo=</text>
+        <text encoding="base64">ICAgIGdldF9pbmZvKHRpbWU9bWQyNDE4LCBrbm9icz1LTk9CUykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cHJpbnQoZiJucC5lbXB0eToge3RpbWVpdC50aW1laXQoJ25wLmVtcHR5KChuLCBuKSwgZHR5cGU9Ym9vbCknLCBudW1iZXI9bl90ZXN0LCBzZXR1cD1zZXR1cCl9cyIpCg==</text>
