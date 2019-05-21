@@ -17,8 +17,10 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/dict_tools.py" timestamp="1557327885268">
         <mark key="[" line="13" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/helper.py" timestamp="1557753424701">
-        <mark key="[" line="27" column="62" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/helper.py" timestamp="1558432122672">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/False" timestamp="1557935982077">
         <mark key="[" line="0" column="0" />
@@ -54,7 +56,9 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_tfs.py" timestamp="1556898517743">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/analyser.py" timestamp="1558014942293" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/analyser.py" timestamp="1558431916709">
+        <mark key="[" line="108" column="64" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/trackone.py" timestamp="1550229638608">
         <mark key="[" line="0" column="0" />
       </file>
@@ -126,10 +130,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1557741186958">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1558432451463">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_machine_settings_overview.py" timestamp="1556646979747">
         <mark key="[" line="6" column="0" />
@@ -173,8 +178,8 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/mytest.py" timestamp="1557393227079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1557753512116">
-        <mark key="[" line="137" column="40" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1558432546194">
+        <mark key="[" line="75" column="35" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -523,7 +528,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0lNUkVTX1BBVEggPSBnZXRfcmVzdWx0c19kaXIoKQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -640,30 +645,28 @@
         <text encoding="base64">ZGVmIF9jb3JyZWN0X2Zvcl9iZXRhKGRhdGEsIGJldGFfb2xkLCBiZXRhX25ldyk6CiAgICAiIiIgT25seSBmb3Igcm91bmQgb3B0aWNzICIiIgogICAgcmV0dXJuIG5wLnNxdWFyZShiZXRhX25ldyAvIGJldGFfb2xkKSAqIGRhdGEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0lNUkVTX1BBVEggPSBnZXRfcmVzdWx0c19kaXIoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9jb3JyZWN0X2Zvcl9iZXRhKGRhdGEsIGJldGFfb2xkLCBiZXRhX25ldyk6CiAgICAiIiIgT25seSBmb3Igcm91bmQgb3B0aWNzICIiIgogICAgcmV0dXJuIG5wLnNxdWFyZShiZXRhX25ldyAvIGJldGFfb2xkKSAqIGRhdGEK</text>
+        <text encoding="base64">ZnJvbSBhbmFseXNlciBpbXBvcnQgX2dldF9vdXRwdXRfZGlyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVtX3RvX20gPSAxZTYgICAgICMgZnJvbSAxL3VtIHRvIDEvbQo=</text>
+        <text encoding="base64">ZGVmIHJlbW92ZV9pcF9sYWJlbHMoYXgpOgogICAgaXBfbmFtZXMgPSBbIklQIiArIHN0cihpKSBmb3IgaSBpbiByYW5nZSgxLCA5KV0KICAgIGZvciB0eHQgaW4gYXgudGV4dHM6CiAgICAgICAgaWYgdHh0LmdldF90ZXh0KCkgaW4gaXBfbmFtZXM6CiAgICAgICAgICAgIHR4dC5zZXRfdmlzaWJsZShGYWxzZSkKCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZiJucC5lbXB0eToge3RpbWVpdC50aW1laXQoJ25wLmVtcHR5KChuLCBuKSwgZHR5cGU9Ym9vbCknLCBudW1iZXI9bl90ZXN0LCBzZXR1cD1zZXR1cCl9cyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>mport numpy
-ta = numpy.empty((4,4), dtype=bool)
-print(ta)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmIF9jb3JyZWN0X2Zvcl9iZXRhKGRhdGEsIGJldGFfb2xkLCBiZXRhX25ldyk6CiAgICAiIiIgT25seSBmb3Igcm91bmQgb3B0aWNzICIiIgogICAgcmV0dXJuIG5wLnNxdWFyZShiZXRhX25ldyAvIGJldGFfb2xkKSAqIGRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bl90ZXN0ID0gMTAwMDAK</text>
+        <text encoding="base64">ICAgIHVtX3RvX20gPSAxZTYgICAgICMgZnJvbSAxL3VtIHRvIDEvbQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJpbnQoZiJucC5vbmVzOiB7dGltZWl0LnRpbWVpdCgnbnAub25lcygobiwgbiksIGR0eXBlPWJvb2wpJywgbnVtYmVyPU5fVEVTVCwgc2V0dXA9c2V0dXApfXMiKQo=</text>
+        <text encoding="base64">cHJpbnQoZiJucC5lbXB0eToge3RpbWVpdC50aW1laXQoJ25wLmVtcHR5KChuLCBuKSwgZHR5cGU9Ym9vbCknLCBudW1iZXI9bl90ZXN0LCBzZXR1cD1zZXR1cCl9cyIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -680,11 +683,13 @@ print(ta)</text>
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBDV0QgPSAiL2hvbWUvamRpbGx5L2xpbmtfYWZzX3dvcmsvcHJpdmF0ZS9TVFVEWS4xOC5MSEMuTUQzMzExL21hbnVhbF9hbXBkZXQiCg==</text>
+      <register name="8" type="4">
+        <text>mport numpy
+ta = numpy.empty((4,4), dtype=bool)
+print(ta)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bl90ZXN0ID0gMTAwMDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
