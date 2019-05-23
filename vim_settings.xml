@@ -21,6 +21,11 @@
       <file name="/False" timestamp="1557935982077">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.beam_lifetime/beam_lifetime.py" timestamp="1558626351484">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/parser/entry_datatypes.py" timestamp="1551108326912">
         <mark key="[" line="1" column="12" />
       </file>
@@ -151,7 +156,6 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1556894566709">
         <mark key="[" line="60" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/TEST.19.WISE.extract_and_check/code.plot_wise/wise_test.ini" timestamp="1557853186466" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/esrf_tbt.py" timestamp="1550229552644">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,7 +179,6 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/template.2018.LHC.IRNL.squeezed.manual_feeddown.madx" timestamp="1557927095918" />
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/debug_test.py" timestamp="1557148177247">
         <mark key="[" line="1" column="10" />
       </file>
@@ -315,7 +318,6 @@
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/irnl18_triplet_correction_template_control.py" timestamp="1557851730531">
         <mark key="[" line="279" column="47" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/utils/contexts.py" timestamp="1557747703841" />
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/Makefile" timestamp="1556894479550">
         <mark key="[" line="50" column="82" />
       </file>
@@ -486,7 +488,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoLjI4LCAuMzEsICJOYXR1cmFsIiksCiAgICAgICAgKC4yNzIsIC4zMiwgIkFDIERpcG9sZSAoMSkiKSwKICAgICAgICAoLjI3MiwgLjMwLCAiQUMgRGlwb2xlICgyKSIpLAogICAgICAgICguMjkyLCAuMzAsICJBQyBEaXBvbGUgKDMpIiksCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGltYmVyCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -600,31 +602,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoLjI4LCAuMzEsICJOYXR1cmFsIiksCiAgICAgICAgKC4yNzIsIC4zMiwgIkFDIERpcG9sZSAoMSkiKSwKICAgICAgICAoLjI3MiwgLjMwLCAiQUMgRGlwb2xlICgyKSIpLAogICAgICAgICguMjkyLCAuMzAsICJBQyBEaXBvbGUgKDMpIiksCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydD0iMjAxOC0xMC0zMCAxNDowNTowLjAwMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGltYmVyCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmQ9IiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHNldF95bGltX3dpdGhfaXBfbGFiZWxzKGF4LCBsaW0pOgogICAgYXguc2V0X3lsaW0obGltKQogICAgaWYgbGltWzFdIGlzIG5vdCBOb25lOgogICAgICAgIHBzLm1vdmVfaXBfbGFiZWxzKGF4LCAxLjA1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpcF9uYW1lcyA9IFsiSVAiICsgc3RyKGkpIGZvciBpIGluIHJhbmdlKDEsIDkpXQogICAgICAgIGZvciB0eHQgaW4gYXgudGV4dHM6CiAgICAgICAgICAgIGlmIHR4dC5nZXRfdGV4dCgpIGluIGlwX25hbWVzOgogICAgICAgICAgICAgICAgdHh0LnNldF95KGxpbVsxXSoxLjA1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -642,7 +644,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNldF95bGltX3dpdGhfaXBfbGFiZWxzKGF4LCBsaW0pOgogICAgYXguc2V0X3lsaW0obGltKQogICAgaWYgbGltWzFdIGlzIG5vdCBOb25lOgogICAgICAgIHBzLm1vdmVfaXBfbGFiZWxzKGF4LCAxLjA1KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
