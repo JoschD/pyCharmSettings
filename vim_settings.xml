@@ -12,11 +12,11 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/dict_tools.py" timestamp="1557327885268">
         <mark key="[" line="13" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/helper.py" timestamp="1558614054960">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="61" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/helper.py" timestamp="1558617502150">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="71" column="35" />
+        <mark key="^" line="67" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/False" timestamp="1557935982077">
         <mark key="[" line="0" column="0" />
@@ -104,10 +104,10 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1558614086304">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1558617643723">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_machine_settings_overview.py" timestamp="1556646979747">
         <mark key="[" line="6" column="0" />
@@ -158,10 +158,10 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/mytest.py" timestamp="1557393227079">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1558614225474">
-        <mark key="[" line="100" column="37" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1558617622880">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/machine_settings_overview.py" timestamp="1557332536275">
         <mark key="[" line="0" column="0" />
@@ -600,7 +600,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoLjI3NSwgLjMwLCAiJFFee0FDRH0kICgyKSIpLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRfeWxpbV93aXRoX2lwX2xhYmVscyhheCwgWy0uMSwgLjFdKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -612,19 +612,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIF9hcHBlbmRfaXBzKGRmLCBiZWFtKToKICAgIGlwX25hbWVzID0gWyJJUCIgKyBzdHIoaSkgZm9yIGkgaW4gcmFuZ2UoMSwgOSldCiAgICBpcF9kZiA9IHRmcy5yZWFkX3Rmcyhvcy5wYXRoLmpvaW4oTU9ERUxQQVRILmZvcm1hdChiZWFtPWJlYW0pLCAidHdpc3NfZWxlbWVudHMuZGF0IiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXg9Ik5BTUUiKS5sb2NbaXBfbmFtZXMsIFsiUyJdXQogICAgcmV0dXJuIGRmLmFwcGVuZChpcF9kZikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfaXBfZmlsZW5hbWUoYmVhbSk6CiAgICByZXR1cm4gb3MucGF0aC5qb2luKGdldF9yZXN1bHRzX2RpcigpLCAidHdpc3MuYns6ZH0uSVBzLmRhdCIuZm9ybWF0KGJlYW0pKQoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIF9hcHBlbmRfaXBzKGRmLCBiZWFtKToKICAgIGlwX2RmID0gdGZzLnJlYWRfdGZzKF9nZXRfaXBfZmlsZW5hbWUoYmVhbSksIGluZGV4PSJOQU1FIikKICAgIHJldHVybiBkZi5hcHBlbmQoaXBfZGYpCg==</text>
+        <text encoding="base64">ZGVmIHNldF95bGltX3dpdGhfaXBfbGFiZWxzKGF4LCBsaW0pOgogICAgYXguc2V0X3lsaW0obGltKQogICAgaWYgbGltWzFdIGlzIG5vdCBOb25lOgogICAgICAgIHBzLm1vdmVfaXBfbGFiZWxzKGF4LCAxLjA1KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lYXN1cmUgPSBtZWFzdXJlLmRyb3AoIlMiLCBheGlzPSJjb2x1bW5zIikK</text>
+        <text encoding="base64">ICAgICAgICBpcF9uYW1lcyA9IFsiSVAiICsgc3RyKGkpIGZvciBpIGluIHJhbmdlKDEsIDkpXQogICAgICAgIGZvciB0eHQgaW4gYXgudGV4dHM6CiAgICAgICAgICAgIGlmIHR4dC5nZXRfdGV4dCgpIGluIGlwX25hbWVzOgogICAgICAgICAgICAgICAgdHh0LnNldF95KGxpbVsxXSoxLjA1KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -642,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcGxhbmUgPT0gInkiOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAoLjI4MywgLjMxLCAiQiIsIC4yNzUsIC4zMCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
