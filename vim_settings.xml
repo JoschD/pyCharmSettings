@@ -432,10 +432,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560531434946">
-        <mark key="[" line="70" column="199" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560534436031">
+        <mark key="[" line="123" column="59" />
+        <mark key="]" line="125" column="45" />
+        <mark key="." line="123" column="0" />
+        <mark key="^" line="96" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
@@ -464,10 +465,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/BeamSelectionData.java" timestamp="1560531984361">
-        <mark key="[" line="24" column="95" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/BeamSelectionData.java" timestamp="1560534202596">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1557935875973">
         <mark key="[" line="280" column="26" />
@@ -559,6 +561,11 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="160" column="16" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/FileSystemStructureCreator.java" timestamp="1560534278737">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/irnl18_triplet_correction.py" timestamp="1557927212287">
         <mark key="[" line="443" column="59" />
         <mark key="]" line="443" column="61" />
@@ -605,9 +612,9 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/Makefile" timestamp="1556894479550">
         <mark key="[" line="50" column="82" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/bpmPanel/GroupSelection.java" timestamp="1560528742238">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="82" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/bpmPanel/GroupSelection.java" timestamp="1560533865386">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="105" column="60" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.example_hector/analyse_detuning.py" timestamp="1556877891642">
         <mark key="[" line="28" column="39" />
@@ -812,7 +819,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBKTGFiZWwgdG9vbHRpcExhYmVsID0gbmV3IEpMYWJlbCh0b29sdGlwTGFiZWxUZXh0KTsKICAgICAgICB0b29sdGlwTGFiZWwuc2V0Rm9udChuZXcgRm9udCh0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldE5hbWUoKSwgRm9udC5CT0xELCB0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldFNpemUoKSArIDQpKTsgLy8gaW5jcmVhc2Ugc2l6ZSBmb3IgYmV0dGVyIHJlY29nbml0aW9uICh0YmFjaCkKICAgICAgICB0b29sdGlwTGFiZWwuc2V0VG9vbFRpcFRleHQodG9vbHRpcCk7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -920,37 +927,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBKTGFiZWwgdG9vbHRpcExhYmVsID0gbmV3IEpMYWJlbCh0b29sdGlwTGFiZWxUZXh0KTsKICAgICAgICB0b29sdGlwTGFiZWwuc2V0Rm9udChuZXcgRm9udCh0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldE5hbWUoKSwgRm9udC5CT0xELCB0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldFNpemUoKSArIDQpKTsgLy8gaW5jcmVhc2Ugc2l6ZSBmb3IgYmV0dGVyIHJlY29nbml0aW9uICh0YmFjaCkKICAgICAgICB0b29sdGlwTGFiZWwuc2V0VG9vbFRpcFRleHQodG9vbHRpcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJPbGQgRm9sZGVyIFN0cnVjdHVyZSIpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEZpbGUobmV3IEZpbGUoZmlsZVN5c3RlbVN0cnVjdHVyZURhdGEuZ2V0Um9vdFBhdGgoKSwgIm1vZGVscyIpLCBiZWFtU2VsZWN0aW9uRGF0YS5nZXRCZWFtKCkuZ2V0TmFtZSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gbmV3IEZpbGUobWFrZUJlYW1Sb290UGF0aCgpLCAiTW9kZWxzIik7ICAvLyBiZXR0ZXIgd2F5IG9mIGRvaW5nIHRoaW5ncyAoamRpbGx5KQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
+        <text encoding="base64">ICAgICAgICBKUGFuZWwgZmlsdGVyUGFuZWwgPSBuZXcgSlBhbmVsKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgakNoZWNrQm94TG9hZERhdGEuc2V0U2VsZWN0ZWQodHJ1ZSk7CiAgICBnZXRKRnJhbWUoKS5hZGQoakNoZWNrQm94TG9hZERhdGEpOwogICAgICAgIGpDaGVja0JveE9sZEZvbGRlclN0cnVjdHVyZS5zZXRFbmFibGVkKGZhbHNlKTsKICAgICAgICBqQ2hlY2tCb3hPbGRGb2xkZXJTdHJ1Y3R1cmUuc2V0U2VsZWN0ZWQodHJ1ZSk7CiAgICBnZXRKRnJhbWUoKS5hZGQoakNoZWNrQm94T2xkRm9sZGVyU3RydWN0dXJlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUFSS0VSQ09MT1JTID0gRmFsc2UgICMgQ29sb3JlZCBtYXJrZXJzIG9yIGJsYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICBqQ2hlY2tCb3hMb2FkRGF0YS5zZXRTZWxlY3RlZCh0cnVlKTsKICAgICAgICBnZXRKRnJhbWUoKS5hZGQoakNoZWNrQm94TG9hZERhdGEpOwogICAgICAgIGpDaGVja0JveE9sZEZvbGRlclN0cnVjdHVyZS5zZXRFbmFibGVkKGZhbHNlKTsKICAgICAgICBqQ2hlY2tCb3hPbGRGb2xkZXJTdHJ1Y3R1cmUuc2V0U2VsZWN0ZWQodHJ1ZSk7CiAgICAgICAgZ2V0SkZyYW1lKCkuYWRkKGpDaGVja0JveE9sZEZvbGRlclN0cnVjdHVyZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -971,10 +978,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZldGltZV9yYW5nZT1sdF9yYW5nZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQ9IjIwMTgtMTAtMzAgMTU6MzU6NDUuMCIsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
