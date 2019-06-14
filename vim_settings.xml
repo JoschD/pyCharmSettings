@@ -432,6 +432,12 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560530252915">
+        <mark key="[" line="55" column="4" />
+        <mark key="]" line="55" column="80" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="76" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
       </file>
@@ -809,7 +815,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveERwcE9uTW9tZW50dW0gPSBuZXcgSkNoZWNrQm94KCJvbi1tb21lbnR1bSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJMb2FkIEV4aXN0aW5nIERhdGEiKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -923,7 +929,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveERwcE9uTW9tZW50dW0gPSBuZXcgSkNoZWNrQm94KCJvbi1tb21lbnR1bSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJMb2FkIEV4aXN0aW5nIERhdGEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
