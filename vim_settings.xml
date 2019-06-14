@@ -602,6 +602,10 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/Makefile" timestamp="1556894479550">
         <mark key="[" line="50" column="82" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/bpmPanel/GroupSelection.java" timestamp="1560528742238">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="82" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.example_hector/analyse_detuning.py" timestamp="1556877891642">
         <mark key="[" line="28" column="39" />
         <mark key="]" line="8" column="0" />
@@ -683,7 +687,7 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1559146603741">
+      <file name="/fragment.java" timestamp="1560529004357">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -805,7 +809,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveERwcE9uTW9tZW50dW0gPSBuZXcgSkNoZWNrQm94KCJvbi1tb21lbnR1bSIpOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -919,7 +923,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBTUEhJTlhCVUlMRCAgID0gcHl0aG9uIC1tc3BoaW54Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveERwcE9uTW9tZW50dW0gPSBuZXcgSkNoZWNrQm94KCJvbi1tb21lbnR1bSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
