@@ -432,11 +432,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560530252915">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="80" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560531434946">
+        <mark key="[" line="70" column="199" />
+        <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="76" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
@@ -465,6 +464,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/BeamSelectionData.java" timestamp="1560531984361">
+        <mark key="[" line="24" column="95" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1557935875973">
         <mark key="[" line="280" column="26" />
         <mark key="]" line="153" column="32" />
@@ -482,13 +486,6 @@
         <mark key="]" line="42" column="42" />
         <mark key="." line="42" column="42" />
         <mark key="^" line="42" column="42" />
-      </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.mqt_change/eval.py" timestamp="1558618916134">
-        <mark key="'" line="225" column="51" />
-        <mark key="[" line="142" column="71" />
-        <mark key="]" line="142" column="65" />
-        <mark key="^" line="142" column="65" />
-        <mark key="." line="142" column="77" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/root/index.rst" timestamp="1556894492230">
         <mark key="[" line="0" column="4" />
@@ -815,7 +812,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJMb2FkIEV4aXN0aW5nIERhdGEiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -929,31 +926,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJMb2FkIEV4aXN0aW5nIERhdGEiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgYm9vbGVhbiBsb2FkRGF0YTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgSkNoZWNrQm94IGpDaGVja0JveExvYWQgPSBuZXcgSkNoZWNrQm94KCJPbGQgRm9sZGVyIFN0cnVjdHVyZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
+        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUFSS0VSQ09MT1JTID0gRmFsc2UgICMgQ29sb3JlZCBtYXJrZXJzIG9yIGJsYWNrCg==</text>
+        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsaWZldGltZV9yYW5nZT1sdF9yYW5nZSwK</text>
+        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbmQ9IjIwMTgtMTAtMzAgMTU6MzU6NDUuMCIsCg==</text>
+        <text encoding="base64">TUFSS0VSQ09MT1JTID0gRmFsc2UgICMgQ29sb3JlZCBtYXJrZXJzIG9yIGJsYWNrCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -974,10 +971,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFya2VyKHg9IjIwMTgtMTAtMzAgMTU6MjA6MTIuMCIsIHk9ODEsIGxhYmVsPSItMC43NCIsIGxpbmU9YWxwaGEpLAo=</text>
+        <text encoding="base64">ICAgICAgICBsaWZldGltZV9yYW5nZT1sdF9yYW5nZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFya2VyKHg9IjIwMTgtMTAtMzAgMTQ6MDE6NTEuMCIsIHk9OTYsIGxhYmVsPSIxLjAiLCBsaW5lPWFscGhhKSwK</text>
+        <text encoding="base64">ICAgICAgICBlbmQ9IjIwMTgtMTAtMzAgMTU6MzU6NDUuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
