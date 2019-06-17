@@ -232,8 +232,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/Controller.java" timestamp="1560763824790">
-        <mark key="[" line="198" column="73" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/Controller.java" timestamp="1560782099623">
+        <mark key="[" line="76" column="13" />
+        <mark key="]" line="76" column="13" />
+        <mark key="^" line="75" column="60" />
+        <mark key="." line="76" column="13" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1558617643723">
         <mark key="[" line="72" column="0" />
@@ -321,6 +324,9 @@
         <mark key="]" line="72" column="15" />
         <mark key="." line="72" column="15" />
         <mark key="^" line="72" column="15" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/Main.java" timestamp="1560781941242">
+        <mark key="[" line="19" column="44" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1551433927350">
         <mark key="[" line="74" column="70" />
@@ -629,6 +635,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/PropertyTools.java" timestamp="1560782221758" />
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/fsfd.py" timestamp="1557324536537">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="19" />
@@ -825,8 +832,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmVhbVN0cmluZyA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>controllerFrameData</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -934,13 +941,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>oldFolderStructure</text>
+        <text>controllerFrameData</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3V0cHV0UGF0aCA9IHVzZXJQcm9wcy5nZXRQcm9wZXJ0eSgiT3V0cHV0UGF0aCIpOwogICAgICAgIGlmIChvdXRwdXRQYXRoICE9IG51bGwpIHsKICAgICAgICAgICAgakNvbWJvQm94T3V0cHV0LmFkZEl0ZW0ob3V0cHV0UGF0aCk7CiAgICAgICAgICAgIGpDb21ib0JveE91dHB1dC5zZXRTZWxlY3RlZEl0ZW0ob3V0cHV0UGF0aCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbnRyb2xsZXJGcmFtZURhdGEgPSBuZXcgQ29udHJvbGxlckZyYW1lRGF0YSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoYmVhbVN0cmluZyA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0K</text>
