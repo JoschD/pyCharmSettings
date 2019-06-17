@@ -294,10 +294,10 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1556894566709">
         <mark key="[" line="60" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/ExistingFilesLoader.java" timestamp="1560763815114">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/ExistingFilesLoader.java" timestamp="1560772426262">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="/media/jdilly/Storage/Projects/TEST.19.WISE.extract_and_check/code.plot_wise/wise_test.ini" timestamp="1554121674914">
         <mark key="[" line="3" column="30" />
@@ -440,11 +440,9 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560764329932">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560772672218">
+        <mark key="[" line="150" column="38" />
+        <mark key="]" line="150" column="72" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
@@ -472,12 +470,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/.gitignore" timestamp="1550236981914">
         <mark key="[" line="22" column="6" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/BeamSelectionData.java" timestamp="1560534202596">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="50" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="29" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1557935875973">
         <mark key="[" line="280" column="26" />
@@ -570,9 +562,9 @@
         <mark key="^" line="160" column="16" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/FileSystemStructureCreator.java" timestamp="1560534278737">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/irnl18_triplet_correction.py" timestamp="1557927212287">
         <mark key="[" line="443" column="59" />
@@ -826,8 +818,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/home/skowron/BetaBeat_analyses/PS/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -940,8 +932,8 @@
       <register name="/" type="4">
         <text>iotools</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2xkRm9sZGVyU3RydWN0dXJlID0gdXNlclByb3BzLmdldFByb3BlcnR5KCJPbGRGb2xkZXJTdHJ1Y3R1cmUiKTsKICAgICAgICBpZiAob2xkRm9sZGVyU3RydWN0dXJlICE9IG51bGwpewogICAgICAgICAgICBqQ2hlY2tCb3hPbGRGb2xkZXJTdHJ1Y3R1cmUuc2V0U2VsZWN0ZWQoQm9vbGVhbi5wYXJzZUJvb2xlYW4ob2xkRm9sZGVyU3RydWN0dXJlKSk7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>/home/skowron/BetaBeat_analyses/PS/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
