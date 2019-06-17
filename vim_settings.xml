@@ -432,11 +432,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560534436031">
-        <mark key="[" line="123" column="59" />
-        <mark key="]" line="125" column="45" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="96" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1560763090977">
+        <mark key="[" line="157" column="63" />
+        <mark key="]" line="157" column="63" />
+        <mark key="." line="157" column="63" />
+        <mark key="^" line="157" column="71" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
@@ -818,8 +818,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBKTGFiZWwgdG9vbHRpcExhYmVsID0gbmV3IEpMYWJlbCh0b29sdGlwTGFiZWxUZXh0KTsKICAgICAgICB0b29sdGlwTGFiZWwuc2V0Rm9udChuZXcgRm9udCh0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldE5hbWUoKSwgRm9udC5CT0xELCB0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldFNpemUoKSArIDQpKTsgLy8gaW5jcmVhc2Ugc2l6ZSBmb3IgYmV0dGVyIHJlY29nbml0aW9uICh0YmFjaCkKICAgICAgICB0b29sdGlwTGFiZWwuc2V0VG9vbFRpcFRleHQodG9vbHRpcCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>oldFolderStructure</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -927,13 +927,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>oldFolderStructure</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBKTGFiZWwgdG9vbHRpcExhYmVsID0gbmV3IEpMYWJlbCh0b29sdGlwTGFiZWxUZXh0KTsKICAgICAgICB0b29sdGlwTGFiZWwuc2V0Rm9udChuZXcgRm9udCh0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldE5hbWUoKSwgRm9udC5CT0xELCB0b29sdGlwTGFiZWwuZ2V0Rm9udCgpLmdldFNpemUoKSArIDQpKTsgLy8gaW5jcmVhc2Ugc2l6ZSBmb3IgYmV0dGVyIHJlY29nbml0aW9uICh0YmFjaCkKICAgICAgICB0b29sdGlwTGFiZWwuc2V0VG9vbFRpcFRleHQodG9vbHRpcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2xkRm9sZGVyU3RydWN0dXJlID0gdXNlclByb3BzLmdldFByb3BlcnR5KCJPbGRGb2xkZXJTdHJ1Y3R1cmUiKTsKICAgICAgICBpZiAob2xkRm9sZGVyU3RydWN0dXJlICE9IG51bGwpewogICAgICAgICAgICBqQ2hlY2tCb3hPbGRGb2xkZXJTdHJ1Y3R1cmUuc2V0U2VsZWN0ZWQoQm9vbGVhbi5wYXJzZUJvb2xlYW4ob2xkRm9sZGVyU3RydWN0dXJlKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
