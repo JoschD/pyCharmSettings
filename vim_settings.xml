@@ -71,8 +71,9 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/trackone.py" timestamp="1550229638608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1559058360898">
-        <mark key="[" line="77" column="37" />
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1561042526400">
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="352" column="39" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/kickac_modifiers.py" timestamp="1556876692045">
         <mark key="[" line="222" column="75" />
@@ -599,7 +600,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldCwgc2VxdWVuY2U9bGhjYjE7Cg==</text>
+        <text encoding="base64">ZGVmIGdldF92YWx1ZXNfZnJvbV90ZnModGZzX3BhdGgpOgogICAgZGYgPSB0ZnMucmVhZF90ZnModGZzX3BhdGgpCiAgICBhbmh4MTAwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhYIiBhbmQgJwogICAgICAgICAgICAgICAgICAgICAgICAnT1JERVIxID09IDEgYW5kIE9SREVSMiA9PSAwJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICBhbmh5MDEwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhZIiBhbmQgT1JERVIxID09IDAgYW5kICcKICAgICAgICAgICAgICAgICAgICAgICAgJ09SREVSMiA9PSAxJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICBhbmh4MDEwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhYIiBhbmQgT1JERVIxID09IDAgYW5kICcKICAgICAgICAgICAgICAgICAgICAgICAgJ09SREVSMiA9PSAxJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICByZXR1cm4gYW5oeDEwMDAsIGFuaHkwMTAwLCBhbmh4MDEwMAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -713,7 +714,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNldCwgc2VxdWVuY2U9bGhjYjE7Cg==</text>
+        <text encoding="base64">ICAgIGRmID0gdGZzLnJlYWRfdGZzKHRmc19wYXRoKQogICAgYW5oeDEwMDAgPSBkZi5xdWVyeSgnTkFNRSA9PSAiQU5IWCIgYW5kICcKICAgICAgICAgICAgICAgICAgICAgICAgJ09SREVSMSA9PSAxIGFuZCBPUkRFUjIgPT0gMCcpWyJWQUxVRSJdLnZhbHVlc1swXQogICAgYW5oeTAxMDAgPSBkZi5xdWVyeSgnTkFNRSA9PSAiQU5IWSIgYW5kIE9SREVSMSA9PSAwIGFuZCAnCiAgICAgICAgICAgICAgICAgICAgICAgICdPUkRFUjIgPT0gMScpWyJWQUxVRSJdLnZhbHVlc1swXQogICAgYW5oeDAxMDAgPSBkZi5xdWVyeSgnTkFNRSA9PSAiQU5IWCIgYW5kIE9SREVSMSA9PSAwIGFuZCAnCiAgICAgICAgICAgICAgICAgICAgICAgICdPUkRFUjIgPT0gMScpWyJWQUxVRSJdLnZhbHVlc1swXQogICAgcmV0dXJuIGFuaHgxMDAwLCBhbmh5MDEwMCwgYW5oeDAxMDAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNldCwgc2VxCg==</text>
