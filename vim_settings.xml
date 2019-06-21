@@ -473,11 +473,7 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/LICENSE.md" timestamp="1550497928345">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561131466223">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561132376353" />
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/index.rst" timestamp="1558971053849">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="0" />
@@ -608,7 +604,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUs</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -716,7 +712,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUs</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
