@@ -244,11 +244,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/.bumpversion.cfg" timestamp="1561111751592">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="27" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="6" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/.bumpversion.cfg" timestamp="1561118497057">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556639693146">
         <mark key="[" line="26" column="0" />
@@ -474,7 +473,7 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/LICENSE.md" timestamp="1550497928345">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561111939320">
+      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561118749328">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -608,8 +607,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmVyc2lvbmVlcj49MC4xOAo=</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -717,7 +716,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>False</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
