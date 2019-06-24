@@ -473,7 +473,11 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/LICENSE.md" timestamp="1550497928345">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561134024676" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/setup.py" timestamp="1561365611369">
+        <mark key="[" line="26" column="56" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/index.rst" timestamp="1558971053849">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="0" />
@@ -603,8 +607,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUs</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUsCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -721,15 +725,18 @@
         <text encoding="base64">W2J1bXB2ZXJzaW9uOmZpbGU6c2V0dXAucHldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVyc2lvbmVlcj49MC4xOAo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">dmVyc2lvbmVlcj49MC4xOAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHZlcnNpb25lZXIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>[versioneer]
 VCS = git
 style = pep440
@@ -738,17 +745,14 @@ versionfile_build = pylhc/_version.py
 tag_prefix =
 parentdir_prefix =</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHNldCwgc2VxCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -769,10 +773,10 @@ parentdir_prefix =</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
+        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TUFSS0VSQ09MT1JTID0gRmFsc2UgICMgQ29sb3JlZCBtYXJrZXJzIG9yIGJsYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
