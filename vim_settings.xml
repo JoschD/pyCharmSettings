@@ -60,6 +60,12 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="28" column="11" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction.py" timestamp="1561554354475">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="443" column="23" />
+        <mark key="." line="443" column="23" />
+        <mark key="^" line="440" column="20" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_tfs.py" timestamp="1556898517743">
         <mark key="[" line="2" column="5" />
       </file>
@@ -267,6 +273,9 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/md3311.ini" timestamp="1561554100531">
+        <mark key="[" line="19" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/twiss.mqsx.dat" timestamp="1554987724959">
         <mark key="[" line="51" column="59" />
@@ -608,7 +617,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\cite{AibaFirstbetabeatingmeasurement2009}</text>
+        <text>/irnl18_triplet_correction_configs</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -716,27 +725,33 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>\cite{AibaFirstbetabeatingmeasurement2009}</text>
+        <text>/irnl18_triplet_correction_configs</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W2J1bXB2ZXJzaW9uOmZpbGU6c2V0dXAucHldCg==</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iQ3Jvc3NpbmdJUDUiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUsCg==</text>
+        <text encoding="base64">ICAgICMgbWFpbigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmVyc2lvbmVlcj49MC4xOAo=</text>
+        <text encoding="base64">ICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJYaW5nT25PZmYiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IlhpbmdJUDEiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IlhpbmdJUDUiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvcmR0X3N0dWR5LmluaSIsIHNlY3Rpb249IkIxWGluZ09uT2ZmIikKICAgICMgbWFpbihlbnRyeV9jZmc9Ii4vaXJubDE4X3RyaXBsZXRfY29ycmVjdGlvbl9jb25maWdzL2hsbGhjX2FtcGRldF9zdHVkeS5pbmkiLCBzZWN0aW9uPSJBbGxFcnJvcnNYaW5nVGVzdCIpCiAgICAjIG1haW4oZW50cnlfY2ZnPSIuL2lybmwxOF90cmlwbGV0X2NvcnJlY3Rpb25fY29uZmlncy9obGxoY19hbXBkZXRfc3R1ZHkuaW5pIiwgc2VjdGlvbj0iT25seVNleHR1cG9sZXMiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvaGxsaGNfYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249Ik9ubHlIaWdocG9sZXMiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvaGxsaGNfYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IkFsbEVycm9yc1hpbmcyNTUiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvaGxsaGNfYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IkFsbEVycm9yc09mZkRpc3AiKQogICAgIyBtYWluKGVudHJ5X2NmZz0iLi9pcm5sMThfdHJpcGxldF9jb3JyZWN0aW9uX2NvbmZpZ3MvYW1wZGV0X3N0dWR5LmluaSIsIHNlY3Rpb249IkFsbCIpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGluY2x1ZGVfcGFja2FnZV9kYXRhPVRydWUsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dmVyc2lvbmVlcj49MC4xOAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHZlcnNpb25lZXIK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>[versioneer]
 VCS = git
 style = pep440
@@ -745,14 +760,8 @@ versionfile_build = pylhc/_version.py
 tag_prefix =
 parentdir_prefix =</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldCwgc2VxCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldCwgc2VxCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -773,10 +782,10 @@ parentdir_prefix =</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q3JlYXRlZCBvbiAyNy8wNS8xMwo=</text>
+        <text encoding="base64">ZXJyb3JfdHlwZXMgPSBbIkI2Il0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8ICAgICAgfHwgIEJQTTEgIHwgIEJQTTIgIHwgIEJQTTMgIHwgIEJQTTQgIHwKICAgICAgICArPT09PT09Kys9PT09PT09PSs9PT09PT09PSs9PT09PT09PSs9PT09PT09PSsKICAgICAgICB8IEJQTTEgfHwgICAwICAgIHwgcGhpXzEyIHwgcGhpXzEzIHwgcGhpXzE0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTIgfHwgcGhpXzIxIHwgICAgMCAgIHwgcGhpXzIzIHwgcGhpXzI0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsKICAgICAgICB8IEJQTTMgfHwgcGhpXzMxIHwgcGhpXzMyIHwgICAwICAgIHwgcGhpXzM0IHwKICAgICAgICArLS0tLS0tKystLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSstLS0tLS0tLSsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
