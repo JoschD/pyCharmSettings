@@ -60,11 +60,10 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction.py" timestamp="1561554354475">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="443" column="23" />
-        <mark key="." line="443" column="23" />
-        <mark key="^" line="440" column="20" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction.py" timestamp="1561564737547">
+        <mark key="[" line="440" column="0" />
+        <mark key="]" line="440" column="0" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1561563658918">
         <mark key="[" line="72" column="19" />
@@ -280,8 +279,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/md3311.ini" timestamp="1561554100531">
-        <mark key="[" line="19" column="32" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/md3311.ini" timestamp="1561564708192">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/twiss_optics/twiss.mqsx.dat" timestamp="1554987724959">
         <mark key="[" line="51" column="59" />
@@ -623,7 +624,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJCNCI6IHsibWluIjogLTE1LjAwMDAsICJtYXgiOiAxNS41MDAwfSwK</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJTZXh0dXBvbGVDaGVjayIpCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -740,28 +741,28 @@
         <text encoding="base64">ICAgICJCNCI6IHsibWluIjogLTE1LjAwMDAsICJtYXgiOiAxNS41MDAwfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJTZXh0dXBvbGVDaGVjayIpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgYWxsIjogImVyci4gYWxsIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
+        <text encoding="base64">W1NleHR1cG9sZUNoZWNrXQp4aW5nID0gRmFsc2UsCmVycm9yX3R5cGVzID0gWyJCMyJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgYXJjIjogImVyci4gYXJjIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgYWxsIjogImVyci4gYWxsIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIF9tYXBfeGxhYmVscyhsYWJlbHMpOgogICAgcmV0dXJuIFtYTEFCRUxTX01BUC5nZXQobCwgbCkgZm9yIGwgaW4gbGFiZWxzXQoKCg==</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgcGxvdF9jcm9zc2luZ19vbmVwbG90KGVudHJ5X2NmZz0iLi9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iRm9yUGxvdCIpICAgIAo=</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgYXJjIjogImVyci4gYXJjIiwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -782,10 +783,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcGxvdF9jcm9zc2luZ19vbmVwbG90KGVudHJ5X2NmZz0iLi9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iRm9yUGxvdCIpCg==</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgbWFrZV9jdGFfaGlzdG9ncmFtKGVudHJ5X2NmZz0iLi9tZDMzMTEuaW5pIiwgc2VjdGlvbj0iRm9yUGxvdCIpCiAgICAjIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">ZGVmIF9tYXBfeGxhYmVscyhsYWJlbHMpOgogICAgcmV0dXJuIFtYTEFCRUxTX01BUC5nZXQobCwgbCkgZm9yIGwgaW4gbGFiZWxzXQoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
