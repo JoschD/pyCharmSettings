@@ -231,11 +231,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/SubNode.java" timestamp="1561629441292">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="22" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/SubNode.java" timestamp="1561631283844">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="75" column="25" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/logging_tools.py" timestamp="1557236387028">
         <mark key="[" line="21" column="14" />
@@ -324,6 +324,11 @@
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="30" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561631203590">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
         <mark key="[" line="50" column="9" />
@@ -869,8 +874,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -984,31 +989,31 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFN1Yk5vZGUoU3RyaW5nIHhsYWJlbCwgU3RyaW5nIHlsYWJlbCl7CiAgICAgICAgdGhpcy54bGFiZWwgPSB4bGFiZWw7CiAgICAgICAgdGhpcy55bGFiZWwgPSB5bGFiZWw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5vZGUgPSBub2RlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBERUxUQSA9ICJERUxUQSI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgRVJST1IgPSAiRVJSIjsKICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBNT0RFTCA9ICJNREwiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkF4aXMgdW5rbm93bjogIiArIGF4aXMpOwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoYXhpcyA9PSBBeGlzLnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkF4aXMgdW5rbm93bjogIiArIGF4aXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF4aXMgPT0gQXhpcy54KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1029,10 +1034,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3RyaW5nIGdldFlTY2FsZVRpdGxlKGZpbmFsIEF4aXMgYXhpcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoYXhpcyA9PSBBeGlzLnkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF4aXMgPT0gQXhpcy54KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
