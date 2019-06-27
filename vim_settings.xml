@@ -426,6 +426,12 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/debug_test.py" timestamp="1557148177247">
         <mark key="[" line="1" column="10" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFiles.java" timestamp="1561627295957">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="46" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/handler.py" timestamp="1550587902428">
         <mark key="[" line="291" column="0" />
       </file>
@@ -858,7 +864,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBFUlJPUiA9ICJFUlIiOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -966,13 +972,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(String) jComboBoxOutput.getSelectedItem()</text>
+        <text encoding="base64">REVMVEEg</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2xkRm9sZGVyU3RydWN0dXJlID0gdXNlclByb3BzLmdldFByb3BlcnR5KCJPbGRGb2xkZXJTdHJ1Y3R1cmUiKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBFUlJPUiA9ICJFUlIiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
