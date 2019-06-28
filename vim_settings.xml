@@ -6,8 +6,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/tools.py" timestamp="1550229517474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1558701728076">
+      <file name="/a.dummy" timestamp="1561714591885">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/README.md" timestamp="1550575589775">
         <mark key="[" line="33" column="56" />
@@ -874,8 +876,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Main</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -983,7 +985,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>Main</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
