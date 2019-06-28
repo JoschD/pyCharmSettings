@@ -721,6 +721,11 @@
         <mark key="^" line="400" column="23" />
         <mark key="." line="408" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/MainNode.java" timestamp="1561716710089">
+        <mark key="[" line="566" column="23" />
+        <mark key="]" line="566" column="21" />
+        <mark key="." line="566" column="21" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1557240219131">
         <mark key="[" line="229" column="0" />
         <mark key="]" line="229" column="0" />
@@ -748,6 +753,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/IoTools.java" timestamp="1561716264467">
+        <mark key="[" line="394" column="26" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/README.md" timestamp="1556899186757">
         <mark key="[" line="7" column="0" />
@@ -877,7 +885,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Main</text>
+        <text>n</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -985,7 +993,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
@@ -1000,22 +1008,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBERUxUQSA9ICJERUxUQSI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgRVJST1IgPSAiRVJSIjsKICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBNT0RFTCA9ICJNREwiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBERUxUQSA9ICJERUxUQSI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgRVJST1IgPSAiRVJSIjsKICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBNT0RFTCA9ICJNREwiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkF4aXMgdW5rbm93bjogIiArIGF4aXMpOwo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1036,10 +1044,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoYXhpcyA9PSBBeGlzLnkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBJbGxlZ2FsU3RhdGVFeGNlcHRpb24oIkF4aXMgdW5rbm93bjogIiArIGF4aXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGF4aXMgPT0gQXhpcy54KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
