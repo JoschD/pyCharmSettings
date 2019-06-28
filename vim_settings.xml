@@ -60,16 +60,17 @@
         <mark key="^" line="23" column="10" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction.py" timestamp="1561637722553">
-        <mark key="[" line="440" column="0" />
-        <mark key="]" line="440" column="0" />
-        <mark key="." line="440" column="0" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction.py" timestamp="1561734502842">
+        <mark key="[" line="438" column="4" />
+        <mark key="]" line="438" column="3" />
+        <mark key="." line="438" column="3" />
+        <mark key="^" line="438" column="3" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1561563658918">
-        <mark key="[" line="72" column="19" />
-        <mark key="]" line="72" column="44" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="15" />
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1561734236935">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_tfs.py" timestamp="1556898517743">
         <mark key="[" line="2" column="5" />
@@ -210,6 +211,11 @@
         <mark key="]" line="30" column="16" />
         <mark key="." line="30" column="16" />
         <mark key="^" line="30" column="87" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/irnl18_triplet_correction_template_control.py" timestamp="1561734546377">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/__init__.py" timestamp="1550493959339">
         <mark key="[" line="1" column="9" />
@@ -375,6 +381,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_creation/madx_template_control.py" timestamp="1561734090767">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_feeddown.madx" timestamp="1560867778341">
         <mark key="[" line="410" column="22" />
@@ -625,7 +636,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJTZXh0dXBvbGVDaGVjayIpCg==</text>
+        <text encoding="base64">Q09VUExJTkdfQ09SUl9UTVBMID0gIkZpbmVUdW5lQ291cGxpbmcubWFkeCIK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -742,28 +753,28 @@
         <text encoding="base64">ICAgICJCNCI6IHsibWluIjogLTE1LjAwMDAsICJtYXgiOiAxNS41MDAwfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJTZXh0dXBvbGVDaGVjayIpCg==</text>
+        <text encoding="base64">Q09VUExJTkdfQ09SUl9UTVBMID0gIkZpbmVUdW5lQ291cGxpbmcubWFkeCIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09VUExJTkdfQ09SUl9UTVBMID0gIkZpbmVUdW5lQ291cGxpbmcubWFkeCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W1NleHR1cG9sZUNoZWNrXQp4aW5nID0gRmFsc2UsCmVycm9yX3R5cGVzID0gWyJCMyJdCg==</text>
+        <text encoding="base64">ICAgICJDIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG1haW4oZW50cnlfY2ZnPSIuL21kMzMxMS5pbmkiLCBzZWN0aW9uPSJTZXh0dXBvbGVDaGVjayIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgYWxsIjogImVyci4gYWxsIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
+        <text encoding="base64">W1NleHR1cG9sZUNoZWNrXQp4aW5nID0gRmFsc2UsCmVycm9yX3R5cGVzID0gWyJCMyJdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgYXJjIjogImVyci4gYXJjIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -784,10 +795,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgYWxsIjogImVyci4gYWxsIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9tYXBfeGxhYmVscyhsYWJlbHMpOgogICAgcmV0dXJuIFtYTEFCRUxTX01BUC5nZXQobCwgbCkgZm9yIGwgaW4gbGFiZWxzXQoKCg==</text>
+        <text encoding="base64">ICAgICJlcnJvcnMgbXF4IjogImVyci4gbXF4IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
