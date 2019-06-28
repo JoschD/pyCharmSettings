@@ -151,10 +151,6 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_style.py" timestamp="1558691126029">
-        <mark key="[" line="593" column="0" />
-        <mark key="]" line="595" column="39" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1559058538725">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -282,10 +278,6 @@
         <mark key="^" line="103" column="13" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/template.orb_check.madx" timestamp="1558533947293">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="210" column="11" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/sdds/reader.py" timestamp="1550229745992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="3" />
@@ -327,10 +319,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561631203590">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561723623745">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="54" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
         <mark key="[" line="50" column="9" />
@@ -386,7 +379,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1561571290646">
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1561724093969">
         <mark key="[" line="45" column="76" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
@@ -580,16 +573,13 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_feeddown.madx" timestamp="1553787035527">
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="416" column="77" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/contexts.py" timestamp="1550228589356">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/doc/Makefile" timestamp="1556893834883">
         <mark key="[" line="52" column="89" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/Leaf.java" timestamp="1561723809877" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="344" column="80" />
@@ -663,10 +653,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/Makefile" timestamp="1556894479550">
         <mark key="[" line="50" column="82" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/bpmPanel/GroupSelection.java" timestamp="1560533865386">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="60" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.example_hector/analyse_detuning.py" timestamp="1556877891642">
         <mark key="[" line="28" column="39" />
@@ -884,8 +870,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBSRFRfTk9STUFMID0gIm5vcm1hbF8iOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -999,7 +985,7 @@
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vZGUgPSBub2RlOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBSRFRfTk9STUFMID0gIm5vcm1hbF8iOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
