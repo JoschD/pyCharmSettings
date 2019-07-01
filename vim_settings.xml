@@ -319,11 +319,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561986299656">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="22" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561988249221">
+        <mark key="[" line="131" column="4" />
+        <mark key="]" line="76" column="15" />
+        <mark key="." line="76" column="15" />
+        <mark key="^" line="76" column="15" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
         <mark key="[" line="50" column="9" />
@@ -663,6 +663,12 @@
         <mark key="^" line="23" column="84" />
         <mark key="." line="14" column="11" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1561988468684">
+        <mark key="[" line="80" column="8" />
+        <mark key="]" line="80" column="31" />
+        <mark key="^" line="80" column="28" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/Makefile" timestamp="1556894479550">
         <mark key="[" line="50" column="82" />
       </file>
@@ -889,7 +895,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogIiIK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblkgPSBjb2x1bW5ZOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -997,37 +1003,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(OpticsFile.Y)</text>
+        <text>OpticsFile.Column columnX</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9wdGljc0ZpbGUoU3RyaW5nIGZpbGVuYW1lKXsKICAgICAgICB0aGlzLmZpbGVuYW1lID0gZmlsZW5hbWU7CiAgICAgICAgdGhpcy5wbGFuZSA9IG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblkgPSBjb2x1bW5ZOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudW0gUGxhbmV7CiAgICAgICAgWCwgWTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblggPSBjb2x1bW5YOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBsYWJlbDsKCiAgICAgICAgUGxhbmUoU3RyaW5nIHApIHsKICAgICAgICAgICAgbGFiZWwgPSBwOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICAgICAgcmV0dXJuIGxhYmVsOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT3B0aWNzRmlsZS5PcHRpY3NDb2x1bW4gY29sdW1uUzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBQbGFuZXsKICAgICAgICAgICAgWCwgWTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHVibGljIGVudW0gT3B0aWNzQ29sdW1uIHsKICAgIFMoIlMiKSwKICAgIE5BTUUoIk5BTUUiKSwKICAgIEFMUEhBKCJBTEYiKSwKICAgIEJFVEEoIkJFVCIpLAogICAgTVUoIk1VIiksCiAgICBPUkJJVCgiIiksCiAgICBESVNQRVJTSU9OKCJEIiksCiAgICBEUCgiRFAiKSwKICAgIDsKCiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgREVMVEEgPSAiREVMVEEiOwogICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIEVSUk9SID0gIkVSUiI7CiAgICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgTU9ERUwgPSAiTURMIjsKCiAgICBwcml2YXRlIGZpbmFsIFN0cmluZyBsYWJlbDsKICAgIHByaXZhdGUgU3RyaW5nIHBsYW5lOwoKICAgIE9wdGljc0NvbHVtbihTdHJpbmcgbGFiZWwpewogICAgICAgIHRoaXMubGFiZWwgPSBsYWJlbDsKICAgICAgICB0aGlzLnBsYW5lID0gIiI7CiAgICB9CgogICAgcHVibGljIE9wdGljc0NvbHVtbiBzZXRQbGFuZShQbGFuZSBwbGFuZSl7CiAgICAgICAgdGhpcy5wbGFuZSA9IHBsYW5lLnRvU3RyaW5nKCk7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRNb2RlbENvbHVtbigpewogICAgICAgIHJldHVybiB0aGlzICsgTU9ERUw7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRFcnJvckNvbHVtbigpewogICAgICAgIHJldHVybiBFUlJPUiArIHRoaXM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREZWx0YUNvbHVtbigpewogICAgICAgIHJldHVybiBERUxUQSArIHRoaXM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRFcnJvckRlbHRhQ29sdW1uKCl7CiAgICAgICAgcmV0dXJuIEVSUk9SICsgREVMVEEgKyB0aGlzOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gbGFiZWwgKyBwbGFuZTsKICAgIH0KCiAgICBwdWJsaWMgZW51bSBQbGFuZXsKICAgICAgICBYLCBZOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZnNGaWxlIGdldFRmcyhQbGFuZSBwbGFuZSwgRmlsZSBkaXJlY3Rvcnkpewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3B0aWNzRmlsZS5QbGFuZSBwID0gT3B0aWNzRmlsZS5QbGFuZS5YOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGxhbmUgPT0gbnVsbCkgdGhyb3cgbmV3IEV4Y2VwdGlvbigiUGxhbmUgaGFzIG5vdCBiZWVuIGluaXRpYWxpemVkLiIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1048,10 +1054,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0VGZzKHBsYW5lLCBkaXJlY3RvcnkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVGZzUmVhZGVyLnJlYWRGaWxlKG5ldyBGaWxlKGRpcmVjdG9yeSwgdG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
