@@ -96,6 +96,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/PlanedOpticsFile.java" timestamp="1561993041413">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/trackone.py" timestamp="1550229638608">
         <mark key="[" line="0" column="0" />
       </file>
@@ -287,6 +292,12 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1556898539303">
         <mark key="[" line="4" column="14" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileAbstract.java" timestamp="1561991444869">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="15" column="5" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/md3311.ini" timestamp="1557927135699">
         <mark key="[" line="30" column="16" />
         <mark key="]" line="30" column="16" />
@@ -319,11 +330,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561988249221">
-        <mark key="[" line="131" column="4" />
-        <mark key="]" line="76" column="15" />
-        <mark key="." line="76" column="15" />
-        <mark key="^" line="76" column="15" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFile.java" timestamp="1561993055151">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
         <mark key="[" line="50" column="9" />
@@ -895,7 +906,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblkgPSBjb2x1bW5ZOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubWVhc3VyZSA9IG1lYXN1cmU7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1003,37 +1014,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>OpticsFile.Column columnX</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblkgPSBjb2x1bW5ZOwo=</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gbGFiZWw7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubWVhc3VyZSA9IG1lYXN1cmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblggPSBjb2x1bW5YOwo=</text>
+        <text encoding="base64">ICAgICBwcml2YXRlIGZpbmFsIE1lYXN1cmUgbWVhc3VyZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT3B0aWNzRmlsZS5PcHRpY3NDb2x1bW4gY29sdW1uUzsK</text>
+        <text encoding="base64">ICAgICBQbGFuZWRPcHRpY3NGaWxlKCl7CiAgICAgICAgICAKICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIE9wdGljc0ZpbGUoKXsKICAgICAgICB0aGlzLm1lYXN1cmUgPSBudWxsOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZnNGaWxlIGdldFRmcyhQbGFuZSBwbGFuZSwgRmlsZSBkaXJlY3Rvcnkpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGxhbmUgPT0gbnVsbCkgdGhyb3cgbmV3IEV4Y2VwdGlvbigiUGxhbmUgaGFzIG5vdCBiZWVuIGluaXRpYWxpemVkLiIpOwo=</text>
+        <text encoding="base64">ICAgICBwdWJsaWMgYm9vbGVhbiBleGlzdHMoRmlsZSBkaXJlY3RvcnkpewogICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKGRpcmVjdG9yeSwgdG9TdHJpbmcoKSkuZXhpc3RzKCk7CiAgICAgfQoKICAgICBwdWJsaWMgVGZzRmlsZSBnZXRUZnMoRmlsZSBkaXJlY3RvcnkpIHsKICAgICAgICAgIHJldHVybiBUZnNSZWFkZXIucmVhZEZpbGUobmV3IEZpbGUoZGlyZWN0b3J5LCB0b1N0cmluZygpKTsKICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1054,10 +1065,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0VGZzKHBsYW5lLCBkaXJlY3RvcnkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVGZzUmVhZGVyLnJlYWRGaWxlKG5ldyBGaWxlKGRpcmVjdG9yeSwgdG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICMjIyMjIyMjIyMjIyMjIyMjIyMjIFBsYW5lZCBGaWxlICMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMKCiAgICAvKioKICAgICAqIEFkZHMgYSBwbGFuZSB0byB0aGUgZmlsZSAod291bGQgYmUgZWFzaWVyIHdpdGggaW5oZXJpdGFuY2UuLi4gYnV0IEkgd2FudGVkIHRvIHVzZSBlbnVtcywgamRpbGx5KQogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFBsYW5lZEZpbGUgewogICAgICAgIHByaXZhdGUgZmluYWwgT3B0aWNzRmlsZSBvcHRpY3NGaWxlOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
