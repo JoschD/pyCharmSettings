@@ -17,6 +17,16 @@
         <mark key="." line="33" column="75" />
         <mark key="^" line="33" column="74" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/analyse_detuning.py" timestamp="1554801077667">
+        <mark key="[" line="437" column="0" />
+        <mark key="]" line="437" column="19" />
+        <mark key="." line="437" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/MathTools.java" timestamp="1561571251165">
+        <mark key="[" line="148" column="6" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/wise_test.ini" timestamp="1549544546155">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="23" column="27" />
@@ -50,6 +60,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/parser/entry_datatypes.py" timestamp="1551108326912">
         <mark key="[" line="1" column="12" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction.py" timestamp="1554130898933">
+        <mark key="[" line="235" column="76" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/parser/entrypoint.py" timestamp="1551110027977">
         <mark key="[" line="618" column="71" />
       </file>
@@ -58,6 +73,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="3" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/data_extract/pylsa.py" timestamp="1556642627950">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/constants.py" timestamp="1555085992196">
         <mark key="[" line="43" column="0" />
@@ -70,6 +90,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_tfs.py" timestamp="1556898517743">
         <mark key="[" line="2" column="5" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/analyser.py" timestamp="1558453564816">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/PlanedOpticsFile.java" timestamp="1561993625101">
         <mark key="[" line="2" column="0" />
@@ -97,6 +122,11 @@
         <mark key="." line="222" column="20" />
         <mark key="^" line="222" column="19" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/constant_singleton.py" timestamp="1557324647997">
+        <mark key="[" line="6" column="67" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/beam/BeamType.java" timestamp="1560774942531">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
@@ -108,6 +138,11 @@
         <mark key="]" line="18" column="31" />
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="11" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/timber.py" timestamp="1557224938822">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1558008637100">
         <mark key="[" line="35" column="18" />
@@ -121,8 +156,18 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_configs/md3311.ini" timestamp="1559058538725">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/tests/accuracy/context.py" timestamp="1556798051760">
         <mark key="[" line="5" column="33" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/doc/Makefile" timestamp="1558977284694">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/online_model_extractor/pylsaTests.py" timestamp="1556551441744">
         <mark key="[" line="20" column="0" />
@@ -178,6 +223,11 @@
         <mark key="^" line="72" column="100" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/logging_config.yml" timestamp="1557157952279">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/doc/harpy/index.rst" timestamp="1551108590863">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -202,6 +252,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="90" column="29" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_orbit.py" timestamp="1558617643723">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_machine_settings_overview.py" timestamp="1556646979747">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="49" column="16" />
@@ -216,6 +271,11 @@
         <mark key="]" line="19" column="33" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/boolean_array.py" timestamp="1558001531132">
+        <mark key="[" line="5" column="88" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/bbq_tools.py" timestamp="1554996774010">
         <mark key="[" line="106" column="32" />
@@ -259,6 +319,11 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1556894566709">
         <mark key="[" line="60" column="15" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/ExistingFilesLoader.java" timestamp="1560772426262">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/TEST.19.WISE.extract_and_check/code.plot_wise/wise_test.ini" timestamp="1554121674914">
         <mark key="[" line="3" column="30" />
         <mark key="]" line="3" column="30" />
@@ -271,11 +336,21 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="95" column="13" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
+        <mark key="[" line="50" column="9" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/extract_online_model.py" timestamp="1551434259658">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="72" column="15" />
         <mark key="." line="72" column="15" />
         <mark key="^" line="72" column="15" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/Main.java" timestamp="1560787420892">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/online_model/extractor_wrapper.py" timestamp="1551433927350">
         <mark key="[" line="74" column="70" />
@@ -301,6 +376,11 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/mytest.py" timestamp="1557393227079">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/get_bbeat.py" timestamp="1558617622880">
+        <mark key="[" line="78" column="38" />
+        <mark key="]" line="80" column="46" />
+        <mark key="." line="94" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/machine_settings_overview.py" timestamp="1557332536275">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,6 +394,11 @@
         <mark key="[" line="45" column="76" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1558976967859">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/TEST.19.WISE.extract_and_check/code.plot_wise/wise_test.py" timestamp="1554119165010">
         <mark key="[" line="118" column="55" />
@@ -333,8 +418,18 @@
         <mark key="." line="251" column="8" />
         <mark key="^" line="251" column="8" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc_tools/pylhc/print_lhc_overview.py" timestamp="1556639693146">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/iotools.py" timestamp="1550228892900">
         <mark key="[" line="1" column="10" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/amplitude_detuning_analysis.py" timestamp="1556876920324">
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/product.xml" timestamp="1562073005288">
         <mark key="[" line="2" column="56" />
@@ -381,6 +476,16 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/hole_in_one_test.py" timestamp="1551088844243">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/doc/utils/index.rst" timestamp="1557330423223">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/test/cern/lhc/betabeating/tools/PropertyToolsTest.java" timestamp="1562074731307">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_dict_tools.py" timestamp="1556799303799">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="21" />
@@ -395,6 +500,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1550229374299">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/interactionWindows/BeamSelection.java" timestamp="1562074517728">
+        <mark key="[" line="234" column="20" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1561730506441">
         <mark key="[" line="69" column="28" />
@@ -462,6 +572,11 @@
         <mark key="^" line="368" column="79" />
         <mark key="." line="353" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/CaselessProperties.java" timestamp="1560786133591">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/test_dot_dict_error.py" timestamp="1550247883230">
         <mark key="[" line="0" column="0" />
       </file>
@@ -507,6 +622,11 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/conf.py" timestamp="1557150306922">
         <mark key="[" line="187" column="93" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/reader.py" timestamp="1556893716717">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/manual_feeddown.py" timestamp="1557851795024">
         <mark key="[" line="2" column="8" />
       </file>
@@ -516,6 +636,16 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="160" column="16" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/FileSystemStructureCreator.java" timestamp="1560534278737">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.misalignment_feeddown/irnl18_triplet_correction.py" timestamp="1557927212287">
+        <mark key="[" line="443" column="59" />
+        <mark key="]" line="443" column="61" />
+        <mark key="." line="443" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/requirements.txt" timestamp="1550226457180">
         <mark key="[" line="7" column="17" />
       </file>
@@ -524,6 +654,11 @@
         <mark key="]" line="25" column="7" />
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
+      </file>
+      <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.bbeat_compare/template.sep_check.madx" timestamp="1558453934157">
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="211" column="11" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/doc/root/index.rst" timestamp="1556893803419">
         <mark key="[" line="7" column="22" />
@@ -564,7 +699,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/PropertyTools.java" timestamp="1560786154771">
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/PropertyTools.java" timestamp="1562074610652">
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="18" />
         <mark key="." line="23" column="18" />
@@ -581,6 +716,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/context.py" timestamp="1550574426455">
         <mark key="[" line="5" column="31" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/doc/data_extract/index.rst" timestamp="1557330447915">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/stats.py" timestamp="1550228993449">
         <mark key="[" line="1" column="7" />
@@ -612,6 +752,16 @@
         <mark key="^" line="400" column="23" />
         <mark key="." line="408" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/MainNode.java" timestamp="1561727372753">
+        <mark key="[" line="464" column="0" />
+        <mark key="]" line="464" column="0" />
+        <mark key="." line="464" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1557240219131">
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/mytests/orbit_check/online_model.py" timestamp="1549625612222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="99" />
@@ -629,6 +779,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/LICENSE.md" timestamp="1550497928345">
         <mark key="[" line="0" column="15" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/doc/constants/index.rst" timestamp="1558971053849">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/tools/IoTools.java" timestamp="1561716264467">
         <mark key="[" line="394" column="26" />
@@ -761,7 +916,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE9wdGljc1BhcmFtZXRlcihTdHJpbmcgbGFiZWwsIE9wdGljc0ZpbGUuTWVhc3VyZSBvcHRpY3NNZWFzdXJlLCBMZWFmLi4uIGNoaWxkcmVuKXsKICAgICAgICB0aGlzLmxhYmVsID0gbGFiZWw7CiAgICAgICAgdGhpcy5vcHRpY3NGaWxlVCA9IG5ldyBPcHRpY3NGaWxlKG9wdGljc01lYXN1cmUpLmdldFBsYW5lZChPcHRpY3NGaWxlLlBsYW5lLlgpOwogICAgICAgIHRoaXMub3B0aWNzRmlsZUIgPSBuZXcgT3B0aWNzRmlsZShvcHRpY3NNZWFzdXJlKS5nZXRQbGFuZWQoT3B0aWNzRmlsZS5QbGFuZS5ZKTsKICAgICAgICB0aGlzLmNoaWxkcmVuID0gY2hpbGRyZW47CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -878,28 +1033,28 @@
         <text encoding="base64">ICAgIE9wdGljc1BhcmFtZXRlcihTdHJpbmcgbGFiZWwsIE9wdGljc0ZpbGUuTWVhc3VyZSBvcHRpY3NNZWFzdXJlLCBMZWFmLi4uIGNoaWxkcmVuKXsKICAgICAgICB0aGlzLmxhYmVsID0gbGFiZWw7CiAgICAgICAgdGhpcy5vcHRpY3NGaWxlVCA9IG5ldyBPcHRpY3NGaWxlKG9wdGljc01lYXN1cmUpLmdldFBsYW5lZChPcHRpY3NGaWxlLlBsYW5lLlgpOwogICAgICAgIHRoaXMub3B0aWNzRmlsZUIgPSBuZXcgT3B0aWNzRmlsZShvcHRpY3NNZWFzdXJlKS5nZXRQbGFuZWQoT3B0aWNzRmlsZS5QbGFuZS5ZKTsKICAgICAgICB0aGlzLmNoaWxkcmVuID0gY2hpbGRyZW47CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1JkdDsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SXNEZXZlbG9wZXJGYWxzZSgpIHsKICAgICAgICBmaW5hbCBTdHJpbmcgY3VycmVudFVzZXJOYW1lID0gU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLm5hbWUiKTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoInVzZXIubmFtZSIsICJhYmNkZWZnaGlqa2xtbiIpOwogICAgICAgIGFzc2VydEZhbHNlKFByb3BlcnR5VG9vbHMuaXNEZXZlbG9wZXIoKSk7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJ1c2VyLm5hbWUiLCBjdXJyZW50VXNlck5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgc3dpdGNoIChheGlzKSB7CiAgICAgICAgICAgIGNhc2UgeDogcmV0dXJuIHRoaXMuY29sdW1uWC5nZXRDb2x1bW4oKTsKICAgICAgICAgICAgY2FzZSB5OiByZXR1cm4gdGhpcy5jb2x1bW5ZLmdldENvbHVtbigpOwogICAgICAgICAgICBkZWZhdWx0OiB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJBeGlzIHVua25vd246ICIgKyBheGlzKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBUZXMK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVsdGEpewo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">dAogICAgcHVibGljIHZvaWQgdGVzdElzRGV2ZWxvcGVyKCkgewogICAgICAgIGZpbmFsIFN0cmluZyBjdXJyZW50VXNlck5hbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIubmFtZSIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgInRiYWNoIik7CiAgICAgICAgYm9vbGVhbiBjb25kaXRpb25fb25lID0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwogICAgICAgIAogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgInZpbWFpZXIiKTsKICAgICAgICBib29sZWFuIGNvbmRpdGlvbl90d28gPSBQcm9wZXJ0eVRvb2xzLmlzRGV2ZWxvcGVyKCk7CiAgICAgICAgCiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJ1c2VyLm5hbWUiLCAiamNvZWxsb2QiKTsKICAgICAgICBib29sZWFuIGNvbmRpdGlvbl90aHJlZT0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwoKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoInVzZXIubmFtZSIsICJza293cm9uIik7CiAgICAgICAgYm9vbGVhbiBjb25kaXRpb25fZm91cj0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwoKICAgICAgICBhc3NlcnRUcnVlKGNvbmRpdGlvbl9vbmUgJiYgY29uZGl0aW9uX3R3byAmJiBjb25kaXRpb25fdGhyZWUgJiYgY29uZGl0aW9uX2ZvdXIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgY3VycmVudFVzZXJOYW1lKTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExlYWYoU3RyaW5nIG5vZGUsIFN0cmluZyB4bGFiZWwsIFN0cmluZyB5bGFiZWwsIGJvb2xlYW4gZGVsdGEsCiAgICAgICAgIE9wdGljc0NvbHVtbi5UeXBlIGNvbHVtblR5cGVYLCBPcHRpY3NDb2x1bW4uVHlwZSBjb2x1bW5UeXBlWSl7CiAgICAgICAgdGhpcy5ub2RlID0gbm9kZTsKICAgICAgICB0aGlzLmRlbHRhID0gZGVsdGE7CgogICAgICAgIHRoaXMueExhYmVsID0geGxhYmVsOwogICAgICAgIHRoaXMueUxhYmVsID0geWxhYmVsOwogICAgICAgIHRoaXMuY29sdW1uWCA9IG5ldyBPcHRpY3NDb2x1bW4oY29sdW1uVHlwZVgpOwogICAgICAgIHRoaXMuY29sdW1uWSA9IG5ldyBPcHRpY3NDb2x1bW4oY29sdW1uVHlwZVkpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtblggPSBuZXcgT3B0aWNzQ29sdW1uKGNvbHVtblR5cGUpLmdldFBsYW5lZChPcHRpY3NGaWxlLlBsYW5lLlgpOwogICAgICAgIHRoaXMuY29sdW1uWSA9IG5ldyBPcHRpY3NDb2x1bW4oY29sdW1uVHlwZSkuZ2V0UGxhbmVkKE9wdGljc0ZpbGUuUGxhbmUuWSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1JkdDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -920,10 +1075,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3B0aWNzQ29sdW1uLlR5cGUuQU1QTElUVURFCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgc3dpdGNoIChheGlzKSB7CiAgICAgICAgICAgIGNhc2UgeDogcmV0dXJuIHRoaXMuY29sdW1uWC5nZXRDb2x1bW4oKTsKICAgICAgICAgICAgY2FzZSB5OiByZXR1cm4gdGhpcy5jb2x1bW5ZLmdldENvbHVtbigpOwogICAgICAgICAgICBkZWZhdWx0OiB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJBeGlzIHVua25vd246ICIgKyBheGlzKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
