@@ -6,7 +6,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/tools.py" timestamp="1550229517474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1561993654977">
+      <file name="/a.dummy" timestamp="1562145809105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -507,11 +507,11 @@
         <mark key="]" line="190" column="0" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1561730506441">
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="69" column="43" />
-        <mark key="^" line="64" column="43" />
-        <mark key="." line="69" column="28" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562149162028">
+        <mark key="[" line="116" column="25" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="117" column="53" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1550591828045">
         <mark key="[" line="33" column="9" />
@@ -581,11 +581,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/test_dot_dict_error.py" timestamp="1550247883230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562144151053">
-        <mark key="[" line="473" column="28" />
-        <mark key="]" line="496" column="5" />
-        <mark key="^" line="473" column="14" />
-        <mark key="." line="491" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562148298000">
+        <mark key="[" line="502" column="0" />
+        <mark key="]" line="505" column="4" />
+        <mark key="^" line="502" column="6" />
+        <mark key="." line="502" column="6" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1550591539151">
         <mark key="[" line="24" column="4" />
@@ -596,17 +596,33 @@
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/tmp/run.sh" timestamp="1548933575101">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562149433114">
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/.travis.yml" timestamp="1556898112681">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Root.java" timestamp="1562148397795">
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.check_orbit/temp/2dplot.py" timestamp="1553769362543">
         <mark key="[" line="52" column="14" />
         <mark key="]" line="52" column="26" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="51" column="25" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562148303407">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="84" column="5" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="79" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/contexts.py" timestamp="1550228589356">
         <mark key="[" line="0" column="0" />
@@ -796,7 +812,7 @@
         <mark key="^" line="50" column="39" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1561998677140">
+      <file name="/fragment.java" timestamp="1562145799410">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -918,7 +934,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1026,37 +1042,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">TGlzdDxGaWxlPiBkaXJz</text>
       </register>
       <register name="/" type="4">
         <text>iotools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE9wdGljc1BhcmFtZXRlcihTdHJpbmcgbGFiZWwsIE9wdGljc0ZpbGUuTWVhc3VyZSBvcHRpY3NNZWFzdXJlLCBMZWFmLi4uIGNoaWxkcmVuKXsKICAgICAgICB0aGlzLmxhYmVsID0gbGFiZWw7CiAgICAgICAgdGhpcy5vcHRpY3NGaWxlVCA9IG5ldyBPcHRpY3NGaWxlKG9wdGljc01lYXN1cmUpLmdldFBsYW5lZChPcHRpY3NGaWxlLlBsYW5lLlgpOwogICAgICAgIHRoaXMub3B0aWNzRmlsZUIgPSBuZXcgT3B0aWNzRmlsZShvcHRpY3NNZWFzdXJlKS5nZXRQbGFuZWQoT3B0aWNzRmlsZS5QbGFuZS5ZKTsKICAgICAgICB0aGlzLmNoaWxkcmVuID0gY2hpbGRyZW47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gbGFiZWw7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0SXNEZXZlbG9wZXJGYWxzZSgpIHsKICAgICAgICBmaW5hbCBTdHJpbmcgY3VycmVudFVzZXJOYW1lID0gU3lzdGVtLmdldFByb3BlcnR5KCJ1c2VyLm5hbWUiKTsKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoInVzZXIubmFtZSIsICJhYmNkZWZnaGlqa2xtbiIpOwogICAgICAgIGFzc2VydEZhbHNlKFByb3BlcnR5VG9vbHMuaXNEZXZlbG9wZXIoKSk7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJ1c2VyLm5hbWUiLCBjdXJyZW50VXNlck5hbWUpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxGaWxlPiBkaXJzID0gcGFyZW50LmdldERpcmVjdG9yaWVzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobGlzdE9wdGljc1BhcmFtZXRlck5vZGVzID09IG51bGwpCiAgICAgICAgICAgIGxpc3RPcHRpY3NQYXJhbWV0ZXJOb2RlcyA9IGdlbmVyYXRlTGlzdE9wdGljc1BhcmFtZXRlcnNOb2RlcyhkaXJzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXMK</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLnRyZWUuRGVmYXVsdE11dGFibGVUcmVlTm9kZTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dAogICAgcHVibGljIHZvaWQgdGVzdElzRGV2ZWxvcGVyKCkgewogICAgICAgIGZpbmFsIFN0cmluZyBjdXJyZW50VXNlck5hbWUgPSBTeXN0ZW0uZ2V0UHJvcGVydHkoInVzZXIubmFtZSIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgInRiYWNoIik7CiAgICAgICAgYm9vbGVhbiBjb25kaXRpb25fb25lID0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwogICAgICAgIAogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgInZpbWFpZXIiKTsKICAgICAgICBib29sZWFuIGNvbmRpdGlvbl90d28gPSBQcm9wZXJ0eVRvb2xzLmlzRGV2ZWxvcGVyKCk7CiAgICAgICAgCiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJ1c2VyLm5hbWUiLCAiamNvZWxsb2QiKTsKICAgICAgICBib29sZWFuIGNvbmRpdGlvbl90aHJlZT0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwoKICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoInVzZXIubmFtZSIsICJza293cm9uIik7CiAgICAgICAgYm9vbGVhbiBjb25kaXRpb25fZm91cj0gUHJvcGVydHlUb29scy5pc0RldmVsb3BlcigpOwoKICAgICAgICBhc3NlcnRUcnVlKGNvbmRpdGlvbl9vbmUgJiYgY29uZGl0aW9uX3R3byAmJiBjb25kaXRpb25fdGhyZWUgJiYgY29uZGl0aW9uX2ZvdXIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgidXNlci5uYW1lIiwgY3VycmVudFVzZXJOYW1lKTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc1JkdDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxMZWFmPiBsaXN0TGVhdmVzRm9yUkRUUyA9IEFycmF5cy5hc0xpc3QoTGVhZi5SRFRfQW1wUGhhc2UsIExlYWYuUkRUX1JlSW0sIExlYWYuUkRUX0FtcFBoYXNlTGluZXMpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1077,10 +1093,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzUmR0ID0gaXNSZHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgc3dpdGNoIChheGlzKSB7CiAgICAgICAgICAgIGNhc2UgeDogcmV0dXJuIHRoaXMuY29sdW1uWC5nZXRDb2x1bW4oKTsKICAgICAgICAgICAgY2FzZSB5OiByZXR1cm4gdGhpcy5jb2x1bW5ZLmdldENvbHVtbigpOwogICAgICAgICAgICBkZWZhdWx0OiB0aHJvdyBuZXcgSWxsZWdhbFN0YXRlRXhjZXB0aW9uKCJBeGlzIHVua25vd246ICIgKyBheGlzKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
