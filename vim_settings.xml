@@ -133,6 +133,7 @@
         <mark key="." line="198" column="0" />
         <mark key="^" line="198" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562085990854" />
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/quick_freq_spec.py" timestamp="1553620552796">
         <mark key="[" line="18" column="30" />
         <mark key="]" line="18" column="31" />
@@ -580,11 +581,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/tests/test_dot_dict_error.py" timestamp="1550247883230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1561998851673">
-        <mark key="[" line="488" column="4" />
-        <mark key="]" line="493" column="5" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562144151053">
+        <mark key="[" line="473" column="28" />
+        <mark key="]" line="496" column="5" />
         <mark key="^" line="473" column="14" />
-        <mark key="." line="488" column="0" />
+        <mark key="." line="491" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1550591539151">
         <mark key="[" line="24" column="4" />
@@ -613,6 +614,7 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/doc/Makefile" timestamp="1556893834883">
         <mark key="[" line="52" column="89" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/Leaf.java" timestamp="1561723809877" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/template.2018.LHC.IRNL.squeezed.manual_amplitude_detuning.madx" timestamp="1552052476647">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="344" column="80" />
