@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/datamanagement/MonitorSetImpl.java" timestamp="1562247081481">
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/datamanagement/MonitorSetImpl.java" timestamp="1562247799391">
         <mark key="[" line="672" column="12" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/ui/panels/miniPanels/KickerMasterPanel.java" timestamp="1562246002910" />
@@ -16,7 +16,7 @@
     </search>
     <history />
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
