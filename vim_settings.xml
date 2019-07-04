@@ -3,13 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562253598979">
+        <mark key="[" line="116" column="42" />
+        <mark key="]" line="118" column="4" />
+        <mark key="." line="110" column="21" />
+        <mark key="^" line="110" column="21" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562253825177" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/datamanagement/MonitorSetImpl.java" timestamp="1562248633465">
         <mark key="[" line="672" column="12" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562253484412">
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Root.java" timestamp="1562253375159">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="139" column="4" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="131" column="36" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/ui/panels/miniPanels/KickerMasterPanel.java" timestamp="1562246002910" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562253573723">
+        <mark key="[" line="81" column="52" />
+        <mark key="]" line="81" column="52" />
+        <mark key="." line="81" column="52" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBNdXRhYmxlVHJlZU5vZGUgZ2V0VHJlZSgpIHsKICAgICAgICBUQkxvZ2dlci5lbnRyeUluZm8oKTsKICAgICAgICBpZiAoZGVmYXVsdE11dGFibGVUcmVlTm9kZVJvb3QgPT0gbnVsbCkgewogICAgICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiLS0gLS0gQ3JlYXRpbmcgVHJlZU5vZGUgQ2F0ZWdvcnkiKTsKICAgICAgICAgICAgY3JlYXRlVHJlZSgpOwogICAgICAgIH0KICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiLS0gLS0gVHJlZU5vZGVSb290IGhhcyAiICsgZGVmYXVsdE11dGFibGVUcmVlTm9kZVJvb3QuZ2V0Q2hpbGRDb3VudCgpICsgIiBjaGlsZHJlbiAiKTsKICAgICAgICByZXR1cm4gZGVmYXVsdE11dGFibGVUcmVlTm9kZVJvb3Q7CiAgICB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBPdmVyclZpZGUKICAgIHB1YmxpYyBNdXRhYmxlVHJlZU5vZGUgZ2V0VHJlZSgpIHsKICAgICAgICB7CiAgICAgICAgICAgIFRCTG9nZ2VyLmVudHJ5SW5mbygpOwoKICAgICAgICAgICAgaWYgKGRlZmF1bHRNdXRhYmxlVHJlZU5vZGVSb290ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCItLSAtLSBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCBpcyBudWxsLCBtYWtpbmcgbmV3IG9uZSAiKTsKICAgICAgICAgICAgICAgIGNyZWF0ZVRyZWUoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCItLSAtLSBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCBpcyBleGlzdHMsIGl0IGhhcyAiKwogICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdC5nZXRDaGlsZENvdW50KCkgKyAiIGNoaWxkcmVuICIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Category</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwogICAgcHVibGljIE11dGFibGVUcmVlTm9kZSBnZXRUcmVlKCkgCiAgICB7CiAgICAgICAgVEJMb2dnZXIuZW50cnlJbmZvKCk7CgogICAgICAgIGlmIChkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCA9PSBudWxsKSAKICAgICAgICAgIHsKICAgICAgICAgICAgVEJMb2dnZXIuZGVidWcoIi0tIC0tIC0tIG1ha2luZyBuZXcgRGVmYXVsdE11dGFibGVUcmVlTm9kZSIpOwogICAgICAgICAgICBjcmVhdGVUcmVlKCk7CiAgICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcmV0dXJuIGRlZmF1bHRNdXRhYmxlVHJlZU5vZGVSb290OwogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVyclZpZGUKICAgIHB1YmxpYyBNdXRhYmxlVHJlZU5vZGUgZ2V0VHJlZSgpIHsKICAgICAgICB7CiAgICAgICAgICAgIFRCTG9nZ2VyLmVudHJ5SW5mbygpOwoKICAgICAgICAgICAgaWYgKGRlZmF1bHRNdXRhYmxlVHJlZU5vZGVSb290ID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCItLSAtLSBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCBpcyBudWxsLCBtYWtpbmcgbmV3IG9uZSAiKTsKICAgICAgICAgICAgICAgIGNyZWF0ZVRyZWUoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCItLSAtLSBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCBpcyBleGlzdHMsIGl0IGhhcyAiKwogICAgICAgICAgICAgICAgICAgICAgICBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdC5nZXRDaGlsZENvdW50KCkgKyAiIGNoaWxkcmVuICIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBNdXRhYmxlVHJlZU5vZGUgZ2V0VHJlZSgpIAogICAgewogICAgICAgIFRCTG9nZ2VyLmVudHJ5SW5mbygpOwogICAgICAgIGlmIChkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdCA9PSBudWxsKSB7CiAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCItLSAtLSBUcmVlTm9kZSBpcyBudWxsLCBtYWtpbmcgbmV3IG9uZSAiKTsKICAgICAgICAgICAgY3JlYXRlVHJlZSgpOwogICAgICAgIH0KICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiLS0gLS0gVHJlZU5vZGUgaGFzICIgKyBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdC5nZXRDaGlsZENvdW50KCkgKyAiIGNoaWxkcmVuICIpOwogICAgICAgIHJldHVybiBkZWZhdWx0TXV0YWJsZVRyZWVOb2RlUm9vdDsKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBNdXRhYmxlVHJlZU5vZGUgZ2V0VHJlZSgpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3JlYXRlIHRyZWUgd2l0aCByZXN1bHRzCiAgICAgKiBAcGFyYW0gZGlycyBMaXN0IG9mIGRpcmVjdG9yaWVzIGF2YWlsYWJsZSBmb3IgcGxvdHRpbmcKICAgICAqIEByZXR1cm4gUmV0dXJuIHRydWUgb24gZXJyb3IKICAgICAqLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiLS0gQ3JlYXRpbmcgVHJlZU5vZGVSb290Iik7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Category</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -21,6 +81,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
