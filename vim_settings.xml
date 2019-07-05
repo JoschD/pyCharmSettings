@@ -3,9 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/OpticsParameterNode.java" timestamp="1562271155927">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="93" column="8" />
+      <file name="/a.dummy" timestamp="1562316796694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562276139351">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="64" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="37" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562322175957">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="29" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
         <mark key="[" line="35" column="0" />
@@ -23,9 +48,6 @@
         <mark key="[" line="18" column="39" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1562316796694">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
@@ -46,10 +68,8 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="68" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
+        <mark key="[" line="0" column="19" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562258398478">
         <mark key="[" line="11" column="89" />
@@ -60,12 +80,6 @@
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562276139351">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="66" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="64" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
         <mark key="[" line="21" column="29" />
@@ -78,11 +92,10 @@
         <mark key="^" line="73" column="44" />
         <mark key="." line="78" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562318757522">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="36" />
-        <mark key="." line="41" column="36" />
-        <mark key="^" line="41" column="36" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562319987027">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562269118204">
         <mark key="[" line="34" column="0" />
@@ -90,49 +103,47 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562270490030">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="/fragment.java" timestamp="1562320400021">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdFtdIHlEYXRhID0gb3B0aWNzRmlsZS5nZXRGbG9hdERhdGEoeUNvbHVtbi50b1N0cmluZygpKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;RDT Real&quot;,&quot;RDT Imaginary&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjb2x1bW5zID0gbmV3IFN0cmluZ1tde3hDb2x1bW4udG9TdHJpbmcoKSwgeUNvbHVtbi50b1N0cmluZygpLCBlQ29sdW1uLnRvU3RyaW5nKCksIGxDb2x1bW4udG9TdHJpbmcoKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgbGFiZWxUID0gbGFiZWw7CiAgICAgICAgICAgICAgICBsYWJlbEIgPSBsYWJlbDsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBjb2x1bW5zID0gbmV3IFN0cmluZ1tde3hDb2x1bW4udG9TdHJpbmcoKSwgeUNvbHVtbi50b1N0cmluZygpLCBlQ29sdW1uLnRvU3RyaW5nKCksIGxDb2x1bW4udG9TdHJpbmcoKX07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;RDT Real&quot;,&quot;RDT Imaginary&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGbG9hdFtdIHlEYXRhID0gb3B0aWNzRmlsZS5nZXRTdHJpbmdEYXRhKHlDb2x1bW4pOwogICAgICAgIEZsb2F0W10gZURhdGEgPSBvcHRpY3NGaWxlLmdldFN0cmluZ0RhdGEoZUNvbHVtbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTGFiZWxzRGVmaW5pdGlvbnMge1YKCiAgICBwdWJsaWMgTGFiZWxzRGVmaW5pdGlvbnMoU3RyaW5nIGxlZ2VuZCwgT3B0aWNzQ29sdW1uIHhDb2x1bW4sIE9wdGljc0NvbHVtbiB5Q29sdW1uLCBPcHRpY3NDb2x1bW4gZUNvbHVtbiwgT3B0aWNzQ29sdW1uIGxDb2x1bW4pIHsKICAgICAgICB0aGlzLmxlZ2VuZCA9IGxlZ2VuZDsKICAgICAgICB0aGlzLnhDb2x1bW4gPSB4Q29sdW1uOwogICAgICAgIHRoaXMueUNvbHVtbiA9IHlDb2x1bW47CiAgICAgICAgdGhpcy5lQ29sdW1uID0gZUNvbHVtbjsKICAgICAgICB0aGlzLmxDb2x1bW4gPSBsQ29sdW1uOwogICAgfQoKCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sYWJlbCA9IGxhYmVsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIGxlZ2VuZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQodGhpcy5sYWJlbCwgYXhpcyk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmxhYmVsOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3B0aWNzRmlsZUhhbmRsZXIgZmlsZUhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIExPQ0FUSU9OTEFCRUwgPSA7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQSEFTRUFEVkFOQ0VMQUJFTCA9ICJQaGFzZSBBZHZhbmNlIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQSEFTRUxBQkVMID0gOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGFiZWxzRGVmaW5pdGlvbnNbXSBsYWJlbHNEZWZpbml0aW9uczsK</text>
+        <text encoding="base64">ICAgIC8vIFktTGFiZWxzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBsZWdlbmQ7CiAgICBmaW5hbCBPcHRpY3NDb2x1bW4geENvbHVtbjsKICAgIGZpbmFsIE9wdGljc0NvbHVtbiB5Q29sdW1uOwogICAgZmluYWwgT3B0aWNzQ29sdW1uIGVDb2x1bW47CiAgICBmaW5hbCBPcHRpY3NDb2x1bW4gbENvbHVtbjsK</text>
+        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFN0cmluZyBsZWdlbmQ7CiAgICBmaW5hbCBPcHRpY3NDb2x1bW4geENvbHVtbjsKICAgIGZpbmFsIE9wdGljc0NvbHVtbiB5Q29sdW1uOwogICAgZmluYWwgT3B0aWNzQ29sdW1uIGVDb2x1bW47CiAgICBmaW5hbCBPcHRpY3NDb2x1bW4gbENvbHVtbjsK</text>
+        <text encoding="base64">ICAgIC8vIFgtTGFiZWxzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMYWJlbHNEZWZpbml0aW9ucyhTdHJpbmcgbGVnZW5kLCBPcHRpY3NDb2x1bW4geGNvbHVtbiwgT3B0aWNzQ29sdW1uIHljb2x1bW4sIE9wdGljc0NvbHVtbiBlY29sdW1uLCBPcHRpY3NDb2x1bW4gbGNvbHVtbikgewogICAgICAgIHRoaXMubGVnZW5kID0gbGVnZW5kOwogICAgICAgIHRoaXMueGNvbHVtbiA9IHhjb2x1bW47CiAgICAgICAgdGhpcy55Y29sdW1uID0geWNvbHVtbjsKICAgICAgICB0aGlzLmVjb2x1bW4gPSBlY29sdW1uOwogICAgICAgIHRoaXMubGNvbHVtbiA9IGxjb2x1bW47CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBIQVNFTEFCRUwgPSA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
@@ -144,7 +155,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
