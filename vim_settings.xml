@@ -14,11 +14,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562346673115">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562590896218">
+        <mark key="[" line="91" column="4" />
+        <mark key="]" line="98" column="5" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="84" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
         <mark key="[" line="2" column="25" />
@@ -29,11 +29,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="50" column="9" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562345515846">
-        <mark key="[" line="282" column="8" />
-        <mark key="]" line="282" column="11" />
-        <mark key="." line="282" column="11" />
-        <mark key="^" line="282" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562594282072">
+        <mark key="[" line="79" column="16" />
+        <mark key="]" line="79" column="33" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
         <mark key="[" line="35" column="0" />
@@ -41,29 +41,28 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562275763715">
-        <mark key="[" line="661" column="35" />
-        <mark key="]" line="364" column="32" />
-        <mark key="^" line="364" column="32" />
-        <mark key="." line="365" column="34" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562593066841" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562589072270">
+        <mark key="[" line="77" column="126" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562345806256">
-        <mark key="[" line="76" column="113" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562346080030">
-        <mark key="[" line="114" column="58" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-multiturn/src/java/cern/lhc/multiturn/ui/panels/miniPanels/KickerMasterPanel.java" timestamp="1562246002910" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562592459244">
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562341941315">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
-        <mark key="[" line="220" column="101" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562593403352">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="47" />
+        <mark key="^" line="222" column="32" />
+        <mark key="." line="771" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562344598848">
         <mark key="[" line="146" column="0" />
@@ -96,11 +95,11 @@
         <mark key="]" line="45" column="21" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562343720139">
-        <mark key="[" line="47" column="10" />
-        <mark key="]" line="43" column="41" />
-        <mark key="." line="43" column="41" />
-        <mark key="^" line="43" column="41" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562593575460">
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="32" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562341997536">
         <mark key="[" line="7" column="57" />
@@ -114,44 +113,44 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKGRpciwgRElSKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Z2V0Q29sdW1uV2l0aEVycm9yKEtNT0RQUkVGSVgsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>newLeaf</text>
+        <text encoding="base64">Z2V0Q29sdW1uV2l0aEVycm9yKEtNT0RQUkVGSVgsIA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIEZpbGUgZ2V0UkRURGlyKEZpbGUgZGlyKXsKICAgICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKGRpciwgRElSKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>getkmodWithError(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBGaWxlKGRpciwgRElSKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRLCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgTGVhZiBuZXdMZWFmID0gOwo=</text>
+        <text encoding="base64">ICAgIC8vIFJlbmRlcmVyIC0tLS0tLS0tLS0tLS0tLS0tLS0tCgogICAgcHJpdmF0ZSBFcnJvckRhdGFTZXRSZW5kZXJlciBnZXRFcnJvckRhdGFTZXRSZW5kZXJlcigpIHsKICAgICAgICBmaW5hbCBFcnJvckRhdGFTZXRSZW5kZXJlciBlcnJvckRhdGFTZXRSZW5kZXJlciA9IG5ldyBFcnJvckRhdGFTZXRSZW5kZXJlcigpOwogICAgICAgIGVycm9yRGF0YVNldFJlbmRlcmVyLnNldERyYXdCYXJzKGZhbHNlKTsKICAgICAgICBlcnJvckRhdGFTZXRSZW5kZXJlci5zZXREcmF3UG9seUxpbmUodHJ1ZSk7CiAgICAgICAgZXJyb3JEYXRhU2V0UmVuZGVyZXIuc2V0U3R5bGUoMCwgbmV3IFN0eWxlKENvbG9yLlJFRCwgbmV3IENvbG9yKDI1NSwgMCwgMCkpKTsKICAgICAgICByZXR1cm4gZXJyb3JEYXRhU2V0UmVuZGVyZXI7CiAgICB9CiAgICBwcml2YXRlIEVycm9yRGF0YVNldFJlbmRlcmVyIGdldEttb2REYXRhU2V0UmVuZGVyZXIoKSB7CiAgICAgICAgZmluYWwgRXJyb3JEYXRhU2V0UmVuZGVyZXIgZXJyb3JLbW9kU2V0UmVuZGVyZXIgPSBuZXcgRXJyb3JEYXRhU2V0UmVuZGVyZXIoKTsKICAgICAgICBlcnJvckttb2RTZXRSZW5kZXJlci5zZXREcmF3QmFycyhmYWxzZSk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0RHJhd1BvbHlMaW5lKGZhbHNlKTsKICAgICAgICBlcnJvckttb2RTZXRSZW5kZXJlci5zZXREcmF3TWFya2VyKHRydWUpOwogICAgICAgIGVycm9yS21vZFNldFJlbmRlcmVyLnNldE1hcmtlcihNYXJrZXJGYWN0b3J5LmdldE1hcmtlcihNYXJrZXIuQ0lSQ0xFKSk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0TWFya2VyU2l6ZSg4KTsKICAgICAgICBlcnJvckttb2RTZXRSZW5kZXJlci5zZXRTdHlsZSgwLCBuZXcgU3R5bGUoVGFuZ29Db2xvcnMuU0tZX0JMVUU0LCBUYW5nb0NvbG9ycy5TS1lfQkxVRTQpKTsKICAgICAgICBlcnJvckttb2RTZXRSZW5kZXJlci5zZXRQb2ludFJlZHVjdGlvbihmYWxzZSk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0VmlzaWJsZSh0cnVlKTsKICAgICAgICByZXR1cm4gZXJyb3JLbW9kU2V0UmVuZGVyZXI7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHRpY3NQYXJhbWV0ZXIuZ2V0T3B0aWNzRmlsZUhhbmRsZXJCKCkuZ2V0V2l0aFJEVChyZHRGaWxlbmFtZSksCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcHRpY3NQYXJhbWV0ZXIuZ2V0T3B0aWNzRmlsZUhhbmRsZXJUKCkuZ2V0V2l0aFJEVChyZHRGaWxlbmFtZSksCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRXJyb3JEYXRhU2V0UmVuZGVyZXIgZ2V0RXJyb3JEYXRhU2V0UmVuZGVyZXIoKSB7CiAgICAgICAgZmluYWwgRXJyb3JEYXRhU2V0UmVuZGVyZXIgZXJyb3JEYXRhU2V0UmVuZGVyZXIgPSBuZXcgRXJyb3JEYXRhU2V0UmVuZGVyZXIoKTsKICAgICAgICBlcnJvckRhdGFTZXRSZW5kZXJlci5zZXREcmF3QmFycyhmYWxzZSk7CiAgICAgICAgZXJyb3JEYXRhU2V0UmVuZGVyZXIuc2V0RHJhd1BvbHlMaW5lKHRydWUpOwogICAgICAgIGVycm9yRGF0YVNldFJlbmRlcmVyLnNldFN0eWxlKDAsIG5ldyBTdHlsZShDb2xvci5SRUQsIG5ldyBDb2xvcigyNTUsIDAsIDApKSk7CiAgICAgICAgcmV0dXJuIGVycm9yRGF0YVNldFJlbmRlcmVyOwogICAgfQogICAgcHJpdmF0ZSBFcnJvckRhdGFTZXRSZW5kZXJlciBnZXRLbW9kRGF0YVNldFJlbmRlcmVyKCkgewogICAgICAgIGZpbmFsIEVycm9yRGF0YVNldFJlbmRlcmVyIGVycm9yS21vZFNldFJlbmRlcmVyID0gbmV3IEVycm9yRGF0YVNldFJlbmRlcmVyKCk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0RHJhd0JhcnMoZmFsc2UpOwogICAgICAgIGVycm9yS21vZFNldFJlbmRlcmVyLnNldERyYXdQb2x5TGluZShmYWxzZSk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0RHJhd01hcmtlcih0cnVlKTsgICAgICAgICAgICAKICAgICAgICBlcnJvckttb2RTZXRSZW5kZXJlci5zZXRNYXJrZXIoTWFya2VyRmFjdG9yeS5nZXRNYXJrZXIoTWFya2VyLkNJUkNMRSkpOwogICAgICAgIGVycm9yS21vZFNldFJlbmRlcmVyLnNldE1hcmtlclNpemUoOCk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0U3R5bGUoMCwgbmV3IFN0eWxlKFRhbmdvQ29sb3JzLlNLWV9CTFVFNCwgVGFuZ29Db2xvcnMuU0tZX0JMVUU0KSk7CiAgICAgICAgZXJyb3JLbW9kU2V0UmVuZGVyZXIuc2V0UG9pbnRSZWR1Y3Rpb24oZmFsc2UpOwogICAgICAgIGVycm9yS21vZFNldFJlbmRlcmVyLnNldFZpc2libGUodHJ1ZSk7CiAgICAgICAgcmV0dXJuIGVycm9yS21vZFNldFJlbmRlcmVyOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVHdvQ2hhcnRzUGFjayBjaGFydHNQYWNrOwo=</text>
+        <text encoding="base64">ICAgIC8vX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCiAgICAvKioKICAgICAqIFJlYWRzIFJEVCBkYXRhIGZyb20gZmlsZXMgYW5kIHB1dHMgdG8gY2hhcnRzCiAgICAgKiBSRFQgaXMgcmVwcmVzZW50ZWQgYnkgb25seSBvbmUgZmlsZSBiZWNhdXNlIAogICAgICogdGhlcmUgaXMgbm8gY29ycmVzcG9uZGVuY2UgYmV0d2VlbiBIIGFuZCBWIFJEVHMsIHRoZXkgaGF2ZSBkaWZmZXJlbnQgbmFtZXMKICAgICAqLwogICAgcHJpdmF0ZSBCQkRlZmF1bHRFcnJvckRhdGFTZXRbXSBnZXRSRFRsaW5lZGF0YShPcHRpY3NQYXJhbWV0ZXIgb3B0aWNzUGFyYW1ldGVyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUd29DaGFydHNQYWNrIGxlYWYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBmaWxlTmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVGZzRmlsZSBmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbG9hdFtdIGFycmF5RGF0YVMpCiAgICAgewogICAgICAgIGlmICggbGVhZi5lcXVhbHMoVHdvQ2hhcnRzUGFjay5SRFRfQW1wUGhhc2VMaW5lcykgPT0gZmFsc2UpCiAgICAgICAgewogICAgICAgICAgICBUQkxvZ2dlci53YXJuKCAiVGhpcyBtZXRob2Qgc2VydmVzIFJEVGFtcHBoYXNlbGluZXMgU3ViTm9kZSwgYW5kIHRoaXMgb25lIGlzICIgKyBsZWFmLm5hbWUoKSk7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIEJCRGVmYXVsdEVycm9yRGF0YVNldCB4ID0gbnVsbCwgeSA9IG51bGw7CgogICAgICAgIFN0cmluZyBybiA9IG9wdGljc1BhcmFtZXRlci50b1N0cmluZygpOyAvLyBSRFQgbmFtZSBmLmcuIGYwMTAxVgogICAgICAgIFN0cmluZyBubiA9ICJSRFQgIisgcm4gKyIvIisgbGVhZi50b1N0cmluZygpOwoKICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiUmVhZGluZyAiKyBubiArIAogICAgICAgICAgICAgICAgIiBmaWxlcyA8IitmLmdldEZpbGVuYW1lKCkgKyAiPiIpOwogICAgICAgIAogICAgICAgIAogICAgICAgIFN0cmluZyBjb2x1bW5OYW1lVXA7CiAgICAgICAgU3RyaW5nIGNvbHVtbkVyck5hbWVVcDsKCiAgICAgICAgU3RyaW5nIGNvbHVtbk5hbWVMbzsKICAgICAgICBTdHJpbmcgY29sdW1uRXJyTmFtZUxvOwogICAgICAgIAogICAgICAgIAogICAgICAgIGNvbHVtbk5hbWVVcCA9ICJBTVAiOyAgICAgLy9VcHBlciBwbG90IGlzIEFtcGxpdHVkZQogICAgICAgIGNvbHVtbkVyck5hbWVVcCA9ICJFQU1QIjsKICAgICAgICBjb2x1bW5OYW1lTG8gPSAiUEhBU0UiOyAvL0xvd2VyIHBsb3QgaXMgUGhhc2UKICAgICAgICBjb2x1bW5FcnJOYW1lTG8gPSAiRVBIQVNFIjsKCiAgICAgICAgVEJMb2dnZXIuZGVidWcoIG5uICsiIFdpbGwgcmVhZCBjb2x1bW5zIDwiICsgY29sdW1uTmFtZVVwICsgIj4gYW5kIDwiK2NvbHVtbkVyck5hbWVVcCsiPiIpOwogICAgICAgIAogICAgICAgIAogICAgICAgIGZsb2F0W10gZGF0YXggPSBmLmdldEZsb2F0RGF0YShjb2x1bW5OYW1lVXApOwogICAgICAgIFRCTG9nZ2VyLmRlYnVnKCBubiArIiBIIHJlYWQgZmlsZSAiKyBmLmdldEZpbGVuYW1lKCkpOwogICAgICAgIFRCTG9nZ2VyLmRlYnVnKCBubiArIiBIIGRhdGEgbGVuICIrIGRhdGF4Lmxlbmd0aCk7CiAgICAgICAgCiAgICAgICAgZmxvYXRbXSBkYXRheSA9IGYuZ2V0RmxvYXREYXRhKGNvbHVtbk5hbWVMbyk7CiAgICAgICAgVEJMb2dnZXIuZGVidWcoIG5uICsiIFYgcmVhZCBmaWxlICIrIGYuZ2V0RmlsZW5hbWUoKSk7CiAgICAgICAgVEJMb2dnZXIuZGVidWcoIG5uICsiIFYgZGF0YSBsZW4gIisgZGF0YXkubGVuZ3RoKTsKICAgICAgICAKICAgICAgICBUQkxvZ2dlci5kZWJ1Zyggbm4gKyIgWCBheGlzIGxlbmd0aCAiKyBhcnJheURhdGFTLmxlbmd0aCk7CgogICAgICAgIGZsb2F0W10gZGF0YWVycjsKICAgICAgICAKICAgICAgICBTdHJpbmcgbnVwID0gIm1lXyIgKyBjb2x1bW5OYW1lVXAgKyAiXyIgKyBubiArICJfIiArICBmaWxlTmFtZTsKICAgICAgICBTdHJpbmcgbmxvID0gIm1lXyIgKyBjb2x1bW5OYW1lTG8gKyAiXyIgKyBubiArICJfIiArICBmaWxlTmFtZTsKICAgICAgICAKICAgICAgICBpZiAoY29sdW1uRXJyTmFtZVVwLmlzRW1wdHkoKSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChhcnJheURhdGFTLmxlbmd0aCA9PSBkYXRheC5sZW5ndGgpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB4ID0gbmV3IEJCRGVmYXVsdEVycm9yRGF0YVNldChudXAsIGFycmF5RGF0YVMsIGRhdGF4KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoYXJyYXlEYXRhUy5sZW5ndGggPT0gZGF0YXkubGVuZ3RoKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgeSA9IG5ldyBCQkRlZmF1bHRFcnJvckRhdGFTZXQobmxvLCBhcnJheURhdGFTLCBkYXRheSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIGVsc2UKICAgICAgICB7CiAgICAgICAgICAgIAogICAgICAgICAgICBpZiAoYXJyYXlEYXRhUy5sZW5ndGggPT0gZGF0YXgubGVuZ3RoKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICBkYXRhZXJyID0gZi5nZXRGbG9hdERhdGEoY29sdW1uRXJyTmFtZVVwKTsKICAgICAgICAgICAgICAgeCA9IG5ldyBCQkRlZmF1bHRFcnJvckRhdGFTZXQobnVwLCBhcnJheURhdGFTLCBkYXRheCwgZGF0YWVycik7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoYXJyYXlEYXRhUy5sZW5ndGggPT0gZGF0YXkubGVuZ3RoKQogICAgICAgICAgICAgewogICAgICAgICAgICAgICBkYXRhZXJyID0gZi5nZXRGbG9hdERhdGEoY29sdW1uRXJyTmFtZUxvKTsKICAgICAgICAgICAgICAgeSA9IG5ldyBCQkRlZmF1bHRFcnJvckRhdGFTZXQobmxvLCBhcnJheURhdGFTLCBkYXRheSwgZGF0YWVycik7CiAgICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgICAgICAKCiAgICAgICAgCiAgICAgICAgQkJEZWZhdWx0RXJyb3JEYXRhU2V0W10gcmV0ID0ge3gseX07ICAgICAgICAKICAgICAgICByZXR1cm4gcmV0OwogICAgICAgIAogICAgIH0KICAgIAogICAgLy9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHdvQ2hhcnRzUGFjayByZHRDaGFydHNQYWNrID0gY2hhcnRzUGFjawo=</text>
+        <text encoding="base64">aW1wb3J0IGNlcm4ubGhjLmJldGFiZWF0aW5nLm1vZGVsLm1haW5XaW5kb3cub3B0aWNzUGFuZWwub3B0aWNzRGF0YVRyZWUuT3B0aWNzUGFyYW1ldGVyLk1haW5Ob2RlVGZzRmlsZXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE5vZGVJbnRlcmZhY2UgbmV3TGVhZiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIE9wdGljc1BhcmFtZXRlck5vZGUgdGFiT3B0aWNzVHJlZU1haW5Ob2RlID0gKE9wdGljc1BhcmFtZXRlck5vZGUpICgoRGVmYXVsdE11dGFibGVUcmVlTm9kZSkgbm9kZS5nZXRQYXJlbnQoKSkuZ2V0VXNlck9iamVjdCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>vi(&quot;0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIFJEVE5vZGUgbmV3Tm9kZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb3B0aWNzUGFyYW1ldGVyLmdldE9wdGljc0ZpbGVIYW5kbGVyVCgpLAo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBmaWxlbmFtZVRvUkRUKFN0cmluZyBmaWxlbmFtZSl7CiAgICAgICAgICAgIFN0cmluZyBwbGFuZWQgPSBmaWxlbmFtZVRvUkRUV2l0aFBsYW5lKGZpbGVuYW1lKTsKICAgICAgICAgICAgaWYoUGxhbmVkT3B0aWNzRmlsZUhhbmRsZXIuWFBMQU5FLmxlbmd0aCgpICE9IFBsYW5lZE9wdGljc0ZpbGVIYW5kbGVyLllQTEFORS5sZW5ndGgoKSl7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgICJQbGFuZSBTdWZmaXhlcyBMZW5ndGggZGlmZmVyIGZyb20gZWFjaCBvdGhlci4gVGhpcyBicmVha3MgdGhpcyBmdW5jdGlvbi4iKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHBsYW5lZC5zdWJzdHJpbmcoMCwgcGxhbmVkLmxlbmd0aCgpIC0gUGxhbmVkT3B0aWNzRmlsZUhhbmRsZXIuWFBMQU5FLmxlbmd0aCgpKTsKICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
@@ -168,6 +167,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
