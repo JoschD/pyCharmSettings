@@ -227,18 +227,13 @@
         <mark key="[" line="60" column="15" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/phase.py" timestamp="1558976638833">
-        <mark key="[" line="50" column="9" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="32" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/esrf_tbt.py" timestamp="1550229552644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tune_analysis/timber_extract.py" timestamp="1558946989678">
         <mark key="[" line="46" column="37" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_amplitude.py" timestamp="1558976268179">
-        <mark key="[" line="28" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/mytest.py" timestamp="1557393227079">
         <mark key="[" line="0" column="0" />
@@ -256,11 +251,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1558976967859">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/.bumpversion.cfg" timestamp="1561118497057">
         <mark key="[" line="2" column="8" />
