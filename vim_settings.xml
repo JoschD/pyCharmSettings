@@ -84,7 +84,7 @@
         <mark key="." line="672" column="62" />
         <mark key="^" line="672" column="62" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562760038279">
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562766774830">
         <mark key="[" line="55" column="22" />
         <mark key="]" line="55" column="22" />
         <mark key="." line="55" column="22" />
@@ -103,11 +103,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562685550620">
-        <mark key="[" line="259" column="43" />
-        <mark key="]" line="259" column="23" />
-        <mark key="." line="259" column="43" />
-        <mark key="^" line="259" column="23" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562767404963">
+        <mark key="[" line="257" column="71" />
+        <mark key="]" line="257" column="71" />
+        <mark key="." line="257" column="38" />
+        <mark key="^" line="257" column="37" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562759051980">
         <mark key="[" line="115" column="27" />
@@ -143,11 +143,15 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562685134903">
-        <mark key="[" line="116" column="4" />
-        <mark key="]" line="118" column="5" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="112" column="14" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Root.java" timestamp="1562674960302">
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="24" />
+        <mark key="." line="58" column="24" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562767468380">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562758254959">
         <mark key="[" line="24" column="42" />
@@ -161,50 +165,50 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1562683422220">
+      <file name="/fragment.java" timestamp="1562766584264">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGpUcmVlLnNldE1vZGVsKHRyZWVSb290LmdldFRyZWVNb2RlbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBXb3VsZCBiZSBwcm9wZXJseSBkb25lIGlmIGNoZWNrcyBmb3IgY29sdW1ucyBhcyB3ZWxsLiBNYXliZSBzbG93Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dataSetDefinition.getDataSet(dir)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgIGpUcmVlLnNldE1vZGVsKHRyZWVSb290LmdldFRyZWVNb2RlbCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXb3VsZCBiZSBwcm9wZXJseSBkb25lIGlmIGNoZWNrcyBmb3IgY29sdW1ucyBhcyB3ZWxsLiBNYXliZSBzbG93Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmR0VHlwZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmR0VHlwZSgpewo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmR0VHlwZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBPcHRpY3NQYXJhbWV0ZXJOb2RlKGZpbmFsIE9wdGljc1BhcmFtZXRlciB0eXBlLCBmaW5hbCBTdHJpbmcgcmR0VHlwZSwgZmluYWwgQ2F0ZWdvcnlOb2RlIHBhcmVudCkgewogICAgICAgIGlmICh0eXBlICE9IE9wdGljc1BhcmFtZXRlci5SRFQpCiAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiQ2FuIG9ubHkgY3JlYXRlIFJEVCBvcHRpY3Mgbm9kZSB3aXRoIHJkdCB0eXBlIHNwZWNpZmljYXRpb24hIik7CiAgICAgICAgdGhpcy5vcHRpY3NQYXJhbWV0ZXIgPSB0eXBlOwogICAgICAgIHRoaXMucGFyZW50ID0gcGFyZW50OwogICAgICAgIHRoaXMucmR0VHlwZSA9IHJkdFR5cGU7CiAgICAgICAgY3JlYXRlVHJlZSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmR0VHlwZSgpewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHJkdFR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBPcHRpY3NQYXJhbWV0ZXJOb2RlKGZpbmFsIE9wdGljc1BhcmFtZXRlciB0eXBlLCBmaW5hbCBTdHJpbmcgcmR0VHlwZSwgZmluYWwgQ2F0ZWdvcnlOb2RlIHBhcmVudCkgewogICAgICAgIGlmICh0eXBlICE9IE9wdGljc1BhcmFtZXRlci5SRFQpCiAgICAgICAgICAgIHRocm93IG5ldyBVbnN1cHBvcnRlZE9wZXJhdGlvbkV4Y2VwdGlvbigiQ2FuIG9ubHkgY3JlYXRlIFJEVCBvcHRpY3Mgbm9kZSB3aXRoIHJkdCB0eXBlIHNwZWNpZmljYXRpb24hIik7CiAgICAgICAgdGhpcy5vcHRpY3NQYXJhbWV0ZXIgPSB0eXBlOwogICAgICAgIHRoaXMucGFyZW50ID0gcGFyZW50OwogICAgICAgIHRoaXMucmR0VHlwZSA9IHJkdFR5cGU7CiAgICAgICAgY3JlYXRlVHJlZSgpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJkdFR5cGUgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgU3RyaW5nIHJkdFR5cGU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>vi(&quot;0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJSRFQgT3B0aWNzUGFyYW1ldGVyIE5vZGUgbmVlZHMgYW4gcmR0IHR5cGUhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJkdFR5cGUgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodHlwZSA9PSBPcHRpY3NQYXJhbWV0ZXIuUkRUKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFVuc3VwcG9ydGVkT3BlcmF0aW9uRXhjZXB0aW9uKCJSRFQgT3B0aWNzUGFyYW1ldGVyIE5vZGUgbmVlZHMgYW4gcmR0IHR5cGUhIik7Cg==</text>
       </register>
     </registers>
     <search>
