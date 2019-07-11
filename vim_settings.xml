@@ -21,7 +21,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1562683144419">
+      <file name="/a.dummy" timestamp="1562831659913">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsColumnHandler.java" timestamp="1562769118803">
@@ -104,11 +104,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562831177478">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="^" line="278" column="43" />
-        <mark key="." line="277" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562831753410">
+        <mark key="[" line="75" column="67" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562770608250">
         <mark key="[" line="91" column="0" />
@@ -117,6 +116,11 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/BPMRangeListener.java" timestamp="1562831904972">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562675207477">
         <mark key="[" line="12" column="0" />
@@ -171,20 +175,20 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="0" type="4">
         <text>AMP</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUQkxvZ2dlci5kZWJ1ZygiPj4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmxvYXRbXSBtdWx0aXBseU1vZGVsKGZsb2F0W10gdmFsdWVNZGwsIGludCBmYWN0b3IpIHsKICAgICAgICBmbG9hdCBbXSBtdWx0aXBsaWVkT3JiaXQgPSBuZXcgZmxvYXRbdmFsdWVNZGwubGVuZ3RoXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHZhbHVlTWRsLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIG11bHRpcGxpZWRPcmJpdFtpXSA9IHZhbHVlTWRsW2ldICogZmFjdG9yOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbXVsdGlwbGllZE9yYml0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN0YXJ0QnBtID0gbnVsbDsKICAgIHByaXZhdGUgU3RyaW5nIGVuZEJwbSA9IG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -193,29 +197,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmxvYXRbXSBtdWx0aXBseU1vZGVsKGZsb2F0W10gdmFsdWVNZGwsIGludCBmYWN0b3IpIHsKICAgICAgICBmbG9hdCBbXSBtdWx0aXBsaWVkT3JiaXQgPSBuZXcgZmxvYXRbdmFsdWVNZGwubGVuZ3RoXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHZhbHVlTWRsLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIG11bHRpcGxpZWRPcmJpdFtpXSA9IHZhbHVlTWRsW2ldICogZmFjdG9yOwogICAgICAgIH0KICAgICAgICByZXR1cm4gbXVsdGlwbGllZE9yYml0OwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2hhcnRJbnRlcmFjdGlvbkxpc3RlbmVyIGdldEJwbVJhbmdlTGlzdGVuZXIoRmlsZSBkaXJlY3RvcnkpIHsKICAgICAgICByZXR1cm4gbmV3IENoYXJ0SW50ZXJhY3Rpb25MaXN0ZW5lcigpIHsKICAgICAgICB9OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBTdHJpbmcgc3RhcnRCcG0gPSBudWxsOwogICAgICAgICAgICBwcml2YXRlIFN0cmluZyBlbmRCcG0gPSBudWxsOwogICAgICAgICAgICBwcml2YXRlIGZpbmFsIEZpbGUgcmVzdWx0RGlyZWN0b3J5ID0gZGlyZWN0b3J5OwoKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIGludGVyYWN0aW9uUGVyZm9ybWVkKGZpbmFsIENoYXJ0SW50ZXJhY3Rpb25FdmVudCBjaGFydEludGVyYWN0aW9uRXZlbnQpIHsKICAgICAgICAgICAgICAgIC8vIHBsYW46IGZpcnN0IGNsaWNrIHNlbGVjdHMgdGhlIGZpcnN0IHN0YXJ0QnBtLCBzZWNvbmQgY2xpY2sgdGhlIGVuZEJwbS4KICAgICAgICAgICAgICAgIC8vIGlmIHN0YXJ0IGFuZCBlbmQgYXJlIHNlbGVjdGVkLCBjb250aW51ZSB3aXRoIGxvZ2ljCiAgICAgICAgICAgICAgICAvLyBhZnRlciB0aGlzIHJlc3RhcnQgY3ljbGUKICAgICAgICAgICAgICAgIC8vIC0tdGJhY2gKICAgICAgICAgICAgICAgIFRCTG9nZ2VyLmRlYnVnKCI+PiIpOwogICAgICAgICAgICAgICAgaWYgKGNoYXJ0SW50ZXJhY3Rpb25FdmVudC5nZXRNb3VzZUV2ZW50KCkuZ2V0QnV0dG9uKCkgPT0gTW91c2VFdmVudC5CVVRUT04xKSB7CiAgICAgICAgICAgICAgICAgICAgRGlzcGxheVBvaW50IGRpc3BsYXlQb2ludCA9IGNoYXJ0SW50ZXJhY3Rpb25FdmVudC5nZXREaXNwbGF5UG9pbnQoKTsKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgY3VycmVudE5hbWUgPSBkaXNwbGF5UG9pbnQuZ2V0RGF0YVNldCgpLmdldERhdGFMYWJlbChkaXNwbGF5UG9pbnQuZ2V0SW5kZXgoKSk7CiAgICAgICAgICAgICAgICAgICAgaWYgKGN1cnJlbnROYW1lICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHN0YXJ0QnBtID09IG51bGwpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydEJwbSA9IGN1cnJlbnROYW1lOwogICAgICAgICAgICAgICAgICAgICAgICBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZEJwbSA9IGN1cnJlbnROYW1lOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluYWwgQkJGcmFtZURUTyBuZXdCQkZyYW1lRFRPID0gbmV3IEJCRnJhbWVEVE8oYmJGcmFtZURUTy5nZXRDb250cm9sbGVyKCkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmV3QkJGcmFtZURUTy5nZXRDaGFydEludGVyYWN0aW9uSGFuZGxlckRUTygpLnNldFN0YXJ0QnBtKHN0YXJ0QnBtKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld0JCRnJhbWVEVE8uZ2V0Q2hhcnRJbnRlcmFjdGlvbkhhbmRsZXJEVE8oKS5zZXRFbmRCcG0oZW5kQnBtKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ld0JCRnJhbWVEVE8uZ2V0Q2hhcnRJbnRlcmFjdGlvbkhhbmRsZXJEVE8oKS5zZXREaXJlY3RvcnkocmVzdWx0RGlyZWN0b3J5KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJiRnJhbWVEVE8uZ2V0Q29udHJvbGxlcigpLnNob3coRnJhbWVOYW1lLlNFR01FTlRfQllfU0VHTUVOVF9TRUxFQ1RJT04sIG5ld0JCRnJhbWVEVE8pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRCcG0gPSBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kQnBtID0gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text>vi(&quot;0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBUZnNGaWxlIGttb2RGaWxlKEZpbGUgZGlyZWN0b3J5LCBTdHJpbmcgcGxhbmUpIHsKICAgICAgICBTdHJpbmcgZmlsZW5hbWUgPSAiZ2V0a21vZGJldGEiICsgcGxhbmUgKyAiLm91dCI7CiAgICAgICAgcmV0dXJuIElvVG9vbHMuZ2V0Rmlyc3RGb3VuZFRmc0ZpbGUoZGlyZWN0b3J5LCBmaWxlbmFtZSk7CiAgICB9CiAgICAKICAgIHByaXZhdGUgZmxvYXRbXSBnZXRTRnJvbUttb2RGaWxlKFRmc0ZpbGUga21vZEZpbGUpIHsKICAgICAgICByZXR1cm4ga21vZEZpbGUuZ2V0RmxvYXREYXRhKCJTIik7ICAKICAgIH0KICAgIAogICAgcHJpdmF0ZSBmbG9hdFtdIGdldEJldGFGcm9tS21vZEZpbGUoVGZzRmlsZSBrbW9kRmlsZSwgU3RyaW5nIHBsYW5lKSB7CiAgICAgICAgcmV0dXJuIGttb2RGaWxlLmdldEZsb2F0RGF0YSgiQkVUIiArIHBsYW5lLnRvVXBwZXJDYXNlKCkpOyAgCiAgICB9CiAgICAKICAgIHByaXZhdGUgZmxvYXRbXSBnZXRFcnJvckZyb21LbW9kRmlsZShUZnNGaWxlIGttb2RGaWxlLCBTdHJpbmcgcGxhbmUpewogICAgICAgIHJldHVybiBrbW9kRmlsZS5nZXRGbG9hdERhdGEoIlNUREJFVCIgKyBwbGFuZS50b1VwcGVyQ2FzZSgpKTsgIAogICAgfQogICAgCiAgICBwcml2YXRlIGZsb2F0W10gZ2V0QmV0YU1kbFZhbHVlcyhUZnNGaWxlIGttb2RGaWxlLCBTdHJpbmcgcGxhbmUpIHsKICAgICAgICByZXR1cm4ga21vZEZpbGUuZ2V0RmxvYXREYXRhKCJCRVQiICsgcGxhbmUudG9VcHBlckNhc2UoKSArICJNREwiKTsgIAogICAgfQogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmxvYXRbXSBnZXREaWZmRnJvbUttb2RGaWxlKFRmc0ZpbGUga21vZEZpbGUsIFN0cmluZyBwbGFuZSkgewogICAgICAgIGZpbmFsIGZsb2F0W10gYmV0ID0gZ2V0QmV0YUZyb21LbW9kRmlsZShrbW9kRmlsZSwgcGxhbmUpOwogICAgICAgIGZpbmFsIGZsb2F0W10gYmV0bWRsID0gZ2V0QmV0YU1kbFZhbHVlcyhrbW9kRmlsZSwgcGxhbmUpOwogICAgICAgIGZpbmFsIGZsb2F0W10gZGlmZiA9IG5ldyBmbG9hdFtiZXQubGVuZ3RoXTsKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGJldC5sZW5ndGg7IGorKykgewogICAgICAgICAgICBkaWZmW2pdID0gKGJldFtqXSAtIGJldG1kbFtqXSkgLyBiZXRtZGxbal07CiAgICAgICAgfQogICAgICAgIHJldHVybiBkaWZmOwogICAgfQogICAgCiAgICBwcml2YXRlIGZsb2F0W10gZ2V0QkJlYXRFcnJvckZyb21LbW9kRmlsZShUZnNGaWxlIGttb2RGaWxlLCBTdHJpbmcgcGxhbmUpIHsKICAgICAgICBmaW5hbCBmbG9hdFtdIGVycm9yID0gZ2V0RXJyb3JGcm9tS21vZEZpbGUoa21vZEZpbGUsIHBsYW5lKTsKICAgICAgICBmaW5hbCBmbG9hdFtdIGJldG1kbCA9IGdldEJldGFNZGxWYWx1ZXMoa21vZEZpbGUsIHBsYW5lKTsKICAgICAgICBmaW5hbCBmbG9hdFtdIGVycm9yYmJlYXQgPSBuZXcgZmxvYXRbZXJyb3IubGVuZ3RoXTsKICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IGVycm9yLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgIGVycm9yYmJlYXRbal0gPSBlcnJvcltqXSAvIGJldG1kbFtqXTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGVycm9yYmJlYXQ7CiAgICB9Cg==</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
