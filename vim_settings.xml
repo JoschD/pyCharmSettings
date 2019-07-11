@@ -3,29 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1562316796694">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562276139351">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="66" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="64" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
-        <mark key="[" line="2" column="25" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562322175957">
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="46" />
@@ -38,6 +15,9 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
+      <file name="/Python Console" timestamp="1562837570294">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562275763715">
         <mark key="[" line="661" column="35" />
         <mark key="]" line="364" column="32" />
@@ -48,6 +28,14 @@
         <mark key="[" line="18" column="39" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1562316796694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562837620352">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
@@ -68,6 +56,11 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="68" column="30" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
       </file>
@@ -80,6 +73,12 @@
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562276139351">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="66" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
         <mark key="[" line="21" column="29" />
@@ -97,11 +96,20 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
+        <mark key="[" line="2" column="25" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562269118204">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="32" column="39" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
+        <mark key="[" line="79" column="12" />
+        <mark key="]" line="79" column="37" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
@@ -116,7 +124,7 @@
         <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgbGFiZWxUID0gbGFiZWw7CiAgICAgICAgICAgICAgICBsYWJlbEIgPSBsYWJlbDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;RDT Real&quot;,&quot;RDT Imaginary&quot;</text>
+        <text>psb</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHJ5ewo=</text>
@@ -143,14 +151,19 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBIQVNFTEFCRUwgPSA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>psb</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
