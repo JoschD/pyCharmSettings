@@ -83,11 +83,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="50" column="9" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562938803096">
-        <mark key="[" line="413" column="72" />
-        <mark key="]" line="426" column="9" />
-        <mark key="^" line="416" column="28" />
-        <mark key="." line="424" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562948236574">
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="58" />
+        <mark key="^" line="299" column="31" />
+        <mark key="." line="299" column="31" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
         <mark key="[" line="35" column="0" />
@@ -131,11 +131,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="47" column="27" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562939860103">
-        <mark key="[" line="101" column="112" />
-        <mark key="]" line="101" column="112" />
-        <mark key="." line="101" column="34" />
-        <mark key="^" line="101" column="33" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562948175813">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+        <mark key="^" line="129" column="48" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562770608250">
         <mark key="[" line="91" column="0" />
@@ -225,43 +225,43 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JEYXRhU2V0UmVuZGVyZXIuc2V0UG9pbnRSZWR1Y3Rpb24oZmFsc2UpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>bbFrameDTO.getController().getModel().getSettingsData().isUsePhaseAdvanceAsX()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdTZXR0aW5nc0RhdGEuc2V0VXNlUkRUKGpDaGVja0JveFVzZVJEVC5pc1NlbGVjdGVkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JEYXRhU2V0UmVuZGVyZXIuc2V0UG9pbnRSZWR1Y3Rpb24oZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50UmVuZGVyZXIuc2V0UG9pbnRSZWR1Y3Rpb24oZmFsc2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW50UmVuZGVyZXIuc2V0UG9pbnRSZWR1Y3Rpb24oZmFsc2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnQuc2V0QW50aUFsaWFzaW5nKHRydWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUGxhbmVkT3B0aWNzQ29sdW1uSGFuZGxlciBleHRlbmRzIE9wdGljc0NvbHVtbkhhbmRsZXIgewogICAgcHJpdmF0ZSBmaW5hbCBPcHRpY3NGaWxlSGFuZGxlci5QbGFuZSBwbGFuZTsKCiAgICBQbGFuZWRPcHRpY3NDb2x1bW5IYW5kbGVyKE9wdGljc0NvbHVtbkhhbmRsZXIgY29sdW1uLCBPcHRpY3NGaWxlSGFuZGxlci5QbGFuZSBwbGFuZSl7CiAgICAgICAgc3VwZXIoY29sdW1uKTsKICAgICAgICB0aGlzLnBsYW5lID0gcGxhbmU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiBjb2x1bW5UeXBlLnRvU3RyaW5nKCkgKyBwbGFuZS50b1N0cmluZygpOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnQuc2V0RGF0YVJhbmdlUG9saWN5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFhDb2x1bW4oU3RyaW5nIHhDb2x1bW4pewogICAgICAgIHRoaXMueENvbHVtbiA9IHhDb2x1bW47CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFhDb2x1bW4oU3RyaW5nIHhDb2x1bW4pewo=</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFTZXREZWZpbml0aW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>vi(&quot;0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBuZXdMYWJlbHMgPSBsYWJlbHMuY2xvbmUoKTsK</text>
+        <text encoding="base64">Y2xhc3MgUGxhbmVkT3B0aWNzQ29sdW1uSGFuZGxlciBleHRlbmRzIE9wdGljc0NvbHVtbkhhbmRsZXIgewogICAgcHJpdmF0ZSBmaW5hbCBPcHRpY3NGaWxlSGFuZGxlci5QbGFuZSBwbGFuZTsKCiAgICBQbGFuZWRPcHRpY3NDb2x1bW5IYW5kbGVyKE9wdGljc0NvbHVtbkhhbmRsZXIgY29sdW1uLCBPcHRpY3NGaWxlSGFuZGxlci5QbGFuZSBwbGFuZSl7CiAgICAgICAgc3VwZXIoY29sdW1uKTsKICAgICAgICB0aGlzLnBsYW5lID0gcGxhbmU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiBjb2x1bW5UeXBlLnRvU3RyaW5nKCkgKyBwbGFuZS50b1N0cmluZygpOwogICAgfQp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFhDb2x1bW4oU3RyaW5nIHhDb2x1bW4pewogICAgICAgIHRoaXMueENvbHVtbiA9IHhDb2x1bW47CiAgICB9Cgo=</text>
       </register>
     </registers>
     <search>
