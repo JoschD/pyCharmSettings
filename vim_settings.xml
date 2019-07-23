@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1562943190886">
+      <file name="/Python Console" timestamp="1563887691481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1562316796694">
@@ -40,7 +40,6 @@
         <mark key="." line="30" column="20" />
         <mark key="^" line="29" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/sbs_writers/sbs_beta_beating_writer.py" timestamp="1562943509316" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="41" column="8" />
@@ -93,7 +92,6 @@
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/SegmentBySegment/SegmentBySegmentMain.py" timestamp="1562943217407" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="0" />
