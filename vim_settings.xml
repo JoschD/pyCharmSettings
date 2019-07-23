@@ -17,10 +17,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1563898204022">
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/chartTools/SmartZoomInteractor.java" timestamp="1563899285557">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="324" column="40" />
+        <mark key="." line="324" column="0" />
+        <mark key="^" line="288" column="37" />
       </file>
       <file name="/a.dummy" timestamp="1562831659913">
         <mark key="[" line="0" column="0" />
@@ -230,13 +231,13 @@
     <jumps />
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJldHVybjsgLy8gZG8gbm90aGluZyBpZiBtb3ZlbWVudCBvZmZzZXQgd2FzIHRvbyBzbWFsbAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwdXNoWm9vbShjdXJyZW50VmlzaWJsZVdpbmRvd3MpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>new Point(centerPoint.x - xConversionOffset, centerPoint.y - yConversionOffset);</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZ2V0RGF0YVdpbmRvd0Zyb21OZXdSZWN0YW5nbGUobmV3TWluWCwgbmV3TWF4WCwgbmV3TWluWSwgbmV3TWF4WSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdXNoWm9vbShjdXJyZW50VmlzaWJsZVdpbmRvd3MpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJldHVybjsgLy8gZG8gbm90aGluZyBpZiBtb3ZlbWVudCBvZmZzZXQgd2FzIHRvbyBzbWFsbAogICAgICAgIH0K</text>
