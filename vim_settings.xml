@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1563965453523">
+      <file name="/Python Console" timestamp="1563971876585">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/generic_parser/entrypoint.py" timestamp="1563965523768">
-        <mark key="[" line="674" column="33" />
-        <mark key="]" line="676" column="12" />
-        <mark key="." line="676" column="12" />
-        <mark key="^" line="676" column="12" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/generic_parser/entrypoint.py" timestamp="1563972548259">
+        <mark key="[" line="356" column="55" />
+        <mark key="]" line="356" column="69" />
+        <mark key="." line="356" column="55" />
+        <mark key="^" line="349" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1562316796694">
         <mark key="[" line="0" column="0" />
@@ -135,37 +135,37 @@
         <text encoding="base64">ICAgIHdpdGggdGVtcGZpbGUuVGVtcG9yYXJ5RGlyZWN0b3J5KCkgYXMgY3dkOgogICAgICAgIGNmZ19maWxlID0gb3MucGF0aC5qb2luKGN3ZCwgImNvbmZpZy5pbmkiKQogICAgICAgIHNhdmVfb3B0aW9uc190b19jb25maWcoY2ZnX2ZpbGUsIG9wdCwgdW5rbm93bikKCiAgICAgICAgb3B0X2xvYWQsIHVua25vd25fbG9hZCA9IHBhcmFtdGVzdF9mdW5jdGlvbihlbnRyeV9jZmc9Y2ZnX2ZpbGUpCgogICAgX2Fzc2VydF9kaWN0cyhvcHQsIG9wdF9sb2FkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNsZWFyIHRoZSBjb25maWcgcGFyc2VyLCBhcyBpdCBrZWVwcyBkZWZhdWx0cyBiZXR3ZWVuIGZpbGVzCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNsZWFyIHRoZSBjb25maWcgcGFyc2VyLCBhcyBpdCBrZWVwcyBkZWZhdWx0cyBiZXR3ZWVuIGZpbGVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIG5vdCBzZWN0aW9uOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VjdGlvbiA9IHNlY3Rpb25zWzBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICBzaW5hbGx5Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9IGYie299PXt2YWx1ZX1cbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbGVhciB0aGUgY29uZmlnIHBhcnNlciwgYXMgaXQga2VlcHMgZGVmYXVsdHMgYmV0d2VlbiBmaWxlcwogICAgICAgICAgICBzZWxmLmNvbmZpZ3BhcnNlID0gc2VsZi5fY3JlYXRlX2NvbmZpZ19wYXJzZXIoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gdW5rbm93bl9vcHRbb10KICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBmJyJ7dmFsdWV9IicK</text>
+        <text encoding="base64">ICAgICAgICBjZmdwYXJzZS5jbGVhcigpICAjIGNsZWFycyBlYXJsaWVyIHJlYWRzLFYgaW4gY2FzZSBjYWxsZWQgbXVsdGlwbGUgdGltZXMKICAgICAgICAjIChwcm9ibGVtIGlzIHRoZSBERUZBVUxUIHNlY3Rpb24sIGFzIGl0IHdvdWxkIGJlIHN0aWxsIHByZXNlbnQgZXZlbiBhZnRlciByZWFkaW5nIGFub3RoZXIgZmlsZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpdGggdGVtcGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlcl9vcHQgPSBpdGVyKHVua25vd25fb3B0KQogICAgICAgICAgICBmb3IgbyBpbiBpdGVyX29wdDoKICAgICAgICAgICAgICAgIHMgPSBmIntvfT0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICA=</text>
+        <text>f</text>
       </register>
     </registers>
     <search>
@@ -193,6 +193,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
