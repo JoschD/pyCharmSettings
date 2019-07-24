@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1563887691481">
+      <file name="/Python Console" timestamp="1563965453523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/generic_parser/entrypoint.py" timestamp="1563961515592">
-        <mark key="[" line="651" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/generic_parser/entrypoint.py" timestamp="1563965523768">
+        <mark key="[" line="674" column="33" />
+        <mark key="]" line="676" column="12" />
+        <mark key="." line="676" column="12" />
+        <mark key="^" line="676" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1562316796694">
         <mark key="[" line="0" column="0" />
@@ -49,7 +52,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562943966935">
+      <file name="/Dummy.txt" timestamp="1563964367399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562275763715">
@@ -62,6 +65,11 @@
         <mark key="[" line="18" column="39" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1563965322189">
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
@@ -123,41 +131,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>&quot;RDT Real&quot;,&quot;RDT Imaginary&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpdGggdGVtcGZpbGUuVGVtcG9yYXJ5RGlyZWN0b3J5KCkgYXMgY3dkOgogICAgICAgIGNmZ19maWxlID0gb3MucGF0aC5qb2luKGN3ZCwgImNvbmZpZy5pbmkiKQogICAgICAgIHNhdmVfb3B0aW9uc190b19jb25maWcoY2ZnX2ZpbGUsIG9wdCwgdW5rbm93bikKCiAgICAgICAgb3B0X2xvYWQsIHVua25vd25fbG9hZCA9IHBhcmFtdGVzdF9mdW5jdGlvbihlbnRyeV9jZmc9Y2ZnX2ZpbGUpCgogICAgX2Fzc2VydF9kaWN0cyhvcHQsIG9wdF9sb2FkKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICAgICAgbGFiZWxUID0gbGFiZWw7CiAgICAgICAgICAgICAgICBsYWJlbEIgPSBsYWJlbDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>psb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5sYWJlbCA9IGxhYmVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgcmV0dXJuIFN0cmluZy5mb3JtYXQodGhpcy5sYWJlbCwgYXhpcyk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKXsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmxhYmVsOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIExPQ0FUSU9OTEFCRUwgPSA7CiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQSEFTRUFEVkFOQ0VMQUJFTCA9ICJQaGFzZSBBZHZhbmNlIjsKCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQSEFTRUxBQkVMID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzICs9IGYie299PXt2YWx1ZX1cbiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFktTGFiZWxzCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgICAgICByZXR1cm4gc3VwZXIudG9TdHJpbmcoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlID0gdW5rbm93bl9vcHRbb10KICAgICAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIHN0cik6CiAgICAgICAgICAgICAgICAgICAgdmFsdWUgPSBmJyJ7dmFsdWV9IicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFgtTGFiZWxzCg==</text>
+        <text encoding="base64">ICAgIHdpdGggdGVtcGZpbGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBIQVNFTEFCRUwgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlcl9vcHQgPSBpdGVyKHVua25vd25fb3B0KQogICAgICAgICAgICBmb3IgbyBpbiBpdGVyX29wdDoKICAgICAgICAgICAgICAgIHMgPSBmIntvfT0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>psb</text>
+        <text encoding="base64">ICAgICA=</text>
       </register>
     </registers>
     <search>
