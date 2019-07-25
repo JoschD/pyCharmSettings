@@ -54,6 +54,11 @@
         <mark key="." line="101" column="73" />
         <mark key="^" line="101" column="73" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/META-INF/MANIFEST.MF" timestamp="1564061858741">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/controller/mainWindow/analysisPanel/ControllerAnalysis.java" timestamp="1562931935088">
         <mark key="[" line="472" column="0" />
         <mark key="]" line="472" column="0" />
@@ -228,11 +233,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydEZyZXF1ZW5jeURhdGEuZ2V0WVNjYWxlKCkuc2UK</text>
+      <register name="&quot;" type="4">
+        <text>Class-Path: .</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>Class-Path: .</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGFydEZyZXF1ZW5jeURhdGEuZ2V0WVNjYWxlKCkuc2V0TG9nYXJpdGhtaWMoMTApOwo=</text>
