@@ -6,14 +6,7 @@
       <file name="/Python Console" timestamp="1564055315882">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/generic_parser/entrypoint.py" timestamp="1564055230593">
-        <mark key="[" line="541" column="39" />
-        <mark key="]" line="541" column="0" />
-        <mark key="." line="541" column="0" />
-        <mark key="^" line="543" column="16" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_harpy.py" timestamp="1563983261462">
-        <mark key="[" line="27" column="95" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
@@ -80,11 +73,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1563977711136">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="46" />
-        <mark key="." line="226" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
         <mark key="]" line="59" column="0" />
@@ -107,12 +95,6 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1564055341496">
-        <mark key="[" line="285" column="25" />
-        <mark key="]" line="285" column="26" />
-        <mark key="." line="285" column="26" />
-        <mark key="^" line="285" column="26" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562258398478">
         <mark key="[" line="11" column="89" />
         <mark key="]" line="12" column="68" />
@@ -125,7 +107,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564051614323">
         <mark key="[" line="56" column="39" />
-        <mark key="]" line="75" column="43" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
         <mark key="[" line="21" column="29" />
