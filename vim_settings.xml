@@ -73,6 +73,10 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/madx/code_snippets.py" timestamp="1564071875758">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="17" column="54" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
         <mark key="]" line="59" column="0" />
@@ -139,13 +143,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3MuZXh0ZW5kKFtmbGFnLCBzdHIodmFsdWUpXSkK</text>
+        <text encoding="base64">ICAgICAgICAicHRjX2NyZWF0ZV91bml2ZXJzZTtcbiIKICAgICAgICAiICAgIHB0Y19jcmVhdGVfbGF5b3V0LCBtb2RlbD0xLCBtZXRob2Q9NiwgbnN0PTUsIGV4YWN0PXRydWUsIGNsb3NlZF9sYXlvdXQ9dHJ1ZTtcbiIKICAgICAgICAiICAgIHB0Y19zZXRzd2l0Y2gsIGRlYnVnbGV2ZWw9MSwgZXhhY3RfbWlzPXRydWUsIHRpbWU9dHJ1ZSwgdG90YWxwYXRoPWZhbHNlO1xuIgogICAgICAgICIgICAgcHRjX3R3aXNzLCB0YWJsZT10d2lzcywgaWNhc2U9NSwgbm89NCwgY2xvc2VkX29yYml0PWZhbHNlLCBybWF0cml4LCBub3JtYWwsIHdyaXRldG1hcCwgdHJhY2tyZHRzO1xuIgogICAgICAgICIgICAgd3JpdGUsIHRhYmxlPXR3aXNzcmR0LCBmaWxlPSclKE9VVFBVVF9ESVIpcy9wdGNfdHdpc3MucmR0cy4lKElEKXMuZGF0JztcbiIKICAgICAgICAiICAgIHdyaXRlLCB0YWJsZT10d2lzcywgZmlsZT0nJShPVVRQVVRfRElSKXMvcHRjX3R3aXNzLnR3aXNzLiUoSUQpcy5kYXQnO1xuIgogICAgICAgICIgICAgd3JpdGUsIHRhYmxlPXB0Y190d2lzc19zdW1tYXJ5LCBmaWxlPSclKE9VVFBVVF9ESVIpcy9wdGNfdHdpc3Muc3VtbWFyeS4lKElEKXMuZGF0JztcbiIKICAgICAgICAiICAgIHdyaXRlLCB0YWJsZT1ub25saW4sIGZpbGU9JyUoT1VUUFVUX0RJUilzL3B0Y190d2lzcy5ub25saW4uJShJRClzLmRhdCc7XG4iCiAgICAgICAgInB0Y19lbmQ7XG4iKSAlIHsiT1VUUFVUX0RJUiI6IHBhdGgsICJJRCI6IGlkfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAicHRjX2NyZWF0ZV91bml2ZXJzZTtcbiIKICAgICAgICAiICAgIHB0Y19jcmVhdGVfbGF5b3V0LCBtb2RlbD0xLCBtZXRob2Q9NiwgbnN0PTUsIGV4YWN0PXRydWUsIGNsb3NlZF9sYXlvdXQ9dHJ1ZTtcbiIKICAgICAgICAiICAgIHB0Y19zZXRzd2l0Y2gsIGRlYnVnbGV2ZWw9MSwgZXhhY3RfbWlzPXRydWUsIHRpbWU9dHJ1ZSwgdG90YWxwYXRoPWZhbHNlO1xuIgogICAgICAgICIgICAgcHRjX3R3aXNzLCB0YWJsZT10d2lzcywgaWNhc2U9NSwgbm89NCwgY2xvc2VkX29yYml0PWZhbHNlLCBybWF0cml4LCBub3JtYWwsIHdyaXRldG1hcCwgdHJhY2tyZHRzO1xuIgogICAgICAgICIgICAgd3JpdGUsIHRhYmxlPXR3aXNzcmR0LCBmaWxlPSclKE9VVFBVVF9ESVIpcy9wdGNfdHdpc3MucmR0cy4lKElEKXMuZGF0JztcbiIKICAgICAgICAiICAgIHdyaXRlLCB0YWJsZT10d2lzcywgZmlsZT0nJShPVVRQVVRfRElSKXMvcHRjX3R3aXNzLnR3aXNzLiUoSUQpcy5kYXQnO1xuIgogICAgICAgICIgICAgd3JpdGUsIHRhYmxlPXB0Y190d2lzc19zdW1tYXJ5LCBmaWxlPSclKE9VVFBVVF9ESVIpcy9wdGNfdHdpc3Muc3VtbWFyeS4lKElEKXMuZGF0JztcbiIKICAgICAgICAiICAgIHdyaXRlLCB0YWJsZT1ub25saW4sIGZpbGU9JyUoT1VUUFVUX0RJUilzL3B0Y190d2lzcy5ub25saW4uJShJRClzLmRhdCc7XG4iCiAgICAgICAgInB0Y19lbmQ7XG4iKSAlIHsiT1VUUFVUX0RJUiI6IHBhdGgsICJJRCI6IGlkfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhY2NlbF9vcHQgPSBtYW5hZ2VyLmdldF9wYXJzZWRfb3B0KHJlc3QpCg==</text>
