@@ -3,12 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
+        <mark key="[" line="9" column="20" />
+      </file>
       <file name="/Python Console" timestamp="1564501912160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_harpy.py" timestamp="1563983261462">
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/lhc.py" timestamp="1564506336529">
+        <mark key="[" line="7" column="101" />
       </file>
       <file name="/a.dummy" timestamp="1564503137735">
         <mark key="[" line="0" column="0" />
@@ -68,11 +74,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564504056826">
-        <mark key="[" line="65" column="23" />
-        <mark key="]" line="65" column="23" />
-        <mark key="^" line="64" column="25" />
-        <mark key="." line="65" column="23" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564506033291">
+        <mark key="[" line="92" column="54" />
+        <mark key="]" line="92" column="54" />
+        <mark key="^" line="92" column="61" />
+        <mark key="." line="92" column="54" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -90,8 +96,11 @@
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564051614323">
-        <mark key="[" line="56" column="39" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564506272725">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="29" column="4" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
         <mark key="[" line="21" column="29" />
@@ -109,11 +118,9 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564504800236">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-        <mark key="^" line="47" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564506051511">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
@@ -127,37 +134,37 @@
         <text encoding="base64">RFBQID0gJ0RQUCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Uk1TID0gJ1JNUycgICAgICAjIFJvb3QtTWVhbi1TcXVhcmUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;DPPAMP&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">REVMVEEgPSAiREVMVEEiICAjIERlbHRhIGJldHdlZW4gbWVhc3VyZW1lbnQgYW5kIG1vZGVsIChzb21ldGltZSBiZWF0aW5nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UkVTID0gIlJFUyIgICAgICAjIFJlc2NhbGVkIG1lYXN1cmVtZW50Cg==</text>
+        <text encoding="base64">ICAgIEJQTVMgPSAiYnBtIgogICAgTUFHTkVUUyA9ICJtYWduZXQiCiAgICBBUkNfQlBNUyA9ICJhcmNfYnBtIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UExBTkVTID0gKCJYIiwgIlkiKQpQTEFORV9UT19OVU0gPSBkaWN0KFg9MSwgWT0yKQo=</text>
+        <text encoding="base64">Q09OU1RBTlQgPSAxMjQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RVhUID0gIi50ZnMiCg==</text>
+        <text encoding="base64">Uk1TID0gJ1JNUycgICAgICAjIFJvb3QtTWVhbi1TcXVhcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RVhUID0gIi50ZnMiCg==</text>
+        <text encoding="base64">REVMVEEgPSAiREVMVEEiICAjIERlbHRhIGJldHdlZW4gbWVhc3VyZW1lbnQgYW5kIG1vZGVsIChzb21ldGltZSBiZWF0aW5nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJwbV9kYXRhID0gCg==</text>
+        <text encoding="base64">UkVTID0gIlJFUyIgICAgICAjIFJlc2NhbGVkIG1lYXN1cmVtZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UExBTkVTID0gKCJYIiwgIlkiKQpQTEFORV9UT19OVU0gPSBkaWN0KFg9MSwgWT0yKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RVhUID0gIi50ZnMiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;DPPAMP&quot;</text>
+        <text>V</text>
       </register>
     </registers>
     <search>
