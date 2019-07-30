@@ -6,7 +6,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564501912160">
+      <file name="/Python Console" timestamp="1564511890416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_harpy.py" timestamp="1563983261462">
@@ -74,11 +74,10 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564508467507">
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="66" column="26" />
-        <mark key="^" line="66" column="26" />
-        <mark key="." line="66" column="26" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564511715216">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -131,41 +130,61 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltEUFBdCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtpY2tfZnJhbWUgPSBwZC5EYXRhRnJhbWUoZGF0YT10dW5lc19hY3Rpb25zLCBjb2x1bW5zPWNvbF9uYW1lcykK</text>
+      </register>
+      <register name="-" type="4">
+        <text>,      f&quot;{ERR}{ACTION}{plane}&quot;),</text>
+      </register>
+      <register name="0" type="4">
+        <text>f&quot;{ERR}{ACTION}{plane}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltEUFBdCg==</text>
+        <text encoding="base64">ICAgIGtpY2tfZnJhbWUgPSBwZC5EYXRhRnJhbWUoZGF0YT10dW5lc19hY3Rpb25zLCBjb2x1bW5zPWNvbF9uYW1lcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbF9uYW1lcyA9IF9nZXRfY29sdW1fbmFtZXMocGxhbmUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
+        <text encoding="base64">ICAgICAgICAoZiJ7U1FSVF9BQ1RJT059e3BsYW5lfSIsICAgICAgZiJ7U1FSVF9BQ1RJT059e3BsYW5lfSIpLAogICAgICAgIChmIntFUlJ9e1NRUlRfQUNUSU9OfXtwbGFuZX0iLCBmIntFUlJ9e1NRUlRfQUNUSU9OfXtwbGFuZX0iKSwKICAgICAgICAoZiJ7QUNUSU9OfXtwbGFuZX0iLCAgICAgICAgICAgZiJ7QUNUSU9OfXtwbGFuZX0iKSwKICAgICAgICAoZiJ7RVJSfXtBQ1RJT059e3BsYW5lfSIsICAgICAgZiJ7RVJSfXtBQ1RJT059e3BsYW5lfSIpLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgRmlsZU5hbWVzKEVudW0pOgogICAgRVhUID0gIi50ZnMiCgoK</text>
+        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltUSU1FXQogICAgICAgIG91dFtpLCAxXSA9IGRmW0RQUF0KICAgICAgICBvdXRbaSwgMl0gPSBkZltEUFBBTVBdCiAgICAgICAgb3V0W2ksIDNdID0gZGZbZiJ7VFVORX17UExBTkVfVE9fTlVNW3BsYW5lXX0iXQogICAgICAgIG91dFtpLCA0XSA9IGRmW2Yie1RVTkV9e1BMQU5FX1RPX05VTVtwbGFuZV19e1JNU30iXQogICAgICAgIGlmIGYie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfSIgaW4gZGYuaGVhZGVycy5rZXlzKCk6CiAgICAgICAgICAgIG91dFtpLCA1XSA9IGRmW2Yie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfSJdCiAgICAgICAgICAgIG91dFtpLCA2XSA9IGRmW2Yie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfXtSTVN9Il0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHdoYXQgaWYgdGhlIGZvbGxvd2luZyBpcyBub3QgdGhlcmUgLSBleGNlcHQgS2V5RXJyb3I/Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJQTVMgPSAiYnBtIgogICAgTUFHTkVUUyA9ICJtYWduZXQiCiAgICBBUkNfQlBNUyA9ICJhcmNfYnBtIgo=</text>
+        <text encoding="base64">ICAgIG91dCA9IG5wLnplcm9zKFtsZW4oZmlsZXNbcGxhbmVdKSwgbGVuKGNvbF9uYW1lcyldKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09OU1RBTlQgPSAxMjQK</text>
-      </register>
-      <register name="-" type="4">
-        <text>V</text>
+        <text encoding="base64">ZGVmIF9nZXRfY29sdW1uX21hcChwbGFuZSk6CiAgICAKICAgIAogICAgCiAgICBmIntUVU5FfXtwbGFuZV9udW1iZXJ9IiwgZiJ7VFVORX17cGxhbmVfbnVtYmVyfXtSTVN9IiwKICAgIGYie05BVF9UVU5FfXtwbGFuZV9udW1iZXJ9IiwgZiJ7RVJSfXtOQVRfVFVORX17cGxhbmVfbnVtYmVyfSIsCg==</text>
       </register>
     </registers>
     <search>
