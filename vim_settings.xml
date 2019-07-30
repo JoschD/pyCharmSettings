@@ -74,11 +74,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564506033291">
-        <mark key="[" line="92" column="54" />
-        <mark key="]" line="92" column="54" />
-        <mark key="^" line="92" column="61" />
-        <mark key="." line="92" column="54" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564508467507">
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="66" column="26" />
+        <mark key="^" line="66" column="26" />
+        <mark key="." line="66" column="26" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -118,9 +118,10 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564506051511">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564507677417">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
@@ -131,37 +132,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">RFBQID0gJ0RQUCcK</text>
+        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltEUFBdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltEUFBdCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJQTVMgPSAiYnBtIgogICAgTUFHTkVUUyA9ICJtYWduZXQiCiAgICBBUkNfQlBNUyA9ICJhcmNfYnBtIgo=</text>
+        <text encoding="base64">ZnJvbSBlbnVtIGltcG9ydCBFbnVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Q09OU1RBTlQgPSAxMjQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Uk1TID0gJ1JNUycgICAgICAjIFJvb3QtTWVhbi1TcXVhcmUK</text>
+        <text encoding="base64">Y2xhc3MgRmlsZU5hbWVzKEVudW0pOgogICAgRVhUID0gIi50ZnMiCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REVMVEEgPSAiREVMVEEiICAjIERlbHRhIGJldHdlZW4gbWVhc3VyZW1lbnQgYW5kIG1vZGVsIChzb21ldGltZSBiZWF0aW5nKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UkVTID0gIlJFUyIgICAgICAjIFJlc2NhbGVkIG1lYXN1cmVtZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UExBTkVTID0gKCJYIiwgIlkiKQpQTEFORV9UT19OVU0gPSBkaWN0KFg9MSwgWT0yKQo=</text>
+        <text encoding="base64">ICAgIEJQTVMgPSAiYnBtIgogICAgTUFHTkVUUyA9ICJtYWduZXQiCiAgICBBUkNfQlBNUyA9ICJhcmNfYnBtIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RVhUID0gIi50ZnMiCg==</text>
+        <text encoding="base64">Q09OU1RBTlQgPSAxMjQK</text>
       </register>
       <register name="-" type="4">
         <text>V</text>
