@@ -68,8 +68,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564503075290">
-        <mark key="[" line="13" column="43" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564504056826">
+        <mark key="[" line="65" column="23" />
+        <mark key="]" line="65" column="23" />
+        <mark key="^" line="64" column="25" />
+        <mark key="." line="65" column="23" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -106,10 +109,11 @@
         <mark key="." line="89" column="0" />
         <mark key="^" line="88" column="14" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564502972086">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564504800236">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
@@ -125,8 +129,8 @@
       <register name="1" type="2">
         <text encoding="base64">Uk1TID0gJ1JNUycgICAgICAjIFJvb3QtTWVhbi1TcXVhcmUK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RFBQID0gJ0RQUCcK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;DPPAMP&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">REVMVEEgPSAiREVMVEEiICAjIERlbHRhIGJldHdlZW4gbWVhc3VyZW1lbnQgYW5kIG1vZGVsIChzb21ldGltZSBiZWF0aW5nKQo=</text>
@@ -153,7 +157,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_is_ascii_comment(line)</text>
+        <text>&quot;DPPAMP&quot;</text>
       </register>
     </registers>
     <search>
