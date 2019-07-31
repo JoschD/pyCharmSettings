@@ -7,7 +7,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/lhc.py" timestamp="1564580188658">
         <mark key="[" line="7" column="101" />
       </file>
-      <file name="/a.dummy" timestamp="1564592062164">
+      <file name="/a.dummy" timestamp="1564593467000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562838440514">
@@ -25,6 +25,9 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/collections.py" timestamp="1564592370369">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1564593575708">
+        <mark key="[" line="140" column="17" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
         <mark key="[" line="81" column="0" />
@@ -131,7 +134,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564589536366">
+      <file name="/Python Console" timestamp="1564593539919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
@@ -158,7 +161,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564587648397">
+      <file name="/Dummy.txt" timestamp="1564593504600">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
