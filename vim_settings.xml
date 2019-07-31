@@ -39,7 +39,7 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1563979397506" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1564589223729" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="79" column="37" />
@@ -128,7 +128,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564586198394">
+      <file name="/Python Console" timestamp="1564589536366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
@@ -155,7 +155,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564056417077">
+      <file name="/Dummy.txt" timestamp="1564587648397">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
@@ -169,11 +169,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564586278345">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="38" />
-        <mark key="." line="60" column="38" />
-        <mark key="^" line="60" column="38" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564589094709">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -185,11 +184,8 @@
         <mark key="." line="292" column="79" />
         <mark key="^" line="292" column="91" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/lhc_handler.py" timestamp="1564501694185">
-        <mark key="[" line="88" column="8" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="14" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/twiss_to_lin.py" timestamp="1564588235414">
+        <mark key="[" line="106" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
@@ -200,34 +196,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWNrX2ZyYW1lLmxvY1tpLCBjb2xdID0gJycK</text>
       </register>
       <register name="-" type="4">
-        <text>TIME_FORMAdiwT</text>
+        <text>[str] + [float]*(len(load_columns) + len(calc_columns) - 1)</text>
       </register>
       <register name="0" type="4">
         <text>f&quot;{ERR}{ACTION}{plane}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWNrX2ZyYW1lLmxvY1tpLCBjb2xdID0gJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5zW3BsYW5lXS5oZWFkZXJzWyJUSU1FIl0gPSB0YnRfZGF0YS5kYXRlLnN0cmZ0aW1lKGZvcm1hdHMuVElNRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VElNRSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvbHVtbl90eXBlc1tjb2xdID09IHN0cjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VElNRV9GT1JNQVQgPSAiJXlfJW1fJWRAJUhfJU1fJVMiICAjIENFUk4gZGVmYXVsdAo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">ICAgICAgICBsaW5zW3BsYW5lXS5oZWFkZXJzWyJUSU1FIl0gPSB0YnRfZGF0YS5kYXRlLnN0cmZ0aW1lKGZvcm1hdHMuVElNRSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
+        <text encoding="base64">VElNRSA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
+        <text encoding="base64">VElNRV9GT1JNQVQgPSAiJXlfJW1fJWRAJUhfJU1fJVMiICAjIENFUk4gZGVmYXVsdAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -250,10 +246,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtpY2tfZnJhbWUgPSBwZC5EYXRhRnJhbWUoZGF0YT10dW5lc19hY3Rpb25zLCBjb2x1bW5zPWNvbF9uYW1lcykK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbF9uYW1lcyA9IF9nZXRfY29sdW1fbmFtZXMocGxhbmUpCg==</text>
+        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
       </register>
     </registers>
     <search>
