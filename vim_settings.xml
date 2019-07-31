@@ -18,15 +18,21 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/constants.py" timestamp="1564512530195">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/formats.py" timestamp="1564585562383">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1564512750397">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1564586077896">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="8" />
+        <mark key="." line="156" column="8" />
+        <mark key="^" line="156" column="23" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1564582524358" />
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_madx.py" timestamp="1564132421597" />
@@ -122,7 +128,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564511890416">
+      <file name="/Python Console" timestamp="1564586198394">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
@@ -157,25 +163,28 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1564495539850">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="46" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_amplitude.py" timestamp="1564581682551" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564581860640">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1564586278345">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1564581772837" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1564585606541">
+        <mark key="[" line="292" column="79" />
+        <mark key="]" line="292" column="79" />
+        <mark key="." line="292" column="79" />
+        <mark key="^" line="292" column="91" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/lhc_handler.py" timestamp="1564501694185">
         <mark key="[" line="88" column="8" />
         <mark key="]" line="89" column="0" />
@@ -191,34 +200,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,      f&quot;{ERR}{ACTION}{plane}&quot;),</text>
+        <text>TIME_FORMAdiwT</text>
       </register>
       <register name="0" type="4">
         <text>f&quot;{ERR}{ACTION}{plane}&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtpY2tfZnJhbWUgPSBwZC5EYXRhRnJhbWUoZGF0YT10dW5lc19hY3Rpb25zLCBjb2x1bW5zPWNvbF9uYW1lcykK</text>
+        <text encoding="base64">ICAgICAgICBsaW5zW3BsYW5lXS5oZWFkZXJzWyJUSU1FIl0gPSB0YnRfZGF0YS5kYXRlLnN0cmZ0aW1lKGZvcm1hdHMuVElNRSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbF9uYW1lcyA9IF9nZXRfY29sdW1fbmFtZXMocGxhbmUpCg==</text>
+        <text encoding="base64">VElNRSA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAoZiJ7U1FSVF9BQ1RJT059e3BsYW5lfSIsICAgICAgZiJ7U1FSVF9BQ1RJT059e3BsYW5lfSIpLAogICAgICAgIChmIntFUlJ9e1NRUlRfQUNUSU9OfXtwbGFuZX0iLCBmIntFUlJ9e1NRUlRfQUNUSU9OfXtwbGFuZX0iKSwKICAgICAgICAoZiJ7QUNUSU9OfXtwbGFuZX0iLCAgICAgICAgICAgZiJ7QUNUSU9OfXtwbGFuZX0iKSwKICAgICAgICAoZiJ7RVJSfXtBQ1RJT059e3BsYW5lfSIsICAgICAgZiJ7RVJSfXtBQ1RJT059e3BsYW5lfSIpLAo=</text>
+        <text encoding="base64">VElNRV9GT1JNQVQgPSAiJXlfJW1fJWRAJUhfJU1fJVMiICAjIENFUk4gZGVmYXVsdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRbaSwgMF0gPSBkZltUSU1FXQogICAgICAgIG91dFtpLCAxXSA9IGRmW0RQUF0KICAgICAgICBvdXRbaSwgMl0gPSBkZltEUFBBTVBdCiAgICAgICAgb3V0W2ksIDNdID0gZGZbZiJ7VFVORX17UExBTkVfVE9fTlVNW3BsYW5lXX0iXQogICAgICAgIG91dFtpLCA0XSA9IGRmW2Yie1RVTkV9e1BMQU5FX1RPX05VTVtwbGFuZV19e1JNU30iXQogICAgICAgIGlmIGYie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfSIgaW4gZGYuaGVhZGVycy5rZXlzKCk6CiAgICAgICAgICAgIG91dFtpLCA1XSA9IGRmW2Yie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfSJdCiAgICAgICAgICAgIG91dFtpLCA2XSA9IGRmW2Yie05BVF9UVU5FfXtQTEFORV9UT19OVU1bcGxhbmVdfXtSTVN9Il0K</text>
+        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHdoYXQgaWYgdGhlIGZvbGxvd2luZyBpcyBub3QgdGhlcmUgLSBleGNlcHQgS2V5RXJyb3I/Cg==</text>
+        <text encoding="base64">aW1wb3J0IG91dHB1dF9jb25zdGFudHMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -241,10 +250,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgogICAgICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIGtpY2tfZnJhbWUgPSBwZC5EYXRhRnJhbWUoZGF0YT10dW5lc19hY3Rpb25zLCBjb2x1bW5zPWNvbF9uYW1lcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dCA9IG5wLnplcm9zKFtsZW4oZmlsZXNbcGxhbmVdKSwgbGVuKGNvbF9uYW1lcyldKQo=</text>
+        <text encoding="base64">ICAgIGNvbF9uYW1lcyA9IF9nZXRfY29sdW1fbmFtZXMocGxhbmUpCg==</text>
       </register>
     </registers>
     <search>
