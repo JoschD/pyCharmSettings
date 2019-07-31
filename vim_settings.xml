@@ -9,7 +9,7 @@
       <file name="/Python Console" timestamp="1564511890416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/lhc.py" timestamp="1564506336529">
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/lhc.py" timestamp="1564580188658">
         <mark key="[" line="7" column="101" />
       </file>
       <file name="/a.dummy" timestamp="1564512553131">
@@ -23,11 +23,12 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/constants.py" timestamp="1564512530195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1563982347083">
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
         <mark key="[" line="93" column="28" />
         <mark key="]" line="94" column="39" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/psbooster.py" timestamp="1564579797107" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -61,6 +62,7 @@
         <mark key="^" line="9" column="11" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1564134537002" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model_creator.py" timestamp="1564579058872" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562322175957">
         <mark key="[" line="30" column="47" />
         <mark key="]" line="30" column="46" />
@@ -122,6 +124,7 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1564580426517" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562276451635">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -141,7 +144,7 @@
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564506272725">
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564579523454">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="29" column="4" />
