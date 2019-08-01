@@ -26,11 +26,10 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/collections.py" timestamp="1564592370369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/tfs_definitions.py" timestamp="1564594475683">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="6" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/tfs_definitions.py" timestamp="1564651313471">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1564594431897">
         <mark key="[" line="83" column="0" />
@@ -170,7 +169,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564593504600">
+      <file name="/Dummy.txt" timestamp="1564651368983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
@@ -211,7 +210,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGtpY2sgPSBUZnMoImtpY2tfe30udGZzIikK</text>
+        <text encoding="base64">ICAgIGMuYWxsb3dfd3JpdGUgPSBUcnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>[str] + [float]*(len(load_columns) + len(calc_columns) - 1)</text>
@@ -220,25 +219,25 @@
         <text encoding="base64">ICAgIGtpY2sgPSBUZnMoImtpY2tfe30udGZzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMuYWxsb3dfd3JpdGUgPSBUcnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF9fbWV0YWNsYXNzX18gPSBfTWV0YVRmc0NvbGxlY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWNrX2ZyYW1lLmxvY1tpLCBjb2xdID0gJycK</text>
+        <text encoding="base64">ICAgIF9fbWV0YWNsYXNzX18gPSBfTWV0YVRmc0NvbGxlY3Rpb24K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBraWNrX2ZyYW1lLmxvY1tpLCBjb2xdID0gJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvbHVtbl90eXBlc1tjb2xdID09IHN0cjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEtleUVycm9yOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGNvbHVtbl90eXBlc1tjb2xdID09IHN0cjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5zW3BsYW5lXS5oZWFkZXJzWyJUSU1FIl0gPSB0YnRfZGF0YS5kYXRlLnN0cmZ0aW1lKGZvcm1hdHMuVElNRSkK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnNbVElNRV0gPSBkYXRlLnN0ZnRpbWUoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -261,10 +260,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VElNRSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5zW3BsYW5lXS5oZWFkZXJzWyJUSU1FIl0gPSB0YnRfZGF0YS5kYXRlLnN0cmZ0aW1lKGZvcm1hdHMuVElNRSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VElNRV9GT1JNQVQgPSAiJXlfJW1fJWRAJUhfJU1fJVMiICAjIENFUk4gZGVmYXVsdAo=</text>
+        <text encoding="base64">VElNRSA9Cg==</text>
       </register>
     </registers>
     <search>
