@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/measure_optics.py" timestamp="1564582435465" />
       <file name="/a.dummy" timestamp="1564593467000">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,19 +48,15 @@
         <mark key="." line="156" column="8" />
         <mark key="^" line="156" column="23" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1564582524358" />
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/fullresponse/response_madx.py" timestamp="1564132421597" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1564589223729" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
         <mark key="[" line="79" column="12" />
         <mark key="]" line="79" column="37" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/plotshop/plot_tfs.py" timestamp="1564134537002" />
       <file name="/media/jdilly/Storage/Repositories/tfs/CHANGELOG.md" timestamp="1564674554315">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -96,7 +91,6 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="68" column="30" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1564668456096" />
       <file name="/media/jdilly/Storage/Repositories/tfs/.bumpversion.cfg" timestamp="1564672888457">
         <mark key="^" line="1" column="20" />
       </file>
@@ -115,6 +109,9 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/context.py" timestamp="1564664496315">
         <mark key="[" line="2" column="58" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/tools.py" timestamp="1564678709330">
+        <mark key="[" line="11" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1564579523454">
         <mark key="[" line="31" column="20" />
@@ -144,8 +141,8 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/collection.py" timestamp="1564663561798">
-        <mark key="[" line="79" column="12" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/collection.py" timestamp="1564678699028">
+        <mark key="[" line="11" column="9" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
@@ -175,13 +172,11 @@
         <mark key="]" line="94" column="39" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/psbooster.py" timestamp="1564579797107" />
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_tbt.py" timestamp="1564495676794">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/dispersion.py" timestamp="1564662158153" />
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1564672826319">
         <mark key="[" line="69" column="12" />
       </file>
@@ -197,8 +192,6 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="64" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model_creator.py" timestamp="1564579058872" />
-      <file name="/media/jdilly/Storage/Repositories/omc3/doc/conf.py" timestamp="1564653114532" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="41" column="8" />
@@ -217,7 +210,6 @@
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="46" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_amplitude.py" timestamp="1564581682551" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
         <mark key="[" line="62" column="54" />
         <mark key="]" line="59" column="0" />
@@ -231,7 +223,6 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1564581772837" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1564668401578">
         <mark key="[" line="335" column="71" />
         <mark key="]" line="334" column="13" />
