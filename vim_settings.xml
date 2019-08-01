@@ -91,6 +91,7 @@
         <mark key="." line="67" column="0" />
         <mark key="^" line="68" column="30" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1564668456096" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
       </file>
@@ -148,7 +149,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564663885569">
+      <file name="/Python Console" timestamp="1564668445299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1564655222105">
@@ -188,7 +189,7 @@
         <mark key="." line="5" column="27" />
         <mark key="^" line="5" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564661095843">
+      <file name="/Dummy.txt" timestamp="1564668706827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
@@ -211,8 +212,11 @@
         <mark key="[" line="220" column="101" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/beta_from_phase.py" timestamp="1564581772837" />
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1564665634460">
-        <mark key="[" line="334" column="31" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1564668401578">
+        <mark key="[" line="335" column="71" />
+        <mark key="]" line="334" column="13" />
+        <mark key="^" line="334" column="13" />
+        <mark key="." line="334" column="13" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/twiss_to_lin.py" timestamp="1564588235414">
         <mark key="[" line="106" column="50" />
@@ -225,11 +229,11 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(CURRENT_DIR, &quot;inputs&quot;)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFzc2VydCBub3Qgb3MucGF0aC5pc2ZpbGUob3MucGF0aC5qb2luKF9vdXRwdXRfZGlyLCAiZmlsZV94LnRmcyIpKQo=</text>
