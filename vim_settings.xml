@@ -93,6 +93,11 @@
         <mark key="." line="51" column="4" />
         <mark key="^" line="50" column="9" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/AnalysisRunData.java" timestamp="1564669859394">
+        <mark key="[" line="181" column="46" />
+        <mark key="]" line="181" column="45" />
+        <mark key="." line="181" column="45" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1563894103455">
         <mark key="[" line="155" column="19" />
         <mark key="]" line="155" column="35" />
@@ -234,43 +239,43 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>Class-Path: .</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Class-Path: .</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaGFydEZyZXF1ZW5jeURhdGEuZ2V0WVNjYWxlKCkuc2V0TG9nYXJpdGhtaWMoMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFydEZyZXF1ZW5jeURhdGEuZ2V0WVNjYWxlKCkuc2UK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcGFzcyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgRGF0YVdpbmRvdz4gY3VycmVudFZpc2libGVXaW5kb3dzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIE1hcDxJbnRlZ2VyLCBEYXRhV2luZG93PiBuZXdWaXNpYmxlV2luZG93cyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBjaGFydEZyZXF1ZW5jeURhdGEuZ2V0WVNjYWxlKCkuc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgRGF0YVdpbmRvdz4gbmV3VmlzaWJsZVdpbmRvd3MgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgRGF0YVdpbmRvdz4gY3VycmVudFZpc2libGVXaW5kb3dzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgRGF0YVdpbmRvdz4gY3VycmVudFZpc2libGVXaW5kb3dzID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIE1hcDxJbnRlZ2VyLCBEYXRhV2luZG93PiBuZXdWaXNpYmxlV2luZG93cyA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="w" type="4">
         <text>vi(&quot;0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJmb3JtWm9vbShjdXJyZW50VmlzaWJsZVdpbmRvd3MsIG5ld1Zpc2libGVXaW5kb3dzLCB0cnVlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdXNoWm9vbShjdXJyZW50VmlzaWJsZVdpbmRvd3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgRGF0YVdpbmRvdz4gbmV3VmlzaWJsZVdpbmRvd3MgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
     </registers>
     <search>
