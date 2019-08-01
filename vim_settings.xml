@@ -92,6 +92,12 @@
         <mark key="^" line="68" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/clean.py" timestamp="1564668456096" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/.bumpversion.cfg" timestamp="1564672888457">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
       </file>
@@ -157,6 +163,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/__init__.py" timestamp="1564673095548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
         <mark key="[" line="93" column="28" />
         <mark key="]" line="94" column="39" />
@@ -169,6 +180,9 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/dispersion.py" timestamp="1564662158153" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1564672826319">
+        <mark key="[" line="69" column="12" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_collection.py" timestamp="1564664416332">
         <mark key="[" line="5" column="5" />
         <mark key="]" line="34" column="7" />
@@ -221,6 +235,14 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/twiss_to_lin.py" timestamp="1564588235414">
         <mark key="[" line="106" column="50" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/setup.py" timestamp="1564672803927">
+        <mark key="[" line="12" column="15" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/__init__.py" timestamp="1564673104211">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1562320400021">
         <mark key="[" line="0" column="0" />
       </file>
@@ -229,29 +251,29 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">X192ZXJzaW9uX18gPSAiMS4wLjAiCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBub3Qgb3MucGF0aC5pc2ZpbGUob3MucGF0aC5qb2luKF9vdXRwdXRfZGlyLCAiZmlsZV94LnRmcyIpKQo=</text>
+        <text encoding="base64">W2J1bXB2ZXJzaW9uOmZpbGU6dGZzL19faW5pdF9fLnB5XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X192ZXJzaW9uX18gPSAiMS4wLjAiCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgLi4gcm9sZTo6IHB5KGNvZGUpCiAgICAgICA6bGFuZ3VhZ2U6IHB5dGhvbgogICAgICAgOmNsYXNzOiBoaWdobGlnaHQKCgo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">Pj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -283,7 +305,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Om1vZHVsZTogaGFuZGxlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -317,6 +339,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
