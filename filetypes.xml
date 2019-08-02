@@ -6,6 +6,7 @@
       <mapping pattern="adfsfdasfdsa" type="PLAIN_TEXT" />
       <mapping pattern="basic_line_src" type="PLAIN_TEXT" />
       <mapping pattern="copy_script" type="PLAIN_TEXT" />
+      <mapping pattern="global_definitions" type="PLAIN_TEXT" />
       <mapping pattern="fsf" type="PLAIN_TEXT" />
       <mapping pattern="adsa" type="PLAIN_TEXT" />
       <mapping pattern="fsfd" type="PLAIN_TEXT" />
