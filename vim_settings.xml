@@ -10,7 +10,7 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1564593467000">
+      <file name="/a.dummy" timestamp="1564763189066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562838440514">
@@ -167,21 +167,24 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564748938806">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="17" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1564760666059">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="27" column="24" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/tfs_definition.py" timestamp="1564757330396">
-        <mark key="[" line="131" column="1" />
-        <mark key="]" line="131" column="24" />
-        <mark key="." line="131" column="1" />
-        <mark key="^" line="131" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_tfs_definitions.py" timestamp="1564758747694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/tfs_definition.py" timestamp="1564763513473">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="110" column="39" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564756801828">
+      <file name="/Python Console" timestamp="1564759923282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1564680326646">
@@ -257,10 +260,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/global_definitions.py" timestamp="1564751901064">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/global_definitions.py" timestamp="1564760703873">
+        <mark key="[" line="10" column="80" />
+        <mark key="]" line="10" column="79" />
+        <mark key="." line="10" column="79" />
+        <mark key="^" line="10" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_entrypoint.py" timestamp="1564495539850">
         <mark key="[" line="222" column="0" />
@@ -306,35 +310,35 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>KickDefinition(Plane.X)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEluZGV4ID0gTm9uZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>KickDefinition(Plane.X)</text>
+        <text>Column(&quot;NAME&quot;, str)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzKEF0dHJpYnV0ZUVycm9yKToK</text>
+        <text encoding="base64">ICAgIEluZGV4ID0gTm9uZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9maWxsX21pc3NpbmcoKQo=</text>
+        <text encoding="base64">ICAgIEluZGV4ID0gTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9maWxsX21pc3NpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfdmFsaWRhdGVfaW5kZXgoc2VsZik6CiAgICAgICAgaWYgc2VsZi5JbmRleCBpcyBub3QgTm9uZToKICAgICAgICAgICAgaWYgbm90IChzZWxmLmluZGV4Lm5hbWUgPT0gc2VsZi5JbmRleC5uYW1lIG9yIHNlbGYuaW5kZXguZHR5cGUgPT0gc2VsZi5JbmRleC5kdHlwZSk6CiAgICAgICAgICAgICAgICByYWlzZSBLZXlFcnJvcigiSW52YWxpZCBpbmRleCBpbiBEYXRhRnJhbWUuIikKCiAgICBkZWYgX3ZhbGlkYXRlX2NvbHVtbnMoc2VsZik6CiAgICAgICAgaW52YWxpZCA9IFtjIGZvciBjIGluIHNlbGYuY29sdW1ucyBpZiBub3Qgc2VsZi5faXNfYWxsb3dlZF9jb2x1bW4oYyldCiAgICAgICAgaWYgbGVuKGludmFsaWQpOgogICAgICAgICAgICByYWlzZSBLZXlFcnJvcihmIkZvdW5kIGludmFsaWQgY29sdW1uIG5hbWVzICd7c3RyKGludmFsaWQpfSciKQoKICAgIGRlZiBfdmFsaWRhdGVfaGVhZGVycyhzZWxmKToKICAgICAgICBpbnZhbGlkID0gW2ggZm9yIGggaW4gc2VsZi5oZWFkZXJzIGlmIG5vdCBzZWxmLl9pc19hbGxvd2VkX2hlYWRlcihoKV0KICAgICAgICBpZiBsZW4oaW52YWxpZCk6CiAgICAgICAgICAgIHJhaXNlIEtleUVycm9yKGYiRm91bmQgaW52YWxpZCBoZWFkZXJzICd7c3RyKGludmFsaWQpfSciKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBzZWxmLml0ZW1zOgogICAgICAgICAgICBpdGVtLm5hbWUgPSBpdGVtLm5hbWUuZm9ybWF0KHBsYW5lKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfZmlsbF9taXNzaW5nX2RlZmluaXRpb25zKHNlbGYpOgogICAgICAgIGlmIHNlbGYuQ29sdW1ucyBpcyBub3QgTm9uZToKICAgICAgICAgICAgZm9yIG5hbWUsIGRhdGF0eXBlIGluIHNlbGYuQ29sdW1uczoKICAgICAgICAgICAgICAgIGlmIG5hbWUgbm90IGluIHNlbGYuY29sdW1uczoKICAgICAgICAgICAgICAgICAgICBzZWxmW25hbWVdID0gREVGQVVMVFNbZGF0YXR5cGVdCiAgICAgICAgICAgIHNlbGYucmVpbmRleChzZWxmLkNvbHVtbnMubmFtZXMpCiAgICAgICAgICAgIHNlbGYuYXN0eXBlKGRpY3Qoc2VsZi5Db2x1bW5zKSwgY29weT1GYWxzZSkKCiAgICAgICAgaWYgc2VsZi5JbmRleCBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5pbmRleC5uYW1lID0gc2VsZi5JbmRleC5uYW1lCiAgICAgICAgICAgIHNlbGYuaW5kZXguZHR5cGUgPSBzZWxmLkluZGV4LmR0eXBlCgogICAgICAgIGlmIHNlbGYuSGVhZGVyIGlzIG5vdCBOb25lOgogICAgICAgICAgICBmb3IgbmFtZSwgZGF0YXR5cGUgaW4gc2VsZi5IZWFkZXI6CiAgICAgICAgICAgICAgICBpZiBuYW1lIG5vdCBpbiBzZWxmLmhlYWRlcnM6CiAgICAgICAgICAgICAgICAgICAgc2VsZi5oZWFkZXJzW25hbWVdID0gREVGQVVMVFNbZGF0YXR5cGVdCiAgICAgICAgICAgIHNlbGYuaGVhZGVycyA9IE9yZGVyZWREaWN0KFsoa2V5LCBzZWxmLmhlYWRlcnNba2V5XSkgZm9yIGtleSBpbiBzZWxmLkhlYWRlci5uYW1lc10pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9maWxsX21pc3NpbmcoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiByZW1vdmVfY29sdW1uKHNlbGYpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0aWFsaXplZCA9IFRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -357,10 +361,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbml0aWFsaXplZCA9IEZhbHNlCg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEhlYWRlcihURlNDb2x1bW5zKToKICAgICAgICBUSVRMRSA9IENvbHVtbigiVGl0bGUiLCBzdHIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gImtpY2tfe30iCg==</text>
       </register>
     </registers>
     <search>
