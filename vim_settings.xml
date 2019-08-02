@@ -168,10 +168,15 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/tfs_definition.py" timestamp="1564742042718">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1564680268879">
+      <file name="/Python Console" timestamp="1564742037644">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1564680326646">
@@ -277,35 +282,35 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">ICAjIG9yZGVyIHByZXNlcnZlZCBzaW5jZSBQeXRob24zLjY=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBURlMtUGFuZGFzCg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbl9kZWZpbml0aW9uID0gdHlwZSgnS2lja0NvbHVtbnMnLCAoVEZTQ29sdW1ucywpLCBkaWN0KEJFVEE9Q29sdW1uKCJCRVR7fSIsIGZsb2F0KSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gQWRkaXRpb25hbCBVbml0IFRlc3RzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">X192ZXJzaW9uX18gPSAiMS4wLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFic3RyYWN0bWV0aG9kCiAgICBkZWYgZmlsZW5hbWUoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3NldGl0ZW1fXyhzZWxmLCBrZXksIHZhbHVlKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLi4gcm9sZTo6IHB5KGNvZGUpCiAgICAgICA6bGFuZ3VhZ2U6IHB5dGhvbgogICAgICAgOmNsYXNzOiBoaWdobGlnaHQKCgo=</text>
+        <text encoding="base64">ICAgIEFMUEhBID0gQ29sdW1uKCJBTFBIe30iLCBmbG9hdCkKICAgIEJFVEEgPSBDb2x1bW4oIkJFVHt9IiwgZmxvYXQpCiAgICBTID0gQ29sdW1uKCJTIiwgc3RyKQoK</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">Pj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pgo+Pj4KPj4+Cj4+Pg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmNvbHVtbnMgPSBbYyBmb3IgYyBpbiB0eXBlKHNlbGYpLl9fZGljdF9fLnZhbHVlcygpIGlmIGlzaW5zdGFuY2UoYywgQ29sdW1uKV0gICMgb3JkZXIgcHJlc2VydmVkIHNpbmNlIFB5dGhvbjMuNgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFMUEhBID0gQ29sdW1uKCJBTFBIe30iLCBmbG9hdCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -328,10 +333,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBjb2x1bW5fbGlzdChzZWxmKToKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGlzaW5zdGFuY2UoYSwgQ29sdW1uKSkK</text>
       </register>
     </registers>
     <search>
