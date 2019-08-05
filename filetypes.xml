@@ -18,6 +18,7 @@
       <mapping ext="twisskick" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="madx" type="PLAIN_TEXT" />
+      <mapping ext="tfs" type="PLAIN_TEXT" />
       <mapping ext="sdds" type="PLAIN_TEXT" />
       <mapping ext="varmap" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

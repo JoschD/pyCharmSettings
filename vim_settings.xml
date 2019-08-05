@@ -10,7 +10,7 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1565022262320">
+      <file name="/a.dummy" timestamp="1565043585652">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562838440514">
@@ -39,21 +39,15 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/handler.py" timestamp="1564662629621">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/handler.py" timestamp="1565039071152">
+        <mark key="[" line="194" column="11" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/handler.py" timestamp="1564672348157">
-        <mark key="[" line="156" column="53" />
-        <mark key="]" line="156" column="8" />
-        <mark key="." line="156" column="8" />
-        <mark key="^" line="156" column="23" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/classes.py" timestamp="1564679404059">
         <mark key="[" line="1" column="18" />
@@ -78,43 +72,33 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="38" column="74" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsColumn.java" timestamp="1562322171548">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/inputs/bad_file.tfs" timestamp="1565043107733">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/CHANGELOG.md" timestamp="1564674554315">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsChartDefinitions.java" timestamp="1562322175957">
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="46" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="29" column="19" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/.bumpversion.cfg" timestamp="1564679831450">
         <mark key="[" line="1" column="21" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/output_constants.py" timestamp="1564512600529">
-        <mark key="[" line="0" column="77" />
-        <mark key="]" line="0" column="76" />
-        <mark key="^" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/doc/root/index.rst" timestamp="1565047438709">
+        <mark key="[" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsDataSelection.java" timestamp="1562275763715">
-        <mark key="[" line="661" column="35" />
-        <mark key="]" line="364" column="32" />
-        <mark key="^" line="364" column="32" />
-        <mark key="." line="365" column="34" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_tools.py" timestamp="1565048083930">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="32" column="46" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565025759332">
-        <mark key="[" line="163" column="15" />
-        <mark key="]" line="171" column="59" />
-        <mark key="." line="171" column="64" />
-        <mark key="^" line="171" column="59" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565047722277">
+        <mark key="[" line="48" column="56" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
         <mark key="[" line="63" column="26" />
@@ -125,12 +109,6 @@
         <mark key="[" line="4" column="12" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameterNode.java" timestamp="1562276451635">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="68" column="30" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
@@ -145,17 +123,13 @@
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/context.py" timestamp="1564664496315">
-        <mark key="[" line="2" column="58" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/context.py" timestamp="1565048340785">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/__init__.py" timestamp="1564679846321">
         <mark key="[" line="2" column="33" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/tools.py" timestamp="1565025230142">
-        <mark key="[" line="83" column="25" />
-        <mark key="]" line="83" column="25" />
-        <mark key="." line="83" column="25" />
-        <mark key="^" line="71" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1565009553798">
         <mark key="[" line="31" column="20" />
@@ -168,22 +142,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Root.java" timestamp="1562276740922">
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="78" column="8" />
-        <mark key="^" line="73" column="44" />
-        <mark key="." line="78" column="8" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562319987027">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Category.java" timestamp="1562269118204">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="32" column="39" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tfs/collection.py" timestamp="1564678699028">
         <mark key="[" line="11" column="9" />
@@ -203,19 +165,21 @@
         <mark key="]" line="166" column="98" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565025017269">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="36" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="28" column="31" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565048100359">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1565022573506">
+      <file name="/Python Console" timestamp="1565046119379">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
-      <file name="/fragment.py" timestamp="1565022082187">
+      <file name="/fragment.py" timestamp="1565041465291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -224,12 +188,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/reader.py" timestamp="1564680368109">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1564680517875">
         <mark key="[" line="5" column="10" />
@@ -247,41 +205,26 @@
       <file name="/media/jdilly/Storage/Repositories/tfs/doc/conf.py" timestamp="1564672826319">
         <mark key="[" line="69" column="12" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_collection.py" timestamp="1565017359974">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="80" column="17" />
-        <mark key="." line="34" column="7" />
-        <mark key="^" line="34" column="7" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/Leaf.java" timestamp="1562276139351">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="66" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="27" column="64" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/writer.py" timestamp="1564679584936">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="12" column="4" />
-        <mark key="^" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_collection.py" timestamp="1565048106374">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/context.py" timestamp="1564679685784">
         <mark key="[" line="2" column="56" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/RDTFunctions.java" timestamp="1562265131716">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="41" column="8" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/inputs/file_x.tfs" timestamp="1565043791243">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="16" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/helper.py" timestamp="1565045018062">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1564677068242">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/global_definitions" timestamp="1564748964990">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="2" column="79" />
-        <mark key="^" line="2" column="79" />
-        <mark key="." line="2" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
         <mark key="[" line="18" column="39" />
@@ -313,14 +256,13 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1565014884061">
-        <mark key="[" line="89" column="30" />
-        <mark key="]" line="508" column="14" />
-        <mark key="^" line="334" column="13" />
-        <mark key="." line="508" column="14" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/twiss_to_lin.py" timestamp="1564588235414">
         <mark key="[" line="106" column="50" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_handler.py" timestamp="1565048093294">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/requirements.txt" timestamp="1565017740439">
         <mark key="[" line="7" column="22" />
@@ -332,7 +274,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/README.md" timestamp="1565017850408">
-        <mark key="[" line="49" column="27" />
+        <mark key="[" line="47" column="27" />
         <mark key="]" line="0" column="12" />
       </file>
     </filemarks>
@@ -340,35 +282,35 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Columns</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Columns</text>
+        <text>065323)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZik6CiAgICAgICAgICAgIGludmFsaWQgPSBbYyBmb3IgYyBpbiBzZWxmLmNvbHVtbnMgaWYgbm90IGlzaW5zdGFuY2Uoc2VsZltjXVswXSwgc2VsZi5Db2x1bW5zLm1hcHBpbmdbY10pXQogICAgICAgICAgICBpZiBsZW4oaW52YWxpZCk6CiAgICAgICAgICAgICAgICByYWlzZSBLZXlFcnJvcihmIkZvdW5kIGludmFsaWQgY29sdW1uIHR5cGVzIGluICd7c3RyKGludmFsaWQpfSciKQo=</text>
+        <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZik6Cg==</text>
+        <text encoding="base64">ZnJvbSBmaXhlZF9kYXRhZnJhbWUgaW1wb3J0IEZpeGVkQ29sdW1uLCBGaXhlZENvbHVtbkNvbGxlY3Rpb24sIEZpeGVkVGZzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVuaXRfbWFwID0gT3JkZXJlZERpY3QoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGVfYW5kX3VuaXQgPSBuYW1lZHR1cGxlKCJ0eXBlX2FuZF91bml0IiwgWyJkdHlwZSIsICJ1bml0Il0pCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaGlzIGRvZXMgbm90IGNoZWNrIGZvciBkdHlwZSwgYXMgdGhpcyB2YXJpZXMsCiAgICAgICAgZS5nLiBmbG9hdCBiZWNvbWVzIG5wLmZsb2F0NjQuCiAgICAgICAgVGhlIGNvbHVtbiBhbmQgaW5kZXggdHlwZXMgYXJlIHNldCBhdCB0aGUgaW5pdGlhbGl6YXRpb24gb2YgdGhlIGRhdGFmcmFtZSwgdGhvdWdoLgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBhbGwoYSA9PSBiIGZvciBhLCBiIGluIHppcChjb2x1bW5zLnR5cGVzLCBbc3RyLCAiLCAiVkFMWCJdKSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLlZBTFVFLnVuaXQgPT0gIm0iCiAgICBhc3NlcnQgY29sdW1ucy5WQUxVRS5kdHlwZSA9PSBmbG9hdAogICAgYXNzZXJ0IGNvbHVtbnMuTkFNRS51bml0ID09ICIiCiAgICBhc3NlcnQgY29sdW1ucy5OQU1FLmR0eXBlID09IHN0cgogICAgYXNzZXJ0IGNvbHVtbnMuT1RIRVIudW5pdCA9PSAiIgogICAgYXNzZXJ0IGNvbHVtbnMuTkFNRS5kdHlwZSA9PSBzdHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGRBTFBIQSA9IEZpeGVkQ29sdW1uKCJBTEZ7fSIsIGZsb2F0LCAibSIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -391,7 +333,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLlZBTFVFLmR0eXBlID09IGZsb2F0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
