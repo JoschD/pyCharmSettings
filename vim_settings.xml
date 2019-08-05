@@ -10,7 +10,7 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1565014659081">
+      <file name="/a.dummy" timestamp="1565022262320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562838440514">
@@ -110,10 +110,10 @@
         <mark key="^" line="364" column="32" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565018655027">
-        <mark key="[" line="76" column="23" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565023792263">
+        <mark key="[" line="75" column="110" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
         <mark key="[" line="63" column="26" />
@@ -201,18 +201,18 @@
         <mark key="]" line="166" column="98" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565018690551">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565023881684">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/Python Console" timestamp="1565017151998">
+      <file name="/Python Console" timestamp="1565022573506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1564680326646">
+      <file name="/fragment.py" timestamp="1565022082187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,34 +338,34 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLk9USEVSLnVuaXQgPT0gIm0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Column(&quot;NAME&quot;, str)</text>
+        <text>getattr(new_column, &quot;unit&quot;, &quot;&quot;)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKCkKZGVmIF9vdXRwdXRfZGlyKCk6CiAgICB3aXRoIHRlbXBmaWxlLlRlbXBvcmFyeURpcmVjdG9yeSgpIGFzIGN3ZDoKICAgICAgICB5aWVsZCBjd2QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50eXBlX21hcFtuZXdfY29sdW1uLm5hbWVdID0gbmV3X2NvbHVtbi5kdHlwZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLk9USEVSLnVuaXQgPT0gIm0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51bml0X21hcFtuZXdfY29sdW1uLm5hbWVdID0gICAjIGZvciBGaXhlZFVuaXRDb2x1bW5zCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGUuZy4gZmxvYXQgYmVjb21lcyBucC5mbG9hdDY0LiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRvZXMgbm90IGNoZWNrIGZvciBkdHlwZSwgYXMgdGhpcyB2YXJpZXMsIAogICAgICAgICMgZS5nLiBmbG9hdCBiZWNvbWVzIG5wLmZsb2F0NjQuIAogICAgICAgICMgVGhlIGNvbHVtbiBhbmQgaW5kZXggdHlwZXMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcG9pbnRpbmcgb3V0IHNvbWUgY3VyaW9zaXRpZXM6CiAgICBhc3NlcnQgY29sdW1ucy5OQU1FLm5hbWUgPT0gTXlUZnMuQ29sdW1ucy5OQU1FLm5hbWUKICAgIGFzc2VydCBjb2x1bW5zLkJFVEEubmFtZSAhPSBNeVRmcy5Db2x1bW5zLkJFVEEubmFtZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOlYKICAgICAgICByZXR1cm4gc2VsZi5uYW1lCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -388,10 +388,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBhbGwoYSA9PSBiIGZvciBhLCBiIGluIHppcChjb2x1bW5zLm5hbWVzLCBbIk5BTUUiLCAiUyIsICJCRVRYIl0pKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLkJFVEEubmFtZS5lbmRzd2l0aCgiWCIpCg==</text>
       </register>
     </registers>
     <search>
