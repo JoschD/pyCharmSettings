@@ -110,10 +110,11 @@
         <mark key="^" line="364" column="32" />
         <mark key="." line="365" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565023792263">
-        <mark key="[" line="75" column="110" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565025759332">
+        <mark key="[" line="163" column="15" />
+        <mark key="]" line="171" column="59" />
+        <mark key="." line="171" column="64" />
+        <mark key="^" line="171" column="59" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
         <mark key="[" line="63" column="26" />
@@ -150,10 +151,11 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/sdds/__init__.py" timestamp="1564679846321">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/tools.py" timestamp="1565016106275">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="85" column="74" />
-        <mark key="." line="66" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/tools.py" timestamp="1565025230142">
+        <mark key="[" line="83" column="25" />
+        <mark key="]" line="83" column="25" />
+        <mark key="." line="83" column="25" />
+        <mark key="^" line="71" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1565009553798">
         <mark key="[" line="31" column="20" />
@@ -201,10 +203,11 @@
         <mark key="]" line="166" column="98" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565023881684">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565025017269">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="31" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
@@ -337,35 +340,35 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLk9USEVSLnVuaXQgPT0gIm0iCg==</text>
+      <register name="&quot;" type="4">
+        <text>Columns</text>
       </register>
       <register name="-" type="4">
-        <text>getattr(new_column, &quot;unit&quot;, &quot;&quot;)</text>
+        <text>Columns</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi50eXBlX21hcFtuZXdfY29sdW1uLm5hbWVdID0gbmV3X2NvbHVtbi5kdHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZik6CiAgICAgICAgICAgIGludmFsaWQgPSBbYyBmb3IgYyBpbiBzZWxmLmNvbHVtbnMgaWYgbm90IGlzaW5zdGFuY2Uoc2VsZltjXVswXSwgc2VsZi5Db2x1bW5zLm1hcHBpbmdbY10pXQogICAgICAgICAgICBpZiBsZW4oaW52YWxpZCk6CiAgICAgICAgICAgICAgICByYWlzZSBLZXlFcnJvcihmIkZvdW5kIGludmFsaWQgY29sdW1uIHR5cGVzIGluICd7c3RyKGludmFsaWQpfSciKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLk9USEVSLnVuaXQgPT0gIm0iCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZik6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51bml0X21hcFtuZXdfY29sdW1uLm5hbWVdID0gICAjIGZvciBGaXhlZFVuaXRDb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnVuaXRfbWFwID0gT3JkZXJlZERpY3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGVfYW5kX3VuaXQgPSBuYW1lZHR1cGxlKCJ0eXBlX2FuZF91bml0IiwgWyJkdHlwZSIsICJ1bml0Il0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGUuZy4gZmxvYXQgYmVjb21lcyBucC5mbG9hdDY0LiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvZXMgbm90IGNoZWNrIGZvciBkdHlwZSwgYXMgdGhpcyB2YXJpZXMsIAogICAgICAgICMgZS5nLiBmbG9hdCBiZWNvbWVzIG5wLmZsb2F0NjQuIAogICAgICAgICMgVGhlIGNvbHVtbiBhbmQgaW5kZXggdHlwZXMgCg==</text>
+        <text encoding="base64">ICAgICAgICBUaGlzIGRvZXMgbm90IGNoZWNrIGZvciBkdHlwZSwgYXMgdGhpcyB2YXJpZXMsCiAgICAgICAgZS5nLiBmbG9hdCBiZWNvbWVzIG5wLmZsb2F0NjQuCiAgICAgICAgVGhlIGNvbHVtbiBhbmQgaW5kZXggdHlwZXMgYXJlIHNldCBhdCB0aGUgaW5pdGlhbGl6YXRpb24gb2YgdGhlIGRhdGFmcmFtZSwgdGhvdWdoLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgcG9pbnRpbmcgb3V0IHNvbWUgY3VyaW9zaXRpZXM6CiAgICBhc3NlcnQgY29sdW1ucy5OQU1FLm5hbWUgPT0gTXlUZnMuQ29sdW1ucy5OQU1FLm5hbWUKICAgIGFzc2VydCBjb2x1bW5zLkJFVEEubmFtZSAhPSBNeVRmcy5Db2x1bW5zLkJFVEEubmFtZQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBhbGwoYSA9PSBiIGZvciBhLCBiIGluIHppcChjb2x1bW5zLnR5cGVzLCBbc3RyLCAiLCAiVkFMWCJdKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLlZBTFVFLnVuaXQgPT0gIm0iCiAgICBhc3NlcnQgY29sdW1ucy5WQUxVRS5kdHlwZSA9PSBmbG9hdAogICAgYXNzZXJ0IGNvbHVtbnMuTkFNRS51bml0ID09ICIiCiAgICBhc3NlcnQgY29sdW1ucy5OQU1FLmR0eXBlID09IHN0cgogICAgYXNzZXJ0IGNvbHVtbnMuT1RIRVIudW5pdCA9PSAiIgogICAgYXNzZXJ0IGNvbHVtbnMuTkFNRS5kdHlwZSA9PSBzdHIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -388,10 +391,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBhbGwoYSA9PSBiIGZvciBhLCBiIGluIHppcChjb2x1bW5zLm5hbWVzLCBbIk5BTUUiLCAiUyIsICJCRVRYIl0pKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLlZBTFVFLmR0eXBlID09IGZsb2F0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBjb2x1bW5zLkJFVEEubmFtZS5lbmRzd2l0aCgiWCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
