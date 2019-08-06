@@ -95,10 +95,10 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565093060379">
-        <mark key="[" line="129" column="28" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/fixed_dataframe.py" timestamp="1565094363746">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
         <mark key="[" line="63" column="26" />
@@ -149,11 +149,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/collection.py" timestamp="1565092868409">
-        <mark key="[" line="89" column="32" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1565012330191">
         <mark key="[" line="21" column="8" />
@@ -286,7 +281,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>065323)</text>
@@ -295,25 +290,25 @@
         <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmaXhlZF9kYXRhZnJhbWUgaW1wb3J0IEZpeGVkQ29sdW1uLCBGaXhlZENvbHVtbkNvbGxlY3Rpb24sIEZpeGVkVGZzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfZmlsbF9taXNzaW5nX2hlYWRlcnMoc2VsZik6CiAgICAgICAgZm9yIG5hbWUsIGRhdGF0eXBlLCBfIGluIHNlbGYuSGVhZGVyczoKICAgICAgICAgICAgaWYgbmFtZSBub3QgaW4gc2VsZi5oZWFkZXJzOgogICAgICAgICAgICAgICAgc2VsZi5oZWFkZXJzW25hbWVdID0gREVGQVVMVFNbZGF0YXR5cGVdCiAgICAgICAgbmV3X2hlYWRlcnMgPSBPcmRlcmVkRGljdChbKGtleSwgc2VsZi5oZWFkZXJzLnBvcChrZXkpKSBmb3Iga2V5IGluIHNlbGYuSGVhZGVycy5uYW1lc10pCiAgICAgICAgbmV3X2hlYWRlcnMudXBkYXRlKHNlbGYuaGVhZGVycykgICMgc2hvdWxkIGJlIGVycm9yLCB3aWxsIHJhaXNlZCBpbiB2YWxpZGF0aW9uIHN0ZXAhCiAgICAgICAgc2VsZi5oZWFkZXJzID0gbmV3X2hlYWRlcnMKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkluZGV4IGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkhlYWRlcnMgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkluZGV4IGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRBTFBIQSA9IEZpeGVkQ29sdW1uKCJBTEZ7fSIsIGZsb2F0LCAibSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLkNvbHVtbnMgaXMgbm90IE5vbmU6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
