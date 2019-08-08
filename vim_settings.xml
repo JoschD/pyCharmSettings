@@ -98,8 +98,8 @@
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/CHANGELOG.md" timestamp="1565279637096">
-        <mark key="[" line="2" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/sdds/CHANGELOG.md" timestamp="1565280705163">
+        <mark key="[" line="2" column="15" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="0" />
       </file>
@@ -108,8 +108,9 @@
         <mark key="]" line="105" column="89" />
         <mark key="." line="105" column="89" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/__init__.py" timestamp="1564679846321">
-        <mark key="[" line="2" column="33" />
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/__init__.py" timestamp="1565280472554">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1565009553798">
         <mark key="[" line="31" column="20" />
@@ -170,7 +171,7 @@
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/writer.py" timestamp="1565277770254">
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/writer.py" timestamp="1565280486619">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="5" />
@@ -280,8 +281,8 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/.bumpversion.cfg" timestamp="1564679831450">
-        <mark key="[" line="1" column="21" />
+      <file name="/media/jdilly/Storage/Repositories/sdds/.bumpversion.cfg" timestamp="1565280564686">
+        <mark key="[" line="3" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entrypoint_parser.py" timestamp="1565276547757">
         <mark key="[" line="137" column="5" />
@@ -342,7 +343,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/reader.py" timestamp="1565277763815">
+      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/reader.py" timestamp="1565280490529">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="5" />
@@ -411,14 +412,14 @@
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgVmVyc2lvbiAxLjAuMwogLSBGaXhlZDoKICAgLSBGcm9tIHJlbGF0aXZlIHRvIGFic29sdXRlIGltcG9ydHMgKElNUE9SVEFOVCBGSVghISkK</text>
+      <register name="&quot;" type="4">
+        <text>sdds.</text>
       </register>
       <register name="-" type="4">
         <text>generic_parser.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMgVmVyc2lvbiAxLjAuMwogLSBGaXhlZDoKICAgLSBGcm9tIHJlbGF0aXZlIHRvIGFic29sdXRlIGltcG9ydHMgKElNUE9SVEFOVCBGSVghISkK</text>
+      <register name="0" type="4">
+        <text>sdds.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
