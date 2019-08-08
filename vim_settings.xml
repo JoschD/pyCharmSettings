@@ -66,10 +66,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/CHANGELOG.md" timestamp="1565195581593">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/tfs/CHANGELOG.md" timestamp="1565279632849">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/logging_tools.py" timestamp="1565267327664">
         <mark key="[" line="187" column="0" />
@@ -97,10 +98,10 @@
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/CHANGELOG.md" timestamp="1564679905957">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/sdds/CHANGELOG.md" timestamp="1565279637096">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOptics.java" timestamp="1562275672602">
         <mark key="[" line="105" column="89" />
@@ -362,11 +363,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/tests/context.py" timestamp="1565277715836">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/helper.py" timestamp="1565045018062">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="15" column="60" />
@@ -416,13 +412,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
+        <text encoding="base64">IyMgVmVyc2lvbiAxLjAuMwogLSBGaXhlZDoKICAgLSBGcm9tIHJlbGF0aXZlIHRvIGFic29sdXRlIGltcG9ydHMgKElNUE9SVEFOVCBGSVghISkK</text>
       </register>
       <register name="-" type="4">
         <text>generic_parser.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
+        <text encoding="base64">IyMgVmVyc2lvbiAxLjAuMwogLSBGaXhlZDoKICAgLSBGcm9tIHJlbGF0aXZlIHRvIGFic29sdXRlIGltcG9ydHMgKElNUE9SVEFOVCBGSVghISkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
