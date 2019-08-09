@@ -13,7 +13,6 @@
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
       <mapping pattern="dfsafd" type="PLAIN_TEXT" />
       <mapping pattern="regextest2" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="b1" type="PLAIN_TEXT" />
       <mapping ext="seq" type="PLAIN_TEXT" />
       <mapping ext="twisskick" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping ext="tfs" type="PLAIN_TEXT" />
       <mapping ext="sdds" type="PLAIN_TEXT" />
       <mapping ext="varmap" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
