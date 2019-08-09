@@ -112,6 +112,9 @@
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="9" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/.local_gitignore" timestamp="1565354165761">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1565009553798">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="0" />
@@ -124,10 +127,12 @@
       <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/config.ini" timestamp="1565265181752">
         <mark key="[" line="1" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" timestamp="1565352721263">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" timestamp="1565354740998">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="8" />
+        <mark key="." line="91" column="8" />
+        <mark key="^" line="56" column="9" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/numpy_handler.py" timestamp="1565108445866">
         <mark key="[" line="1" column="0" />
@@ -449,77 +454,92 @@
     </filemarks>
     <jumps>
       <jump line="249" column="39" filename="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" />
+      <jump line="41" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="76" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="84" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="92" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="35" column="2" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="36" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="37" column="2" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="38" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="56" column="8" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="83" column="9" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
+      <jump line="91" column="8" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0ZnNfZmlsZXMgaW1wb3J0IHRmc19wYW5kYXMK</text>
+      <register name="&quot;" type="4">
+        <text>database</text>
       </register>
       <register name="-" type="4">
-        <text>generic_parser.</text>
+        <text>database</text>
+      </register>
+      <register name="/" type="4">
+        <text>database</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGZzPj0xLjAuMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0ZnNfZmlsZXMgaW1wb3J0IHRmc19wYW5kYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB0ZnNfZmlsZXMgaW1wb3J0IHRmc19wYW5kYXMK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">c3lzLnBhdGguYXBwZW5kKCIvYWZzL2Nlcm4uY2gvZW5nL3NsL2xpbnRyYWNrL0JldGEtQmVhdC5zcmMvIikK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>e, created by
    sphinx-quickstart on Tue Oct  8 13:32:26 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, created by
    sphinx-quickstart on Tue Oct  8 13:32:26 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">c3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aCgnLi4vZ2VuZXJpY19wYXJzZXIvJykpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBjb250ZXh0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="48" code="0" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="98" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGZzX3BhdGggPSBqb2luKHJvb3RfcGF0aCwgInRmcyIpCmlmIHRmc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCB0ZnNfcGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2Rkc19wYXRoID0gam9pbihyb290X3BhdGgsICJzZGRzIikKaWYgc2Rkc19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBzZGRzX3BhdGgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>database</last-search>
+      <last-offset />
+      <last-pattern>database</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>database</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
