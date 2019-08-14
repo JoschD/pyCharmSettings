@@ -8,11 +8,13 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537880760010">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1539361196492">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1565788036469">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_figure.py" timestamp="1532979382804">
         <mark key="[" line="226" column="35" />
@@ -23,22 +25,22 @@
       <file name="$USER_HOME$/PycharmProjects/testproject/test.py" timestamp="1514663745922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_utils.py" timestamp="1532976984091">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-        <mark key="^" line="31" column="6" />
-      </file>
       <file name="$USER_HOME$/Software/Beta-Beat.src/udillyties/plotpres/analyse_detuning.py" timestamp="1539361071211">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="35" column="23" />
       </file>
-      <file name="$USER_HOME$/Software/Beta-Beat.src/requirements.txt" timestamp="1539361182024">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/options_artists.py" timestamp="1565787317113">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="5" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/general_helper.py" timestamp="1565787473497">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="20" column="40" />
+        <mark key="." line="20" column="40" />
+        <mark key="^" line="20" column="40" />
       </file>
       <file name="$USER_HOME$/Software/Beta-Beat.src/utils/plotting/fig_editor/main.py" timestamp="1537880921897">
         <mark key="[" line="18" column="0" />
@@ -48,47 +50,93 @@
         <mark key="]" line="253" column="13" />
         <mark key="." line="253" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1537880760010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/__init__.py" timestamp="1565788097702">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/main_window_widgets.py" timestamp="1565787303470">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="5" />
+      </file>
+      <file name="$USER_HOME$/mac_cern/Beta-Beat.src/udillyties/figure_gui/options_utils.py" timestamp="1532976984091">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+        <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/requirements.txt" timestamp="1539361182024">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/serialization.py" timestamp="1565787362154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/requirements.txt" timestamp="1565786860459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/Beta-Beat.src/utils/dict_tools.py" timestamp="1565787418535">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="37" column="98" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/main.py" timestamp="1565788063300">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/main_window.py" timestamp="1565787290976">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="5" />
+      </file>
+      <file name="$USER_HOME$/Software/mpl-editor/mpl_editor/options_figure.py" timestamp="1565787326722">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="5" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>https://plot.ly/python/reference/#scatter</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3MgRG90RGljdChkaWN0KToKICAgICIiIiBNYWtlIGRpY3QgZmllbGRzIGFjY2Vzc2libGUgYnkgLiAiIiIKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgICAgIHN1cGVyKERvdERpY3QsIHNlbGYpLl9faW5pdF9fKCphcmdzLCAqKmt3YXJncykKICAgICAgICBmb3Iga2V5IGluIHNlbGY6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2Uoc2VsZltrZXldLCBkaWN0KToKICAgICAgICAgICAgICAgIHNlbGZba2V5XSA9IERvdERpY3Qoc2VsZltrZXldKQoKICAgICMgX19nZXRhdHRyX18gPSBkaWN0Ll9fZ2V0aXRlbV9fCiAgICBfX3NldGF0dHJfXyA9IGRpY3QuX19zZXRpdGVtX18KICAgIF9fZGVsYXR0cl9fID0gZGljdC5fX2RlbGl0ZW1fXwoKICAgIGRlZiBfX2dldGF0dHJfXyhzZWxmLCBrZXkpOgogICAgICAgICIiIiBOZWVkZWQgdG8gcmFpc2UgdGhlIGNvcnJlY3QgZXhjZXB0aW9ucyAiIiIKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJldHVybiBzdXBlcihEb3REaWN0LCBzZWxmKS5fX2dldGl0ZW1fXyhrZXkpCiAgICAgICAgZXhjZXB0IEtleUVycm9yIGFzIGU6CiAgICAgICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKGUpICAjIFRPRE86IEFkYXB0IHRyYWNlYmFjayB0byBub3QgbGluayBoZXJlIChQeXRob24zIGRvZXMgdGhhdD8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGNvbnRleHRtYW5hZ2VyCmRlZiBzdXBwcmVzc19leGNlcHRpb24oZXhjZXB0aW9uKToKICAgICIiIiBDYXRjaCBleGNlcHRpb24gYW5kIGlnbm9yZSBpdC4gIiIiCiAgICB0cnk6CiAgICAgICAgeWllbGQKICAgIGV4Y2VwdCBleGNlcHRpb246CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">TW9kdWxlIHBsb3RzaG9wLmZpZ19lZGl0b3IubWFpbjog</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldF9uZXdfcGxvdHNfYjFfWF9mbGF0KCk6CiAgICBzZXR1cCA9IHsKICAgICAgICAibGFiZWwiOiAiQjEgSC1LaWNrcyBGbGF0LU9yYml0IiwKICAgICAgICAiYmVhbSI6IDEsCiAgICAgICAgInBsYW5lIjogIlgiLAogICAgICAgICJraWNrYWNfcGF0aCI6ICIuL2dldGtpY2thYy5vdXQiLAogICAgICAgICJraWNrYWNfb3V0IjogIi4vZ2V0a2lja2FjX2FtcGRldC5vdXQiLAogICAgICAgICJ3aW5kb3dfbGVuZ3RoIjogMjAsCiAgICAgICAgInR1bmVfeCI6IDAuMzEsCiAgICAgICAgInR1bmVfeSI6IDAuMzIsCiAgICAgICAgInR1bmVfY3V0IjogMC4wMDUsCiAgICAgICAgImJicV9wbG90X291dCI6ICIuL2JicV9iMWhfZmxhdG9yYiIsCiAgICAgICAgImFtcGRldF9wbG90X291dCI6ICIuL2FtcGRldF9iMWhfZmxhdG9yYiIsCiAgICAgICAgIyAiYmJxX3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgIyAiYW1wZGV0X3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgImJicV9vdXQiOiAiQjFfZmxhdG9yYml0X0gvYmJxX2FtcGRldC5vdXQiLAogICAgICAgICJiYnFfcGxvdF9zaG93IjogRmFsc2UsCiAgICAgICAgImFtcGRldF9wbG90X3Nob3ciOiBGYWxzZSwKICAgIH0KICAgIHJldHVybiBhbXBkZXQuYW5hbHlzZV93aXRoX2JicV9jb3JyZWN0aW9ucygqKnNldHVwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">InNvbGlkIiwgImRvdCIsICJkYXNoIiwgImxvbmdkYXNoIiwgImRhc2hkb3QiLCBvciAibG9uZ2Rhc2hkb3QK</text>
+        <text encoding="base64">ZnJvbSB1dGlscy5kaWN0X3Rvb2xzIGltcG9ydCBEb3REaWN0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>LINESTYLE_DASH_MAP = {
-    &quot;&quot;
-    &quot;-&quot;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSB1dGlscy5jb250ZXh0cyBpbXBvcnQgc3VwcHJlc3NfZXhjZXB0aW9uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYi5zZXRfdmlzaWJsZSh2aXNpYmxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgYiBpbiBiYXI6Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9uZXdfcGxvdHNfYjFfWF9mbGF0KCk6CiAgICBzZXR1cCA9IHsKICAgICAgICAibGFiZWwiOiAiQjEgSC1LaWNrcyBGbGF0LU9yYml0IiwKICAgICAgICAiYmVhbSI6IDEsCiAgICAgICAgInBsYW5lIjogIlgiLAogICAgICAgICJraWNrYWNfcGF0aCI6ICIuL2dldGtpY2thYy5vdXQiLAogICAgICAgICJraWNrYWNfb3V0IjogIi4vZ2V0a2lja2FjX2FtcGRldC5vdXQiLAogICAgICAgICJ3aW5kb3dfbGVuZ3RoIjogMjAsCiAgICAgICAgInR1bmVfeCI6IDAuMzEsCiAgICAgICAgInR1bmVfeSI6IDAuMzIsCiAgICAgICAgInR1bmVfY3V0IjogMC4wMDUsCiAgICAgICAgImJicV9wbG90X291dCI6ICIuL2JicV9iMWhfZmxhdG9yYiIsCiAgICAgICAgImFtcGRldF9wbG90X291dCI6ICIuL2FtcGRldF9iMWhfZmxhdG9yYiIsCiAgICAgICAgIyAiYmJxX3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgIyAiYW1wZGV0X3Bsb3Rfc2hvdyI6IFRydWUsCiAgICAgICAgImJicV9vdXQiOiAiQjFfZmxhdG9yYml0X0gvYmJxX2FtcGRldC5vdXQiLAogICAgICAgICJiYnFfcGxvdF9zaG93IjogRmFsc2UsCiAgICAgICAgImFtcGRldF9wbG90X3Nob3ciOiBGYWxzZSwKICAgIH0KICAgIHJldHVybiBhbXBkZXQuYW5hbHlzZV93aXRoX2JicV9jb3JyZWN0aW9ucygqKnNldHVwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">TW9kdWxlIHBsb3RzaG9wLmZpZ19lZGl0b3IubWFpbjog</text>
       </register>
     </registers>
     <search>
