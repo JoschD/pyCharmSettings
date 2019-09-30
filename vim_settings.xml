@@ -240,7 +240,7 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1569856665191">
+      <file name="/Python Console" timestamp="1569859294586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -415,12 +415,6 @@
         <mark key="[" line="25" column="18" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/machine_settings_info.py" timestamp="1569856346926">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="45" column="25" />
-        <mark key="." line="45" column="25" />
-        <mark key="^" line="45" column="25" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/requirements.txt" timestamp="1565264138139">
         <mark key="[" line="5" column="22" />
@@ -701,9 +695,9 @@
         <mark key="." line="8" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/data_extract/lsa.py" timestamp="1569857133310">
-        <mark key="[" line="125" column="12" />
-        <mark key="]" line="125" column="33" />
-        <mark key="." line="125" column="0" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/lhc_handler.py" timestamp="1565108480576">
         <mark key="[" line="1" column="0" />
