@@ -242,7 +242,7 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1570812262835">
+      <file name="/Python Console" timestamp="1570813035159">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1570812160580">
@@ -677,11 +677,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/htc/utils.py" timestamp="1570812259653">
-        <mark key="[" line="92" column="71" />
-        <mark key="]" line="92" column="70" />
-        <mark key="." line="92" column="27" />
-        <mark key="^" line="93" column="62" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/htc/utils.py" timestamp="1570813460026">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1569940979601">
         <mark key="[" line="0" column="0" />
@@ -749,11 +748,11 @@
       <jump line="16" column="29" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[COLUMN_SHELL_SCRIPT, COLUMN_JOB_DIRECTORY]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>f'{BASH_FILENAME}.sh'</text>
+        <text>&quot;\n&quot;.join([&quot;,&quot;.join(parts) for parts in zip(scripts, job_df[COLUMN_JOB_DIRECTORY])])</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
@@ -765,22 +764,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbTm9uZV0gKiBsZW4oam9iX2RmLmluZGV4KQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBqb2JfZGYudG9fY3N2KGluZGV4PUZhbHNlLCBoZWFkZXI9RmFsc2UsIGNvbHVtbnM9W0NPTFVNTl9TSEVMTF9TQ1JJUFQsIENPTFVNTl9KT0JfRElSRUNUT1JZXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhc2hfZmlsZSA9IGYne0JBU0hfRklMRU5BTUV9LnNoJwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbTm9uZV0gKiBsZW4oam9iX2RmLmluZGV4KQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbF9zY3JpcHRzLmFwcGVuZChqb2JmaWxlKQo=</text>
+        <text encoding="base64">ICAgIGJhc2hfZmlsZSA9IGYne0JBU0hfRklMRU5BTUV9LnNoJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNoX2ZpbGUgPSBmJ3tCQVNIX0ZJTEVOQU1FfS5zaCcK</text>
+        <text encoding="base64">ICAgICAgICBzaGVsbF9zY3JpcHRzLmFwcGVuZChqb2JmaWxlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -799,10 +798,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBiYXNoX2ZpbGUgPSBmJ3tCQVNIX0ZJTEVOQU1FfS5zaCcK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
