@@ -184,6 +184,7 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3/omc3/utils/iotools.py" timestamp="1570796921448">
         <mark key="[" line="18" column="5" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/__init__.py" timestamp="1570803136235" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOptics.java" timestamp="1562275672602">
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="89" />
@@ -240,7 +241,7 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1570795690987">
+      <file name="/Python Console" timestamp="1570803173259">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1568911489954">
@@ -458,10 +459,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570796800148">
-        <mark key="[" line="159" column="19" />
-        <mark key="]" line="169" column="65" />
-        <mark key="." line="169" column="65" />
-        <mark key="^" line="169" column="35" />
+        <mark key="[" line="160" column="19" />
+        <mark key="]" line="170" column="65" />
+        <mark key="." line="170" column="65" />
+        <mark key="^" line="170" column="35" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/lines.py" timestamp="1567158574244">
         <mark key="[" line="35" column="0" />
@@ -556,6 +557,10 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/tests/unit/context.py" timestamp="1570802353532">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="32" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562258398478">
         <mark key="[" line="11" column="89" />
@@ -745,8 +750,8 @@
       <jump line="16" column="29" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBhbGxvdyBvbWMzIHN1YnBhY2thZ2UgaW1wb3J0cwppbXBvcnQgc3lzCmZyb20gb3MucGF0aCBpbXBvcnQgYWJzcGF0aCwgam9pbiwgZGlybmFtZQpvbWMzX3BhdGggPSBhYnNwYXRoKGpvaW4oZGlybmFtZShfX2ZpbGVfXyksICJvbWMzIiwgIm9tYzMiKSkKaWYgb21jM19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBvbWMzX3BhdGgpCmltcG9ydCBvbWMzLm9tYzMK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -754,29 +759,29 @@
       <register name="/" type="4">
         <text>database</text>
       </register>
-      <register name="0" type="4">
-        <text>f&quot;The following replace_dict keys were not found in the given mask: '{str(not_in_mask).strip('{}')}'&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgc3JjX3BhdGggbm90IGluIHN5cy5wYXRoOgogICAgc3lzLnBhdGguaW5zZXJ0KDAsIHNyY19wYXRoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGluZGV4PV9nZW5lcmF0ZV9pbmRleChqb2JpZF9tYXNrLCByZXBsYWNlX2RpY3Qua2V5cygpLCB2YWx1ZXNfZ3JpZCksCiAgICAgICAgICAgIGNvbHVtbnM9bGlzdChyZXBsYWNlX2RpY3Qua2V5cygpKSwKICAgICAgICAgICAgZGF0YT12YWx1ZXNfZ3JpZCksCg==</text>
+        <text encoding="base64">IyBhbGxvdyBvbWMzIHN1YnBhY2thZ2UgaW1wb3J0cwppbXBvcnQgc3lzCmZyb20gb3MucGF0aCBpbXBvcnQgYWJzcGF0aCwgam9pbiwgZGlybmFtZQpvbWMzX3BhdGggPSBhYnNwYXRoKGpvaW4oZGlybmFtZShfX2ZpbGVfXyksICJvbWMzIiwgIm9tYzMiKSkKaWYgb21jM19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBvbWMzX3BhdGgpCmltcG9ydCBvbWMzLm9tYzMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIF9qb2Jfd2FzX3N1Y2Nlc3NmdWwoam9iX3JvdywgZmlsZXMpOgogICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihqb2Jfcm93W0NPTFVNTl9KT0JfRElSRUNUT1JZXSwgT1VUUFVUX0RJUikKICAgIHN1Y2Nlc3MgPSBvcy5wYXRoLmlzZGlyKG91dHB1dF9kaXIpCiAgICBpZiBzdWNjZXNzIGFuZCBmaWxlcyBpcyBub3QgTm9uZSBhbmQgbGVuKGZpbGVzKToKICAgICAgICBmb3IgZiBpbiBmaWxlczoKICAgICAgICAgICAgc3VjY2VzcyAmPSBvcy5wYXRoLmlzZmlsZShvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgZikpCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGluZGV4PV9nZW5lcmF0ZV9pbmRleChqb2JpZF9tYXNrLCByZXBsYWNlX2RpY3Qua2V5cygpLCB2YWx1ZXNfZ3JpZCksCiAgICAgICAgICAgIGNvbHVtbnM9bGlzdChyZXBsYWNlX2RpY3Qua2V5cygpKSwKICAgICAgICAgICAgZGF0YT12YWx1ZXNfZ3JpZCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
+        <text encoding="base64">ZGVmIF9qb2Jfd2FzX3N1Y2Nlc3NmdWwoam9iX3JvdywgZmlsZXMpOgogICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihqb2Jfcm93W0NPTFVNTl9KT0JfRElSRUNUT1JZXSwgT1VUUFVUX0RJUikKICAgIHN1Y2Nlc3MgPSBvcy5wYXRoLmlzZGlyKG91dHB1dF9kaXIpCiAgICBpZiBzdWNjZXNzIGFuZCBmaWxlcyBpcyBub3QgTm9uZSBhbmQgbGVuKGZpbGVzKToKICAgICAgICBmb3IgZiBpbiBmaWxlczoKICAgICAgICAgICAgc3VjY2VzcyAmPSBvcy5wYXRoLmlzZmlsZShvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgZikpCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGYgPSB0ZnMucmVhZChvcy5wYXRoLmpvaW4oY3dkLCBKT0JTVU1NQVJZX0ZJTEUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -795,10 +800,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmRlYnVnKCJTZXR0aW5nIHVwIGZvbGRlcnM6ICIpCg==</text>
+        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzKElPRXJyb3IpOgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTQK</text>
       </register>
     </registers>
     <search>
