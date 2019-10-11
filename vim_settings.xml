@@ -181,6 +181,9 @@
       <file name="/" timestamp="1569860069144">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3/omc3/utils/iotools.py" timestamp="1570795659069">
+        <mark key="[" line="18" column="5" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOptics.java" timestamp="1562275672602">
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="89" />
@@ -236,6 +239,9 @@
         <mark key="]" line="132" column="21" />
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
+      </file>
+      <file name="/Python Console" timestamp="1570795690987">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1568911489954">
         <mark key="[" line="0" column="0" />
@@ -379,8 +385,8 @@
         <mark key="." line="307" column="34" />
         <mark key="^" line="307" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1570719458819">
-        <mark key="[" line="12" column="34" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1570795395946">
+        <mark key="[" line="24" column="27" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -451,11 +457,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570789237329">
-        <mark key="[" line="248" column="22" />
-        <mark key="]" line="247" column="49" />
-        <mark key="." line="247" column="49" />
-        <mark key="^" line="247" column="49" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570795381015">
+        <mark key="[" line="159" column="19" />
+        <mark key="]" line="169" column="65" />
+        <mark key="." line="169" column="65" />
+        <mark key="^" line="169" column="35" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/lines.py" timestamp="1567158574244">
         <mark key="[" line="35" column="0" />
@@ -740,37 +746,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Mask to name jobs from replace_dict</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Mask to name jobs from replace_dict</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWpvYmlkX21hc2siLAogICAgICAgIG5hbWU9ImpvYmlkX21hc2siLAogICAgICAgIGhlbHA9Ik1hc2sgdG8gbmFtZSBqb2JzIGZyb20gcmVwbGFjZV9kaWN0IiwKICAgICAgICB0eXBlPXN0ciwKICAgICkK</text>
+      <register name="0" type="4">
+        <text>f&quot;The following replace_dict keys were not found in the given mask: '{str(not_in_mask).strip('{}')}'&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
+        <text encoding="base64">ICAgICAgICBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGluZGV4PV9nZW5lcmF0ZV9pbmRleChqb2JpZF9tYXNrLCByZXBsYWNlX2RpY3Qua2V5cygpLCB2YWx1ZXNfZ3JpZCksCiAgICAgICAgICAgIGNvbHVtbnM9bGlzdChyZXBsYWNlX2RpY3Qua2V5cygpKSwKICAgICAgICAgICAgZGF0YT12YWx1ZXNfZ3JpZCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTQK</text>
+        <text encoding="base64">ZGVmIF9qb2Jfd2FzX3N1Y2Nlc3NmdWwoam9iX3JvdywgZmlsZXMpOgogICAgb3V0cHV0X2RpciA9IG9zLnBhdGguam9pbihqb2Jfcm93W0NPTFVNTl9KT0JfRElSRUNUT1JZXSwgT1VUUFVUX0RJUikKICAgIHN1Y2Nlc3MgPSBvcy5wYXRoLmlzZGlyKG91dHB1dF9kaXIpCiAgICBpZiBzdWNjZXNzIGFuZCBmaWxlcyBpcyBub3QgTm9uZSBhbmQgbGVuKGZpbGVzKToKICAgICAgICBmb3IgZiBpbiBmaWxlczoKICAgICAgICAgICAgc3VjY2VzcyAmPSBvcy5wYXRoLmlzZmlsZShvcy5wYXRoLmpvaW4ob3V0cHV0X2RpciwgZikpCiAgICByZXR1cm4gc3VjY2VzcwoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqb2JfZGYgPSB0ZnMucmVhZChvcy5wYXRoLmpvaW4oY3dkLCBKT0JTVU1NQVJZX0ZJTEUpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmRlYnVnKCJTZXR0aW5nIHVwIGZvbGRlcnM6ICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzKElPRXJyb3IpOgo=</text>
+        <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PTQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqb2JfZGYgPSB0ZnMucmVhZChvcy5wYXRoLmpvaW4oY3dkLCBKT0JTVU1NQVJZX0ZJTEUpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -789,10 +795,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HLmRlYnVnKCJTZXR0aW5nIHVwIGZvbGRlcnM6ICIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGggc3VwcHJlc3MoSU9FcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHN1cHByZXNzKElPRXJyb3IpOgo=</text>
       </register>
     </registers>
     <search>
