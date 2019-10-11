@@ -237,11 +237,6 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1570786103598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1568911489954">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -456,11 +451,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570787369824">
-        <mark key="[" line="240" column="82" />
-        <mark key="]" line="240" column="83" />
-        <mark key="." line="240" column="4" />
-        <mark key="^" line="240" column="3" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570789237329">
+        <mark key="[" line="248" column="22" />
+        <mark key="]" line="247" column="49" />
+        <mark key="." line="247" column="49" />
+        <mark key="^" line="247" column="49" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/lines.py" timestamp="1567158574244">
         <mark key="[" line="35" column="0" />
@@ -530,7 +525,7 @@
         <mark key="^" line="16" column="6" />
         <mark key="." line="16" column="6" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entrypoint_parser.py" timestamp="1565284176657">
+      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entrypoint_parser.py" timestamp="1570788097220">
         <mark key="[" line="137" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
@@ -745,16 +740,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgcmVtb3ZlcyBhbGwga2V5cyB3aGljaCBhcmUgbm90IHByZXNlbnQgaW4gbWFzayAob3RoZXJ3aXNlIHVubmVjY2Vzc2FyeSBqb2JzKQ==</text>
+        <text>Mask to name jobs from replace_dict</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgcmVtb3ZlcyBhbGwga2V5cyB3aGljaCBhcmUgbm90IHByZXNlbnQgaW4gbWFzayAob3RoZXJ3aXNlIHVubmVjY2Vzc2FyeSBqb2JzKQ==</text>
+        <text>Mask to name jobs from replace_dict</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWNoZWNrX2ZpbGVzIiwKICAgICAgICBuYW1lPSJjaGVja19maWxlcyIsCiAgICAgICAgaGVscD0iRmlsZXMgdG8gY2hlY2sgdG8gY291bnQgam9iIGFzIHN1Y2Nlc3NmdWxsIiwKICAgICAgICB0eXBlPXN0ciwKICAgICAgICBuYXJncz0iKyIsCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtcy5hZGRfcGFyYW1ldGVyKAogICAgICAgIGZsYWdzPSItLWpvYmlkX21hc2siLAogICAgICAgIG5hbWU9ImpvYmlkX21hc2siLAogICAgICAgIGhlbHA9Ik1hc2sgdG8gbmFtZSBqb2JzIGZyb20gcmVwbGFjZV9kaWN0IiwKICAgICAgICB0eXBlPXN0ciwKICAgICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBuYXJncz0iKyIsCg==</text>
