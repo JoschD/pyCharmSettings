@@ -25,7 +25,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1570717818134">
+      <file name="/a.dummy" timestamp="1570811439500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -242,10 +242,10 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1570807117341">
+      <file name="/Python Console" timestamp="1570812262835">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1568911489954">
+      <file name="/fragment.py" timestamp="1570812160580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -384,6 +384,7 @@
         <mark key="." line="307" column="34" />
         <mark key="^" line="307" column="34" />
       </file>
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1570809318380" />
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/plot_tfs.py" timestamp="1567166151360">
         <mark key="[" line="27" column="1" />
       </file>
@@ -451,10 +452,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570808319746">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1570812164588">
+        <mark key="[" line="151" column="58" />
+        <mark key="]" line="41" column="58" />
+        <mark key="." line="41" column="58" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/lines.py" timestamp="1567158574244">
         <mark key="[" line="35" column="0" />
@@ -599,11 +600,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx/mask.py" timestamp="1570718327456">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="26" column="11" />
-        <mark key="." line="12" column="0" />
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx/mask.py" timestamp="1570810951373">
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="28" column="40" />
+        <mark key="^" line="28" column="22" />
+        <mark key="." line="28" column="23" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/madx/index.rst" timestamp="1569589009180">
         <mark key="[" line="3" column="15" />
@@ -676,6 +677,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/htc/utils.py" timestamp="1570812259653">
+        <mark key="[" line="92" column="71" />
+        <mark key="]" line="92" column="70" />
+        <mark key="." line="92" column="27" />
+        <mark key="^" line="93" column="62" />
+      </file>
       <file name="/Dummy.txt" timestamp="1569940979601">
         <mark key="[" line="0" column="0" />
       </file>
@@ -742,38 +749,38 @@
       <jump line="16" column="29" filename="/media/jdilly/Storage/Repositories/pylhc/pylhc/forced_da_analysis.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[COLUMN_SHELL_SCRIPT, COLUMN_JOB_DIRECTORY]</text>
       </register>
       <register name="-" type="4">
-        <text>os.path.join(cwd, JOBSUMMARY_FILE)</text>
+        <text>f'{BASH_FILENAME}.sh'</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="4">
-        <text>pylhc.</text>
+        <text>[COLUMN_SHELL_SCRIPT, COLUMN_JOB_DIRECTORY]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExPRy5kZWJ1ZyhmJ0luaXRpYWwgbnVtYmVyIG9mIGpvYnM6IHtuam9iczpkfScpCg==</text>
+        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbTm9uZV0gKiBsZW4oam9iX2RmLmluZGV4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0bGliIGltcG9ydCBzdXBwcmVzcwo=</text>
+        <text encoding="base64">ICAgIGJhc2hfZmlsZSA9IGYne0JBU0hfRklMRU5BTUV9LnNoJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb250ZXh0bGliIGltcG9ydCBzdXBwcmVzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBvbWMzLm9tYzMgaW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGVsbF9zY3JpcHRzLmFwcGVuZChqb2JmaWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBhbGxvdyBvbWMzIHN1YnBhY2thZ2UgaW1wb3J0cwppbXBvcnQgc3lzCmZyb20gb3MucGF0aCBpbXBvcnQgYWJzcGF0aCwgam9pbiwgZGlybmFtZQpvbWMzX3BhdGggPSBhYnNwYXRoKGpvaW4oZGlybmFtZShfX2ZpbGVfXyksICJvbWMzIiwgIm9tYzMiKSkKaWYgb21jM19wYXRoIG5vdCBpbiBzeXMucGF0aDoKICAgIHN5cy5wYXRoLmluc2VydCgwLCBvbWMzX3BhdGgpCmltcG9ydCBvbWMzLm9tYzMK</text>
+        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYXNoX2ZpbGUgPSBmJ3tCQVNIX0ZJTEVOQU1FfS5zaCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -795,7 +802,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwZC5EYXRhRnJhbWUoCiAgICAgICAgICAgIGluZGV4PV9nZW5lcmF0ZV9pbmRleChqb2JpZF9tYXNrLCByZXBsYWNlX2RpY3Qua2V5cygpLCB2YWx1ZXNfZ3JpZCksCiAgICAgICAgICAgIGNvbHVtbnM9bGlzdChyZXBsYWNlX2RpY3Qua2V5cygpKSwKICAgICAgICAgICAgZGF0YT12YWx1ZXNfZ3JpZCksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
