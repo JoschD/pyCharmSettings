@@ -107,6 +107,10 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="75" column="33" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1571070095247">
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="352" column="39" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/tests/inputs/bad_file.tfs" timestamp="1565043107733">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="3" column="0" />
@@ -249,7 +253,7 @@
         <mark key="." line="132" column="21" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="/Python Console" timestamp="1571052410132">
+      <file name="/Python Console" timestamp="1571069953346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1570812160580">
@@ -391,11 +395,11 @@
         <mark key="." line="307" column="34" />
         <mark key="^" line="307" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1571067710244">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="47" column="91" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="12" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1571070117192">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="28" />
+        <mark key="^" line="47" column="28" />
+        <mark key="." line="47" column="28" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/plot_tfs.py" timestamp="1567166151360">
         <mark key="[" line="27" column="1" />
@@ -762,37 +766,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tfs.read_tfs(os.path.join(df[COLUMN_JOB_DIRECTORY], df[OUTPUT_DIR], filename))</text>
+        <text>df</text>
       </register>
       <register name="-" type="4">
-        <text>tfs.read_tfs(os.path.join(df[COLUMN_JOB_DIRECTORY], df[OUTPUT_DIR], filename))</text>
+        <text>df</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QUxJR05FRF9OQU1FID0gImJ7YmVhbTpkfS5jb3JyZWN0ZWQucHRjX2FtcHRkZXQudGZzIgo=</text>
+        <text encoding="base64">ZGVmIGdldF92YWx1ZXNfZnJvbV90ZnModGZzX3BhdGgpOgogICAgZGYgPSB0ZnMucmVhZF90ZnModGZzX3BhdGgpCiAgICBhbmh4MTAwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhYIiBhbmQgJwogICAgICAgICAgICAgICAgICAgICAgICAnT1JERVIxID09IDEgYW5kIE9SREVSMiA9PSAwJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICBhbmh5MDEwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhZIiBhbmQgT1JERVIxID09IDAgYW5kICcKICAgICAgICAgICAgICAgICAgICAgICAgJ09SREVSMiA9PSAxJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICBhbmh4MDEwMCA9IGRmLnF1ZXJ5KCdOQU1FID09ICJBTkhYIiBhbmQgT1JERVIxID09IDAgYW5kICcKICAgICAgICAgICAgICAgICAgICAgICAgJ09SREVSMiA9PSAxJylbIlZBTFVFIl0udmFsdWVzWzBdCiAgICByZXR1cm4gYW5oeDEwMDAsIGFuaHkwMTAwLCBhbmh4MDEwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlZWRzID0gIHNldHVwWydyZXBsYWNlX2RpY3QnXVsiU0VFRCJdCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfdmFsdWVzX2Zyb21fdGZzKHRmc19wYXRoKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5taXNhbGlnbiA9IHNldHVwWydyZXBsYWNlX2RpY3QnXVsiTk1JU0FMSUdOIl1bMF0K</text>
+        <text encoding="base64">ICAgIHNlZWRzID0gIHNldHVwWydyZXBsYWNlX2RpY3QnXVsiU0VFRCJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcmVjdG9yeT1vcy5wYXRoLmpvaW4oQUZTX0RJUiwgIkxIQ19DV0QiKSwKICAgICAgICBtYXNrPW9zLnBhdGguam9pbihNQURYX0RJUiwgJ2pvYi4yMDE4LkxIQy5JUk5MLnNxdWVlemVkLmNvcnJlY3Rvcl9taXNhbGlnbi5tYXNrJyksCiAgICAgICAgcmVwbGFjZV9kaWN0PWRpY3QoCiAgICAgICAgICAgIEJFQU09WzEsIDJdLAogICAgICAgICAgICBTRUVEPXJhbmdlKDEsIDYxKSwKICAgICAgICAgICAgTk1JU0FMSUdOPVs1MF0sCiAgICAgICAgICAgIEVYVEVSTkFMRElSPVtNQUNST19ESVJdCiAgICAgICAgKSwKICAgICAgICBhcHBlbmRfam9icz1GYWxzZSwKICAgICAgICBqb2JpZF9tYXNrPSJiJShCRUFNKXMuc2VlZCUoU0VFRCkwNGQiCg==</text>
+        <text encoding="base64">ICAgIG5taXNhbGlnbiA9IHNldHVwWydyZXBsYWNlX2RpY3QnXVsiTk1JU0FMSUdOIl1bMF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkZgo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcmVjdG9yeT1vcy5wYXRoLmpvaW4oQUZTX0RJUiwgIkxIQ19DV0QiKSwKICAgICAgICBtYXNrPW9zLnBhdGguam9pbihNQURYX0RJUiwgJ2pvYi4yMDE4LkxIQy5JUk5MLnNxdWVlemVkLmNvcnJlY3Rvcl9taXNhbGlnbi5tYXNrJyksCiAgICAgICAgcmVwbGFjZV9kaWN0PWRpY3QoCiAgICAgICAgICAgIEJFQU09WzEsIDJdLAogICAgICAgICAgICBTRUVEPXJhbmdlKDEsIDYxKSwKICAgICAgICAgICAgTk1JU0FMSUdOPVs1MF0sCiAgICAgICAgICAgIEVYVEVSTkFMRElSPVtNQUNST19ESVJdCiAgICAgICAgKSwKICAgICAgICBhcHBlbmRfam9icz1GYWxzZSwKICAgICAgICBqb2JpZF9tYXNrPSJiJShCRUFNKXMuc2VlZCUoU0VFRCkwNGQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZltjb2xdID0gcGQudG9fbnVtZXJpYyhkZltjb2xdLCBlcnJvcnM9J2lnbm9yZScpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2wgaW4gZGYuY29sdW1uczoK</text>
+        <text encoding="base64">ICAgICAgICBkZltjb2xdID0gcGQudG9fbnVtZXJpYyhkZltjb2xdLCBlcnJvcnM9J2lnbm9yZScpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZltjb2xdLmR0eXBlID09IG9iamVjdDoK</text>
+        <text encoding="base64">ICAgIGZvciBjb2wgaW4gZGYuY29sdW1uczoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -811,10 +815,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGR0eXBlcyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZltjb2xdLmR0eXBlID09IG9iamVjdDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExPRy5kZWJ1ZyhmIldyaXRpbmcgYmFzaC1maWxlIHRvIHtvdXRwdXRfZGlyfS4iKQo=</text>
+        <text encoding="base64">ICAgIGR0eXBlcyA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
