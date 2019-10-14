@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/dotdicttest.py" timestamp="1571040742286">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/time_tools.py" timestamp="1568216915335">
         <mark key="[" line="139" column="35" />
         <mark key="]" line="136" column="0" />
@@ -13,6 +16,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="27" column="31" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/generic_parser/tools.py" timestamp="1571040843742">
+        <mark key="[" line="46" column="55" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/.gitignore" timestamp="1565270957526">
         <mark key="[" line="10" column="0" />
@@ -185,7 +191,6 @@
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3/omc3/utils/iotools.py" timestamp="1570796921448">
         <mark key="[" line="18" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/__init__.py" timestamp="1570803136235" />
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOptics.java" timestamp="1562275672602">
         <mark key="[" line="105" column="89" />
         <mark key="]" line="105" column="89" />
@@ -384,7 +389,6 @@
         <mark key="." line="307" column="34" />
         <mark key="^" line="307" column="34" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" timestamp="1570809318380" />
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/plot_tfs.py" timestamp="1567166151360">
         <mark key="[" line="27" column="1" />
       </file>
