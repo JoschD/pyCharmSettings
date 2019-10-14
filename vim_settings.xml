@@ -17,8 +17,10 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/generic_parser/tools.py" timestamp="1571040843742">
-        <mark key="[" line="46" column="55" />
+      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/generic_parser/tools.py" timestamp="1571042835375">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/.gitignore" timestamp="1565270957526">
         <mark key="[" line="10" column="0" />
@@ -768,22 +770,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFyZ3MgPSBqb2JfZGYudG9fY3N2KGluZGV4PUZhbHNlLCBoZWFkZXI9RmFsc2UsIGNvbHVtbnM9W0NPTFVNTl9TSEVMTF9TQ1JJUFQsIENPTFVNTl9KT0JfRElSRUNUT1JZXSkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2dldHN0YXRlX18oc2VsZik6CiAgICAgICAgICAgIHJldHVybiBzZWxmCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgc2VsZi51cGRhdGUoc3RhdGUpCiAgICAgICAgc2VsZi5fX2RpY3RfXyA9IHNlbGYK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbTm9uZV0gKiBsZW4oam9iX2RmLmluZGV4KQo=</text>
+        <text encoding="base64">ICAgIGFyZ3MgPSBqb2JfZGYudG9fY3N2KGluZGV4PUZhbHNlLCBoZWFkZXI9RmFsc2UsIGNvbHVtbnM9W0NPTFVNTl9TSEVMTF9TQ1JJUFQsIENPTFVNTl9KT0JfRElSRUNUT1JZXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2hfZmlsZSA9IGYne0JBU0hfRklMRU5BTUV9LnNoJwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbTm9uZV0gKiBsZW4oam9iX2RmLmluZGV4KQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVsbF9zY3JpcHRzLmFwcGVuZChqb2JmaWxlKQo=</text>
+        <text encoding="base64">ICAgIGJhc2hfZmlsZSA9IGYne0JBU0hfRklMRU5BTUV9LnNoJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -802,10 +804,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNoZWxsX3NjcmlwdHMgPSBbXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNoX2ZpbGUgPSBmJ3tCQVNIX0ZJTEVOQU1FfS5zaCcK</text>
+        <text encoding="base64">ICAgICAgICBzaGVsbF9zY3JpcHRzLmFwcGVuZChqb2JmaWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
