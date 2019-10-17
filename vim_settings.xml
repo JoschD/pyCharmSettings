@@ -237,10 +237,11 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571324368809">
-        <mark key="[" line="182" column="7" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571325925735">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/numpy_handler.py" timestamp="1565108445866">
         <mark key="[" line="1" column="0" />
@@ -514,10 +515,10 @@
         <mark key="." line="38" column="10" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571323022520">
-        <mark key="[" line="45" column="79" />
-        <mark key="]" line="45" column="79" />
-        <mark key="." line="45" column="79" />
-        <mark key="^" line="45" column="79" />
+        <mark key="[" line="46" column="79" />
+        <mark key="]" line="46" column="79" />
+        <mark key="." line="46" column="79" />
+        <mark key="^" line="46" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
@@ -797,34 +798,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>STRENdiwiGTH_COMPONENTS</text>
+        <text>tfs.TfsDataFrame(index=magnets, columns=range(len(l_misalign)))</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmX291dCA9IHRmcy5UZnNEYXRhRnJhbWUoaW5kZXg9ZGYuaW5kZXgsIGNvbHVtbnM9QkVUQV9DT0xTICsgU1RSRU5HVEhfQ09NUE9ORU5UUykK</text>
+        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGhlbHBlci5nZXRfZGlyc19hbmRfYmVhbXMoc2V0dXApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQU5IWDEwMDAgQU5IWTAxMDAgQU5IWDAxMDAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyBDYWxjdWxhdGlvbnMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmcyA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBzIGluIFNUUkVOR1RIX0NPTVBPTkVOVFM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">IyBQbG90dGluZyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZlZWRfZG93bl9tYXAgPSB7CiAgICAgICAgIks0TCI6IGxhbWJkYSB4OiB4LAogICAgICAgICJLNUwiOiBsYW1iZGEgeDogeCAqIGR4LAogICAgICAgICJLNVNMIjogbGFtYmRhIHg6IC14ICogZHksCiAgICAgICAgIks2TCI6IGxhbWJkYSB4OiB4ICogLjUgKiAobnAuc3F1YXJlKGR4KSAtIG5wLnNxdWFyZShkeSkpLAogICAgICAgICJLNlNMIjogbGFtYmRhIHg6IC14ICogZHggKiBkeSwKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWRfZGZzID0ge3M6ICBmb3IgcyBpbiBTVFJFTkdUSF9DT01QT05FTlRTfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -875,7 +876,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZlZWRfZG93bl9tYXAgPSB7CiAgICAgICAgIks0TCI6IGxhbWJkYSB4OiB4LAogICAgICAgICJLNUwiOiBsYW1iZGEgeDogeCAqIGR4LAogICAgICAgICJLNVNMIjogbGFtYmRhIHg6IC14ICogZHksCiAgICAgICAgIks2TCI6IGxhbWJkYSB4OiB4ICogLjUgKiAobnAuc3F1YXJlKGR4KSAtIG5wLnNxdWFyZShkeSkpLAogICAgICAgICJLNlNMIjogbGFtYmRhIHg6IC14ICogZHggKiBkeSwKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQU5IWDEwMDAgQU5IWTAxMDAgQU5IWDAxMDAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
