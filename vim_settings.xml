@@ -33,7 +33,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1571307456484">
+      <file name="/a.dummy" timestamp="1571322097023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -237,10 +237,10 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571316894812">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571324368809">
+        <mark key="[" line="182" column="7" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/numpy_handler.py" timestamp="1565108445866">
         <mark key="[" line="1" column="0" />
@@ -259,7 +259,7 @@
         <mark key="^" line="132" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.fredik_python/read_and_plot_tfs_lhc.py" timestamp="1571154341057" />
-      <file name="/Python Console" timestamp="1571238971809">
+      <file name="/Python Console" timestamp="1571324796052">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1570812160580">
@@ -327,6 +327,9 @@
         <mark key="]" line="8" column="12" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="11" />
+      </file>
+      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/mytest.py" timestamp="1571324884693">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3/omc3/utils/logging_tools.py" timestamp="1567530734666">
         <mark key="[" line="237" column="0" />
@@ -467,11 +470,6 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tfs/handler.py" timestamp="1565363666735">
-        <mark key="[" line="91" column="36" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -515,11 +513,11 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571314046960">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="18" />
-        <mark key="^" line="51" column="48" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571323022520">
+        <mark key="[" line="45" column="79" />
+        <mark key="]" line="45" column="79" />
+        <mark key="." line="45" column="79" />
+        <mark key="^" line="45" column="79" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
@@ -799,34 +797,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Calculate amplitude detuning from feeddown of a5-b6 to b4</text>
+        <text>STRENdiwiGTH_COMPONENTS</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQU5IWDEwMDAgQU5IWTAxMDAgQU5IWDAxMDAKICAgICAgICAgICAgICAgICAg4oaSCiAgICAgICAgTWFnbmV0cyDihpMK</text>
+        <text encoding="base64">ICAgIGRmX291dCA9IHRmcy5UZnNEYXRhRnJhbWUoaW5kZXg9ZGYuaW5kZXgsIGNvbHVtbnM9QkVUQV9DT0xTICsgU1RSRU5HVEhfQ09NUE9ORU5UUykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQU5IWDEwMDAgQU5IWTAxMDAgQU5IWDAxMDAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRmcyA9IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZjogRGF0YWZyYW1lIG9mIHRoZSBmb3JtCiAgICAgICAgICAgICAgICAgQkVUWCBCRVRZIGE1LWI2CiAgICAgICAgICAgICAgICAgIOKGkgogICAgICAgIE1hZ25ldHMg4oaTCgoKICAgIFJldHVybnM6Cg==</text>
+        <text encoding="base64">ICAgIGZvciBzIGluIFNUUkVOR1RIX0NPTVBPTkVOVFM6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgCiAgICBBcmdzOgogICAgICAgIGRmOiBEYXRhZnJhbWUgb2YgdGhlIGZvcm0gCiAgICAgICAgICAgICAgICAgQkVUWCBCRVRZIERYIERZIGE1LWI2CiAgICAgICAgICAgICAgICAgIOKGkgogICAgICAgIE1hZ25ldHMg4oaTCiAgICAgICAgIAoKICAgIFJldHVybnM6CiAgICAgICAgRGF0YWZyYW1lIHdpdGggZmVlZGRvd24gdG8gYjQgb2YgdGhlIGZvcm0KICAgICAgICAgICAgICAgICAgYTUtYjYKICAgICAgICAgICAgICAgICAg4oaSCiAgICAgICAgTWFnbmV0cyDihpMKCiAgICAiIiIK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGdldF9mZWVkZG93bl90b19rNChlcnJvcl9kZiwgZHgsIGR5KToKICAgICIiIiBDYWxjdWxhdGUgZmVlZGRvd24gdG8gazQgZm9yIGFsbCBzdHJlbmd0aHMuCgogICAgQXJnczoKICAgICAgICBlcnJvcl9kZjogRGF0YWZyYW1lIG9mIEs0TCwgSzVMLCBLNVNMLCBLNkwsIEs2U0wgZXJyb3JzIGZvciBlYWNoIGVsZW1lbnQKICAgICAgICBkeDogTWlzYWxpZ25tZW50cyBpbiB4IChNQURYIGRlZmluaXRpb24pIGZvciBlYWNoIGVsZW1lbnQKICAgICAgICBkeTogTWlzYWxpZ25tZW50cyBpbiB5IChNQURYIGRlZmluaXRpb24pIGZvciBlYWNoIGVsZW1lbnQKCiAgICBSZXR1cm5zOgogICAgICAgIGs0IHZhbHVlcyBmcm9tIGZlZWQtZG93biBmb3IgZWFjaCBlbGVtZW50LgoKICAgICIiIgogICAgZmVlZF9kb3duX21hcCA9IHsKICAgICAgICAiSzRMIjogbGFtYmRhIHg6IHgsCiAgICAgICAgIks1TCI6IGxhbWJkYSB4OiB4ICogZHgsCiAgICAgICAgIks1U0wiOiBsYW1iZGEgeDogLXggKiBkeSwKICAgICAgICAiSzZMIjogbGFtYmRhIHg6IHggKiAuNSAqIChucC5zcXVhcmUoZHgpIC0gbnAuc3F1YXJlKGR5KSksCiAgICAgICAgIks2U0wiOiBsYW1iZGEgeDogLXggKiBkeCAqIGR5LAogICAgfQogICAgZGZfb3V0ID0gdGZzLlRmc0RhdGFGcmFtZSgpCiAgICBmb3Igc3RyZW5ndGgsIGZ1bmMgaW4gZmVlZF9kb3duX21hcC5pdGVtcygpOgogICAgICAgIGRmX291dFtzdHJlbmd0aF0gPSBmdW5jKGVycm9yX2RmW3N0cmVuZ3RoXSkKICAgIHJldHVybiBkZl9vdXQK</text>
+        <text encoding="base64">ICAgIGZlZWRfZG93bl9tYXAgPSB7CiAgICAgICAgIks0TCI6IGxhbWJkYSB4OiB4LAogICAgICAgICJLNUwiOiBsYW1iZGEgeDogeCAqIGR4LAogICAgICAgICJLNVNMIjogbGFtYmRhIHg6IC14ICogZHksCiAgICAgICAgIks2TCI6IGxhbWJkYSB4OiB4ICogLjUgKiAobnAuc3F1YXJlKGR4KSAtIG5wLnNxdWFyZShkeSkpLAogICAgICAgICJLNlNMIjogbGFtYmRhIHg6IC14ICogZHggKiBkeSwKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -874,10 +872,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZnMucmVhZF90ZnMob3MucGF0aC5qb2luKGZvbGRlciwgaGVscGVyLk1JU0FMSUdORURfVFdJU1MuZm9ybWF0KGJlYW09YmVhbSwgaWQ9aWR4KSksIGluZGV4PWhlbHBlci5DT0xfTkFNRSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJFVEFfQ09MUyA9IFsiQkVUWCIsICJCRVRZIl0KICAgIE1JU0FMSUdOX0NPTFMgPSBbIkRYIiwgIkRZIl0K</text>
+        <text encoding="base64">ICAgIGZlZWRfZG93bl9tYXAgPSB7CiAgICAgICAgIks0TCI6IGxhbWJkYSB4OiB4LAogICAgICAgICJLNUwiOiBsYW1iZGEgeDogeCAqIGR4LAogICAgICAgICJLNVNMIjogbGFtYmRhIHg6IC14ICogZHksCiAgICAgICAgIks2TCI6IGxhbWJkYSB4OiB4ICogLjUgKiAobnAuc3F1YXJlKGR4KSAtIG5wLnNxdWFyZShkeSkpLAogICAgICAgICJLNlNMIjogbGFtYmRhIHg6IC14ICogZHggKiBkeSwKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
