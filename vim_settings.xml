@@ -237,11 +237,11 @@
         <mark key="]" line="16" column="27" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571325925735">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="12" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571330565514">
+        <mark key="[" line="66" column="16" />
+        <mark key="]" line="66" column="16" />
+        <mark key="." line="66" column="16" />
+        <mark key="^" line="65" column="39" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/numpy_handler.py" timestamp="1565108445866">
         <mark key="[" line="1" column="0" />
@@ -260,7 +260,7 @@
         <mark key="^" line="132" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.fredik_python/read_and_plot_tfs_lhc.py" timestamp="1571154341057" />
-      <file name="/Python Console" timestamp="1571324796052">
+      <file name="/Python Console" timestamp="1571329781246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1570812160580">
@@ -514,11 +514,11 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571323022520">
-        <mark key="[" line="46" column="79" />
-        <mark key="]" line="46" column="79" />
-        <mark key="." line="46" column="79" />
-        <mark key="^" line="46" column="79" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571329348548">
+        <mark key="[" line="75" column="100" />
+        <mark key="]" line="75" column="100" />
+        <mark key="." line="75" column="100" />
+        <mark key="^" line="75" column="105" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
@@ -651,10 +651,10 @@
         <mark key="]" line="224" column="8" />
         <mark key="." line="224" column="8" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/simple_analysis.py" timestamp="1571312608035">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="46" />
-        <mark key="^" line="27" column="16" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/simple_analysis.py" timestamp="1571328222574">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/conf.py" timestamp="1569592869767">
         <mark key="[" line="27" column="44" />
@@ -794,38 +794,38 @@
       <jump line="106" column="13" filename="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>tfs.TfsDataFrame(index=magnets, columns=range(len(l_misalign)))</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGhlbHBlci5nZXRfZGlyc19hbmRfYmVhbXMoc2V0dXApCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaWR4X2FkLCAoYXgsIGFkX3BhcmFtKSBpbiBlbnVtZXJhdGUoemlwKGF4cywgQURfQ09MVU1OUykpOgogICAgICAgICAgICBmb3IgaWR4X3N0cmVuZ3RoLCBzdHJlbmd0aCBpbiBlbnVtZXJhdGUoU1RSRU5HVEhfQ09NUE9ORU5UUyk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYWRfcGFyYW0pIGluIEFEX0NPTFVNTlM6CiAgICAgICAgICAgIGZvciBzdHJlbmd0aCBpbiBTUkVOR1RIX0NPTVBPTkVOVFM6CiAgICAgICAgICAgICAgICBkYXRhID0gX2dldF9wbG90X2RhdGEoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgsIGlwcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGNvbG9ycy5nZXRfbXBsX2NvbG9yKHN0cmVuZ3RoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBDYWxjdWxhdGlvbnMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlkeF9zdHJlbmd0aCA9PSAwOgogICAgICAgICAgICAgICAgICAgIHNfc3VtID0gZGF0YQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzX3N1bSArPSBkYXRhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWcsIGF4cyA9IHBsdC5zdWJwbG90cyhsZW4oQURfQ09MVU1OUyksIDEsIGNvbnN0cmFpbmVkX2xheW91dD1GYWxzZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGNvbG9ycy5nZXRfbXBsX2NvbG9yKHN0cmVuZ3RoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBQbG90dGluZyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19zdW0gPSBOb25lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWRfZGZzID0ge3M6ICBmb3IgcyBpbiBTVFJFTkdUSF9DT01QT05FTlRTfQo=</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5wYXRoLmpvaW4ob3V0LCBBRF9NSVNBTElHTk1FTlRTX05BTUUuZm9ybWF0KGJlYW09YmVhbSwgYWQ9YWRfcGFyYW0sIGNvbXBvbmVudD1zdHJlbmd0aCkpCiAgICB0ZnMucmVhZChwYXRoLCApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -873,10 +873,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gdGZzLnJlYWQoZ2V0X2FkX21pc2FsaWdubWVudF9vdXRwdXRfbmFtZShvdXQsIGJlYW0sIGFkX3BhcmFtLCBzdHJlbmd0aCksIGluZGV4PUNPTF9OQU1FKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQU5IWDEwMDAgQU5IWTAxMDAgQU5IWDAxMDAK</text>
+        <text encoding="base64">ZGVmIF9nZXRfdGZzX2Zvcl9hZF9hbmRfc3RyZW5ndGgoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgpOgogICAgcGF0aCA9IG9zLnBhdGguam9pbihvdXQsIEFEX01JU0FMSUdOTUVOVFNfTkFNRS5mb3JtYXQoYmVhbT1iZWFtLCBhZD1hZF9wYXJhbSwgY29tcG9uZW50PXN0cmVuZ3RoKSkKICAgIHRmcy5yZWFkKHBhdGgsICkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
