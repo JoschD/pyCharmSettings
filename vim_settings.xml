@@ -6,26 +6,11 @@
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/dotdicttest.py" timestamp="1571040742286">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/time_tools.py" timestamp="1568216915335">
-        <mark key="[" line="139" column="35" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/doc/conf.py" timestamp="1565285324186">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="^" line="27" column="31" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/anaconda3/lib/python3.7/site-packages/generic_parser/tools.py" timestamp="1571042835375">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/.gitignore" timestamp="1565270957526">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/plot_tfs.py" timestamp="1567154297870">
         <mark key="[" line="43" column="13" />
@@ -33,23 +18,13 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1571322097023">
+      <file name="/a.dummy" timestamp="1571400786046">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/.gitignore" timestamp="1562838440514">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/.bumpversion.cfg" timestamp="1565263125312">
         <mark key="[" line="7" column="20" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/formats.py" timestamp="1567093049095">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/collections.py" timestamp="1564592370369">
         <mark key="[" line="0" column="0" />
@@ -72,31 +47,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="32" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plot_tfs.py" timestamp="1568899290989">
-        <mark key="[" line="345" column="57" />
-        <mark key="]" line="347" column="0" />
-        <mark key="." line="347" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plot_bbq.py" timestamp="1568900207049">
-        <mark key="[" line="10" column="49" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/utils/diff_tools.py" timestamp="1567073958817">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/diff_files.py" timestamp="1567082394853">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
         <mark key="^" line="16" column="8" />
         <mark key="." line="16" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/ptc_handler.py" timestamp="1565268275852">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/doc/conf.py" timestamp="1565285837738">
         <mark key="[" line="27" column="44" />
@@ -111,21 +66,11 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="57" column="24" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/inputs/bad_file.tfs" timestamp="1565043107733">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1568307821937">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="139" column="45" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="134" column="17" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/plotshop/annotations.py" timestamp="1568389516305">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3_context.py" timestamp="1570805341208">
         <mark key="[" line="4" column="19" />
@@ -135,16 +80,6 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="13" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/amplitude_detuning_analysis.py" timestamp="1568899609306">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/utils/logging_tools.py" timestamp="1568894687755">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/.local_gitignore" timestamp="1570805981766">
         <mark key="[" line="0" column="0" />
@@ -161,11 +96,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entry_datatypes.py" timestamp="1565264057308">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3312.HLLHCDA/code.machine_settings/get_machine_settings.py" timestamp="1569933616847">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="26" column="46" />
@@ -178,29 +108,14 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/dict_tools.py" timestamp="1565261651596">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/GetLLM/plot_export.py" timestamp="1569501230309">
         <mark key="[" line="479" column="41" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/CHANGELOG.md" timestamp="1565280705163">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="4" column="56" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/" timestamp="1571316268168">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/omc3/omc3/utils/iotools.py" timestamp="1570796921448">
         <mark key="[" line="18" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOptics.java" timestamp="1562275672602">
-        <mark key="[" line="105" column="89" />
-        <mark key="]" line="105" column="89" />
-        <mark key="." line="105" column="89" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/.local_gitignore" timestamp="1567073261755">
         <mark key="[" line="1" column="0" />
@@ -232,26 +147,11 @@
         <mark key="^" line="593" column="61" />
         <mark key="." line="416" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tune_analysis/bbq_tools.py" timestamp="1568883075470">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/extended_analysis.py" timestamp="1571330565514">
         <mark key="[" line="66" column="16" />
         <mark key="]" line="66" column="16" />
         <mark key="." line="66" column="16" />
         <mark key="^" line="65" column="39" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/numpy_handler.py" timestamp="1565108445866">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plot_amplitude_detuning_results.py" timestamp="1568895670076">
-        <mark key="[" line="84" column="34" />
-        <mark key="]" line="42" column="5" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/annotations.py" timestamp="1568899513587">
         <mark key="[" line="132" column="26" />
@@ -263,26 +163,6 @@
       <file name="/Python Console" timestamp="1571329781246">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1570812160580">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/doc/index.rst" timestamp="1565285398077">
-        <mark key="[" line="0" column="43" />
-        <mark key="]" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/__init__.py" timestamp="1564673095548">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/tests/context.py" timestamp="1565277264905">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1565277750447">
         <mark key="[" line="12" column="5" />
         <mark key="]" line="12" column="9" />
@@ -291,11 +171,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/global.py" timestamp="1567007825437">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/manager.py" timestamp="1564578969772">
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="94" column="39" />
-        <mark key="." line="93" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/README.md" timestamp="1567155789746">
         <mark key="[" line="58" column="245" />
@@ -311,11 +186,6 @@
         <mark key="]" line="2" column="32" />
         <mark key="." line="1" column="3" />
         <mark key="^" line="1" column="3" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/writer.py" timestamp="1565280486619">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/plot_amplitude_detuning_results.py" timestamp="1568888984716">
         <mark key="[" line="92" column="0" />
@@ -351,25 +221,11 @@
       <file name="/media/jdilly/Storage/Repositories/generic_parser/tests/test_dict_tools.py" timestamp="1565261580073">
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tune_analysis/kickac_modifiers.py" timestamp="1568898263892">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/RDTNode.java" timestamp="1562276438212">
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/datahandler/OpticsFileHandler.java" timestamp="1562276973393">
-        <mark key="[" line="62" column="54" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/kick.py" timestamp="1565012197387">
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/advanced_analysis.py" timestamp="1571400851479">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="25" column="61" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -394,11 +250,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/tfs/setup.py" timestamp="1564672803927">
         <mark key="[" line="12" column="15" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/__init__.py" timestamp="1565276521841">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="2" column="5" />
-        <mark key="." line="2" column="5" />
       </file>
       <file name="/media/jdilly/Storage/Projects/PRES.19.OP-Workshop/code.correction_comparison/plot_magnet_strengths.py" timestamp="1569262006202">
         <mark key="[" line="296" column="131" />
@@ -430,11 +281,6 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/plotshop/style.py" timestamp="1568389676827">
         <mark key="[" line="1" column="4" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/lsa.py" timestamp="1569924519545">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="11" />
-        <mark key="." line="1" column="11" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_harpy.py" timestamp="1564737523397">
         <mark key="[" line="28" column="96" />
       </file>
@@ -447,46 +293,11 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/harpy/constants.py" timestamp="1564512530195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/setup.py" timestamp="1565274926169">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/requirements.txt" timestamp="1565264138139">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/utils/index.rst" timestamp="1569592688188">
         <mark key="[" line="3" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/tfs_definitions.py" timestamp="1564651313471">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_dict_tools.py" timestamp="1571227028305" />
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tfs/collection.py" timestamp="1567008031739">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/CategoryNode.java" timestamp="1562276497981">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/tmp.py" timestamp="1567080747621">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/madx_submitter.py" timestamp="1571236629022" />
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/lines.py" timestamp="1567158574244">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/segment_by_segment/sbs_propagables.py" timestamp="1568984964645">
         <mark key="[" line="320" column="21" />
       </file>
@@ -514,24 +325,13 @@
         <mark key="^" line="38" column="10" />
         <mark key="." line="38" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571329348548">
-        <mark key="[" line="75" column="100" />
-        <mark key="]" line="75" column="100" />
-        <mark key="." line="75" column="100" />
-        <mark key="^" line="75" column="105" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571400779781">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tune_analysis/detuning_tools.py" timestamp="1568902869848">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/udillyties/LHC_parameters.py" timestamp="1568021826908">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/.bumpversion.cfg" timestamp="1565280564686">
         <mark key="[" line="3" column="9" />
@@ -541,11 +341,6 @@
         <mark key="]" line="15" column="20" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="15" column="16" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/tests/unit/test_opticsmeasurements_toolbox.py" timestamp="1568303652329">
-        <mark key="[" line="77" column="4" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/doc/index.rst" timestamp="1565285843917">
         <mark key="[" line="5" column="18" />
@@ -565,11 +360,6 @@
       <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entrypoint_parser.py" timestamp="1570788097220">
         <mark key="[" line="137" column="5" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/OpticsParameter.java" timestamp="1562273750715">
-        <mark key="[" line="63" column="26" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/plotshop/lines.py" timestamp="1568389539163">
         <mark key="[" line="8" column="0" />
       </file>
@@ -588,48 +378,8 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/myJavaTests/src/Main.java" timestamp="1562321986424">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/NodeInterface.java" timestamp="1562258398478">
-        <mark key="[" line="11" column="89" />
-        <mark key="]" line="12" column="68" />
-        <mark key="." line="12" column="68" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/context.py" timestamp="1565278142359">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/requirements.txt" timestamp="1571144244635">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/mainWindow/opticsPanel/opticsDataTree/ColumnLeaf.java" timestamp="1562273353130">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/model/dataviewerr/OpticsDataSetDefinition.java" timestamp="1562319987027">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/index.rst" timestamp="1569588870202">
         <mark key="[" line="16" column="14" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/optics_measurements/constants.py" timestamp="1565012330191">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="27" column="24" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/tfs_definition.py" timestamp="1565016027266">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="166" column="98" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_fixed_dataframe.py" timestamp="1565278243698">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/esrf.py" timestamp="1564506404979">
         <mark key="[" line="9" column="20" />
@@ -646,11 +396,6 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/correction/getdiff.py" timestamp="1569230245632">
-        <mark key="[" line="203" column="40" />
-        <mark key="]" line="224" column="8" />
-        <mark key="." line="224" column="8" />
-      </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/simple_analysis.py" timestamp="1571328222574">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
@@ -658,16 +403,6 @@
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/conf.py" timestamp="1569592869767">
         <mark key="[" line="27" column="44" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/sdds/sdds/reader.py" timestamp="1565280490529">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="5" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/entrypoint.py" timestamp="1565264269208">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/scripts/extract_onlinemodel.py" timestamp="1569934226958">
         <mark key="[" line="77" column="19" />
@@ -681,32 +416,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_collection.py" timestamp="1565278191754">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/tests/unit/test_optics_class.py" timestamp="1571141821031" />
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/weird_emittance.py" timestamp="1568216655853">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/style.py" timestamp="1568898926140">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/generic_parser/test.py" timestamp="1565264736393">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/tfs/doc/index.rst" timestamp="1565286017505">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/data_extract/index.rst" timestamp="1569592643537">
         <mark key="[" line="3" column="17" />
@@ -725,23 +440,8 @@
       <file name="/Dummy.txt" timestamp="1569940979601">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/plotshop/post_processing.py" timestamp="1568825521151">
-        <mark key="[" line="69" column="22" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/requirements.txt" timestamp="1565277852017">
         <mark key="[" line="5" column="12" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/definitions/global_definitions.py" timestamp="1565007892029">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/doc/tbt/index.rst" timestamp="1565108709903">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/manual_feeddown.py" timestamp="1571242333424">
         <mark key="[" line="148" column="0" />
@@ -759,11 +459,6 @@
         <mark key="[" line="0" column="55" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1571226967155" />
-      <file name="/media/jdilly/Storage/Repositories/tfs/tests/test_handler.py" timestamp="1565278214315">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="5" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/lhc_handler.py" timestamp="1565108480576">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -794,8 +489,8 @@
       <jump line="106" column="13" filename="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCkK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -804,28 +499,28 @@
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaWR4X2FkLCAoYXgsIGFkX3BhcmFtKSBpbiBlbnVtZXJhdGUoemlwKGF4cywgQURfQ09MVU1OUykpOgogICAgICAgICAgICBmb3IgaWR4X3N0cmVuZ3RoLCBzdHJlbmd0aCBpbiBlbnVtZXJhdGUoU1RSRU5HVEhfQ09NUE9ORU5UUyk6Cg==</text>
+        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCwgaWQ9QURWQU5DRURfSUQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWRfcGFyYW0pIGluIEFEX0NPTFVNTlM6CiAgICAgICAgICAgIGZvciBzdHJlbmd0aCBpbiBTUkVOR1RIX0NPTVBPTkVOVFM6CiAgICAgICAgICAgICAgICBkYXRhID0gX2dldF9wbG90X2RhdGEoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgsIGlwcykK</text>
+        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGNvbG9ycy5nZXRfbXBsX2NvbG9yKHN0cmVuZ3RoKQo=</text>
+        <text encoding="base64">T1VUUFVUX0FEVkFOQ0VEID0gIk91dHB1dGRhdGFBZHZhbmNlZCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlkeF9zdHJlbmd0aCA9PSAwOgogICAgICAgICAgICAgICAgICAgIHNfc3VtID0gZGF0YQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzX3N1bSArPSBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYWRfcGFyYW0pIGluIEFEX0NPTFVNTlM6CiAgICAgICAgICAgIGZvciBzdHJlbmd0aCBpbiBTUkVOR1RIX0NPTVBPTkVOVFM6CiAgICAgICAgICAgICAgICBkYXRhID0gX2dldF9wbG90X2RhdGEoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgsIGlwcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWcsIGF4cyA9IHBsdC5zdWJwbG90cyhsZW4oQURfQ09MVU1OUyksIDEsIGNvbnN0cmFpbmVkX2xheW91dD1GYWxzZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGNvbG9ycy5nZXRfbXBsX2NvbG9yKHN0cmVuZ3RoKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGlkeF9zdHJlbmd0aCA9PSAwOgogICAgICAgICAgICAgICAgICAgIHNfc3VtID0gZGF0YQogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBzX3N1bSArPSBkYXRhCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc19zdW0gPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWcsIGF4cyA9IHBsdC5zdWJwbG90cyhsZW4oQURfQ09MVU1OUyksIDEsIGNvbnN0cmFpbmVkX2xheW91dD1GYWxzZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhdGggPSBvcy5wYXRoLmpvaW4ob3V0LCBBRF9NSVNBTElHTk1FTlRTX05BTUUuZm9ybWF0KGJlYW09YmVhbSwgYWQ9YWRfcGFyYW0sIGNvbXBvbmVudD1zdHJlbmd0aCkpCiAgICB0ZnMucmVhZChwYXRoLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yID0gcGNvbG9ycy5nZXRfbXBsX2NvbG9yKHN0cmVuZ3RoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -873,10 +568,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gdGZzLnJlYWQoZ2V0X2FkX21pc2FsaWdubWVudF9vdXRwdXRfbmFtZShvdXQsIGJlYW0sIGFkX3BhcmFtLCBzdHJlbmd0aCksIGluZGV4PUNPTF9OQU1FKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19zdW0gPSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIF9nZXRfdGZzX2Zvcl9hZF9hbmRfc3RyZW5ndGgoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgpOgogICAgcGF0aCA9IG9zLnBhdGguam9pbihvdXQsIEFEX01JU0FMSUdOTUVOVFNfTkFNRS5mb3JtYXQoYmVhbT1iZWFtLCBhZD1hZF9wYXJhbSwgY29tcG9uZW50PXN0cmVuZ3RoKSkKICAgIHRmcy5yZWFkKHBhdGgsICkK</text>
+        <text encoding="base64">ICAgIHBhdGggPSBvcy5wYXRoLmpvaW4ob3V0LCBBRF9NSVNBTElHTk1FTlRTX05BTUUuZm9ybWF0KGJlYW09YmVhbSwgYWQ9YWRfcGFyYW0sIGNvbXBvbmVudD1zdHJlbmd0aCkpCiAgICB0ZnMucmVhZChwYXRoLCApCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
