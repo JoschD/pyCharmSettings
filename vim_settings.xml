@@ -324,11 +324,10 @@
         <mark key="^" line="39" column="10" />
         <mark key="." line="39" column="10" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571406590111">
-        <mark key="[" line="116" column="27" />
-        <mark key="]" line="128" column="23" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="121" column="25" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571409905931">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
@@ -490,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gayAgICBkCg==</text>
       </register>
       <register name="-" type="4">
         <text>STRENGTH_COMPONENTS</text>
@@ -502,7 +501,7 @@
         <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCwgaWQ9QURWQU5DRURfSUQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gayAgICBkCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -511,16 +510,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF91cGRhdGVfcmFuZ2UocmFuZ2UsIGRmKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pID0gZGYubWluKCkubWluKCkKICAgICAgICBtYXhpID0gZGYubWF4KCkubWF4KCkKICAgICAgICBpZiByYW5nZVswXSBpcyBOb25lIG9yIHJhbmdlWzBdID4gbWluaToKICAgICAgICAgICAgcmFuZ2VbMF0gPSBtaW5pCiAgICAgICAgaWYgcmFuZ2VbMV0gaXMgTm9uZSBvciByYW5nZVsxXSA8IG1heGk6CiAgICAgICAgICAgIHJhbmdlWzFdID0gbWF4aQo=</text>
+        <text encoding="base64">ZGVmIF91cGRhdGVfcmFuZ2UocmFuZ2UsIGRmKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZGRmID0gZGYqMWUtMioxZS0zCg==</text>
+        <text encoding="base64">ICAgICAgICBtaW5pID0gZGYubWluKCkubWluKCkKICAgICAgICBtYXhpID0gZGYubWF4KCkubWF4KCkKICAgICAgICBpZiByYW5nZVswXSBpcyBOb25lIG9yIHJhbmdlWzBdID4gbWluaToKICAgICAgICAgICAgcmFuZ2VbMF0gPSBtaW5pCiAgICAgICAgaWYgcmFuZ2VbMV0gaXMgTm9uZSBvciByYW5nZVsxXSA8IG1heGk6CiAgICAgICAgICAgIHJhbmdlWzFdID0gbWF4aQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCkK</text>
+        <text encoding="base64">ICAgICMgZGRmID0gZGYqMWUtMioxZS0zCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -568,10 +567,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">T1VUUFVUX0FEVkFOQ0VEID0gIk91dHB1dGRhdGFBZHZhbmNlZCIK</text>
+        <text encoding="base64">ICAgIGN3ZCwgb3V0LCBiZWFtcyA9IGdldF9kaXJzX2FuZF9iZWFtcyhzZXR1cCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYWRfcGFyYW0pIGluIEFEX0NPTFVNTlM6CiAgICAgICAgICAgIGZvciBzdHJlbmd0aCBpbiBTUkVOR1RIX0NPTVBPTkVOVFM6CiAgICAgICAgICAgICAgICBkYXRhID0gX2dldF9wbG90X2RhdGEoYmVhbSwgb3V0LCBhZF9wYXJhbSwgc3RyZW5ndGgsIGlwcykK</text>
+        <text encoding="base64">T1VUUFVUX0FEVkFOQ0VEID0gIk91dHB1dGRhdGFBZHZhbmNlZCIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
