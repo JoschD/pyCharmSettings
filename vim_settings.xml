@@ -62,10 +62,6 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="75" column="33" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/Beta-Beat.src/udillyties/madx_runners/irnl18_triplet_correction_evaluate_ampdet.py" timestamp="1571146095299">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="57" column="24" />
-      </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1568307821937">
         <mark key="[" line="137" column="0" />
         <mark key="]" line="139" column="45" />
@@ -129,6 +125,7 @@
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/plotshop/post_processing.py" timestamp="1568389546834">
         <mark key="[" line="1" column="6" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/handler.py" timestamp="1571671422584" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/model/accelerators/accelerator.py" timestamp="1565009553798">
         <mark key="[" line="31" column="20" />
         <mark key="]" line="31" column="0" />
@@ -452,14 +449,15 @@
       <file name="/media/jdilly/Storage/Repositories/sdds/requirements.txt" timestamp="1565277852017">
         <mark key="[" line="5" column="12" />
       </file>
+      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt_converter.py" timestamp="1571671539755">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="/media/jdilly/Storage/Projects/NOTE.18.MD3311.Amplitude_Detuning/code.data_evaluation/manual_feeddown.py" timestamp="1571242333424">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="197" column="17" />
         <mark key="." line="155" column="0" />
-      </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/madx_wrapper.py" timestamp="1571236618771">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="106" column="57" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/.local_gitignore" timestamp="1564681675055">
         <mark key="[" line="0" column="0" />
@@ -467,7 +465,6 @@
       <file name="/media/jdilly/Storage/Repositories/generic_parser/generic_parser/mytest.py" timestamp="1565264455780">
         <mark key="[" line="0" column="55" />
       </file>
-      <file name="/media/jdilly/Storage/Repositories/omc3/omc3/hole_in_one.py" timestamp="1571226967155" />
       <file name="/media/jdilly/Storage/Repositories/omc3/omc3/tbt/lhc_handler.py" timestamp="1565108480576">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -498,8 +495,8 @@
       <jump line="106" column="13" filename="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/create_data.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data_ad[strength_comp] * MULTIPLYER_MAP[VALUE_ID]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIG5vaXNlX3N1ZmZpeCA9IGYiX257bn0iIGlmIGxlbihvcHQubm9pc2VfdG9fYWRkKSA+IDEgZWxzZSAiIgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -521,25 +518,25 @@
         <text encoding="base64">ZGVmIF9nZXRfZGF0YV9pbmZvX3N0cmluZyhkYXRhLCBiZWFtLCBpZCk6CiAgICBpZiBpZCA9PSBSRUxBVElWRV9JRDoKICAgICAgICByZXR1cm4gZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAke1VOSVRfTUFQW2lkXX0kIgogICAgcmV0dXJuIGZyIkJlYW0ge2JlYW06ZH06ICh7ZGF0YS5tZWFuKCk6LjJmfSAkXHBtJCB7ZGF0YS5zdGQoKTouMmZ9KSAkXGNkb3Qge1VOSVRfTUFQW2lkXX0kIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAke1VOSVRfTUFQW2lkXX0kIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5vaXNlX3N1ZmZpeCA9IGYiX257bn0iIGlmIGxlbihvcHQubm9pc2VfdG9fYWRkKSA+IDEgZWxzZSAiIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIGlkID09IFJFTEFUSVZFX0lEOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAke1VOSVRfTUFQW2lkXX0kIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfTogKHtkYXRhLm1lYW4oKTouMmZ9ICRccG0kIHtkYXRhLnN0ZCgpOi4yZn0pICRcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
+        <text encoding="base64">ICAgIGlmIGlkID09IFJFTEFUSVZFX0lEOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfTogKHtkYXRhLm1lYW4oKTouMmZ9ICRccG0kIHtkYXRhLnN0ZCgpOi4yZn0pICRcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmciJCZWFtIHtiZWFtOmR9OiB7ZGF0YS5tZWFuKCk6LjJmfSAkXHBtJCB7ZGF0YS5zdGQoKTouMmZ9ICRcLCBcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAkXCwgXGNkb3Qge1VOSVRfTUFQW2lkXX0kIiwK</text>
+        <text encoding="base64">ICAgICAgICBmciJCZWFtIHtiZWFtOmR9OiB7ZGF0YS5tZWFuKCk6LjJmfSAkXHBtJCB7ZGF0YS5zdGQoKTouMmZ9ICRcLCBcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -554,10 +551,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAkXCwgXGNkb3Qge1VOSVRfTUFQW2lkXX0kIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VElUTEVfTUFQID0gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
