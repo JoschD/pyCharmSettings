@@ -18,7 +18,7 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="43" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1571400786046">
+      <file name="/a.dummy" timestamp="1571666605701">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -160,7 +160,7 @@
         <mark key="^" line="132" column="21" />
       </file>
       <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.fredik_python/read_and_plot_tfs_lhc.py" timestamp="1571154341057" />
-      <file name="/Python Console" timestamp="1571663812763">
+      <file name="/Python Console" timestamp="1571668321924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/sdds/tests/test_sdds.py" timestamp="1565277750447">
@@ -221,11 +221,11 @@
       <file name="/media/jdilly/Storage/Repositories/generic_parser/tests/test_dict_tools.py" timestamp="1565261580073">
         <mark key="[" line="4" column="11" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/advanced_analysis.py" timestamp="1571663889548">
-        <mark key="[" line="262" column="78" />
-        <mark key="]" line="262" column="79" />
-        <mark key="." line="262" column="65" />
-        <mark key="^" line="262" column="64" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/advanced_analysis.py" timestamp="1571668419464">
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="48" column="77" />
+        <mark key="." line="48" column="28" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/view/mainWindow/opticsPanel/TabOpticsCharts.java" timestamp="1562275645036">
         <mark key="[" line="220" column="101" />
@@ -319,16 +319,17 @@
       <file name="/media/jdilly/Storage/Repositories/Java-Repos/lhc-app-beta-beating/src/java/cern/lhc/betabeating/main/MyJavaTest.java" timestamp="1562321846993">
         <mark key="[" line="2" column="25" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/main.py" timestamp="1571410743089">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/main.py" timestamp="1571668206514">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="42" column="31" />
         <mark key="^" line="26" column="20" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571409905931">
-        <mark key="[" line="72" column="15" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/helper.py" timestamp="1571666551762">
+        <mark key="[" line="148" column="11" />
+        <mark key="]" line="147" column="20" />
+        <mark key="." line="147" column="20" />
+        <mark key="^" line="144" column="20" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/omc3/tests/accuracy/test_measure_optics.py" timestamp="1568304497386">
         <mark key="[" line="15" column="49" />
@@ -396,10 +397,11 @@
         <mark key="^" line="3" column="31" />
         <mark key="." line="3" column="16" />
       </file>
-      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/simple_analysis.py" timestamp="1571406545187">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="/media/jdilly/Storage/Projects/STUDY.19.Corrector_Misalignment/code.misalignment/simple_analysis.py" timestamp="1571667350930">
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="161" column="95" />
+        <mark key="." line="135" column="22" />
+        <mark key="^" line="135" column="22" />
       </file>
       <file name="/media/jdilly/Storage/Repositories/pylhc/doc/conf.py" timestamp="1569592869767">
         <mark key="[" line="27" column="44" />
@@ -497,7 +499,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index=magnets,</text>
+        <text>data_ad[strength_comp] * MULTIPLYER_MAP[VALUE_ID]</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -510,34 +512,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>index=magnets,</text>
+        <text>data_ad[strength_comp] * MULTIPLYER_MAP[VALUE_ID]</text>
       </register>
       <register name="/" type="4">
         <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RVhFQ1VURUFCTEVQQVRIID0geydtYWR4JzogJy9hZnMvY2Vybi5jaC91c2VyL20vbWFkL2Jpbi9tYWR4JywKICAgICAgICAgICAgICAgICAgICdweXRob24zJzogJy9hZnMvY2Vybi5jaC9lbmcvc2wvbGludHJhY2svYW5hY29uZGEzL2Jpbi9weXRob24nLAogICAgICAgICAgICAgICAgICAgJ3B5dGhvbjInOiAnL2Fmcy9jZXJuLmNoL2VuZy9zbC9saW50cmFjay9taW5pY29uZGEyL2Jpbi9weXRob24nLAogICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZGVmIF9nZXRfZGF0YV9pbmZvX3N0cmluZyhkYXRhLCBiZWFtLCBpZCk6CiAgICBpZiBpZCA9PSBSRUxBVElWRV9JRDoKICAgICAgICByZXR1cm4gZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAke1VOSVRfTUFQW2lkXX0kIgogICAgcmV0dXJuIGZyIkJlYW0ge2JlYW06ZH06ICh7ZGF0YS5tZWFuKCk6LjJmfSAkXHBtJCB7ZGF0YS5zdGQoKTouMmZ9KSAkXGNkb3Qge1VOSVRfTUFQW2lkXX0kIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAke1VOSVRfTUFQW2lkXX0kIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIGlmIGlkID09IFJFTEFUSVZFX0lEOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfTogKHtkYXRhLm1lYW4oKTouMmZ9ICRccG0kIHtkYXRhLnN0ZCgpOi4yZn0pICRcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVua25vd25fb3B0aW9ucyA9IFtrIG5vdCBpbiBodGNfbWFwIGZvciBrIGluIGFkZF9kaWN0XQogICAgaWYgYW55KHVua25vd25fb3B0aW9ucyk6CiAgICAgICAgcmFpc2UgVmFsdWVFcnJvcihmIlVua25vd24gb3B0aW9ucyAne3N0cih1bmtub3duX29wdGlvbnMpLnN0cmlwKCdbXScpfSciKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgJ3ByaW9yaXR5JzogKCdwcmlvcml0eScsIE5vbmUsIE5vbmUpLAo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0VFRD1yYW5nZSgxLCA2MSksCg==</text>
+        <text encoding="base64">ICAgICAgICBmciJCZWFtIHtiZWFtOmR9OiB7ZGF0YS5tZWFuKCk6LjJmfSAkXHBtJCB7ZGF0YS5zdGQoKTouMmZ9ICRcLCBcY2RvdCB7VU5JVF9NQVBbaWRdfSQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gayAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnIiQmVhbSB7YmVhbTpkfToge2RhdGEubWVhbigpOi4yZn0gJFxwbSQge2RhdGEuc3RkKCk6LjJmfSAkXCwgXGNkb3Qge1VOSVRfTUFQW2lkXX0kIiwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -555,7 +557,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VElUTEVfTUFQID0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
