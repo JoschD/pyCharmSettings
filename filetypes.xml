@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping ext="sdds" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
