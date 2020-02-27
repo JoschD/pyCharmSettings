@@ -2,36 +2,36 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="rexextest" type="PLAIN_TEXT" />
-      <mapping pattern="adfsfdasfdsa" type="PLAIN_TEXT" />
-      <mapping pattern="basic_line_src" type="PLAIN_TEXT" />
       <mapping pattern="copy_script" type="PLAIN_TEXT" />
-      <mapping pattern="requirements" type="PLAIN_TEXT" />
-      <mapping pattern="fsf" type="PLAIN_TEXT" />
-      <mapping pattern="adsa" type="PLAIN_TEXT" />
-      <mapping pattern="fsfd" type="PLAIN_TEXT" />
-      <mapping pattern="dfsafd" type="PLAIN_TEXT" />
       <mapping pattern="regextest2" type="PLAIN_TEXT" />
-      <mapping ext="seq" type="PLAIN_TEXT" />
-      <mapping ext="twisskick" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping ext="madx" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="adfsfdasfdsa" type="PLAIN_TEXT" />
+      <mapping pattern="fsfd" type="PLAIN_TEXT" />
+      <mapping pattern="adsa" type="PLAIN_TEXT" />
+      <mapping pattern="fsf" type="PLAIN_TEXT" />
+      <mapping pattern="rexextest" type="PLAIN_TEXT" />
+      <mapping pattern="basic_line_src" type="PLAIN_TEXT" />
+      <mapping pattern="dfsafd" type="PLAIN_TEXT" />
       <mapping ext="varmap" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="seq" type="PLAIN_TEXT" />
+      <mapping ext="madx" type="PLAIN_TEXT" />
+      <mapping ext="twisskick" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="offline_presentation" type="Python" />
+      <mapping pattern="plot_spectrum" type="Python" />
+      <mapping pattern="amplitude_detuning" type="Python" />
+      <mapping pattern="entrypoint" type="Python" />
       <mapping pattern="range_test" type="Python" />
       <mapping pattern="matplotlib_gui" type="Python" />
-      <mapping pattern="entrypoint" type="Python" />
+      <mapping pattern="test_optics_class" type="Python" />
       <mapping pattern="plot_export_test" type="Python" />
       <mapping pattern="twiss_fullresponse" type="Python" />
-      <mapping pattern="offline_presentation" type="Python" />
-      <mapping pattern="artist_options" type="Python" />
-      <mapping pattern="test_optics_class" type="Python" />
-      <mapping pattern="amplitude_detuning" type="Python" />
       <mapping pattern="cleanup_logs" type="Python" />
-      <mapping pattern="plot_spectrum" type="Python" />
       <mapping pattern="matplotlib_plotly_wrapper" type="Python" />
+      <mapping pattern="artist_options" type="Python" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
