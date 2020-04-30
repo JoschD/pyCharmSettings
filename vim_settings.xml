@@ -1,6 +1,16 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
@@ -45,7 +55,153 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_optics_measurements.py" timestamp="1586879935001">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="0" />
+        <mark key="." line="380" column="0" />
+        <mark key="^" line="380" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587123446711">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/omc3/temp/plot_tbt.py" timestamp="1587505391000">
+        <mark key="[" line="20" column="79" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="61" />
+        <mark key="^" line="20" column="8" />
+      </file>
+      <file name="/Python Console" timestamp="1588261836556">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1587042436223">
+        <mark key="[" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588262297884">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.ewen_scripts/python_myrdtscript_forsixtrack.b4.py" timestamp="1586881811043">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="358" column="41" />
+        <mark key="." line="358" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/omc3/temp/plotspect.py" timestamp="1587510567421">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="37" />
+      </file>
+      <file name="$USER_HOME$/Software/myomc3/tests/unit/test_plot_optics_measurements.py" timestamp="1587931162967">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/Software/omc3/omc3/plotting/plot_tbt.py" timestamp="1587508059067">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="29" />
+        <mark key="." line="95" column="21" />
+        <mark key="^" line="95" column="21" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.correction_scripts/run_correction.py" timestamp="1587142846499">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="19" />
+      </file>
+      <file name="/" timestamp="1588262186002">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.correction_scripts/irnl_rdt_correction.py" timestamp="1587143224257">
+        <mark key="[" line="184" column="70" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="$USER_HOME$/Work/pres.phd.first_committee_meeting/data/optics_plot/plot.py" timestamp="1587645178461">
+        <mark key="[" line="124" column="23" />
+        <mark key="]" line="124" column="8" />
+        <mark key="^" line="113" column="26" />
+        <mark key="." line="124" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.ewen_scripts/irnl_rdt_correction.py" timestamp="1586961343427">
+        <mark key="[" line="209" column="18" />
+        <mark key="]" line="209" column="81" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="207" column="78" />
+      </file>
+      <file name="$USER_HOME$/Software/omc3/omc3/plotting/plot_spectrum.py" timestamp="1587505236662">
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="48" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.correction_scripts/python_myrdtscript_forsixtrack.LHC.py" timestamp="1587132415463">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_tfs.py" timestamp="1587503864236">
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="451" column="79" />
+        <mark key="." line="362" column="27" />
+        <mark key="^" line="362" column="27" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG9zLm1rZGlycygidGVtcCIsIGV4aXN0X29rPVRydWUpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG9zLm1rZGlycygidGVtcCIsIGV4aXN0X29rPVRydWUpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtYW51YWxfc3R5bGUgPSB7fQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfc3R5bGUudXBkYXRlKG1hbnVhbF9zdHlsZSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBuX2NvbHNfbGVnZW5kID4gMDoKICAgICAgICAgICAgbWFrZV90b3BfbGVnZW5kKGF4LCBuX2NvbHNfbGVnZW5kKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHUnbGluZXMubWFya2Vyc2l6ZSc6IDMsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>afs/cern.ch/work/m/mihofer5/public/CRDTDev/LHCTrackingTest/Sextupole/omc3harpyoutput</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
