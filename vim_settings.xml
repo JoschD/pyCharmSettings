@@ -150,11 +150,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588331473575">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588352721033">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="25" column="19" />
       </file>
       <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_tfs.py" timestamp="1587503864236">
         <mark key="[" line="451" column="0" />
@@ -168,7 +168,8 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>potify-in-playlist-search-python://callback</text>
+        <text>f&quot;{track['name']} - &quot;
+                  f&quot;{', '.join(a['name'] for a in track['artists'])}&quot;</text>
       </register>
       <register name="-" type="4">
         <text>potify-in-playlist-search-python://callback</text>
@@ -176,26 +177,27 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcV9uYW1lID0gZiJsaGNie2JlYW19Igo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5iZWFtKHNlcXVlbmNlPXNlcV9uYW1lLCBidj1idl9mbGFnLAo=</text>
+      <register name="1" type="4">
+        <text>f&quot;{track['name']} - &quot;
+                  f&quot;{', '.join(a['name'] for a in track['artists'])}&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuZXJneSA9IG1hZHguZ2xvYmFscy5nZXQoIk5SSiIpCg==</text>
+        <text encoding="base64">ZGVmIHByaW50X3RyYWNrKHRyYWNrLCBwbGF5bGlzdCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcV9maWxlID0gImxoY19hcy1idWlsdC5zZXEiCiAgICBzZXFfbmFtZSA9IGYibGhjYntiZWFtfSIKICAgIGJ2X2ZsYWcgPSAtMSBpZiBiZWFtID09IDIgZWxzZSAxCiAgICBpZiBiZWFtID09IDQ6CiAgICAgICAgc2VxX2ZpbGUgPSAibGhjYjRfYXMtYnVpbHQuc2VxIgogICAgICAgIHNlcV9uYW1lID0gZiJsaGNiMiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVtaXR0YW5jZSA9IDcuMjk3NjcxNDY4ODllLTA5CiAgICBOYl8wID0gMS4wZTEwICAgIyBudW1iZXIgb2YgcGFydGljbGVzIGluIGJlYW0K</text>
+        <text encoding="base64">ICAgIHByaW50KAogICAgICAgIGYie3BsYXlsaXN0WyduYW1lJ119OiB7dHJhY2tbJ25hbWUnXX0gLSB7JywgJy5qb2luKGFbJ25hbWUnXSBmb3IgYSBpbiB0cmFja1snYXJ0aXN0cyddKX0iCiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEN5Y2xlIHNlcXVlbmNlIHRvIElQMyAobWFuZGF0b3J5IHRvIGZpbmQgY2xvc2VkIG9yYml0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgQ3ljbGUgc2VxdWVuY2UgdG8gSVAzIChtYW5kYXRvcnkgdG8gZmluZCBjbG9zZWQgb3JiaXQK</text>
+        <text encoding="base64">ZGVmYXVsdGRpY3QK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -219,10 +221,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIG1hZHguY2FsbChwYXRoc3RyKCJvcHRpY3MyMDE4IiwgKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciB0cmFjayBpbiB0cmFja3NbJ2l0ZW1zJ106Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
