@@ -150,8 +150,11 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588328343517">
-        <mark key="[" line="23" column="47" />
+      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588330313919">
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="22" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_tfs.py" timestamp="1587503864236">
         <mark key="[" line="451" column="0" />
@@ -165,10 +168,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>your-app-redirect-url</text>
+        <text>potify-in-playlist-search-python://callback</text>
       </register>
       <register name="-" type="4">
-        <text>your-app-redirect-url</text>
+        <text>potify-in-playlist-search-python://callback</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcV9uYW1lID0gZiJsaGNie2JlYW19Igo=</text>
