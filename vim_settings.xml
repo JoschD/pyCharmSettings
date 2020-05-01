@@ -59,13 +59,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_optics_measurements.py" timestamp="1586879935001">
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="380" column="0" />
-        <mark key="." line="380" column="0" />
-        <mark key="^" line="380" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587123446711">
+      <file name="/Dummy.txt" timestamp="1588327936586">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/temp/plot_tbt.py" timestamp="1587505391000">
@@ -150,6 +144,15 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Software/spotify_search/export_client.sh" timestamp="1588328053779">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="29" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588328016148">
+        <mark key="[" line="23" column="47" />
+      </file>
       <file name="$USER_HOME$/Software/myomc3/omc3/plotting/plot_tfs.py" timestamp="1587503864236">
         <mark key="[" line="451" column="0" />
         <mark key="]" line="451" column="79" />
@@ -161,11 +164,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5iZWFtKHNlcXVlbmNlPXNlcV9uYW1lLCBidj1idl9mbGFnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>your-app-redirect-url</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>your-app-redirect-url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNlcV9uYW1lID0gZiJsaGNie2JlYW19Igo=</text>
