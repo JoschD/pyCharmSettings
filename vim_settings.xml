@@ -59,23 +59,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588411057710">
+      <file name="/Dummy.txt" timestamp="1588509403320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588507525023">
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588510617527">
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1588506505651">
+      <file name="/Python Console" timestamp="1588510499789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588507446003">
-        <mark key="'" line="62" column="4" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="62" column="16" />
-        <mark key="." line="24" column="44" />
-        <mark key="^" line="24" column="45" />
+      <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1588505746057">
         <mark key="[" line="0" column="0" />
@@ -140,11 +140,11 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/helper.py" timestamp="1588507255267">
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="32" column="11" />
+      <file name="$USER_HOME$/Software/spotify_search/helper.py" timestamp="1588508790958">
+        <mark key="[" line="47" column="20" />
+        <mark key="]" line="47" column="12" />
+        <mark key="." line="47" column="12" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588505793129">
         <mark key="[" line="39" column="0" />
@@ -158,11 +158,10 @@
         <mark key="^" line="55" column="48" />
         <mark key="." line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/user_playlist_search.py" timestamp="1588507916858">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="38" />
+      <file name="$USER_HOME$/Software/spotify_search/user_playlist_search.py" timestamp="1588509308817">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="24" column="66" />
+        <mark key="." line="28" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -172,35 +171,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QsIHRvX2ZpbmQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>random.shuffle(tracks)</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>random.shuffle(tracks)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyeToKICAgICAgICBpZ25vcmUgPSBzeXMuYXJndlsxOl0KICAgIGV4Y2VwdCBJbmRleEVycm9yOgogICAgICAgIGluZ29yZSA9IFtdCgogICAgbWFpbihpZ25vcmUpCg==</text>
+        <text encoding="base64">ICAgIHBsYXlsaXN0cyA9IHNwLmN1cnJlbnRfdXNlcl9wbGF5bGlzdHMoKQogICAgZm9yIHBsYXlsaXN0IGluIGl0ZW1fbG9vcChzcCwgcGxheWxpc3RzKToKICAgICAgICBwbF9jb250ZW50ID0gc3AucGxheWxpc3QocGxheWxpc3RbJ2lkJ10sIGZpZWxkcz0idHJhY2tzLG5leHQiKQogICAgICAgIGZvciB0cmFjayBpbiBpdGVtX2xvb3Aoc3AsIHBsX2NvbnRlbnRbJ3RyYWNrcyddLCAndHJhY2snKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QsIHRvX2ZpbmQpCg==</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9vcF90cmFja3MocmVzdWx0cywgdHJhY2tzLCBwbGF5bGlzdCwgdG9fZmluZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRyYWNrX2lkcyA9IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwbGF5bGlzdFsnb3duZXInXVsnaWQnXSA9PSB1c2VyX2lkOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwbGF5bGlzdFsnb3duZXInXVsnaWQnXSA9PSB1c2VyX2lkOgo=</text>
+        <text encoding="base64">ZGVmIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QpOgogICAgZm9yIGl0ZW0gaW4gdHJhY2tzWydpdGVtcyddOgogICAgICAgIHRyYWNrID0gaXRlbVsndHJhY2snXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBwbGF5bGlzdCBpbiBwbGF5bGlzdHNbJ2l0ZW1zJ106Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfaWQgPSBzcC5tZSgpWydpZCddCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -224,10 +223,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBzcC5tZSgpWydpZCddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
