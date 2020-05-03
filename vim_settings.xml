@@ -59,14 +59,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588509403320">
+      <file name="/Dummy.txt" timestamp="1588520794476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588510617527">
-        <mark key="[" line="34" column="26" />
-        <mark key="]" line="33" column="30" />
-        <mark key="^" line="33" column="8" />
-        <mark key="." line="33" column="8" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588520966890">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="54" column="52" />
+        <mark key="." line="23" column="26" />
       </file>
       <file name="/Python Console" timestamp="1588510499789">
         <mark key="[" line="0" column="0" />
@@ -146,8 +146,8 @@
         <mark key="." line="47" column="12" />
         <mark key="^" line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588505793129">
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588520480918">
+        <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="75" />
         <mark key="." line="39" column="7" />
         <mark key="^" line="39" column="8" />
@@ -172,10 +172,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>random.shuffle(tracks)</text>
+        <text>'user-library-read,user-modify-playback-state,playlist-modify-private'</text>
       </register>
       <register name="-" type="4">
-        <text>random.shuffle(tracks)</text>
+        <text>'user-library-read,user-modify-playback-state,playlist-modify-private'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBsYXlsaXN0cyA9IHNwLmN1cnJlbnRfdXNlcl9wbGF5bGlzdHMoKQogICAgZm9yIHBsYXlsaXN0IGluIGl0ZW1fbG9vcChzcCwgcGxheWxpc3RzKToKICAgICAgICBwbF9jb250ZW50ID0gc3AucGxheWxpc3QocGxheWxpc3RbJ2lkJ10sIGZpZWxkcz0idHJhY2tzLG5leHQiKQogICAgICAgIGZvciB0cmFjayBpbiBpdGVtX2xvb3Aoc3AsIHBsX2NvbnRlbnRbJ3RyYWNrcyddLCAndHJhY2snKToK</text>
