@@ -62,11 +62,11 @@
       <file name="/Dummy.txt" timestamp="1588520794476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588524668877">
-        <mark key="[" line="71" column="29" />
-        <mark key="]" line="56" column="26" />
-        <mark key="^" line="56" column="26" />
-        <mark key="." line="56" column="64" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588524908201">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
         <mark key="'" line="52" column="4" />
@@ -168,8 +168,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'user-library-read,user-modify-playback-state,playlist-modify-private'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
       </register>
       <register name="-" type="4">
         <text>'user-library-read,user-modify-playback-state,playlist-modify-private'</text>
@@ -178,25 +178,25 @@
         <text encoding="base64">ICAgIHBsYXlsaXN0cyA9IHNwLmN1cnJlbnRfdXNlcl9wbGF5bGlzdHMoKQogICAgZm9yIHBsYXlsaXN0IGluIGl0ZW1fbG9vcChzcCwgcGxheWxpc3RzKToKICAgICAgICBwbF9jb250ZW50ID0gc3AucGxheWxpc3QocGxheWxpc3RbJ2lkJ10sIGZpZWxkcz0idHJhY2tzLG5leHQiKQogICAgICAgIGZvciB0cmFjayBpbiBpdGVtX2xvb3Aoc3AsIHBsX2NvbnRlbnRbJ3RyYWNrcyddLCAndHJhY2snKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sgPSAK</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWNrX2lkcyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWNrX2lkcyA9IFtdCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QpOgogICAgZm9yIGl0ZW0gaW4gdHJhY2tzWydpdGVtcyddOgogICAgICAgIHRyYWNrID0gaXRlbVsndHJhY2snXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBzcC5tZSgpWydpZCddCg==</text>
+        <text encoding="base64">ZGVmIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QpOgogICAgZm9yIGl0ZW0gaW4gdHJhY2tzWydpdGVtcyddOgogICAgICAgIHRyYWNrID0gaXRlbVsndHJhY2snXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -220,7 +220,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXJfaWQgPSBzcC5tZSgpWydpZCddCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
