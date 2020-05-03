@@ -62,11 +62,11 @@
       <file name="/Dummy.txt" timestamp="1588520794476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588524908201">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588526887975">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="62" column="9" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
         <mark key="'" line="52" column="4" />
@@ -155,9 +155,9 @@
         <mark key="^" line="55" column="48" />
         <mark key="." line="55" column="47" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/user_playlist_search.py" timestamp="1588509308817">
+      <file name="$USER_HOME$/Software/spotify_search/user_playlist_search.py" timestamp="1588526660929">
         <mark key="[" line="21" column="0" />
-        <mark key="]" line="24" column="66" />
+        <mark key="]" line="22" column="45" />
         <mark key="." line="28" column="4" />
       </file>
     </filemarks>
@@ -169,34 +169,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'user-library-read,user-modify-playback-state,playlist-modify-private'</text>
+        <text>, n_at_once=10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsYXlsaXN0cyA9IHNwLmN1cnJlbnRfdXNlcl9wbGF5bGlzdHMoKQogICAgZm9yIHBsYXlsaXN0IGluIGl0ZW1fbG9vcChzcCwgcGxheWxpc3RzKToKICAgICAgICBwbF9jb250ZW50ID0gc3AucGxheWxpc3QocGxheWxpc3RbJ2lkJ10sIGZpZWxkcz0idHJhY2tzLG5leHQiKQogICAgICAgIGZvciB0cmFjayBpbiBpdGVtX2xvb3Aoc3AsIHBsX2NvbnRlbnRbJ3RyYWNrcyddLCAndHJhY2snKToK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICBuX2F0X29uY2UgPSAxMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJhY2sgPSAK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWNrX2lkcyA9IFtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdG9fYWRkIGluICh0cmFja19pZHNbaTppK25fYXRfb25jZV0gZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRyYWNrX2lkcyksIG5fYXRfb25jZSkpOgogICAgICAgICAgICBzcC51c2VyX3BsYXlsaXN0X2FkZF90cmFja3ModXNlciwgcGxheWxpc3RbJ2lkJ10sIHRvX2FkZCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>sp.user_playlist_create(
+                user, playlist_name,
+                public=False,
+                description='Shuffled playlist from all your artists.')</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGxvb3BfdHJhY2tzKHJlc3VsdHMsIHRyYWNrcywgcGxheWxpc3QpOgogICAgZm9yIGl0ZW0gaW4gdHJhY2tzWydpdGVtcyddOgogICAgICAgIHRyYWNrID0gaXRlbVsndHJhY2snXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -220,10 +223,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJfaWQgPSBzcC5tZSgpWydpZCddCg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
     </registers>
   </component>
