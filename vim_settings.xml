@@ -59,14 +59,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588520794476">
+      <file name="/Dummy.txt" timestamp="1588529673675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588526887975">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="62" column="9" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588529789722">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="9" column="77" />
+        <mark key="^" line="66" column="15" />
+        <mark key="." line="64" column="24" />
+      </file>
+      <file name="/Python Console" timestamp="1588529511272">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
         <mark key="'" line="52" column="4" />
@@ -137,16 +140,16 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/helper.py" timestamp="1588508790958">
-        <mark key="[" line="47" column="20" />
-        <mark key="]" line="47" column="12" />
-        <mark key="." line="47" column="12" />
-        <mark key="^" line="47" column="16" />
+      <file name="$USER_HOME$/Software/spotify_search/helper.py" timestamp="1588529297485">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588520480918">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="75" />
-        <mark key="." line="39" column="7" />
+      <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588529802270">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="47" column="77" />
+        <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="8" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/user_playlist_searcj.py" timestamp="1588408429847">
@@ -169,34 +172,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>, n_at_once=10</text>
+        <text>p.playlist(playlist_name)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIG9yIGlmIGVpdGhlciBhIApwbGF5bGlzdCBuYW1lIG9yIGlkIGlzIGdpdmVuLCB0byBhIHBsYXlsaXN0LgpUaGUgc29uZ3MgYXJlIHNodWZmbGVkIGJ5IChmaXJzdC0pIGFydGlzdHMsIHNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgoKSWYgYSBwbGF5bGlzdCBuYW1lIGlzIGdpdmVuIHRoZSBzb25ncyBzaG91bGQgYmUgYWRkZWQgdG8gdGhhdCBwbGF5bGlzdCBvcgppZiBubyBwbGF5bGlzdCBpcyBmb3VuZCwgYSBuZXcgb25lIGlzIGNyZWF0ZWQuClRoZSBBUEkgc2VlbXMgdG8gaGF2ZSBzb21lIHByb2JsZW1zIGZpbmRpbmcganVzdCByZWNlbnRseSBjcmVhdGVkIHBsYXlsaXN0cywKc28gaXQgbWlnaHQgY3JlYXRlIGEgbmV3IHBsYXlsaXN0LiBJbiB0aGF0IGNhc2UgdXNlIHRoZSBwbGF5bGlzdF9pZCBkaXJlY3RseS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuX2F0X29uY2UgPSAxMAo=</text>
+        <text encoding="base64">ZGVmIGZpbmRfcGxheWxpc3RfYnlfbmFtZShzcCwgcGxheWxpc3RfbmFtZSk6CiAgICBwbGF5bGlzdHMgPSBzcC5jdXJyZW50X3VzZXJfcGxheWxpc3RzKCkKICAgIGZvciBwbGF5bGlzdCBpbiBpdGVtX2xvb3Aoc3AsIHBsYXlsaXN0cyk6CiAgICAgICAgaWYgcGxheWxpc3RfbmFtZSA9PSBwbGF5bGlzdFsnbmFtZSddOgogICAgICAgICAgICByZXR1cm4gcGxheWxpc3QKICAgIHJldHVybiBOb25lCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3UgcXVldWUsIGJ1dCBzaHVmZmxlcyBieSAoZmlyc3QpIGFydGlzdHMsCnNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sIGFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLm8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdG9fYWRkIGluICh0cmFja19pZHNbaTppK25fYXRfb25jZV0gZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRyYWNrX2lkcyksIG5fYXRfb25jZSkpOgogICAgICAgICAgICBzcC51c2VyX3BsYXlsaXN0X2FkZF90cmFja3ModXNlciwgcGxheWxpc3RbJ2lkJ10sIHRvX2FkZCkK</text>
+        <text encoding="base64">ICAgICAgICBuX2F0X29uY2UgPSAxMAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>sp.user_playlist_create(
-                user, playlist_name,
-                public=False,
-                description='Shuffled playlist from all your artists.')</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -223,10 +223,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwZGQoMikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgdG9fYWRkIGluICh0cmFja19pZHNbaTppK25fYXRfb25jZV0gZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRyYWNrX2lkcyksIG5fYXRfb25jZSkpOgogICAgICAgICAgICBzcC51c2VyX3BsYXlsaXN0X2FkZF90cmFja3ModXNlciwgcGxheWxpc3RbJ2lkJ10sIHRvX2FkZCkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+      <register name="9" type="4">
+        <text>sp.user_playlist_create(
+                user, playlist_name,
+                public=False,
+                description='Shuffled playlist from all your artists.')</text>
       </register>
     </registers>
   </component>
