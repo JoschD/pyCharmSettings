@@ -62,14 +62,11 @@
       <file name="/Dummy.txt" timestamp="1588520794476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588520966890">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="54" column="52" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="/Python Console" timestamp="1588510499789">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Software/spotify_search/album_artist_shuffle.py" timestamp="1588524668877">
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="56" column="26" />
+        <mark key="^" line="56" column="26" />
+        <mark key="." line="56" column="64" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
         <mark key="'" line="52" column="4" />
