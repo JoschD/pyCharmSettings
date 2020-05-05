@@ -54,6 +54,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -80,10 +83,8 @@
       <file name="/a.dummy" timestamp="1588505746057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588267148203">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588666707330">
+        <mark key="[" line="124" column="26" />
       </file>
       <file name="$USER_HOME$/Software/omc3/temp/plotspect.py" timestamp="1587510567421">
         <mark key="[" line="14" column="0" />
@@ -172,64 +173,52 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>p.playlist(playlist_name)</text>
+        <text>:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIG9yIGlmIGVpdGhlciBhIApwbGF5bGlzdCBuYW1lIG9yIGlkIGlzIGdpdmVuLCB0byBhIHBsYXlsaXN0LgpUaGUgc29uZ3MgYXJlIHNodWZmbGVkIGJ5IChmaXJzdC0pIGFydGlzdHMsIHNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgoKSWYgYSBwbGF5bGlzdCBuYW1lIGlzIGdpdmVuIHRoZSBzb25ncyBzaG91bGQgYmUgYWRkZWQgdG8gdGhhdCBwbGF5bGlzdCBvcgppZiBubyBwbGF5bGlzdCBpcyBmb3VuZCwgYSBuZXcgb25lIGlzIGNyZWF0ZWQuClRoZSBBUEkgc2VlbXMgdG8gaGF2ZSBzb21lIHByb2JsZW1zIGZpbmRpbmcganVzdCByZWNlbnRseSBjcmVhdGVkIHBsYXlsaXN0cywKc28gaXQgbWlnaHQgY3JlYXRlIGEgbmV3IHBsYXlsaXN0LiBJbiB0aGF0IGNhc2UgdXNlIHRoZSBwbGF5bGlzdF9pZCBkaXJlY3RseS4K</text>
+      <register name="0" type="4">
+        <text>madx.globals.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfcGxheWxpc3RfYnlfbmFtZShzcCwgcGxheWxpc3RfbmFtZSk6CiAgICBwbGF5bGlzdHMgPSBzcC5jdXJyZW50X3VzZXJfcGxheWxpc3RzKCkKICAgIGZvciBwbGF5bGlzdCBpbiBpdGVtX2xvb3Aoc3AsIHBsYXlsaXN0cyk6CiAgICAgICAgaWYgcGxheWxpc3RfbmFtZSA9PSBwbGF5bGlzdFsnbmFtZSddOgogICAgICAgICAgICByZXR1cm4gcGxheWxpc3QKICAgIHJldHVybiBOb25lCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3UgcXVldWUsIGJ1dCBzaHVmZmxlcyBieSAoZmlyc3QpIGFydGlzdHMsCnNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sIGFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuX2F0X29uY2UgPSAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyID0gc3AubWUoKVsnaWQnXQo=</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGZpbmRfcGxheWxpc3RfYnlfbmFtZShzcCwgcGxheWxpc3RfbmFtZSk6CiAgICBwbGF5bGlzdHMgPSBzcC5jdXJyZW50X3VzZXJfcGxheWxpc3RzKCkKICAgIGZvciBwbGF5bGlzdCBpbiBpdGVtX2xvb3Aoc3AsIHBsYXlsaXN0cyk6CiAgICAgICAgaWYgcGxheWxpc3RfbmFtZSA9PSBwbGF5bGlzdFsnbmFtZSddOgogICAgICAgICAgICByZXR1cm4gcGxheWxpc3QKICAgIHJldHVybiBOb25lCgoK</text>
       </register>
       <register name="w" type="4">
         <keys>
-          <key char="48" code="0" mods="0" />
           <key char="116" code="0" mods="0" />
-          <key char="58" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="80" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="36" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
           <key char="105" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="48" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdG9fYWRkIGluICh0cmFja19pZHNbaTppK25fYXRfb25jZV0gZm9yIGkgaW4gcmFuZ2UoMCwgbGVuKHRyYWNrX2lkcyksIG5fYXRfb25jZSkpOgogICAgICAgICAgICBzcC51c2VyX3BsYXlsaXN0X2FkZF90cmFja3ModXNlciwgcGxheWxpc3RbJ2lkJ10sIHRvX2FkZCkK</text>
+        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3UgcXVldWUsIGJ1dCBzaHVmZmxlcyBieSAoZmlyc3QpIGFydGlzdHMsCnNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sIGFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLm8K</text>
       </register>
-      <register name="9" type="4">
-        <text>sp.user_playlist_create(
-                user, playlist_name,
-                public=False,
-                description='Shuffled playlist from all your artists.')</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
