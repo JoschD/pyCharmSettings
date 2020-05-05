@@ -71,9 +71,6 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1588529511272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Software/spotify_search/find_duplicates.py" timestamp="1588509395070">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="34" column="0" />
@@ -83,11 +80,10 @@
       <file name="/a.dummy" timestamp="1588505746057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588672612497">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="87" column="41" />
-        <mark key="^" line="135" column="17" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588675906434">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/config.ini" timestamp="1588411753976">
         <mark key="[" line="3" column="15" />
@@ -133,8 +129,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="8" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/commands.madx" timestamp="1588674589163">
-        <mark key="[" line="17" column="3" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/commands.madx" timestamp="1588675805652">
+        <mark key="[" line="16" column="3" />
         <mark key="]" line="13" column="132" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/user_playlist_searcj.py" timestamp="1588408429847">
@@ -157,7 +153,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
+        <text encoding="base64">ICAgICMgbWFkeC5jb21tYW5kLnNlbGVjdChmbGFnPSJ0d2lzcyIsIGNvbHVtbj0iTkFNRSwgQkVUWCwgQkVUWSwgRFgsIERZLCBNVVgsIE1VWSwgSzBMIikK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
@@ -166,28 +162,28 @@
         <text>:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBjb2x1bW49WydOQU1FJywgJ0JFVFgnLCAnQkVUWScsICdEWCcsICdEWScsICdNVVgnLCAnTVVZJywgJ0swTCddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbWFkeC5jb21tYW5kLnNlbGVjdChmbGFnPSJ0d2lzcyIsIGNvbHVtbj0iTkFNRSwgQkVUWCwgQkVUWSwgRFgsIERZLCBNVVgsIE1VWSwgSzBMIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hZHguaW5wdXQoJ3NlbGVjdCwgZmxhZz10d2lzcywgY2xlYXI7JykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBjb2x1bW49WydOQU1FJywgJ0JFVFgnLCAnQkVUWScsXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBjb2x1bW49WydEWCcsICdEWScsICdNVVgnLCAnTVVZJywgJ0swTCddKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3VyIHF1ZXVlIChvciBpZiBuYW1lIGlzIGdpdmVuIHRvIGEgcGxheWxpc3QpLCAKYnV0IHNodWZmbGVzIGJ5IChmaXJzdCkgYXJ0aXN0cywgc28gdGhhdCBpdCBwbGF5cyBhbiBhcnRpc3Qgb25seSBhZ2FpbiwgCmFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfcGxheWxpc3RfYnlfbmFtZShzcCwgcGxheWxpc3RfbmFtZSk6CiAgICBwbGF5bGlzdHMgPSBzcC5jdXJyZW50X3VzZXJfcGxheWxpc3RzKCkKICAgIGZvciBwbGF5bGlzdCBpbiBpdGVtX2xvb3Aoc3AsIHBsYXlsaXN0cyk6CiAgICAgICAgaWYgcGxheWxpc3RfbmFtZSA9PSBwbGF5bGlzdFsnbmFtZSddOgogICAgICAgICAgICByZXR1cm4gcGxheWxpc3QKICAgIHJldHVybiBOb25lCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -202,7 +198,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWRkcyBhbGwgb2YgeW91ciBzYXZlZCBhbGJ1bXMgaW50byB5b3UgcXVldWUsIGJ1dCBzaHVmZmxlcyBieSAoZmlyc3QpIGFydGlzdHMsCnNvIHRoYXQgaXQgcGxheXMgYW4gYXJ0aXN0IG9ubHkgYWdhaW4sIGFmdGVyIGFsbCBvdGhlciBhcnRpc3RzIHdlcmUgcGxheWVkLm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
