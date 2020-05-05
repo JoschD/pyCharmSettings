@@ -5,7 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>set nowrap</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -74,7 +76,7 @@
       <file name="/a.dummy" timestamp="1588505746057">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588688013720">
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1588689521659">
         <mark key="[" line="145" column="43" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="38" column="0" />
