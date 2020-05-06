@@ -76,8 +76,9 @@
         <mark key="^" line="66" column="15" />
         <mark key="." line="64" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1588773180824">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Software/tfs/tfs/__init__.py" timestamp="1588775755177" />
+      <file name="/Python Console" timestamp="1588777617825">
+        <mark key="[" line="0" column="40" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -109,6 +110,9 @@
         <mark key="]" line="3" column="16" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/tfs_test.py" timestamp="1588776435509">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.correction_scripts/irnl_rdt_correction.py" timestamp="1588410457871">
         <mark key="[" line="184" column="70" />
         <mark key="]" line="23" column="39" />
@@ -121,17 +125,16 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="1" column="33" />
       </file>
-      <file name="$USER_HOME$/Software/spotify_search/user_playlist_contents.py" timestamp="1588352721033">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="14" column="8" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="25" column="19" />
-      </file>
       <file name="$USER_HOME$/Software/spotify_search/helper.py" timestamp="1588529297485">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1588778448677">
+        <mark key="[" line="235" column="51" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="$USER_HOME$/Software/spotify_search/README.md" timestamp="1588529802270">
         <mark key="[" line="39" column="0" />
@@ -159,37 +162,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgSU5UX1BBUkVOVFMpOgogICAgICAgIHJldHVybiAiJWQiCiAgICBlbGlmIGlzaW5zdGFuY2UodmFsdWUsIEZMT0FUX1BBUkVOVFMpOgogICAgICAgIHJldHVybiAiJWxlIgogICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgIHZhbHVlID0gZicie3ZhbHVlfSInCiAgICAgICAgcmV0dXJuICIlcyIK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newDict</text>
+        <text>value</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5pbmRleCA9IGRmLmluZGV4LmNvbnZlcnRfZHR5cGVzKCkKICAgICAgICBkZi5jb2x1bW5zID0gZGYuY29sdW1ucy5jb252ZXJ0X2R0eXBlcygpCg==</text>
+        <text encoding="base64">ICAgIGZvciBpZCwgdHlwZXMgaW4gVFlQRV9UT19JRC5pdGVtcygpOgogICAgICAgIGlmIGFueShucC5pc3N1YmR0eXBlKHR5cGVfLCB0KSBmb3IgdCBpbiB0eXBlcyk6CiAgICAgICAgICAgIHJldHVybiBpZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgaWYgaXNpbnN0YW5jZSh2YWx1ZSwgSU5UX1BBUkVOVFMpOgogICAgICAgIHJldHVybiAiJWQiCiAgICBlbGlmIGlzaW5zdGFuY2UodmFsdWUsIEZMT0FUX1BBUkVOVFMpOgogICAgICAgIHJldHVybiAiJWxlIgogICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgIHZhbHVlID0gZicie3ZhbHVlfSInCiAgICAgICAgcmV0dXJuICIlcyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIiVzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5jb2x1bW5zID0gZGYuY29sdW1ucy5jb252ZXJ0X2R0eXBlcygpCg==</text>
+        <text encoding="base64">ICAgIGlmIG5wLmlzc3ViZHR5cGUodHlwZV8sIG5wLmludGVnZXIpIG9yIG5wLmlzc3ViZHR5cGUodHlwZV8sIG5wLmJvb2xfKToKICAgICAgICByZXR1cm4gIiVkIgogICAgZWxpZiBucC5pc3N1YmR0eXBlKHR5cGVfLCBucC5mbG9hdGluZyk6CiAgICAgICAgcmV0dXJuICIlbGUiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5pbmRleCA9IGRmLmluZGV4LmNvbnZlcnRfZHR5cGVzKCkK</text>
+        <text encoding="base64">SU5UX1BBUkVOVFMgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5jb2x1bW5zID0gZGYuY29sdW1ucy5jb252ZXJ0X2R0eXBlcygpCg==</text>
+        <text encoding="base64">RkxPQVRfUEFSRU5UUyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZi5pbmRleCA9IGRmLmluZGV4LmNvbnZlcnRfZHR5cGVzKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBwYXR0ZXJuPSJNUVgiKQo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodmFsdWUsIElOVF9QQVJFTlRTKToKICAgICAgICB0eXBlX3N0ciA9ICIlZCIKICAgIGVsaWYgaXNpbnN0YW5jZSh2YWx1ZSwgRkxPQVRfUEFSRU5UUyk6CiAgICAgICAgdHlwZV9zdHIgPSAiJWxlIgogICAgZWxpZiBpc2luc3RhbmNlKHZhbHVlLCBzdHIpOgogICAgICAgIHZhbHVlID0gZicie3ZhbHVlfSInCiAgICAgICAgdHlwZV9zdHIgPSAiJXMiCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoZiJ7dmFsdWV9IGRvZXMgbm90IGNvcnJlc3BvbmQgdG8gcmVjb2duaXplZCB0eXBlcyAoc3RyaW5nLCBmbG9hdCBhbmQgaW50KSIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -204,10 +207,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>a = get_tfs(madx.table.twiss, only_selected=True)</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZiJAIHtuYW1lOjx7d2lkdGh9fSAlZCB7dmFsdWU6Pnt3aWR0aH19Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZiJAIHtuYW1lOjx7d2lkdGh9fSAlbGUge3ZhbHVlOj57d2lkdGh9fSIK</text>
       </register>
     </registers>
   </component>
