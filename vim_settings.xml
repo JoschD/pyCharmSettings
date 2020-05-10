@@ -143,6 +143,11 @@
         <mark key="]" line="22" column="45" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/Software/regresspy/README.md" timestamp="1589138923688">
+        <mark key="[" line="1" column="115" />
+        <mark key="]" line="1" column="124" />
+        <mark key="." line="1" column="115" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
@@ -152,19 +157,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>if isinstance(tfs_file_path, str) else tfs_file_path</text>
+        <text>tfs</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>if isinstance(tfs_file_path, str) else tfs_file_path</text>
+        <text>tfs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRmID0gVGZzRGF0YUZyYW1lKGNvbHVtbnM9WyJhbGxvd2VkIiwgIm5vdCBhbGxvd2VkIl0pCiAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVGZzRm9ybWF0RXJyb3IpOgogICAgICAgIHdyaXRlX3RmcygnJywgZGYpCg==</text>
+      <register name="0" type="4">
+        <text>regresspy</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRmc19maWxlX3BhdGggPSBwYXRobGliLlBhdGgodGZzX2ZpbGVfcGF0aCkgaWYgaXNpbnN0YW5jZSh0ZnNfZmlsZV9wYXRoLCBzdHIpIGVsc2UgdGZzX2ZpbGVfcGF0aAo=</text>
+      <register name="1" type="4">
+        <text>regresspy</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHRmc19maWxlX3BhdGggPSBwYXRobGliLlBhdGgodGZzX2ZpbGVfcGF0aCkgaWYgaXNpbnN0YW5jZSh0ZnNfZmlsZV9wYXRoLCBzdHIpIGVsc2UgdGZzX2ZpbGVfcGF0aAo=</text>
