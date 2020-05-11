@@ -93,11 +93,11 @@
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_tfs.py" timestamp="1588677922072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589214909883">
-        <mark key="[" line="209" column="61" />
-        <mark key="]" line="209" column="51" />
-        <mark key="." line="209" column="61" />
-        <mark key="^" line="209" column="51" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589216230965">
+        <mark key="[" line="218" column="24" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="220" column="27" />
       </file>
       <file name="$USER_HOME$/Software/tfs/doc/conf.py" timestamp="1588843963029">
         <mark key="[" line="187" column="0" />
@@ -157,38 +157,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>columns=DEFAULT_COLUMNS,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFwcGx5X21hZ2VudGljX2Vycm9ycygp</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>columns=DEFAULT_COLUMNS,</text>
+        <text>f&quot;ON_{ab}{order:d}{sr}&quot;</text>
       </register>
       <register name="0" type="4">
         <text>'NAME', 'KEYWORD', 'X', 'Y', 'BETX', 'BETY', 'DX', 'DY', 'MUX', 'MUY','K0L'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwcGx5X21hZ2VudGljX2Vycm9ycygp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWVfbWFwID0gewogICAgICAgICAgICAieGluZyI6CiAgICAgICAgICAgICJmbGF0CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sdW1uPVsnTkFNRScsICdLRVlXT1JEJywgJ1gnLCAnWScsICdCRVRYJywgJ0JFVFknLCAnRFgnLCAnRFknLCAnTVVYJywgJ01VWScsJ0swTCddKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGFzc189J211bHRpcG9sZScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGVhcj1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sdW1uPVsnTkFNRScsICdLRVlXT1JEJywgJ1gnLCAnWScsICdCRVRYJywgJ0JFVFknLCAnRFgnLCAnRFknLCAnTVVYJywgJ01VWScsJ0swTCddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBwYXR0ZXJuPSJNUVgiLAo=</text>
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGFzc189J211bHRpcG9sZScsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>regresspy</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGVhcj1UcnVlKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -203,10 +203,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRmc19maWxlX3BhdGggPSBwYXRobGliLlBhdGgodGZzX2ZpbGVfcGF0aCkgaWYgaXNpbnN0YW5jZSh0ZnNfZmlsZV9wYXRoLCBzdHIpIGVsc2UgdGZzX2ZpbGVfcGF0aAo=</text>
+        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBwYXR0ZXJuPSJNUVgiLAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="9" type="4">
+        <text>regresspy</text>
       </register>
     </registers>
   </component>
