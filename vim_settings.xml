@@ -93,11 +93,10 @@
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_tfs.py" timestamp="1588677922072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589216230965">
-        <mark key="[" line="218" column="24" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
-        <mark key="^" line="220" column="27" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589217529857">
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Software/tfs/doc/conf.py" timestamp="1588843963029">
         <mark key="[" line="187" column="0" />
@@ -158,7 +157,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcGx5X21hZ2VudGljX2Vycm9ycygp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
@@ -170,25 +169,25 @@
         <text>'NAME', 'KEYWORD', 'X', 'Y', 'BETX', 'BETY', 'DX', 'DY', 'MUX', 'MUY','K0L'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwcGx5X21hZ2VudGljX2Vycm9ycygp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWVfbWFwID0gewogICAgICAgICAgICAieGluZyI6CiAgICAgICAgICAgICJmbGF0CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">REVGQVVMVF9DT0xVTU5TID0gWydOQU1FJywgJ0tFWVdPUkQnLCAnWCcsICdZJywgJ0JFVFgnLCAnQkVUWScsICdEWCcsICdEWScsICdNVVgnLCAnTVVZJyxdICsgZ2V0X2tfc3RyaW5ncygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBhcHBseV9tYWdlbnRpY19lcnJvcnMoKiprd2FyZ3MpOgogICAgICAgICIiIiBXaGljaCBtYWduZXRpYyBmaWVsZCBvcmRlcnMgdG8gYXBwbHkuCiAgICAgICAgS2V5d29yZCBBcmdzCiAgICAgICAgICAgIGRlZmF1bHQ6IHNldHMgZ2xvYmFsIGRlZmF1bHQgdG8gdGhpcyAoZGVmYXVsdCBvZiBkZWZhdWx0IGlzIGBGYWxzZWApLgogICAgICAgICAgICBBQiM6ICBzZXRzIHRoZSBkZWZhdWx0IGZvciBhbGwgb2YgdGhhdCBvcmRlci4KICAgICAgICAgICAgQSMgb3IgQiM6IHNldHMgdGhlIGRlZmF1bHQgZm9yIHN5c3RlbWF0aWMgYW5kIHJhbmRvbSBvZiB0aGlzIGlkLgogICAgICAgICAgICBBI3MsIEIjciBldGMuOiBzZXRzIHRoZSBzcGVjaWZpYyB2YWx1ZS4KCiAgICAgICAgd2l0aCAjIGluIFsxLCAxNV0sIHdoZXJlIDEgPT0gZGlwb2xhciBmaWVsZC4KCgogICAgICAgICIiIgogICAgICAgIGdsb2JhbF9kZWZhdWx0ID0ga3dhcmdzLmdldCgiZGVmYXVsdCIsIEZhbHNlKQogICAgICAgIGZvciBvcmRlciBpbiByYW5nZSgxLCAxNik6CiAgICAgICAgICAgIG9yZGVyX2RlZmF1bHQgPSBrd2FyZ3MuZ2V0KGYiQUJ7b3JkZXI6ZH0iLCBnbG9iYWxfZGVmYXVsdCkKICAgICAgICAgICAgZm9yIGFiIGluICJBQiI6CiAgICAgICAgICAgICAgICBhYl9kZWZhdWx0ID0ga3dhcmdzLmdldChmInthYn17b3JkZXI6ZH0iLCBvcmRlcl9kZWZhdWx0KQogICAgICAgICAgICAgICAgZm9yIHNyIGluICJzciI6CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IGYie2FifXtvcmRlcjpkfXtzcn0iCiAgICAgICAgICAgICAgICAgICAgbWFkeC5nbG9iYWxzW2YiT05fe25hbWV9Il0gPSBrd2FyZ3MuZ2V0KG5hbWUsIGFiX2RlZmF1bHQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29sdW1uPVsnTkFNRScsICdLRVlXT1JEJywgJ1gnLCAnWScsICdCRVRYJywgJ0JFVFknLCAnRFgnLCAnRFknLCAnTVVYJywgJ01VWScsJ0swTCddKQo=</text>
+        <text encoding="base64">ICAgICAgICBBQiMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGFzc189J211bHRpcG9sZScsCg==</text>
+        <text encoding="base64">ICAgIGFwcGx5X21hZ2VudGljX2Vycm9ycygp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGVhcj1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWVfbWFwID0gewogICAgICAgICAgICAieGluZyI6CiAgICAgICAgICAgICJmbGF0CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -203,10 +202,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hZHguY29tbWFuZC5zZWxlY3QoZmxhZz0idHdpc3MiLCBwYXR0ZXJuPSJNUVgiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>regresspy</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
