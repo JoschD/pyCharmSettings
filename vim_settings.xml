@@ -93,10 +93,11 @@
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_tfs.py" timestamp="1588677922072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589196235677">
-        <mark key="[" line="211" column="15" />
-        <mark key="]" line="211" column="62" />
-        <mark key="." line="211" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589214909883">
+        <mark key="[" line="209" column="61" />
+        <mark key="]" line="209" column="51" />
+        <mark key="." line="209" column="61" />
+        <mark key="^" line="209" column="51" />
       </file>
       <file name="$USER_HOME$/Software/tfs/doc/conf.py" timestamp="1588843963029">
         <mark key="[" line="187" column="0" />
@@ -156,17 +157,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRmcy53cml0ZSgnbm9taW5hbC5kZi50ZnMnLCBkZl9ub21pbmFsLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
+      <register name="&quot;" type="4">
+        <text>columns=DEFAULT_COLUMNS,</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, file=&quot;nominal.cpymad.tfs&quot;)</text>
+        <text>columns=DEFAULT_COLUMNS,</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRmcy53cml0ZSgnbm9taW5hbC5kZi50ZnMnLCBkZl9ub21pbmFsLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
+      <register name="0" type="4">
+        <text>'NAME', 'KEYWORD', 'X', 'Y', 'BETX', 'BETY', 'DX', 'DY', 'MUX', 'MUY','K0L'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
