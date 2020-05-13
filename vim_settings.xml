@@ -84,19 +84,14 @@
       <file name="/fragment.py" timestamp="1589308884123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1589382207072">
-        <mark key="[" line="0" column="2" />
+      <file name="/a.dummy" timestamp="1589387179760">
+        <mark key="[" line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589367410953">
         <mark key="[" line="277" column="14" />
         <mark key="]" line="257" column="11" />
         <mark key="." line="257" column="10" />
         <mark key="^" line="257" column="11" />
-      </file>
-      <file name="$USER_HOME$/Software/tfs/doc/conf.py" timestamp="1588843963029">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/Software/tfs/setup.cfg" timestamp="1588844453741">
         <mark key="[" line="3" column="0" />
@@ -118,6 +113,12 @@
         <mark key="^" line="130" column="49" />
         <mark key="." line="130" column="48" />
       </file>
+      <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589388245803">
+        <mark key="[" line="100" column="25" />
+        <mark key="]" line="100" column="25" />
+        <mark key="." line="100" column="25" />
+        <mark key="^" line="100" column="36" />
+      </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/twiss.irerrors.tfs" timestamp="1589372273955" />
       <file name="/Dummy.txt" timestamp="1589309041083">
         <mark key="[" line="0" column="0" />
@@ -136,8 +137,11 @@
       <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/minrpc/ipc.py" timestamp="1589303406839">
         <mark key="[" line="106" column="52" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589382006704">
-        <mark key="[" line="89" column="15" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589388986980">
+        <mark key="[" line="424" column="20" />
+        <mark key="]" line="424" column="20" />
+        <mark key="^" line="76" column="60" />
+        <mark key="." line="424" column="20" />
       </file>
       <file name="$USER_HOME$/Software/regresspy/README.md" timestamp="1589138923688">
         <mark key="[" line="1" column="115" />
@@ -152,38 +156,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hZHgudHdpc3Moc2VxdWVuY2U9c2VxX25hbWUpCiAgICBkZl9ub21pbmFsID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywpCiAgICB0ZnMud3JpdGUoJ25vbWluYWwuZGYudGZzJywgZGZfbm9taW5hbCwgc2F2ZV9pbmRleD0iTkFNRSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>HEADER_EMITTANCE_AVERAGE</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sys.executable</text>
+        <text>HEADER_EMITTANCE_AVERAGE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hZHgudHdpc3Moc2VxdWVuY2U9c2VxX25hbWUpCiAgICBkZl9ub21pbmFsID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywpCiAgICB0ZnMud3JpdGUoJ25vbWluYWwuZGYudGZzJywgZGZfbm9taW5hbCwgc2F2ZV9pbmRleD0iTkFNRSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgQXJjcyAtLS0K</text>
+        <text encoding="base64">SEVBREVSX0VNSVRUQU5DRV9BVkVSQUdFID0gIkJTUlQtRW1pdHRhbmNlIGF2ZXJhZ2UiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ISsrKysrIEFwcGx5IGZpZWxkIGVycm9ycyB0byBhbGwgb3RoZXIgcXVhZHMgYW5kIGRpcG9sZXMgKysrKysrKysrKysrKysrKysrKysrKwo=</text>
+        <text encoding="base64">SEVBREVSX0VNSVRUQU5DRV9BVkVSQUdFID0gIkJTUlQtRW1pdHRhbmNlIGF2ZXJhZ2UiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ISsrKysrIEFwcGx5IGZpZWxkIGVycm9ycyB0byBBcmNzICsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrCg==</text>
+        <text encoding="base64">ICAgICMgQXJjcyAtLS0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ISsrKysrIEFwcGx5IGZpZWxkIGVycm9ycyB0byBhbGwgb3RoZXIgcXVhZHMgYW5kIGRpcG9sZXMgKysrKysrKysrKysrKysrKysrKysrKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgoJ1RFU1RFU0VUU0VUU0VUUycpCg==</text>
+        <text encoding="base64">ISsrKysrIEFwcGx5IGZpZWxkIGVycm9ycyB0byBBcmNzICsrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgoJ1RFU1RFU0VUU0VUU0VUUycpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -198,10 +202,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnVEVTVEVTRVRTRVRTRVRTJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcmdzID0gWydweXRob24nLCAnLW0nLCBjbHMubW9kdWxlXQo=</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
     </registers>
   </component>
