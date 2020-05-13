@@ -70,7 +70,7 @@
       <file name="/start_script.py" timestamp="1589308360808">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589309817289">
+      <file name="/Python Console" timestamp="1589404322439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -93,14 +93,9 @@
         <mark key="." line="257" column="10" />
         <mark key="^" line="257" column="11" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/setup.cfg" timestamp="1588844453741">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1588851526116">
-        <mark key="[" line="164" column="22" />
-        <mark key="]" line="164" column="22" />
-        <mark key="^" line="158" column="25" />
-        <mark key="." line="164" column="22" />
+      <file name="$USER_HOME$/Software/omc3/omc3/amplitude_detuning_analysis.py" timestamp="1589406560304">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="138" column="10" />
       </file>
       <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/cpymad/madx.py" timestamp="1589298051946">
         <mark key="[" line="208" column="0" />
@@ -113,11 +108,10 @@
         <mark key="^" line="130" column="49" />
         <mark key="." line="130" column="48" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589388245803">
-        <mark key="[" line="102" column="25" />
-        <mark key="]" line="102" column="25" />
-        <mark key="." line="102" column="25" />
-        <mark key="^" line="102" column="36" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589408080394">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/twiss.irerrors.tfs" timestamp="1589372273955" />
       <file name="/Dummy.txt" timestamp="1589309041083">
@@ -128,6 +122,10 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Software/omc3/omc3/tune_analysis/kick_file_modifiers.py" timestamp="1589407534260">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="80" column="78" />
+      </file>
       <file name="/" timestamp="1589295548535">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,10 +135,11 @@
       <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/minrpc/ipc.py" timestamp="1589303406839">
         <mark key="[" line="106" column="52" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589402629105">
-        <mark key="[" line="390" column="8" />
-        <mark key="]" line="390" column="0" />
-        <mark key="." line="390" column="0" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589408496073">
+        <mark key="[" line="269" column="32" />
+        <mark key="]" line="296" column="61" />
+        <mark key="^" line="293" column="25" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/Software/regresspy/README.md" timestamp="1589138923688">
         <mark key="[" line="1" column="115" />
@@ -155,38 +154,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>directory</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbWl0dGFuY2VfZGYgPSBfcmVhZF90ZnMob3B0LmVtaXR0YW5jZV90ZnMsIHRpbWVzcGFuKQo=</text>
       </register>
       <register name="+" type="2">
-        <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>directory</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVscD0iRGF0YWZyYW1lIG9yIFBhdGggb2YgcHJlLXNhdmVkIGludGVuc2l0eSB0ZnMuIiwK</text>
+        <text encoding="base64">SEVBREVSX0JTUlRfUk9MTElOR19XSU5ET1cgPSAiRW1pdHRhbmNlX3JvbGxpbmdfd2luZG93X2xlbmd0aCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpdGggc3VwcHJlc3MoSU9FcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWl0dGFuY2VfZGYgPSBfcmVhZF90ZnMob3B0LmVtaXR0YW5jZV90ZnMsIHRpbWVzcGFuKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbWl0dGFuY2VfZGYgPSBfZ2V0X2JzcnRfYnVuY2hfZW1pdHRhbmNlc19mcm9tX3RpbWJlcihvcHQuYmVhbSwgb3B0LnBsYW5lLCBkYiwgdGltZXNwYW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbWl0dGFuY2VfYndzX3Rmcz1kaWN0KAogICAgICAgICAgICBoZWxwPSJEYXRhZnJhbWUgb3IgUGF0aCBvZiBwcmUtc2F2ZWQgaW50ZW5zaXR5IHRmcy4iLAogICAgICAgICksCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnNpdHlfZGYgPSBfZ2V0X2JjdHJmX2JlYW1faW50ZW5zaXR5X2Zyb21fdGltYmVyKG9wdC5iZWFtLCBkYiwgdGltZXNwYW4pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZT1zdHIsCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRlbnNpdHlfZGYgPSBfcmVhZF90ZnMob3B0LmludGVuc2l0eV90ZnMsIHRpbWVzcGFuKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyctbycsICItLW91dGRpciJdLAo=</text>
+        <text encoding="base64">IyBUT0RPOiB0ZnMgY29tcGF0aWJsZSBoZWRkYWRlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZWQ9VHJ1ZSwK</text>
+        <text encoding="base64">ICAgICMgdG9kbzogd3JpdGUgaW50ZW5zaXR5X2RmLCBsb2FkIGEgZWl0aGVyIG9mIHRoZW0gZnJvbSB0ZnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRhZnRlciJdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -201,10 +200,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRiZWZvcmUiXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRhcm91bmQiXSwK</text>
+        <text encoding="base64">ICAgIGRmID0gX21heWJlX2FkZF9zdW1fZm9yX3BsYW5lcyhkZiwgcGxhbmVzLCBjb2x1bW5fbm9ybV9lbWl0dGFuY2UpCiAgICBkZiA9IF9tYXliZV9hZGRfc3VtX2Zvcl9wbGFuZXMoZGYsIHBsYW5lcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYW1iZGEgcDogbWVhbl9jb2woY29sdW1uX25vcm1fZW1pdHRhbmNlKHApKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYW1iZGEgcDogZXJyX2NvbChjb2x1bW5fbm9ybV9lbWl0dGFuY2UocCkpKQo=</text>
       </register>
     </registers>
   </component>
