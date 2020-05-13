@@ -107,17 +107,17 @@
         <mark key="]" line="208" column="0" />
         <mark key="." line="208" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1588957851286">
+      <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589402732596">
         <mark key="[" line="270" column="66" />
         <mark key="]" line="130" column="48" />
         <mark key="^" line="130" column="49" />
         <mark key="." line="130" column="48" />
       </file>
       <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589388245803">
-        <mark key="[" line="100" column="25" />
-        <mark key="]" line="100" column="25" />
-        <mark key="." line="100" column="25" />
-        <mark key="^" line="100" column="36" />
+        <mark key="[" line="102" column="25" />
+        <mark key="]" line="102" column="25" />
+        <mark key="." line="102" column="25" />
+        <mark key="^" line="102" column="36" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/twiss.irerrors.tfs" timestamp="1589372273955" />
       <file name="/Dummy.txt" timestamp="1589309041083">
@@ -137,11 +137,10 @@
       <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/minrpc/ipc.py" timestamp="1589303406839">
         <mark key="[" line="106" column="52" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589400504954">
-        <mark key="[" line="172" column="14" />
-        <mark key="]" line="172" column="14" />
-        <mark key="." line="172" column="14" />
-        <mark key="^" line="476" column="40" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589402629105">
+        <mark key="[" line="390" column="8" />
+        <mark key="]" line="390" column="0" />
+        <mark key="." line="390" column="0" />
       </file>
       <file name="$USER_HOME$/Software/regresspy/README.md" timestamp="1589138923688">
         <mark key="[" line="1" column="115" />
@@ -157,37 +156,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>_fit_exponential</text>
+        <text>directory</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">YmVhbSwgc2VxdWVuY2U9bGhjYjEsIGJ2PTEsIGVuZXJneTo9TlJKLCBwYXJ0aWNsZT1wcm90b24sIG5wYXJ0PTEwMDAwMDAwMDAwLjAsIGtidW5jaD0xLCBleD03LjI5NzY3MTQ2ODg5ZS0wOSwgZXk9Ny4yOTc2NzE0Njg4OWUtMDk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_fit_exponential</text>
+        <text>directory</text>
       </register>
-      <register name="0" type="4">
-        <text>fit_fun, x, y, sx, sy</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVscD0iRGF0YWZyYW1lIG9yIFBhdGggb2YgcHJlLXNhdmVkIGludGVuc2l0eSB0ZnMuIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpdGggc3VwcHJlc3MoSU9FcnJvcik6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbWl0dGFuY2VfYndzX3Rmcz1kaWN0KAogICAgICAgICAgICBoZWxwPSJEYXRhZnJhbWUgb3IgUGF0aCBvZiBwcmUtc2F2ZWQgaW50ZW5zaXR5IHRmcy4iLAogICAgICAgICksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIF9kb19saW5lYXJfZml0KGFjdGlvbiwgZW1pdHRhbmNlLCByZWxfbG9zc2VzLCBpbml0X2d1ZXNzKToKICAgIHggPSBbYWN0aW9uWzBdLCBlbWl0dGFuY2VbMF1dCiAgICB5ID0gcmVsX2xvc3Nlc1swXQoKICAgIHN4ID0gW2FjdGlvblsxXSwgZW1pdHRhbmNlWzFdXQogICAgc3kgPSByZWxfbG9zc2VzWzFdCiAgICByZXR1cm4geCwgeSwgc3gsIHN5LCBmdW5fZXhwX2RlY2F5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZT1zdHIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvZHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyctbycsICItLW91dGRpciJdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgZG8gcHJlbGltIGZpdAogICAgaW5pdF9maXQgPSBfZml0X2N1cnZlKHgsIHksIGluaXRfZ3Vlc3MpCgogICAgIyBkbyBvZHIKICAgIG9kciA9IF9maXRfb2RyKHgsIHksIHN4LCBzeSwgaW5pdF9maXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZWQ9VHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZG8gcHJlbGltIGZpdAogICAgaW5pdF9maXQgPSBfZml0X2N1cnZlKHN3YXBfZnVuX3BhcmFtZXRlcnMoZnVuX2V4cF9kZWNheSksIHgsIHksIGluaXRfZ3Vlc3MpCgogICAgIyBkbyBvZHIKICAgIG9kciA9IF9maXRfb2RyKGZ1bl9leHBfZGVjYXksIHgsIHksIHN4LCBzeSwgaW5pdF9maXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRhZnRlciJdLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -202,10 +201,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRiZWZvcmUiXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhZ3M9WyItLXRhcm91bmQiXSwK</text>
       </register>
     </registers>
   </component>
