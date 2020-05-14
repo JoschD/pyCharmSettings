@@ -114,11 +114,11 @@
         <mark key="[" line="77" column="0" />
         <mark key="]" line="80" column="78" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/tst_michael_fda.py" timestamp="1589469365886">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="27" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Software/pylhc/tst_michael_fda.py" timestamp="1589478844986">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Software/pylhc/tst_parser_and_typehints.py" timestamp="1589451663578">
         <mark key="[" line="0" column="0" />
@@ -149,14 +149,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sc19raWNrCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>col_err_mean</text>
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgeSA9IG5wLmFycmF5KFtucC5hdmVyYWdlKGVsZW0pIGZvciBlbGVtIGluIHlfbmV3LnZhbHVlcygpXSkK</text>
