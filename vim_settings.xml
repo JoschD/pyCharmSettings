@@ -67,7 +67,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589475826294">
+      <file name="/Python Console" timestamp="1589537032934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,10 +92,11 @@
       <file name="$USER_HOME$/Software/tfs/CHANGELOG.md" timestamp="1589454132958">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589453654348">
-        <mark key="]" line="164" column="22" />
-        <mark key="^" line="158" column="25" />
-        <mark key="." line="164" column="22" />
+      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589537001296">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="198" column="12" />
+        <mark key="^" line="198" column="12" />
+        <mark key="." line="198" column="11" />
       </file>
       <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589402732596">
         <mark key="[" line="255" column="66" />
@@ -149,8 +150,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>* BSRT_EMITTANCE_TO_METER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIHRlc3RfdGZzX3dyaXRlX3JlYWQoX2RhdGFmcmFtZTogVGZzRGF0YUZyYW1lLCBfdGVzdF9maWxlOiBzdHIpOgogICAgd3JpdGVfdGZzKF90ZXN0X2ZpbGUsIF9kYXRhZnJhbWUpCiAgICBhc3NlcnQgcGF0aGxpYi5QYXRoKF90ZXN0X2ZpbGUpLmlzX2ZpbGUoKQoKICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCiAgICBhc3NlcnRfZnJhbWVfZXF1YWwoX2RhdGFmcmFtZSwgbmV3LCBjaGVja19leGFjdD1GYWxzZSkgICMgZmxvYXQgcHJlY2lzaW9uIGNhbiBiZSBhbiBpc3N1ZQo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -159,7 +160,7 @@
         <text>* BSRT_EMITTANCE_TO_METER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeSA9IG5wLmFycmF5KFtucC5hdmVyYWdlKGVsZW0pIGZvciBlbGVtIGluIHlfbmV3LnZhbHVlcygpXSkK</text>
+        <text encoding="base64">ZGVmIHRlc3RfdGZzX3dyaXRlX3JlYWQoX2RhdGFmcmFtZTogVGZzRGF0YUZyYW1lLCBfdGVzdF9maWxlOiBzdHIpOgogICAgd3JpdGVfdGZzKF90ZXN0X2ZpbGUsIF9kYXRhZnJhbWUpCiAgICBhc3NlcnQgcGF0aGxpYi5QYXRoKF90ZXN0X2ZpbGUpLmlzX2ZpbGUoKQoKICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCiAgICBhc3NlcnRfZnJhbWVfZXF1YWwoX2RhdGFmcmFtZSwgbmV3LCBjaGVja19leGFjdD1GYWxzZSkgICMgZmxvYXQgcHJlY2lzaW9uIGNhbiBiZSBhbiBpc3N1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sc19raWNrCg==</text>
