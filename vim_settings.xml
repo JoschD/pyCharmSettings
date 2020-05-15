@@ -79,12 +79,6 @@
       <file name="/a.dummy" timestamp="1589462516492">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589367410953">
-        <mark key="[" line="277" column="14" />
-        <mark key="]" line="257" column="11" />
-        <mark key="." line="257" column="10" />
-        <mark key="^" line="257" column="11" />
-      </file>
       <file name="$USER_HOME$/Software/omc3/omc3/amplitude_detuning_analysis.py" timestamp="1589406560304">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="138" column="10" />
@@ -92,17 +86,17 @@
       <file name="$USER_HOME$/Software/tfs/CHANGELOG.md" timestamp="1589454132958">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589537001296">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="198" column="12" />
-        <mark key="^" line="198" column="12" />
-        <mark key="." line="198" column="11" />
+      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589538927161">
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="4" />
+        <mark key="." line="63" column="4" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589402732596">
-        <mark key="[" line="255" column="66" />
-        <mark key="]" line="115" column="48" />
+      <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/pandas/util/testing.py" timestamp="1589538414405" />
+      <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589537220875">
+        <mark key="[" line="368" column="7" />
+        <mark key="]" line="295" column="53" />
         <mark key="^" line="115" column="49" />
-        <mark key="." line="115" column="48" />
+        <mark key="." line="295" column="53" />
       </file>
       <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589462527944">
         <mark key="[" line="63" column="25" />
@@ -150,38 +144,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfdGZzX3dyaXRlX3JlYWQoX2RhdGFmcmFtZTogVGZzRGF0YUZyYW1lLCBfdGVzdF9maWxlOiBzdHIpOgogICAgd3JpdGVfdGZzKF90ZXN0X2ZpbGUsIF9kYXRhZnJhbWUpCiAgICBhc3NlcnQgcGF0aGxpYi5QYXRoKF90ZXN0X2ZpbGUpLmlzX2ZpbGUoKQoKICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCiAgICBhc3NlcnRfZnJhbWVfZXF1YWwoX2RhdGFmcmFtZSwgbmV3LCBjaGVja19leGFjdD1GYWxzZSkgICMgZmxvYXQgcHJlY2lzaW9uIGNhbiBiZSBhbiBpc3N1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>assertDictEqual</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>* BSRT_EMITTANCE_TO_METER</text>
+        <text>assertDictEqual</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfdGZzX3dyaXRlX3JlYWQoX2RhdGFmcmFtZTogVGZzRGF0YUZyYW1lLCBfdGVzdF9maWxlOiBzdHIpOgogICAgd3JpdGVfdGZzKF90ZXN0X2ZpbGUsIF9kYXRhZnJhbWUpCiAgICBhc3NlcnQgcGF0aGxpYi5QYXRoKF90ZXN0X2ZpbGUpLmlzX2ZpbGUoKQoKICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCiAgICBhc3NlcnRfZnJhbWVfZXF1YWwoX2RhdGFmcmFtZSwgbmV3LCBjaGVja19leGFjdD1GYWxzZSkgICMgZmxvYXQgcHJlY2lzaW9uIGNhbiBiZSBhbiBpc3N1ZQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mcmFtZV9lcXVhbChkZiwgbmV3KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2wgaW4gY29sc19raWNrCg==</text>
+        <text encoding="base64">ZnJvbSB1bml0dGVzdC5UZXN0Q2FzZSBpbXBvcnQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtpY2tfZGZbZXJyX2NvbChjb2xfZW1pdHRhbmNlKV0gPSBraWNrX2RmW2Vycl9jb2woY29sX25lbWl0dGFuY2UpXSAvIG5vcm1hbGl6YXRpb24K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnVtcHkuYXJyYXlfZXF1YWwob3JpZ2luYWwubG9jWzosIGNvbHVtbl0udmFsdWVzLCBuZXcubG9jWzosIGNvbHVtbl0udmFsdWVzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGR1cGxpY2F0ZV9tYXNrID0gW1RydWVdICsgW2RmLmluZGV4W2lkeF0gIT0gZGYuaW5kZXhbaWR4LTFdIGZvciBpZHggaW4gcmFuZ2UoMSwgbGVuKGRmLmluZGV4KSldCiAgICBkZiA9IGRmLmxvY1tkdXBsaWNhdGVfbWFzaywgOl0KCg==</text>
+        <text encoding="base64">ICAgIGZvciBjb2x1bW4gaW4gb3JpZ2luYWw6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBudW1weS5hcnJheV9lcXVhbChvcmlnaW5hbC5jb2x1bW5zLCBuZXcuY29sdW1ucykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsZWFuIGluZGV4Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBvcmlnaW5hbC5oZWFkZXJzID09IG5ldy5oZWFkZXJzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -196,10 +190,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9kaWN0X2VxdWFsKF9kYXRhZnJhbWUuaGVhZGVycywgZGZfcmVhZC5oZWFkZXJzLCBjb21wYXJlX2tleXM9VHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGZbY29sX2Vycl9tZWFuXSA9IHN0ZAo=</text>
+        <text encoding="base64">ICAgICMgYXNzZXJ0IGFsbCgoZGZfcmVhZC5pbmRleC52YWx1ZXMgLSBkZi5pbmRleC52YWx1ZXMpIDw9IDFlLTEyKQo=</text>
       </register>
     </registers>
   </component>
