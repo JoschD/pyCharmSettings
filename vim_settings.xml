@@ -67,7 +67,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589537032934">
+      <file name="/Python Console" timestamp="1589539839528">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -83,13 +83,19 @@
         <mark key="[" line="134" column="0" />
         <mark key="]" line="138" column="10" />
       </file>
+      <file name="$USER_HOME$/Software/tfs/setup.cfg" timestamp="1589539760730">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Software/tfs/CHANGELOG.md" timestamp="1589454132958">
         <mark key="[" line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589538927161">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="63" column="4" />
-        <mark key="." line="63" column="4" />
+      <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589540241270">
+        <mark key="[" line="120" column="28" />
+        <mark key="]" line="61" column="73" />
+        <mark key="^" line="124" column="19" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/pandas/util/testing.py" timestamp="1589538414405" />
       <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589537220875">
@@ -98,13 +104,18 @@
         <mark key="^" line="115" column="49" />
         <mark key="." line="295" column="53" />
       </file>
+      <file name="$USER_HOME$/Software/tfs/tfs/fixed_dataframe.py" timestamp="1589539606495">
+        <mark key="[" line="148" column="25" />
+        <mark key="]" line="148" column="0" />
+        <mark key="^" line="148" column="66" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589462527944">
         <mark key="[" line="63" column="25" />
         <mark key="]" line="63" column="90" />
         <mark key="." line="63" column="0" />
         <mark key="^" line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/twiss.irerrors.tfs" timestamp="1589372273955" />
       <file name="$USER_HOME$/Software/omc3/omc3/tune_analysis/kick_file_modifiers.py" timestamp="1589407534260">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="80" column="78" />
@@ -118,14 +129,17 @@
       <file name="$USER_HOME$/Software/pylhc/tst_parser_and_typehints.py" timestamp="1589451663578">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/test_michael_fda.py" timestamp="1589381755102">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589479863145">
         <mark key="[" line="470" column="91" />
         <mark key="]" line="478" column="44" />
         <mark key="^" line="477" column="32" />
         <mark key="." line="478" column="44" />
+      </file>
+      <file name="$USER_HOME$/Software/tfs/tests/test_fixed_dataframe.py" timestamp="1589539781712">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="156" column="41" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/omc3/utils/time_tools.py" timestamp="1589460384726">
         <mark key="[" line="68" column="0" />
@@ -144,38 +158,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>assertDictEqual</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2RhdGFmcmFtZXMK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>assertDictEqual</text>
+        <text># Unsure of cls.filename.format, this breaks tests</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mcmFtZV9lcXVhbChkZiwgbmV3KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9kaWN0X2VxdWFsKGRmLmhlYWRlcnMsIGRmX3JlYWQuaGVhZGVycywgY29tcGFyZV9rZXlzPVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB1bml0dGVzdC5UZXN0Q2FzZSBpbXBvcnQgCg==</text>
+        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2RhdGFmcmFtZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YWRkb3B0cz0gLS1jb3YtcmVwb3J0IHhtbCAtLWNvdj10ZnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbnVtcHkuYXJyYXlfZXF1YWwob3JpZ2luYWwubG9jWzosIGNvbHVtbl0udmFsdWVzLCBuZXcubG9jWzosIGNvbHVtbl0udmFsdWVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgY2xzLmZpbGVuYW1lLmZvcm1hdChwbGFuZSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBjb2x1bW4gaW4gb3JpZ2luYWw6Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhcmVfZGF0YWZyYW1lcyhkZiwgZGZfcmVhZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBudW1weS5hcnJheV9lcXVhbChvcmlnaW5hbC5jb2x1bW5zLCBuZXcuY29sdW1ucykK</text>
+        <text encoding="base64">ICAgIGNvbXBhcmVfZGF0YWZyYW1lcyhkZiwgZGZfcmVhZCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBvcmlnaW5hbC5oZWFkZXJzID09IG5ldy5oZWFkZXJzCg==</text>
+        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2Zsb2F0X2RhdGFmcmFtZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhcmVfZmxvYXRfZGF0YWZyYW1lcyhkZiwgbmV3KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -190,10 +204,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9kaWN0X2VxdWFsKF9kYXRhZnJhbWUuaGVhZGVycywgZGZfcmVhZC5oZWFkZXJzLCBjb21wYXJlX2tleXM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYXNzZXJ0IGFsbCgoZGZfcmVhZC5pbmRleC52YWx1ZXMgLSBkZi5pbmRleC52YWx1ZXMpIDw9IDFlLTEyKQo=</text>
+        <text encoding="base64">ICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCg==</text>
       </register>
     </registers>
   </component>
