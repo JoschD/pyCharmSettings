@@ -70,16 +70,17 @@
       <file name="/Dummy.txt" timestamp="1589550575629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589793653294">
+      <file name="/Python Console" timestamp="1589799583581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
         <mark key="[" line="91" column="22" />
       </file>
-      <file name="/fragment.py" timestamp="1589465828672">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589799435524">
+        <mark key="[" line="175" column="51" />
+        <mark key="]" line="175" column="124" />
+        <mark key="." line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589793154758" />
       <file name="$USER_HOME$/Software/pylhc/tst_michael_fda.py" timestamp="1589478844986">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -118,6 +119,17 @@
       <file name="$USER_HOME$/Software/omc3/tests/accuracy/test_measure_optics.py" timestamp="1589550376258">
         <mark key="[" line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/opticsfile.22_ctpps2" timestamp="1589799521170">
+        <mark key="[" line="1474" column="0" />
+        <mark key="]" line="1474" column="0" />
+        <mark key="." line="1474" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/bblumi_example.py" timestamp="1589797469301">
+        <mark key="[" line="102" column="27" />
+        <mark key="]" line="102" column="4" />
+        <mark key="." line="102" column="4" />
+        <mark key="^" line="94" column="0" />
+      </file>
       <file name="$USER_HOME$/Software/tfs/tfs/handler.py" timestamp="1589537220875">
         <mark key="[" line="368" column="7" />
         <mark key="]" line="295" column="53" />
@@ -130,12 +142,6 @@
         <mark key="^" line="148" column="66" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/constants/forced_da_analysis.py" timestamp="1589462527944">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="63" column="90" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="62" column="11" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
@@ -145,37 +151,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2RhdGFmcmFtZXMK</text>
+        <text encoding="base64">ISByZXR1cm4gOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text># Unsure of cls.filename.format, this breaks tests</text>
+        <text>stdout=f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9kaWN0X2VxdWFsKGRmLmhlYWRlcnMsIGRmX3JlYWQuaGVhZGVycywgY29tcGFyZV9rZXlzPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cigib3B0aWNzMjAxOCIsICJQUk9UT04iLCAib3B0aWNzZmlsZS4yMl9jdHBwczIiKSkgICMgUmVkZWZpbmUgT3B0aWNzIHRvIFJvdW5kIDMwY20gY29sbGlzaW9uIG9wdGljcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2RhdGFmcmFtZXMK</text>
+        <text encoding="base64">ISByZXR1cm4gOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkb3B0cz0gLS1jb3YtcmVwb3J0IHhtbCAtLWNvdj10ZnMK</text>
+        <text encoding="base64">ICEqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2ZpbGVuYW1lID0gb3MucGF0aC5qb2luKGRpcmVjdG9yeSwgY2xzLmZpbGVuYW1lLmZvcm1hdChwbGFuZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4ID0gTWFkeCgpZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmVfZGF0YWZyYW1lcyhkZiwgZGZfcmVhZCkK</text>
+        <text encoding="base64">ICAgIHBsb3RfdHdpc3MobXlUd2lzcykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmVfZGF0YWZyYW1lcyhkZiwgZGZfcmVhZCkK</text>
+        <text encoding="base64">ICAgIHBsb3RfdHdpc3MobXlUd2lzcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuaGVscGVyIGltcG9ydCBjb21wYXJlX2Zsb2F0X2RhdGFmcmFtZXMK</text>
+        <text encoding="base64">ICAgIG1hZHguaW5wdXQoJ3N1cnZleTsnKQogICAgbXlTdXJ2ZXk9bWFkeC50YWJsZS5zdXJ2ZXkuZGZyYW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBhcmVfZmxvYXRfZGF0YWZyYW1lcyhkZiwgbmV3KQo=</text>
+        <text encoding="base64">bXlTdXJ2ZXk9bWFkeC50YWJsZS5zdXJ2ZXkuZGZyYW1lKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -190,10 +196,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyA9IHJlYWRfdGZzKF90ZXN0X2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
