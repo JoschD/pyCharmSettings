@@ -70,7 +70,7 @@
       <file name="/Dummy.txt" timestamp="1589550575629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1589805027049">
+      <file name="/Python Console" timestamp="1590482848008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
@@ -86,11 +86,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1589820148239">
-        <mark key="i" line="367" column="34" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1590482896689">
+        <mark key="i" line="369" column="34" />
+        <mark key="[" line="320" column="67" />
+        <mark key="]" line="335" column="0" />
+        <mark key="." line="335" column="0" />
       </file>
       <file name="/" timestamp="1589816675331">
         <mark key="[" line="0" column="0" />
@@ -101,13 +101,18 @@
       <file name="$USER_HOME$/Software/tfs/CHANGELOG.md" timestamp="1589547842732">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.correction_scripts/irnl_rdt_correction.py" timestamp="1590484048564">
+        <mark key="[" line="155" column="51" />
+        <mark key="]" line="153" column="41" />
+        <mark key="^" line="92" column="16" />
+        <mark key="." line="151" column="26" />
+      </file>
       <file name="$USER_HOME$/Software/tfs/tests/test_handler.py" timestamp="1589540241270">
         <mark key="[" line="120" column="28" />
         <mark key="]" line="61" column="73" />
         <mark key="^" line="124" column="19" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/forced_da_analysis.py" timestamp="1589879666746" />
       <file name="$USER_HOME$/Software/tfs/tests/test_fixed_dataframe.py" timestamp="1589539781712">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -136,8 +141,10 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RDTs to correct.
+                          Format: 'Fjklm' or starting with 'J' or 'K'
+                          to force corrector type.</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -145,26 +152,31 @@
       <register name="-" type="4">
         <text>COLdOR_OUT</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIENPTE9SX0NNRCA9ICAgJ1wzM1swbVwzM1szODsyOzEzMjsxNjg7OTFtJwo=</text>
+      <register name="0" type="4">
+        <text>&quot;RDTs to correct. &quot;
+              &quot;Format: 'Fjklm', or starting with 'J' (skew) or 'K' (normal)&quot;
+              &quot; to force corrector type.&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>RDTs to correct.
+                          Format: 'Fjklm' or starting with 'J' or 'K'
+                          to force corrector type.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Format: 'Fjklm' or starting with 'J' or 'K'
+                          to force corrector type.</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIENPTE9SX09VVCA9ICdcMzNbMG1cMzNbMzg7MjsxMjc7MTI3OzEzMG0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAiIEZvcm1hdDogJ0Zqa2xtJywgb3Igc3RhcnRpbmcgd2l0aCAnSicgb3IgJ0snIHRvIGZvcmNlIGNvcnJlY3RvciB0eXBlLiIpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENPTE9SX0NNRCA9ICdcMzNbMG1cMzNbMzg7MjsxMjc7MTMwOzEyN20nCg==</text>
+        <text encoding="base64">ICAgIGVsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENPTE9SX0xFVkVMID0gJ1wzM1swbVwzM1szODsyOzE1MDsxNTA7MjU1bScKICAgIENPTE9SX1dBUk4gPSAnXDMzWzBtXDMzWzM4OzI7MjU1OzE2MTs1M20nCiAgICBDT0xPUl9FUlJPUiA9ICdcMzNbMG1cMzNbMzg7MjsyMTY7MzE7NDJtJwo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENPTE9SX01FU1NBR0UgPSAnXDMzWzBtXDMzWzFtJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -182,10 +194,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbG9yczoK</text>
+        <text encoding="base64">ICAgIENPTE9SX09VVCA9ICdcMzNbMG1cMzNbMzg7MjsxMjc7MTI3OzEzMG0nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNtZF9mbXQgPSBsdmxfZm10Cg==</text>
+        <text encoding="base64">ICAgIENPTE9SX0NNRCA9ICdcMzNbMG1cMzNbMzg7MjsxMjc7MTMwOzEyN20nCg==</text>
       </register>
     </registers>
   </component>
