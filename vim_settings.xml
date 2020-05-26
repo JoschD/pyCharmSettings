@@ -70,7 +70,7 @@
       <file name="/Dummy.txt" timestamp="1589550575629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1590484216937">
+      <file name="/Python Console" timestamp="1590498638881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
@@ -86,11 +86,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="65" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1590485909150">
-        <mark key="i" line="378" column="34" />
-        <mark key="[" line="272" column="4" />
-        <mark key="]" line="344" column="0" />
-        <mark key="." line="344" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" timestamp="1590498809444">
+        <mark key="i" line="394" column="34" />
+        <mark key="[" line="340" column="43" />
+        <mark key="]" line="340" column="43" />
+        <mark key="." line="340" column="43" />
       </file>
       <file name="/" timestamp="1589816675331">
         <mark key="[" line="0" column="0" />
@@ -140,43 +140,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>efield</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>feeddown</text>
+        <text>efield</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;RDTs to correct. &quot;
-              &quot;Format: 'Fjklm', or starting with 'J' (skew) or 'K' (normal)&quot;
-              &quot; to force corrector type.&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9J3R3aXNzJywgY2xlYXI9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>RDTs to correct.
-                          Format: 'Fjklm' or starting with 'J' or 'K'
-                          to force corrector type.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG1hZHguZXhpdCgpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>Format: 'Fjklm' or starting with 'J' or 'K'
-                          to force corrector type.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAiIEZvcm1hdDogJ0Zqa2xtJywgb3Igc3RhcnRpbmcgd2l0aCAnSicgb3IgJ0snIHRvIGZvcmNlIGNvcnJlY3RvciB0eXBlLiIpLAo=</text>
+        <text encoding="base64">ICAgIGV0YWJsZSA9IG1hZHgudGFibGUuZXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIG1hZHguZXNhdmUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBOb21pbmFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc18gPSBbYy51cHBlcigpIGZvciBjIGluIGNsYXNzX10K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -191,10 +186,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjbGFzc186Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENPTE9SX09VVCA9ICdcMzNbMG1cMzNbMzg7MjsxMjc7MTI3OzEzMG0nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
   </component>
