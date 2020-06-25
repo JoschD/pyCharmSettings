@@ -132,6 +132,12 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593110260169">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="32" column="72" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="31" column="72" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
@@ -141,37 +147,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9ImVycm9yIikKICAgICMgbWFkeC5zZWxlY3QoZmxhZz0iZXJyb3IiLCBjbGVhcj1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdCAvICdITExIQy5JUDEyNTguZXJyX2E1X2E2X2I1X2I2Lm1hc2tfdHJpcGxldF9zdHJvbmdiNicsCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>column=['NAME',]</text>
+        <text>HLLHC.IP1258.err_a5_a6_b5_b6.mask_triplet_strongb6</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9ImVycm9yIikKICAgICMgbWFkeC5zZWxlY3QoZmxhZz0iZXJyb3IiLCBjbGVhcj1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm9vdCAvICdITExIQy5JUDEyNTguZXJyX2E1X2E2X2I1X2I2Lm1hc2tfdHJpcGxldF9zdHJvbmdiNicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9ImVycm9yIiwgY2xlYXI9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbWFkeC50aXRsZSgiSW5qZWN0aW9uIG9wdGljcyBQU0IgIikK</text>
+        <text encoding="base64">ICAgIGZpZyA9IHBsb3RfaGlzdG9ncmFtKHRmcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9ImVycm9yIiwgY2xlYXI9VHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBucC5hcnJheShpbmRleCwgZHR5cGU9Ym9vbCkK</text>
+        <text encoding="base64">ICAgICMgbWFkeC50aXRsZSgiSW5qZWN0aW9uIG9wdGljcyBQU0IgIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBucC5hcnJheShpbmRleCwgZHR5cGU9Ym9vbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -186,10 +192,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEF0dHJpYnV0ZUVycm9yOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
     </registers>
   </component>
