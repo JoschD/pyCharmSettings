@@ -70,6 +70,9 @@
       <file name="/Dummy.txt" timestamp="1589550575629">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Python Console" timestamp="1593199832082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
         <mark key="[" line="91" column="22" />
       </file>
@@ -138,11 +141,10 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593188550778">
-        <mark key="[" line="113" column="70" />
-        <mark key="]" line="68" column="72" />
-        <mark key="." line="68" column="4" />
-        <mark key="^" line="68" column="4" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593199940465">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593179868351">
         <mark key="[" line="163" column="0" />
@@ -156,38 +158,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>tfs_df.loc[:, tfs_df.columns.str.match(pattern)].sum(axis='columns')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>tfs_df.loc[:, tfs_df.columns.str.match(pattern)].sum(axis='columns')</text>
+        <text>get_data(tfs_df, pattern)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGF4LnNldF94bGFiZWwoZiJ7b3JkZXJ9IFt1bml0c10iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyUlIHRlc3Q=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhdmVfZmlnKGZpZywgb3V0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2ZpZyhmaWcsIG91dCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
+        <text encoding="base64">ZGVmIGdldF9kYXRhKHRmc19kZiwgcGF0dGVybik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyUlIHRlc3Q=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9JwogICAgICAgICAgICAgICAgICAgICAgICBmaWcgPSBmaWVsZF9lcnJvcl9hbmFseXNpcyh0ZnNfbGlzdCwgZmlsbGVkX3BhdHRlcm5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbHMsIGZpbGxlZF9sYWJlbCkKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
+        <text encoding="base64">ICAgIHNhdmVfZmlnKGZpZywgb3V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2ZpZ19sYWJlbH0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpZyhmaWcsIG91dCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -202,10 +204,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9Jwo=</text>
       </register>
     </registers>
   </component>
