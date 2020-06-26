@@ -70,7 +70,7 @@
       <file name="/Dummy.txt" timestamp="1589550575629">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1593113197871">
+      <file name="/Python Console" timestamp="1593182301068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
@@ -101,7 +101,7 @@
         <mark key="[" line="135" column="0" />
         <mark key="]" line="141" column="37" />
       </file>
-      <file name="/" timestamp="1589816675331">
+      <file name="/" timestamp="1593181175464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Software/tfs/README.md" timestamp="1589546492798">
@@ -140,15 +140,15 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593178932217">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="31" column="60" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593182955016">
+        <mark key="[" line="36" column="45" />
+        <mark key="]" line="36" column="45" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="47" column="61" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593177667771">
-        <mark key="[" line="165" column="42" />
-        <mark key="]" line="165" column="74" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593179868351">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -158,35 +158,35 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>f'plot.{fig.canvas.get_default_filename()}'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2hvdWxkIGNvbnRhaW4gYHNpZGVgIGFuZCBgaXBgIGFzIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlYW1fb3JkZXJfbGFiZWwgPSBnZXRfZnVsbF9sYWJlbChiZWFtLCBvcmRlciwgbWFpbl9sYWJlbCkKICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
+        <text encoding="base64">ICAgIHNhdmVfZmlnKGZpZywgb3V0KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpZyhmaWcsIG91dCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZpZy5zYXZlZmlnKG9zLnBhdGguam9pbihvdXQsIGYicGxvdC57ZmlnLmNhbnZhcy5nZXRfZGVmYXVsdF9maWxlbmFtZSgpfSIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9JwogICAgICAgICAgICAgICAgICAgICAgICBmaWcgPSBmaWVsZF9lcnJvcl9hbmFseXNpcyh0ZnNfbGlzdCwgZmlsbGVkX3BhdHRlcm5zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsYWJlbHMsIGZpbGxlZF9sYWJlbCkKICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2ZpZ19sYWJlbH0nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -204,10 +204,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgR2V0IEVycm9ycyBmcm9tIHRmcyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHJlYWRfdGZzKGZvbGRlciwgYmVhbSwgb3JkZXIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
