@@ -80,6 +80,10 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="49" />
       </file>
+      <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/omc3/plotting/utils/annotations.py" timestamp="1593177355530">
+        <mark key="[" line="158" column="32" />
+        <mark key="]" line="158" column="53" />
+      </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
         <mark key="]" line="5" column="66" />
@@ -92,6 +96,10 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
         <mark key="^" line="132" column="13" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/advanced_analysis.py" timestamp="1593176950742">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="141" column="37" />
       </file>
       <file name="/" timestamp="1589816675331">
         <mark key="[" line="0" column="0" />
@@ -132,11 +140,15 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593113448509">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593177986435">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="60" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593177667771">
+        <mark key="[" line="165" column="42" />
+        <mark key="]" line="165" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -146,38 +158,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>main_label</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>main_label</text>
+        <text>f'plot.{fig.canvas.get_default_filename()}'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZidMSEMgTVFYe25hbWV9LntpZF99e3NpZGV9e2lwfScsCg==</text>
+        <text encoding="base64">ICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlYW1fb3JkZXJfbGFiZWwgPSBnZXRfZnVsbF9sYWJlbChiZWFtLCBvcmRlciwgbWFpbl9sYWJlbCkKICAgIExPRy5pbmZvKGYnUnVubmluZyBhbmFseXNpcyBmb3Ige2JlYW1fb3JkZXJfbGFiZWx9JykK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgR2V0IEVycm9ycyBmcm9tIHRmcyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHJlYWRfdGZzKGZvbGRlciwgYmVhbSwgb3JkZXIpOgo=</text>
+        <text encoding="base64">ICAgIGZpZy5zYXZlZmlnKG9zLnBhdGguam9pbihvdXQsIGYicGxvdC57ZmlnLmNhbnZhcy5nZXRfZGVmYXVsdF9maWxlbmFtZSgpfSIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRmcy5yZWFkKGZvbGRlciAvIGYnYntiZWFtfS5nYXRoZXJlZF97b3JkZXJ9LnRmcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBlbGVtZW50IGluIGVsZW1lbnRzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyJ01RWHtuYW1lfVwuW0FCXT97aWRffXtzaWRlfXtpcH0uKicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -192,10 +204,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyJ01RWEZ7bmFtZX1cLltBQl17aWRffXtzaWRlfXtpcH0uKicK</text>
+        <text encoding="base64">IyAgR2V0IEVycm9ycyBmcm9tIHRmcyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVmIHJlYWRfdGZzKGZvbGRlciwgYmVhbSwgb3JkZXIpOgo=</text>
       </register>
     </registers>
   </component>
