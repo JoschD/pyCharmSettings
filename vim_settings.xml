@@ -141,14 +141,15 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593199940465">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593244510611">
+        <mark key="[" line="111" column="42" />
+        <mark key="]" line="113" column="37" />
+        <mark key="." line="113" column="22" />
+        <mark key="^" line="113" column="47" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593179868351">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="22" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593244480114">
+        <mark key="[" line="207" column="20" />
+        <mark key="]" line="207" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -158,17 +159,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u'savefig.format': u'pdf'</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>get_data(tfs_df, pattern)</text>
+        <text>u'savefig.format': u'pdf'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGF4LnNldF94bGFiZWwoZiJ7b3JkZXJ9IFt1bml0c10iKQo=</text>
+      <register name="0" type="4">
+        <text>'grid.alpha': 0</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
