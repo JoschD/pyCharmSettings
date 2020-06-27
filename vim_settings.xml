@@ -141,11 +141,10 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593244510611">
-        <mark key="[" line="111" column="42" />
-        <mark key="]" line="113" column="37" />
-        <mark key="." line="113" column="22" />
-        <mark key="^" line="113" column="47" />
+      <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593247801168">
+        <mark key="[" line="57" column="65" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/bar_compare.py" timestamp="1593244480114">
         <mark key="[" line="207" column="20" />
@@ -159,8 +158,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>u'savefig.format': u'pdf'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciBiZWFtIGluIGJlYW1zOgo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -172,25 +171,25 @@
         <text>'grid.alpha': 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBiZWFtIGluIGJlYW1zOgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGdldF9kYXRhKHRmc19kZiwgcGF0dGVybik6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyUlIHRlc3Q=</text>
+        <text encoding="base64">ZGVmIGdldF9kYXRhKHRmc19kZiwgcGF0dGVybik6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNhdmVfZmlnKGZpZywgb3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyUlIHRlc3Q=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX2ZpZyhmaWcsIG91dCkK</text>
+        <text encoding="base64">ICAgIHNhdmVfZmlnKGZpZywgb3V0KQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -205,10 +204,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX2ZpZyhmaWcsIG91dCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlsbGVkX3BhdHRlcm5zID0gKHNwLmZvcm1hdChzaWRlPXNpZGUsIGlwPWlwKSBmb3Igc3AgaW4gc3ViX3BhdHRlcm5zKQogICAgICAgICAgICAgICAgICAgICAgICBmaWxsZWRfbGFiZWwgPSBmJ3tmaWdfbGFiZWwuZm9ybWF0KHNpZGU9c2lkZXMsIGlwPWlwKX0gQntiZWFtfSB7b3JkZXJ9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2F2ZV9maWcoZmlnLCBvdXQpCg==</text>
       </register>
     </registers>
   </component>
