@@ -67,9 +67,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589550575629">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1593613759207">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,10 +81,15 @@
         <mark key="[" line="158" column="32" />
         <mark key="]" line="158" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1593719668168">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1593771058232">
+        <mark key="[" line="365" column="0" />
+        <mark key="]" line="365" column="0" />
+        <mark key="." line="365" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1593771557786">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="23" />
+        <mark key="." line="44" column="23" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -131,7 +133,12 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593768890690" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593771544773">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1593529104181">
         <mark key="[" line="200" column="24" />
         <mark key="]" line="27" column="0" />
@@ -156,38 +163,38 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBsb2dnZXIgZm9yIG1hZHggY29tbWFuZHMK</text>
+      <register name="&quot;" type="4">
+        <text>optics2018</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>return_dict</text>
+        <text>optics2018</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNlZSBhbHNvIDpmdW5jOmBzZXRfdHVuZV9hbmRfZGlzcGVyc2lvbl9rbm9iX3ZhbHVlc2AK</text>
+        <text encoding="base64">ICAgIG1hZHggPSBNYWR4KCoqY3B5bWFkX2xvZ2dpbmdfc2V0dXAoKSkKICAgIG12YXJzID0gbWFkeC5nbG9iYWxzICAjIHNob3J0aGFuZAogICAgbXZhcnMubXlsaGNiZWFtID0gYmVhbSAgIyB1c2VkIGluIG1hY3JvcwoKICAgICMgTG9hZCBNYWNyb3MKICAgIG1hZHguY2FsbChwYXRoc3RyKCJvcHRpY3MyMDE4IiwgInRvb2xraXQiLCAibWFjcm8ubWFkeCIpKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBsb2dnZXIgZm9yIG1hZHggY29tbWFuZHMK</text>
+        <text encoding="base64">ICAgICJvcHRpY3MyMDE4IjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL3J1bklJLzIwMTgiKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIENyZWF0ZSBsb2dnZXIgZm9yIG1hZHggb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgICJvcHRpY3MyMDE3IjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL3J1bklJLzIwMTciKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybl9kaWN0ID0ge30K</text>
+        <text encoding="base64">ICAgICJvcHRpY3MyMDE2IjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL3J1bklJLzIwMTYiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4X291dF9sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcignbWFkeG91dCcpCg==</text>
+        <text encoding="base64">ICAgICJmaWRlbCI6IFBhdGgoIi9hZnMvY2Vybi5jaC9lbmcvbGhjL29wdGljcy9WNi41MDMvRmlEZUwiKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4X2NtZF9sb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcignbWFkeGNtZCcpCg==</text>
+        <text encoding="base64">ICAgICMgIndpc2UiOiBQYXRoKCIvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvVjYuNTAzL1dJU0UiKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fZGljdFsnY29tbWFuZF9sb2cnXSA9IGNtZF9zdHJlYW0K</text>
+        <text encoding="base64">ICAgICMgIm9wdGljczIwMTciOiBQYXRoKCIvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvcnVuSUkvMjAxNyIpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5fZGljdFsnc3Rkb3V0J10gPSBvdXRfc3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICMgIndpc2UiOiBQYXRoKCIvYWZzL2Nlcm4uY2gvZW5nL2xoYy9vcHRpY3MvVjYuNTAzL1dJU0UiKSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -202,10 +209,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgImZpZGVsIjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL1Y2LjUwMy9GaURlTCIpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICJ3aXNlIjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL1Y2LjUwMy9XSVNFIiksCg==</text>
       </register>
     </registers>
   </component>
