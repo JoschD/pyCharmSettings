@@ -86,10 +86,11 @@
         <mark key="]" line="365" column="0" />
         <mark key="." line="365" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1593771557786">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="23" />
-        <mark key="." line="44" column="23" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1593771761657">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="44" column="56" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -133,9 +134,9 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593771544773">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="60" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593771756518">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="56" />
         <mark key="^" line="8" column="55" />
         <mark key="." line="19" column="0" />
       </file>
@@ -163,8 +164,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>optics2018</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVtaXR0YW5jZSA9IDcuMjk3NjcxNDY4ODllLTA5CiAgICBuX3BhcnRpY2xlcyA9IDEuMGUxMCAgICMgbnVtYmVyIG9mIHBhcnRpY2xlcyBpbiBiZWFtCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -173,7 +174,7 @@
         <text>optics2018</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hZHggPSBNYWR4KCoqY3B5bWFkX2xvZ2dpbmdfc2V0dXAoKSkKICAgIG12YXJzID0gbWFkeC5nbG9iYWxzICAjIHNob3J0aGFuZAogICAgbXZhcnMubXlsaGNiZWFtID0gYmVhbSAgIyB1c2VkIGluIG1hY3JvcwoKICAgICMgTG9hZCBNYWNyb3MKICAgIG1hZHguY2FsbChwYXRoc3RyKCJvcHRpY3MyMDE4IiwgInRvb2xraXQiLCAibWFjcm8ubWFkeCIpKQoK</text>
+        <text encoding="base64">ICAgIGVtaXR0YW5jZSA9IDcuMjk3NjcxNDY4ODllLTA5CiAgICBuX3BhcnRpY2xlcyA9IDEuMGUxMCAgICMgbnVtYmVyIG9mIHBhcnRpY2xlcyBpbiBiZWFtCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJvcHRpY3MyMDE4IjogUGF0aCgiL2Fmcy9jZXJuLmNoL2VuZy9saGMvb3B0aWNzL3J1bklJLzIwMTgiKSwK</text>
