@@ -81,17 +81,16 @@
         <mark key="[" line="158" column="32" />
         <mark key="]" line="158" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1593785765139">
-        <mark key="[" line="150" column="8" />
-        <mark key="]" line="155" column="10" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="144" column="12" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1593786988412">
+        <mark key="[" line="152" column="25" />
+        <mark key="]" line="148" column="27" />
+        <mark key="." line="148" column="43" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1593785021089">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="27" />
-        <mark key="^" line="91" column="14" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1593787716983">
+        <mark key="[" line="104" column="28" />
+        <mark key="]" line="108" column="82" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -135,11 +134,10 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593784768513">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="50" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593787707909">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="101" column="82" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1593529104181">
         <mark key="[" line="200" column="24" />
@@ -166,7 +164,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnbGhjX3RvcCc6IHsKICAgICAgICAgICAgJ29uX3gxJzogLTE2MCwgJ29uX3NlcDEnOiAtMC41NSwKICAgICAgICAgICAgJ29uX3gyJzogIDIwMCwgJ29uX3NlcDInOiAxLjQsCiAgICAgICAgICAgICdvbl94NSc6ICAxNjAsICdvbl9zZXA1JzogMC41NSwKICAgICAgICAgICAgJ29uX3g4JzogLTI1MCwgJ29uX3NlcDgnOiAtMSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBOb21pbmFsCiAgICBtYXRjaF90dW5lKG1hZHgsIGFjY2VsPSJMSEMiLCBzZXF1ZW5jZT1zZXFfbmFtZSwKICAgICAgICAgICAgICAgcXg9dHVuZV94LCBxeT10dW5lX3ksIGRxeD1kaXNwZXJzaW9uLCBkcXk9ZGlzcGVyc2lvbikKICAgIG1hZHgudHdpc3Moc2VxdWVuY2U9c2VxX25hbWUpCiAgICBkZl90d2lzc19ub21pbmFsID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywgKQogICAgdGZzLndyaXRlKGYndHdpc3MuYntiZWFtOmR9Lm5vbWluYWwudGZzJywgZGZfdHdpc3Nfbm9taW5hbCwgc2F2ZV9pbmRleD0iTkFNRSIpCg==</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -175,28 +173,28 @@
         <text>install_mqxf_fringenl.madx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnbGhjX3RvcCc6IHsKICAgICAgICAgICAgJ29uX3gxJzogLTE2MCwgJ29uX3NlcDEnOiAtMC41NSwKICAgICAgICAgICAgJ29uX3gyJzogIDIwMCwgJ29uX3NlcDInOiAxLjQsCiAgICAgICAgICAgICdvbl94NSc6ICAxNjAsICdvbl9zZXA1JzogMC41NSwKICAgICAgICAgICAgJ29uX3g4JzogLTI1MCwgJ29uX3NlcDgnOiAtMSwKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBOb21pbmFsCiAgICBtYXRjaF90dW5lKG1hZHgsIGFjY2VsPSJMSEMiLCBzZXF1ZW5jZT1zZXFfbmFtZSwKICAgICAgICAgICAgICAgcXg9dHVuZV94LCBxeT10dW5lX3ksIGRxeD1kaXNwZXJzaW9uLCBkcXk9ZGlzcGVyc2lvbikKICAgIG1hZHgudHdpc3Moc2VxdWVuY2U9c2VxX25hbWUpCiAgICBkZl90d2lzc19ub21pbmFsID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywgKQogICAgdGZzLndyaXRlKGYndHdpc3MuYntiZWFtOmR9Lm5vbWluYWwudGZzJywgZGZfdHdpc3Nfbm9taW5hbCwgc2F2ZV9pbmRleD0iTkFNRSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzaWdlPXJlbF9lbmVyZ3lfc3ByZWFkLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBrYnVuY2g9MSwK</text>
+        <text encoding="base64">ICAgIG1hZHguc2VsZWN0KGZsYWc9J3R3aXNzJywgY2xlYXI9VHJ1ZSkgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNpZ21hX2VtaXR0YW5jZSkK</text>
+        <text encoding="base64">ICAgIG1hZHgudHdpc3Moc2VxdWVuY2U9c2VxX25hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hdGNoX3R1bmUobWFkeCwgYWNjZWw9IkxIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29uX29oNSc6IC0xLjgsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29uX29oNSc6IC0xLjgsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hZHggPSBNYWR4KCoqY3B5bWFkX2xvZ2dpbmdfc2V0dXAoKSkKICAgIG12YXJzID0gbWFkeC5nbG9iYWxzICAjIHNob3J0aGFuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzaWdlPXJlbF9lbmVyZ3lfc3ByZWFkLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -211,10 +209,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcV9maWxlID0gImxoY19hcy1idWlsdC5zZXEiCiAgICBzZXFfbmFtZSA9IGYibGhjYntiZWFtfSIKICAgIGJ2X2ZsYWcgPSAtMSBpZiBiZWFtID09IDIgZWxzZSAxCiAgICBpZiBiZWFtID09IDQ6CiAgICAgICAgc2VxX2ZpbGUgPSAibGhjYjRfYXMtYnVpbHQuc2VxIgogICAgICAgIHNlcV9uYW1lID0gZiJsaGNiMiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrYnVuY2g9MSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNpZ21hX2VtaXR0YW5jZSkK</text>
       </register>
     </registers>
   </component>
