@@ -134,9 +134,9 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1593787707909">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="101" column="82" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594123979363">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="106" column="100" />
         <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1593529104181">
@@ -164,7 +164,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciB2YXIgaW4gOgo=</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBub21pbmFsIG9wdGljcyBmb3IgaXIgbmwgY29ycmVjdGlvbgogICAgZGZfdHdpc3Nfbm9taW5hbF9jb3JyZWN0ID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhfcmVnZXg9Ik0oW14uXStYfEJSQykiLCApCiAgICB0ZnMud3JpdGUoZid0ZW1wL3R3aXNzLmJ7YmVhbTpkfS5vcHRpY3NfaW5zZXIudGZzJywgZGZfdHdpc3Nfbm9taW5hbF9jb3JyZWN0LCBzYXZlX2luZGV4PSJOQU1FIikK</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
@@ -173,7 +173,7 @@
         <text>variables + special.keys()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciB2YXIgaW4gdmFyaWFibGVzOgogICAgICAgIG1hZHguZ2xvYmFsc1t2YXJdID0ga3dhcmdzLnBvcCh2YXIsIHNjaGVtZS5wb3AodmFyLCAwKSkK</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBub21pbmFsIG9wdGljcyBmb3IgaXIgbmwgY29ycmVjdGlvbgogICAgZGZfdHdpc3Nfbm9taW5hbF9jb3JyZWN0ID0gZ2V0X3RmcyhtYWR4LnRhYmxlLnR3aXNzLCBjb2x1bW5zPURFRkFVTFRfQ09MVU1OUywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5kZXhfcmVnZXg9Ik0oW14uXStYfEJSQykiLCApCiAgICB0ZnMud3JpdGUoZid0ZW1wL3R3aXNzLmJ7YmVhbTpkfS5vcHRpY3NfaW5zZXIudGZzJywgZGZfdHdpc3Nfbm9taW5hbF9jb3JyZWN0LCBzYXZlX2luZGV4PSJOQU1FIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciB2YXIgaW4gOgo=</text>
