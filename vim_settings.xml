@@ -70,9 +70,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594050205090">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Software/omc3/omc3/optics_measurements/interaction_point.py" timestamp="1589551245646">
         <mark key="[" line="91" column="22" />
       </file>
@@ -90,12 +87,11 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="131" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594287902827">
-        <mark key="'" line="196" column="20" />
-        <mark key="[" line="259" column="52" />
-        <mark key="]" line="259" column="4" />
-        <mark key="." line="259" column="4" />
-        <mark key="^" line="256" column="20" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594291830688">
+        <mark key="'" line="204" column="20" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -139,11 +135,10 @@
         <mark key="]" line="123" column="43" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/exec_test.py" timestamp="1594199530999">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/exec_test.py" timestamp="1594290472912">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594143954198">
         <mark key="[" line="124" column="0" />
@@ -181,7 +176,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICdlcnJvcnMnLCAnRWZjb21wX01CSC5tYWR4JykpCg==</text>
+        <text encoding="base64">ICAgICMgU2hvcnRoYW5kIGRlZmluaXRpb25zIC0tLQogICAgZGVmIGFwcGx5X21lYXN1cmVkX2Vycm9ycygqbWFnbmV0cyk6CiAgICAgICAgZm9yIG1hZ25ldCBpbiBtYWduZXRzOgogICAgICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignZGI1JywgJ21lYXN1cmVkX2Vycm9ycycsIGYnRWZjb21wX3ttYWduZXR9Lm1hZHgnKSkKCiAgICBkZWYgYXBwbHlfaGxsaGNfZXJyb3JzKCptYWduZXRzKToKICAgICAgICBmb3IgbWFnbmV0IGluIG1hZ25ldHM6CiAgICAgICAgICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsIGYnRWZjb21wX3ttYWduZXR9Lm1hZHgnKSkKCiAgICBkZWYgc2V0X2VzZWVkKGFkZF90b19zZWVkKToKICAgICAgICBtYWR4LmVvcHRpb24oc2VlZD1sb2NhbF9zZWVkK2FkZF90b19zZWVkKQoK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -360,34 +355,34 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgbmV3IHRyaXBsZXQgY29ycmVjdG9ycyBpbiBJUjEvNQ==</text>
+        <text># new triplet correctors in IR1/5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICdlcnJvcnMnLCAnRWZjb21wX01CSC5tYWR4JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYWxsX3NsaGNfZXJyb3JzKCdNQkgnKSAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uX2IyX2F1eCA9IG12YXJzLm9uX2IycywgbXZhcnMub25fYjJyCg==</text>
+        <text encoding="base64">ICAgICMgU2hvcnRoYW5kIGRlZmluaXRpb25zIC0tLQogICAgZGVmIGFwcGx5X21lYXN1cmVkX2Vycm9ycygqbWFnbmV0cyk6CiAgICAgICAgZm9yIG1hZ25ldCBpbiBtYWduZXRzOgogICAgICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignZGI1JywgJ21lYXN1cmVkX2Vycm9ycycsIGYnRWZjb21wX3ttYWduZXR9Lm1hZHgnKSkKCiAgICBkZWYgYXBwbHlfaGxsaGNfZXJyb3JzKCptYWduZXRzKToKICAgICAgICBmb3IgbWFnbmV0IGluIG1hZ25ldHM6CiAgICAgICAgICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsIGYnRWZjb21wX3ttYWduZXR9Lm1hZHgnKSkKCiAgICBkZWYgc2V0X2VzZWVkKGFkZF90b19zZWVkKToKICAgICAgICBtYWR4LmVvcHRpb24oc2VlZD1sb2NhbF9zZWVkK2FkZF90b19zZWVkKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG12YXJzLm9uX2IycyA9IG9uX2Iyc19hdXgK</text>
+        <text encoding="base64">ICAgICMgQXBwbHkgZXJyb3JzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtdmFycy5vbl9iMnMgPSAwCg==</text>
+        <text encoding="base64">ICAgICMgQXBwbHkgZXJyb3JzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9uX2Iyc19hdXggPSBtdmFycy5vbl9iMnMK</text>
+        <text encoding="base64">ICAgICMgQXBwbHkgQXJjIEVycm9ycyAtLS0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
+        <text encoding="base64">aGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
+        <text encoding="base64">bWFkeC5jYWxsKHBhdGhzdHIoJ3NsaGMnLCAnZXJyb3JzJywgJ0VmY29tcF9NQ0JSRC5tYWR4JykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICdlcnJvcnMnLCAnRWZjb21wX01CSC5tYWR4JykpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -461,10 +456,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hZHguZW9wdGlvbihzZWVkPXNlZWQrbG9jYWxfc2VlZCs1KQo=</text>
+        <text encoding="base64">ICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsICdFZmNvbXBfTUNCWEZBQi5tYWR4JykpICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hZHguZW9wdGlvbihzZWVkPXNlZWQrbG9jYWxfc2VlZCs0KQo=</text>
+        <text encoding="base64">ICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsICdFZmNvbXBfTVFZWS5tYWR4JykpICAK</text>
       </register>
     </registers>
   </component>
