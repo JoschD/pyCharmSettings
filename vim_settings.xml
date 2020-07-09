@@ -5,6 +5,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
+        <entry encoding="base64">XDxzbGhjXD4=</entry>
         <entry encoding="base64">XDxmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
@@ -89,12 +90,12 @@
         <mark key="." line="138" column="0" />
         <mark key="^" line="131" column="24" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594221782936">
-        <mark key="'" line="97" column="5" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="12" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594287902827">
+        <mark key="'" line="196" column="20" />
+        <mark key="[" line="259" column="52" />
+        <mark key="]" line="259" column="4" />
+        <mark key="." line="259" column="4" />
+        <mark key="^" line="256" column="20" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -171,45 +172,222 @@
       <jump line="61" column="4" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
       <jump line="188" column="45" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" />
       <jump line="97" column="5" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="140" column="4" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="172" column="24" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="217" column="6" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="178" column="20" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICdlcnJvcnMnLCAnRWZjb21wX01CSC5tYWR4JykpCg==</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="62" code="0" mods="0" />
+        </keys>
       </register>
       <register name="+" type="2">
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICMgbmV3IHRyaXBsZXQgY29ycmVjdG9ycyBpbiBJUjEvNQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncGhpX0lSMSc6IDkwLCAncGhpX0lSNSc6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICdlcnJvcnMnLCAnRWZjb21wX01CSC5tYWR4JykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uX2IyX2F1eCA9IG12YXJzLm9uX2IycywgbXZhcnMub25fYjJyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgKGRlLSlhY3RpdmF0ZSBiZWFtLWJlYW0gZW5jb3VudGVycwogICAgb25fYmVhbWJlYW0gPSBGYWxzZQo=</text>
+        <text encoding="base64">ICAgIG12YXJzLm9uX2IycyA9IG9uX2Iyc19hdXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsICdpbnN0YWxsX01DQlhBQl9lcnJvcnMubWFkeCcpKSAgIyBhZGRpbmcgbXVsdGlwb2xlIGNvcnJlY3RvcnMgaW4gSVIxLzUgKGZvciBlcnJvcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBtdmFycy5vbl9iMnMgPSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uX2Iyc19hdXggPSBtdmFycy5vbl9iMnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgaW5zdGFsbCBtYmgKICAgICMgbXZhcnMubWJoX3JtX21jcyA9IDAgICMgPTEgdG8gcmVtb3ZlIHNwb29scwogICAgIyBtdmFycy5tYmhfcm1fbWNkbyA9IDAgICMgPTEgdG8gcmVtb3ZlIHNwb29scwogICAgIyBtdmFycy5tYmhfaXIycTggPSAwCiAgICAjIG12YXJzLm1iaF9pcjJxMTAgPSAxCiAgICAjIG12YXJzLm1iaF9pcjdxOCA9IDEKICAgICMgbXZhcnMubWJoX2lyN3ExMCA9IDEKICAgICMgbXZhcnMubWJoX2lyMXE4ID0gMAogICAgIyBtdmFycy5tYmhfaXIxcTkgPSAxCiAgICAjIG12YXJzLm1iaF9pcjFxMTAgPSAwCiAgICAjIG12YXJzLm1iaF9pcjVxOCA9IDAKICAgICMgbXZhcnMubWJoX2lyNXE5ID0gMQogICAgIyBtdmFycy5tYmhfaXI1cTEwID0gMAogICAgIyBtYWR4LmNhbGwocGF0aHN0cignc2xoYycsICd0b29sa2l0JywgJ2luc3RhbGxfbWJoLm1hZHgnKSkK</text>
+        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGVjLCAgIGluaXRpYWxfbWljYWRvKDQpOwo=</text>
+        <text encoding="base64">ICAgIGxvY2FsX3NlZWQgPSBzZXRfZXJyb3JzZWVkX3BwKG1hZHgsIGxvY2FsX3NlZWQpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -282,153 +460,11 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <keys>
-          <key char="48" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="8" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="37" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="39" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="70" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG1hZHguZW9wdGlvbihzZWVkPXNlZWQrbG9jYWxfc2VlZCs1KQo=</text>
       </register>
-      <register name="9" type="4">
-        <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="48" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="99" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="109" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="104" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="47" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="127" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="39" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="68" code="0" mods="0" />
-          <key char="106" code="0" mods="0" />
-        </keys>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1hZHguZW9wdGlvbihzZWVkPXNlZWQrbG9jYWxfc2VlZCs0KQo=</text>
       </register>
     </registers>
   </component>
