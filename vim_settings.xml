@@ -81,18 +81,18 @@
         <mark key="[" line="158" column="32" />
         <mark key="]" line="158" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1594221079729">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="36" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="131" column="24" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper.py" timestamp="1594389919835">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="210" column="21" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594369553618">
-        <mark key="'" line="204" column="20" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="191" column="81" />
-        <mark key="^" line="189" column="23" />
-        <mark key="." line="189" column="22" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594390006444">
+        <mark key="'" line="216" column="20" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="50" />
+        <mark key="." line="144" column="50" />
+        <mark key="^" line="144" column="51" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -141,11 +141,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594370715889">
-        <mark key="[" line="176" column="33" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="116" column="35" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594390010438">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1593529104181">
         <mark key="[" line="200" column="24" />
@@ -177,7 +177,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yYml0X3NldHVwKG1hZHgsIHNjaGVtZT0nZmxhdCcpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -356,34 +356,34 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>df_twiss_nominal_correct</text>
+        <text encoding="base64">ICMgY2FuIGJlIHVzZWQgdG8gcmVzdG9yZSBjcm9zc2luZw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>df_twiss_nominal_for_correction</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG9yYml0X3ZhcnMgPSBvcmJpdF9zZXR1cChtYWR4LCBzY2hlbWU9J2ZsYXQnKSAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yYml0X3NldHVwKG1hZHgsIHNjaGVtZT0nZmxhdCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX3R1bmUobWFkeCwgYWNjZWw9IkxIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQogICAgbWFkeC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGVhcj1UcnVlKQogICAgbWFkeC5zZWxlY3QoZmxhZz0ndHdpc3MnLCBjbGFzc189J211bHRpcG9sZScsIGNvbHVtbj1ERUZBVUxUX0NPTFVNTlMpCiAgICBtYWR4LnR3aXNzKHNlcXVlbmNlPXNlcV9uYW1lKQogICAgZGZfaXJlcnJvcnMgPSBnZXRfdGZzKG1hZHgudGFibGUudHdpc3MsIGNvbHVtbnM9REVGQVVMVF9DT0xVTU5TLCApCiAgICB0ZnMud3JpdGUoZid0d2lzcy5ie2JlYW06ZH0uaXJlcnJvcnMudGZzJywgZGZfaXJlcnJvcnMsIHNhdmVfaW5kZXg9Ik5BTUUiKQo=</text>
+        <text encoding="base64">ICAgIGNyb3NzaW5nX3NjaGVtZSA9IHt9ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX3R1bmUobWFkeCwgYWNjZWw9IkxIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQogICAgbWFkeC50d2lzcyhzZXF1ZW5jZT1zZXFfbmFtZSkKICAgIGRmX2NvcnJlY3RlZCA9IGdldF90ZnMobWFkeC50YWJsZS50d2lzcywgY29sdW1ucz1ERUZBVUxUX0NPTFVNTlMsICkKICAgIHRmcy53cml0ZShmJ3R3aXNzLmJ7YmVhbTpkfS5jb3JyZWN0ZWQudGZzJywgZGZfY29ycmVjdGVkLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX3R1bmUobWFkeCwgYWNjZWw9IkxIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQogICAgbWFkeC50d2lzcyhzZXF1ZW5jZT1zZXFfbmFtZSkKICAgIGRmX2NvcnJlY3RlZCA9IGdldF90ZnMobWFkeC50YWJsZS50d2lzcywgY29sdW1ucz1ERUZBVUxUX0NPTFVNTlMsICkKICAgIHRmcy53cml0ZShmJ3R3aXNzLmJ7YmVhbTpkfS5jb3JyZWN0ZWQudGZzJywgZGZfY29ycmVjdGVkLCBzYXZlX2luZGV4PSJOQU1FIikKICAgIG1hZHguZXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSB2YWx1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgPSB2YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hZHguY2FsbChwYXRoc3RyKCdzbGhjJywgJ2Vycm9ycycsICdRNF9lcnJvcnRhYmxlX3YyJykpICAjIHRhcmdldCBlcnJvciB0YWJsZSBmb3IgdGhlIG5ldyBRNCBpbiBJUjEgYW5kIElSNQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -457,10 +457,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcV9maWxlID0gImxoY19hcy1idWlsdC5zZXEiCiAgICBzZXFfbmFtZSA9IGYibGhjYntiZWFtfSIKICAgIGJ2X2ZsYWcgPSAtMSBpZiBiZWFtID09IDIgZWxzZSAxCiAgICBpZiBiZWFtID09IDQ6CiAgICAgICAgc2VxX2ZpbGUgPSAibGhjYjRfYXMtYnVpbHQuc2VxIgogICAgICAgIHNlcV9uYW1lID0gZiJsaGNiMiIK</text>
+        <text encoding="base64">ICAgICMgU2F2ZSBOb21pbmFsCiAgICBtYXRjaF90dW5lKG1hZHgsIGFjY2VsPSJITExIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQogICAgbWFkeC50d2lzcyhzZXF1ZW5jZT1zZXFfbmFtZSkKICAgIGRmX3R3aXNzX25vbWluYWwgPSBnZXRfdGZzKG1hZHgudGFibGUudHdpc3MsIGNvbHVtbnM9REVGQVVMVF9DT0xVTU5TLCApCiAgICB0ZnMud3JpdGUoZid0d2lzcy5obGxoYy5ie2JlYW06ZH0ubm9taW5hbC50ZnMnLCBkZl90d2lzc19ub21pbmFsLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hdGNoX3R1bmUobWFkeCwgYWNjZWw9IkxIQyIsIHNlcXVlbmNlPXNlcV9uYW1lLAogICAgICAgICAgICAgICBxeD10dW5lX3gsIHF5PXR1bmVfeSwgZHF4PWRpc3BlcnNpb24sIGRxeT1kaXNwZXJzaW9uKQogICAgbWFkeC50d2lzcyhzZXF1ZW5jZT1zZXFfbmFtZSkKICAgIGRmX3R3aXNzX25vbWluYWwgPSBnZXRfdGZzKG1hZHgudGFibGUudHdpc3MsIGNvbHVtbnM9REVGQVVMVF9DT0xVTU5TLCApCiAgICB0ZnMud3JpdGUoZid0d2lzcy5ie2JlYW06ZH0ubm9taW5hbC50ZnMnLCBkZl90d2lzc19ub21pbmFsLCBzYXZlX2luZGV4PSJOQU1FIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
