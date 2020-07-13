@@ -65,6 +65,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -87,12 +90,12 @@
         <mark key="." line="209" column="0" />
         <mark key="^" line="210" column="21" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594390006444">
-        <mark key="'" line="216" column="20" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="50" />
-        <mark key="." line="144" column="50" />
-        <mark key="^" line="144" column="51" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594636170812">
+        <mark key="'" line="225" column="20" />
+        <mark key="[" line="270" column="16" />
+        <mark key="]" line="270" column="17" />
+        <mark key="." line="270" column="17" />
+        <mark key="^" line="267" column="4" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
         <mark key="[" line="4" column="49" />
@@ -177,7 +180,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9yYml0X3NldHVwKG1hZHgsIHNjaGVtZT0nZmxhdCcpCg==</text>
+        <text encoding="base64">ICAgICMgSEwtTEhDIHYxLjMK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -356,13 +359,13 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICMgY2FuIGJlIHVzZWQgdG8gcmVzdG9yZSBjcm9zc2luZw==</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9yYml0X3ZhcnMgPSBvcmJpdF9zZXR1cChtYWR4LCBzY2hlbWU9J2ZsYXQnKSAK</text>
+        <text encoding="base64">ICAgICMgSEwtTEhDIHYxLjMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG9yYml0X3NldHVwKG1hZHgsIHNjaGVtZT0nZmxhdCcpCg==</text>
