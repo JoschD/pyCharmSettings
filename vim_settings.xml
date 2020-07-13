@@ -73,7 +73,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594641100435">
+      <file name="/Python Console" timestamp="1594652507634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/general.py" timestamp="1594643647547">
@@ -94,18 +94,11 @@
         <mark key="." line="196" column="15" />
         <mark key="^" line="196" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594645836536">
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594652563501">
         <mark key="'" line="226" column="20" />
-        <mark key="[" line="325" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="325" column="0" />
-        <mark key="^" line="325" column="0" />
-      </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/compare_frames.py" timestamp="1589806470258">
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="5" column="66" />
-        <mark key="^" line="5" column="66" />
-        <mark key="." line="5" column="65" />
+        <mark key="[" line="183" column="19" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1594643559927">
         <mark key="[" line="0" column="7" />
@@ -132,6 +125,9 @@
         <mark key="[" line="35" column="44" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/venvs/womc3.7/lib/python3.7/site-packages/cpymad/madx.py" timestamp="1594652970087">
+        <mark key="[" line="333" column="12" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/bblumi_example.py" timestamp="1590515886675">
         <mark key="[" line="122" column="0" />
@@ -184,8 +180,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAjIDAuMDcwIFRtIEAgNTAgbW0gaW4gSVIxJklSNQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -369,29 +365,29 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>self.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hZHgucmVhZHRhYmxlKHBhdGhzdHIoJ2RiNScsICdtZWFzdXJlZF9lcnJvcnMnLCAncm90YXRpb25zX1EyX2ludGVncmFsLnRhYicpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm12YXJzID0gbWFkeC5nbG9iYWxzCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hZHgucmVhZHRhYmxlKHBhdGhzdHIoJ2RiNScsICdtZWFzdXJlZF9lcnJvcnMnLCAncm90YXRpb25zX1EyX2ludGVncmFsLnRhYicpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm12YXJzID0gbWFkeC5nbG9iYWxzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBjaGVja3Muc3VjY2VzczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJPbmUgb3IgbW9yZSBzdHJlbmd0aHMgYXJlIG91dCBvZiBpdHMgbGltaXRzLCBzZWUgbG9nLiIp</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBmYW1pbHksIHZhbHVlIGluIExJTUlUU1thY2NlbF0uaXRlbXMoKToKICAgICAgICBpZiBmYW1pbHlbLTFdIGluICcxMic6CiAgICAgICAgICAgIGNoZWNrcy5jaGVja19pcihmYW1pbHksIHZhbHVlKQogICAgICAgIGVsaWYgZmFtaWx5IGluIGNoZSAKICAgICAgICAgICAgY2hlY2tzLmNoZWNrX3NwZWNpYWwoZmFtaWx5LCB2YWx1ZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBjaGVja3MuY2hlY2tfYXJjcyhmYW1pbHksIHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBjaGVja3Muc3VjY2VzczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJPbmUgb3IgbW9yZSBzdHJlbmd0aHMgYXJlIG91dCBvZiBpdHMgbGltaXRzLCBzZWUgbG9nLiIp</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -465,10 +461,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjY2VsX2xpbSA9IAo=</text>
+        <text encoding="base64">ICAgIGZvciBmYW1pbHksIHZhbHVlIGluIExJTUlUU1thY2NlbF0uaXRlbXMoKToKICAgICAgICBpZiBmYW1pbHlbLTFdIGluICcxMic6CiAgICAgICAgICAgIGNoZWNrcy5jaGVja19pcihmYW1pbHksIHZhbHVlKQogICAgICAgIGVsaWYgZmFtaWx5IGluIGNoZSAKICAgICAgICAgICAgY2hlY2tzLmNoZWNrX3NwZWNpYWwoZmFtaWx5LCB2YWx1ZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBjaGVja3MuY2hlY2tfYXJjcyhmYW1pbHksIHZhbHVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgTWFpbiBsb29wIC0tLQo=</text>
+        <text encoding="base64">ICAgIHN1Y2Nlc3MgPSBUcnVlCg==</text>
       </register>
     </registers>
   </component>
