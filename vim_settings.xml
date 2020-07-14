@@ -84,12 +84,11 @@
         <mark key="[" line="158" column="32" />
         <mark key="]" line="158" column="53" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594731938179">
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594736111048">
         <mark key="'" line="226" column="20" />
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="329" column="0" />
-        <mark key="^" line="327" column="30" />
-        <mark key="." line="329" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1594643559927">
         <mark key="[" line="0" column="7" />
@@ -120,11 +119,11 @@
         <mark key="]" line="334" column="0" />
         <mark key="." line="334" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594390010438">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="67" column="13" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594735423343">
+        <mark key="[" line="46" column="41" />
+        <mark key="]" line="46" column="41" />
+        <mark key="." line="46" column="41" />
+        <mark key="^" line="46" column="42" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_misalignment_study/code.analysis/field_error_analysis.py" timestamp="1593247801168">
         <mark key="[" line="57" column="65" />
@@ -144,13 +143,14 @@
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc/Efcomp_MQXFbody.madx" timestamp="1594662703913">
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="/" timestamp="1593599566496">
+      <file name="/" timestamp="1594736046838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/logging.py" timestamp="1594733184563">
-        <mark key="[" line="90" column="14" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/logging.py" timestamp="1594736324051">
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="25" column="41" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="25" column="14" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/exec_test.py" timestamp="1594290472912">
         <mark key="[" line="12" column="0" />
@@ -184,7 +184,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcl9uYW1lLCBjb2xvcl9jbWRfbmFtZSwgY29sb3Jfb3V0X25hbWUgPSBDT0xPUl9OQU1FLCBDT0xPUl9DTURfTkFNRSwgQ09MT1JfT1VUX05BTUUgICAgICAgIAogICAgICAgIGNvbG9yX3dhcm5fbmFtZSwgY29sb3Jfd2Fybl9tc2cgPSAKICAgICAgICBjb2xvcl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -363,35 +363,34 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>f'{name} is at {rel} of its max value'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>f'({percent}% of allowed)'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExPRy53YXJuaW5nKCJUaGlzIGlzIGEgd2FybmluZyIpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcl9uYW1lLCBjb2xvcl9jbWRfbmFtZSwgY29sb3Jfb3V0X25hbWUgPSBDT0xPUl9OQU1FLCBDT0xPUl9DTURfTkFNRSwgQ09MT1JfT1VUX05BTUUgICAgICAgIAogICAgICAgIGNvbG9yX3dhcm5fbmFtZSwgY29sb3Jfd2Fybl9tc2cgPSAKICAgICAgICBjb2xvcl8K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIExPRy5kZWJ1ZygiRGVidWcgbWVzc2FnZSIpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykKICAgIExPRy53YXJuaW5nKCJUaGlzIGlzIGEgd2FybmluZyIpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykKICAgIExPRy5pbmZvKCdTbWUgaW5mb3JtYXRpb24nKQogICAgTE9HLmluZm8oJ1NtZSBpbmZvcm1hdGlvbicpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykKICAgIExPRy53YXJuaW5nKCJUaGlzIGlzIGEgd2FybmluZyIpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykKICAgIHJldHVybgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5zdWNjZXNzOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJPbmUgb3IgbW9yZSBzdHJlbmd0aHMgYXJlIG91dCBvZiBpdHMgbGltaXRzLCBzZWUgbG9nLiIpCg==</text>
+        <text encoding="base64">ICAgIHdhcm5fbmFtZT0nJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Q09MT1JfT1VUX05BTUUgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgo=</text>
+        <text encoding="base64">Q09MT1JfQ01EX05BTUUgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJjZW50ID0gcmVsIC8gUkVMX0FMTE9XRUQgKiAxMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>f'{name} is at {rel} of its max value '
-                        f'({percent}% of allowed)'</text>
+      <register name="7" type="2">
+        <text encoding="base64">Q09MT1JfUkVTRVQgPSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -465,10 +464,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJkdCA9IAo=</text>
+        <text encoding="base64">Q09MT1JfTkFNRSA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbGxsbAo=</text>
       </register>
     </registers>
   </component>
