@@ -146,18 +146,18 @@
       <file name="/" timestamp="1594736046838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/logging.py" timestamp="1594736324051">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="25" column="41" />
-        <mark key="^" line="67" column="35" />
-        <mark key="." line="25" column="14" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/logging.py" timestamp="1594742023804">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="13" column="15" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/exec_test.py" timestamp="1594290472912">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1594740851477">
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1594740965575">
         <mark key="[" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/corrector_limits.py" timestamp="1594732257458">
@@ -180,8 +180,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgSXRlcmFibGUsIFNpemVkCg==</text>
+      <register name="&quot;" type="4">
+        <text>logging.INFO</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -365,8 +365,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIExPRy53YXJuaW5nKCJUaGlzIGlzIGEgd2FybmluZyIpCiAgICBMT0cuaW5mbygnU21lIGluZm9ybWF0aW9uJykK</text>
+      <register name="0" type="4">
+        <text>logging.INFO</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgSXRlcmFibGUsIFNpemVkCg==</text>
