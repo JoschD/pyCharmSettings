@@ -90,12 +90,12 @@
         <mark key="." line="196" column="15" />
         <mark key="^" line="196" column="16" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594720831396">
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594731938179">
         <mark key="'" line="226" column="20" />
-        <mark key="[" line="259" column="41" />
-        <mark key="]" line="279" column="16" />
-        <mark key="." line="279" column="15" />
-        <mark key="^" line="279" column="16" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="329" column="0" />
+        <mark key="^" line="327" column="30" />
+        <mark key="." line="329" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1594643559927">
         <mark key="[" line="0" column="7" />
@@ -163,11 +163,11 @@
         <mark key="[" line="207" column="20" />
         <mark key="]" line="207" column="34" />
       </file>
-      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/corrector_limits.py" timestamp="1594645617660">
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="44" column="38" />
-        <mark key="." line="44" column="38" />
-        <mark key="^" line="22" column="38" />
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/corrector_limits.py" timestamp="1594732257458">
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="16" />
+        <mark key="^" line="79" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -184,7 +184,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0X2lkeCA9IGNvcnJfaW5fb3B0aWNzLmluZGV4KEZhbHNlKSArIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -363,34 +363,35 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>rdt</text>
+        <text>f'{name} is at {rel} of its max value'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0X2lkeCA9IGNvcnJfaW5fb3B0aWNzLmluZGV4KEZhbHNlKSArIDEK</text>
+      <register name="0" type="4">
+        <text>f'({percent}% of allowed)'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJkdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5zdWNjZXNzOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJPbmUgb3IgbW9yZSBzdHJlbmd0aHMgYXJlIG91dCBvZiBpdHMgbGltaXRzLCBzZWUgbG9nLiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJjZW50ID0gcmVsIC8gUkVMX0FMTE9XRUQgKiAxMDAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>f'{name} is at {rel} of its max value '
+                        f'({percent}% of allowed)'</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNvcnJlY3Rvcl9leGlzdHMob3JkZXJfYW5kX29yaWVudGF0aW9uLCApOgogICAgICAgICAgICAgICAgTE9HLmluZm8oZidTa2lwcGluZyB7U0tFV19GSUVMRF9NQVBbb3JkZXJfYW5kX29yaWVudGF0aW9uWzFdXX0nCiAgICAgICAgICAgICAgICAgICAgICAgICBmJ3tvcmRlcl9hbmRfb3JpZW50YXRpb25bMF06ZH0gaW4gSVB7aXA6ZH0gJwogICAgICAgICAgICAgICAgICAgICAgICAgJyhjb3JyZWN0b3IgZG9lcyBub3QgZXhpc3QgaW4gb3B0aWNzIGZpbGUpLicpCiAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIHJkdCA9IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -464,10 +465,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvcnJlY3Rvcl9uYW1lcyA9IFtjb3IubmFtZSBmb3IgY29yIGluIGNvcnJlY3RvcnMudmFsdWVzKCldCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HLmluZm8oZidDb3JyZWN0b3Ige2NvcnJlY3Rvci5uYW1lfScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
