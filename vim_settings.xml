@@ -73,7 +73,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1594991002743">
+      <file name="/Python Console" timestamp="1594995762175">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/general.py" timestamp="1594900014512">
@@ -95,12 +95,16 @@
       <file name="/a.dummy" timestamp="1594985013391">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/job_submitter.py" timestamp="1594986167509">
-        <mark key="[" line="220" column="18" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/job_submitter.py" timestamp="1594995977327">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Software/pylhc/pylhc/htc/utils.py" timestamp="1594985765379">
-        <mark key="[" line="141" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/Software/pylhc/pylhc/htc/utils.py" timestamp="1594995659263">
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="77" column="31" />
+        <mark key="." line="77" column="31" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/tfs_test.py" timestamp="1594812610237">
         <mark key="[" line="9" column="0" />
@@ -121,8 +125,8 @@
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/submit_jobs.py" timestamp="1594990240555">
         <mark key="[" line="10" column="16" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1594976548033">
@@ -183,7 +187,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZXh0ID0gZmlsZV9leHQubHN0cmlwKCcuJykK</text>
+        <text encoding="base64">Om1vZHVsZTogX3N1Ym1pdHRlcgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -362,34 +366,34 @@
         <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHVibWl0X3Rlc3QoKQ==</text>
+        <text>['ssh', ssh, CMD_SUBMIT, jobfile]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncGhpX0lSMSc6IDkwLCAncGhpX0lSNSc6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBfc3RhcnRfc3VicHJvY2VzcyhbQ01EX1NVQk1JVCwgam9iZmlsZV0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbGVfZXh0ID0gZmlsZV9leHQubHN0cmlwKCcuJykK</text>
+        <text encoding="base64">Om1vZHVsZTogX3N1Ym1pdHRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9zLm1rZGlyKCdPdXRwdXRkYXRhJykKICAgIHRmcy53cml0ZSgnT3V0cHV0ZGF0YS9teXRlc3QudGZzJywgdGZzLlRmc0RhdGFGcmFtZShbJShBQUEpZCwgJShCQkIpZCwgJShDQ0MpZF0sIGNvbHVtbnM9WyJBIiwgIkIiLCAiQyJdKSk=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBfc3RhcnRfc3VicHJvY2VzcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHN1Ym1pdF90ZXN0KCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGh0Y29uZG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PScnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9yYml0X3ZhcnMgPSBvcmJpdF9zZXR1cChtYWR4LCBzY2hlbWU9J2hsbGhjX3RvcCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcHQucnVuX2xvY2FsOgogICAgICAgICAgICBfcnVuX2xvY2FsKGpvYl9kZiwgb3B0Lm51bV9wcm9jZXNzZXMpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgX3J1bl9odGMoam9iX2RmLCBvcHQud29ya2luZ19kaXJlY3RvcnksIG9wdC5qb2Jfb3V0cHV0X2RpciwKICAgICAgICAgICAgICAgICAgICAgb3B0LmpvYmZsYXZvdXIsIG9wdC5zc2gsIG9wdC5odGNfYXJndW1lbnRzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAncGhpX0lSMSc6IDkwLCAncGhpX0lSNSc6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICBfcHJpbnRfc3RhdHMoam9iX2RmLmluZGV4LCBkcm9wcGVkX2pvYnMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -462,11 +466,12 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImFuZCBhcmUgYXNzdW1lZCB0byBiZSB6ZXJvOiAiCg==</text>
+      <register name="8" type="4">
+        <text>opt.working_directory, opt.job_output_dir,
+                 opt.jobflavour,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdCA9IERvdERpY3Qob3B0KQo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
     </registers>
   </component>
