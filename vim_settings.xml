@@ -2,6 +2,19 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxzbGhjXD4=</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set nowrap</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
@@ -9,6 +22,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
@@ -20,21 +42,405 @@
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/tst_submit_jobs.py" timestamp="1595003155885">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="30" />
+      </file>
+      <file name="/Python Console" timestamp="1594995762175">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/general.py" timestamp="1595005536241">
+        <mark key="[" line="95" column="55" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/pylhc/pylhc/htc/mask.py" timestamp="1594994009173">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" timestamp="1594976539934">
+        <mark key="'" line="225" column="20" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1594985013391">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Software/pylhc/pylhc/job_submitter.py" timestamp="1594995977327">
+        <mark key="[" line="79" column="9" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/Software/pylhc/pylhc/htc/utils.py" timestamp="1594995659263">
+        <mark key="[" line="77" column="31" />
+        <mark key="]" line="77" column="31" />
+        <mark key="." line="77" column="31" />
+        <mark key="^" line="77" column="44" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/tfs_test.py" timestamp="1594812610237">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/lhc_run.py" timestamp="1595005624824">
+        <mark key="[" line="204" column="16" />
+        <mark key="]" line="205" column="82" />
+        <mark key="." line="204" column="0" />
+        <mark key="^" line="162" column="41" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/submit_jobs.py" timestamp="1595003242654">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/lhc_test.py" timestamp="1595006291425">
+        <mark key="[" line="141" column="27" />
+      </file>
+      <file name="$USER_HOME$/Software/pylhc/README.md" timestamp="1594993579095">
+        <mark key="[" line="42" column="8" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/tst_mask.py" timestamp="1594985144446">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Software/pylhc/tests/unit/test_job_submitter.py" timestamp="1595003392230">
+        <mark key="[" line="92" column="68" />
+      </file>
+      <file name="/" timestamp="1594736046838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/cpymad_helper/logging.py" timestamp="1594812139378">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="2" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.full_study/test_mask.py" timestamp="1594984971959">
+        <mark key="[" line="6" column="110" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/exec_test.py" timestamp="1594817023928">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/irnl_rdt_correction.py" timestamp="1594831071842">
+        <mark key="[" line="507" column="32" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="503" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
+      <jump line="61" column="4" filename="$USER_HOME$/Software/spotify_search/find_duplicates.py" />
+      <jump line="188" column="45" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/basic_test.py" />
+      <jump line="97" column="5" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="140" column="4" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="172" column="24" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="217" column="6" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+      <jump line="178" column="20" filename="$USER_HOME$/Work/study.20.irnl_correction_with_feeddown/code.cpymad_experiments/hllhc_test.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRmX2FtcGRldF91bmNvcnJlY3RlZCA9IGFtcGxpdHVkZV9kZXR1bmluZ19wdGMobWFkeCkKICAgIHRmcy53cml0ZShmJ3RlbXAvbGhjLmJ7YmVhbTpkfS5hbXBkZXRfdW5jb3JyZWN0ZWQudGZzJywgZGZfYW1wZGV0X3VuY29ycmVjdGVkKQo=</text>
+      </register>
+      <register name="i" type="4">
+        <keys>
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="127" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="38" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="60" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="62" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">ICAgICAgICBvdXRsaWVyX2xpbWl0PWRpY3QoCiAgICAgICAgICAgIGhlbHA9IkxpbWl0LCBpLmUuIGN1dCwgb24gb3V0bGllcnMgKE1ldGhvZCAnb3V0bGllcnMnKSIsCiAgICAgICAgICAgIHR5cGU9ZmxvYXQsCiAgICAgICAgICAgIGRlZmF1bHQ9MmUtNCwKICAgICAgICApLAo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>-</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmaWxlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRmX2FtcGRldF91bmNvcnJlY3RlZCA9IGFtcGxpdHVkZV9kZXR1bmluZ19wdGMobWFkeCkKICAgIHRmcy53cml0ZShmJ3RlbXAvbGhjLmJ7YmVhbTpkfS5hbXBkZXRfdW5jb3JyZWN0ZWQudGZzJywgZGZfYW1wZGV0X3VuY29ycmVjdGVkKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">d3JpdGUsIHRhYmxlPW5vcm1hbF9yZXN1bHRzLGZpbGU9J091dHB1dGRhdGEvYmJlYW1fbm8uZmlsZV9uYW1lLnB0Y19hbXBkZXQudGZzJzsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHRjX2VuZDsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIG1hZHguCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJkdHM9KAogICAgICAgICMgICAgICdKMzAwMCcsICdKMDAwMycsICAjIGNvcnJlY3QgYTMgd2l0aCBGMzAwMCBhbmQgRjAwMDMKICAgICAgICAjICAgICAnSzIwMDEnLCAnSzEwMDInLCAgIyBjb3JyZWN0IGIzIHdpdGggRjIwMDEgYW5kIEYxMDAyCiAgICAgICAgIyAgICAgJ0oxMDAzJywgJ0ozMDAxJywgICMgY29ycmVjdCBhNCB3aXRoIEYxMDAzIGFuZCBGMzAwMQogICAgICAgICMgICAgICdLNDAwMCcsICdLMDAwNCcsICAjIGNvcnJlY3QgYjQgd2l0aCBGNDAwMCBhbmQgRjAwMDQKICAgICAgICAjICAgICAnSzYwMDAnLCAnSzAwMDYnLCAgIyBjb3JyZWN0IGI2IHdpdGggRjYwMDAgYW5kIEYwMDA2CiAgICAgICAgIyApLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Om1vZHVsZTogX3N1Ym1pdHRlcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXMgPSBfc3RhcnRfc3VicHJvY2VzcygpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
