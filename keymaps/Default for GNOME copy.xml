@@ -19,9 +19,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="Hotswap">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt subtract" />
   </action>
