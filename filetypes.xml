@@ -4,6 +4,7 @@
       <mapping pattern="tst_argument_write" type="PLAIN_TEXT" />
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="sdds" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
       <mapping ext="mask" type="PLAIN_TEXT" />
