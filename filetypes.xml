@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="LHC" type="AUTO_DETECTED" />
       <mapping pattern="tst_argument_write" type="PLAIN_TEXT" />
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
