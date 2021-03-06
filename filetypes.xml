@@ -8,6 +8,7 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="sdds" type="PLAIN_TEXT" />
       <mapping ext="idx" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mask" type="PLAIN_TEXT" />
       <mapping ext="tfs" type="PLAIN_TEXT" />
