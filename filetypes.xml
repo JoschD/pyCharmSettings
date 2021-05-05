@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -12,6 +12,8 @@
       <mapping ext="tfs" type="PLAIN_TEXT" />
       <mapping ext="out_bu" type="PLAIN_TEXT" />
       <mapping ext="madx" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping pattern="submit_jobs" type="Python" />
     </extensionMap>
   </component>
