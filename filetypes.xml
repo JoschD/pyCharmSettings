@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="LHC" type="AUTO_DETECTED" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="tst_argument_write" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping ext="sdds" type="PLAIN_TEXT" />
@@ -15,6 +15,7 @@
       <mapping ext="out_bu" type="PLAIN_TEXT" />
       <mapping ext="madx" type="PLAIN_TEXT" />
       <mapping pattern="submit_jobs" type="Python" />
+      <removed_mapping ext="toml" approved="true" type="TOML" />
       <removed_mapping pattern="tst_example1.py" approved="true" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
