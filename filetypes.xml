@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="LHC" type="AUTO_DETECTED" />
+      <mapping ext="mplstyle" type="AUTO_DETECTED" />
       <mapping pattern="tst_argument_write" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".local_gitignore" type="PLAIN_TEXT" />
