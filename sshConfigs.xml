@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lxplus" id="4cfe32f3-f5e4-489f-abe6-22c72e5d83f6" port="22" nameFormat="DESCRIPTIVE" username="jdilly" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</application>

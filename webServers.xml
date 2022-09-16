@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6889e69c-6136-45db-8851-33bb18859bac" name="jdilly@lxplus:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="lxplus" port="22" sshConfigId="4cfe32f3-f5e4-489f-abe6-22c72e5d83f6" sshConfig="jdilly@lxplus:22 agent" authAgent="true" />
+      </webServer>
+      <webServer id="6889e69c-6136-45db-8851-33bb18859bac" name="jdilly@lxplus:22" url="http:///">
+        <fileTransfer accessType="SFTP" host="lxplus" port="22" sshConfigId="4cfe32f3-f5e4-489f-abe6-22c72e5d83f6" sshConfig="jdilly@lxplus:22 agent" authAgent="true" />
+      </webServer>
+    </option>
+  </component>
+</application>
